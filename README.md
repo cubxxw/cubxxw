@@ -62,17 +62,17 @@ Here are some ideas to get you started:
   <a href="https://github.com/3293172751">
     <img src="https://badges.pufler.dev/visits/3293172751/3293172751?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/3293172751">
+    <img src="https://badges.pufler.dev/years/3293172751?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/3293172751?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/3293172751?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://gist.github.com/Charmve">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://gist.github.com/3293172751">
+    <img src="https://badges.pufler.dev/gists/3293172751?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/Charmve">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+  <a href="https://github.com/3293172751">
+    <img src="https://badges.pufler.dev/commits/monthly/3293172751?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
