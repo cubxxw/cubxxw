@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/3293172751" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
   </a>
 </p>
@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 ```text
 C/C++      5 hrs 2 mins    ██████████████░░░░░░░░░░░   56.51 % 
-PyTorch    1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Go         1 hr 11 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
 Python     1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
 Markdown   34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
 JSON       17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
