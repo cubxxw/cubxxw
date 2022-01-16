@@ -45,10 +45,6 @@ Here are some ideas to get you started:
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
   &emsp;
-  <a href= "https://www.instagram.com/3293172751ysy/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
@@ -58,7 +54,7 @@ Here are some ideas to get you started:
   </a>
   &emsp;
   <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="35px"/>
+    <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="34px"/>
   </a>
   <br><br>
   <strong>Check out my work below!</strong>
