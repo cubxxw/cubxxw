@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/3293172751?style=flat-square&color=black&logo=github">
   </a>
 </p>
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
+
 
 <h2></h2>
 
@@ -159,7 +159,7 @@ Others     38 mins         █▓░░░░░░░░░░░░░░░�
 <a href="https://nsddd.top" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
 ---
-
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=PaperWeeklyAI)](https://github.com/3293172751/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/3293172751/Surface-Defect-Detection)
