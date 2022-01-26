@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/3293172751" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" >
+    <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
