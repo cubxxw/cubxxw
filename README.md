@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/3293172751" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=3293172751&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=liyupi&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
@@ -140,13 +140,10 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-<br>
+</br>
 
 📊 **I spend my time this year💻:**
-<!--START_SECTION:waka-->
-<img align="" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<!--END_SECTION:waka-->
-
+<img align="" height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 
 <a href="https://nsddd.top" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
