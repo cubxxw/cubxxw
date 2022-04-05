@@ -1,5 +1,5 @@
 ## Hi, 👋  I'm <a href="https://nsddd.top/" target="_blank">🐻XiongXinWei</a> <sup><a href="http://nsddd.top/wp-content/uploads/2022/01/my.mp3?raw=true" title="pronounce">🔊</a></sup>
-
+<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="Total time coded since Nov 21 2021" /></a></br>
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <br>
