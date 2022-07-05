@@ -1,5 +1,4 @@
 ## Hi, 👋  I'm <a href="https://nsddd.top/" target="_blank">🐻XiongXinWei</a> <sup><a href="http://nsddd.top/wp-content/uploads/2022/01/my.mp3?raw=true" title="pronounce">🔊</a></sup>
-
 <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
@@ -160,9 +159,8 @@ Here are some ideas to get you started:
 
 </br> 
 -->
-
 ### 📊 I spend my time this year💻:
-<img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+<img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide=php,javascript,html,css,rich text format,scss&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
@@ -171,5 +169,6 @@ Here are some ideas to get you started:
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/3293172751/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/3293172751/Surface-Defect-Detection)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+[![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/3293172751/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/3293172751/Surface-Defect-Detection)
 -->
