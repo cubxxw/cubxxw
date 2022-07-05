@@ -1,7 +1,20 @@
 ## Hi, 👋  I'm <a href="https://nsddd.top/" target="_blank">🐻XiongXinWei</a> <sup><a href="http://nsddd.top/wp-content/uploads/2022/01/my.mp3?raw=true" title="pronounce">🔊</a></sup>
+
+<p align='center'>
+<a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
+<a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
+<a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu"></a>
+<a href="https://s2.loli.net/2022/07/05/sQHuozItvWg1heA.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?logo=wechat"></a>
+<a href="https://space.bilibili.com/14089380" target="_blank"><img src="https://img.shields.io/badge/b%E7%AB%99-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-red?logo=bilibili"></a>
+</p>
+<p align='center'>
+<a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
+<a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+</p>
+<p align='center'>
 <a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="Total time coded since Nov 21 2021" /></a></br>
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
+</a>
 <br>
 
 <!--
@@ -29,8 +42,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href= "https://i0.wp.com/nsddd.top/wp-content/uploads/2021/11/mmqrcode1637042387579.jpg?w=512&ssl=1">
-    <img src="https://i0.wp.com/nsddd.top/wp-content/uploads/2021/11/mmqrcode1637042387579.jpg?w=512&ssl=1" width="28px"/>
+  <a href= "https://github.com/3293172751/3293172751/blob/master/OctoCharmve/WeChat_PC_App_Icon_200528.png ?w=512&ssl=1">
+    <img src="https://github.com/3293172751/3293172751/blob/master/OctoCharmve/0d220ad72063197b9875379403f6c88.jpg ?w=512&ssl=1" width="28px"/>
   </a>
   &emsp;
   <a href="https://blog.csdn.net/weixin_54529579" target="_blank" alt="CSDN" title="CSDN">
