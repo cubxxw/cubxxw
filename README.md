@@ -11,8 +11,17 @@
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
 <a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 </p>
+
 <p align='center'>
-<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="Total time coded since Nov 21 2021" /></a></br>
+<!--  区块链  -->
+<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="BlockChain" /></a>
+<!--  leetcode  -->
+<a href="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/b92e27ed-eb3f-4671-a821-194f5ab59f63"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/b92e27ed-eb3f-4671-a821-194f5ab59f63.svg" alt="LeetCode"></a>
+<!--  CS  -->
+  <a href="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/d7cf87bf-5ce5-4bcc-8c53-e7424977bb30"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/d7cf87bf-5ce5-4bcc-8c53-e7424977bb30.svg" alt="CS_COURSE"></a>
+<!--  C-UB  -->
+  <a href="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/274ba58d-5b50-4c24-ab19-9f80a463fe69"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/274ba58d-5b50-4c24-ab19-9f80a463fe69.svg" alt="C-UB"></a>
+  </p>
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </a>
 <br>
@@ -42,10 +51,6 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href= "https://github.com/3293172751/3293172751/blob/master/OctoCharmve/WeChat_PC_App_Icon_200528.png ?w=512&ssl=1">
-    <img src="https://github.com/3293172751/3293172751/blob/master/OctoCharmve/0d220ad72063197b9875379403f6c88.jpg ?w=512&ssl=1" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://blog.csdn.net/weixin_54529579" target="_blank" alt="CSDN" title="CSDN">
     <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
   </a>
@@ -127,7 +132,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-
+<!-- 
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
@@ -153,7 +158,8 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-</br>
+</br> 
+-->
 
 ### 📊 I spend my time this year💻:
 <img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
