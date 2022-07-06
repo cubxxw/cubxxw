@@ -89,12 +89,8 @@ Here are some ideas to get you started:
     <img src="https://badges.pufler.dev/commits/monthly/3293172751?style=flat-square&color=black&logo=github">
   </a>
 </p>
-
-
 <h2></h2>
-
 <img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true" width="350" height="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
 
@@ -163,9 +159,9 @@ Here are some ideas to get you started:
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 
 ---
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png"/></a>
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
