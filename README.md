@@ -154,6 +154,7 @@ Here are some ideas to get you started:
 
 </br> 
 -->
+<figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 ### 📊 I spend my time this year💻:
 <img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide=php,javascript,html,css,rich text format,scss&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
@@ -161,8 +162,6 @@ Here are some ideas to get you started:
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 
-<figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
----
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
