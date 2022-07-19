@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://nsddd.top/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://3293172751.github.io/resume/>🔊</a></sup>
+## Hi, 👋  I'm <a href="https://nsddd.top/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://3293172751.github.io/resume/" title="pronounce">🔊</a></sup>
 <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
