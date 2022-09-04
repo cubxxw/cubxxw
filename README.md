@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </p>
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true" width="400" height="250" title="Do what you like, and do it best!"> 
+<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true " width="250" height="100" title="Do what you like, and do it best!"> 
 <!-- stackoverflow profile
 <a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>
 -->
@@ -151,7 +151,7 @@ Here are some ideas to get you started:
 -->
 
 ###  📊I spend my time this year💻:
-<p><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" referrerpolicy="no-referrer" alt="willianrod's wakatime stats"></a></p>
+<p><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
 
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
