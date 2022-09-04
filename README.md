@@ -42,10 +42,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!--
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
+-->
+<br>
 <p align="center">
-  <a href="https://github.com/3293172751" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" >
+  <a href="https://github.com/3293172751" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+</p>   
+<p align="center">
+  <a href="https://github.com/3293172751" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+</p>    
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
@@ -152,9 +159,6 @@ Here are some ideas to get you started:
 
 ###  📊I spend my time this year💻:
 <p><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
-
-![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
