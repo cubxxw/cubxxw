@@ -1,5 +1,8 @@
 ## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://3293172751.github.io/resume/" />🔊</a></sup>
-<p align='center'>
+<!--
+[![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=3293172751&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
+-->
+ <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
 <a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu"></a>
@@ -78,10 +81,13 @@ Here are some ideas to get you started:
   <br>
 </p>
 <h2></h2>
-<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true" width="350" height="250" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-<!-- stackoverflow profile
-<a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>-->
 
+<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true" width="500" height="350" title="Do what you like, and do it best!"> 
+<!-- stackoverflow profile
+<a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>
+-->
+
+<!-- 
 #### Platform&Tools
 
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -114,7 +120,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=ffffff)](https://nodejs.org/)
 
-<!-- 
+
 **Languages and Frameworks**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="C++" title="C++"></code>
@@ -140,19 +146,23 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 
-</br> 
+</br>
+ <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 -->
-<figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 
 ###  📊I spend my time this year💻:
-<img align="" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3293172751&hide=php,javascript,html,css,rich text format,scss&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-<!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
+<p><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" referrerpolicy="no-referrer" alt="willianrod's wakatime stats"></a></p>
 
-<a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
+![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
+![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
+<!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
+<a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
+
 
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/3293172751/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/3293172751/Surface-Defect-Detection)
 -->
+
