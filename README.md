@@ -89,8 +89,8 @@ Here are some ideas to get you started:
 </p>
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true " width="300" height="200" title="Do what you like, and do it best!"> 
 <!-- stackoverflow profile
+<img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true " width="300" height="200" title="Do what you like, and do it best!"> 
 <a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>
 -->
 
@@ -158,7 +158,11 @@ Here are some ideas to get you started:
 -->
 
 ###  📊I spend my time this year💻:
-<p><a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+<div>
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
+ <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+</div>
+ <p>&nbsp;</p>
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
