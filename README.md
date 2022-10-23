@@ -160,7 +160,8 @@ Here are some ideas to get you started:
 ###  📊I spend my time this year💻:
 <div>
 <p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
- <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+<!-- <a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+-->
 </div>
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
