@@ -1,6 +1,6 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://3293172751.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
 <!--
-[![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=3293172751&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
+[![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
 -->
  <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center">
-  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>   
 <p align="center">
-  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>    
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 
 <!-- stackoverflow profile
 <img align="right" alt="GIF" src="https://s2.loli.net/2022/01/15/9Rd75PFtZVkzb4l.gif?raw=true " width="300" height="200" title="Do what you like, and do it best!"> 
-<a href="https://stackoverflow.com/users/8317261/3293172751"><img align="right" alt="Profile of 3293172751 (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>
+<a href="https://stackoverflow.com/users/8317261/cubxxw"><img align="right" alt="Profile of cubxxw (xiongxinwei) on StackOverflow" src="https://stackoverflow.com/users/flair/8317261.png"></a>
 -->
 
 <!-- 
