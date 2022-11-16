@@ -11,7 +11,7 @@
 </p>
 <p align='center'>
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
-<a href="https://github.com/3293172751" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+<a href="https://github.com/cubxxw" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 </p>
 
 <p align='center'>
@@ -48,10 +48,10 @@ Here are some ideas to get you started:
 -->
 <br>
 <p align="center">
-  <a href="https://github.com/3293172751" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>   
 <p align="center">
-  <a href="https://github.com/3293172751" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
+  <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=3293172751&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>    
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
@@ -171,6 +171,6 @@ Here are some ideas to get you started:
 🚧 **My Todoist Stats: ⬇️👀** 
 <!--
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-[![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/3293172751/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/3293172751/Surface-Defect-Detection)
+[![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/cubxxw/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/cubxxw/Surface-Defect-Detection)
 -->
 
