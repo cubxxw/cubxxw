@@ -12,21 +12,24 @@
 <p align='center'>
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
 <a href="https://github.com/cubxxw" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
+<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="BlockChain" /></a>
 </p>
 
+<!--
 <p align='center'>
-<!--  区块链  -->
+
 <a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="BlockChain" /></a>
-<!--  leetcode  -->
+
 <a href="https://wakatime.com/@3293172751/projects/glftfjljla?start=2022-06-29&end=2022-07-05"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/b92e27ed-eb3f-4671-a821-194f5ab59f63.svg" alt="LeetCode"></a>
-<!--  CS  -->
+
   <a href="https://wakatime.com/@3293172751/projects/xulymayxcr"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/d7cf87bf-5ce5-4bcc-8c53-e7424977bb30.svg" alt="CS_COURSE"></a>
-<!--  C-UB  -->
+
   <a href="https://wakatime.com/@3293172751/projects/xulymayxcr"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4/project/274ba58d-5b50-4c24-ab19-9f80a463fe69.svg" alt="C-UB"></a></p>
   
 <img align="left" alt="GIF" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" title="Say HI"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 </a>
 <br>
+-->
 
 <!--
 **3293172751/3293172751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,6 +53,8 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>   
+
+<!--
 <p align="center">
   <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
 </p>    
@@ -58,6 +63,7 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
+-->
 
 <p align="center">
   <a href="https://blog.csdn.net/weixin_54529579" target="_blank" alt="CSDN" title="CSDN">
@@ -83,6 +89,7 @@ Here are some ideas to get you started:
   <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
     <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="34px"/>
   </a>
+  
   <br><br>
   <strong>Check out my work below!</strong>
   <br>
@@ -156,6 +163,17 @@ Here are some ideas to get you started:
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 -->
+
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#79](https://github.com/jamesgeorge007/github-activity-readme/issues/79) in [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme)
+2. 🎉 Merged PR [#36](https://github.com/jamesgeorge007/csstox/pull/36) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
+3. 🎉 Merged PR [#40](https://github.com/jamesgeorge007/scaffold-static/pull/40) in [jamesgeorge007/scaffold-static](https://github.com/jamesgeorge007/scaffold-static)
+4. 🎉 Merged PR [#135](https://github.com/madlabsinc/teachcode/pull/135) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+5. 🎉 Merged PR [#136](https://github.com/madlabsinc/teachcode/pull/136) in [madlabsinc/teachcode](https://github.com/madlabsinc/teachcode)
+<!--END_SECTION:activity-->
+
 
 ###  📊I spend my time this year💻:
 <div>
