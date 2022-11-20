@@ -45,6 +45,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <!--
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
@@ -57,11 +58,6 @@ Here are some ideas to get you started:
 <!--
 <p align="center">
   <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
-</p>    
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=3293172751&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
 </p>
 -->
 
