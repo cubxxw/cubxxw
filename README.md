@@ -2,7 +2,11 @@
 <!--
 [![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
 -->
- <p align='center'>
+
+<h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
+
+
+<p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter"></a>
 <a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu"></a>
@@ -14,6 +18,7 @@
 <a href="https://github.com/cubxxw" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
 <a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4"><img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="BlockChain" /></a>
 </p>
+
 
 <!--
 <p align='center'>
@@ -50,10 +55,23 @@ Here are some ideas to get you started:
 ![Lilian's GitHub stats](https://github-readme-stats.vercel.app/api?username=3293172751&show_icons=true&theme=tokyonight)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=3293172751&show_icons=true&theme=tokyonight)
 -->
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<br/>
+
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
+</p>
+
+
+<!--
 <br>
 <p align="center">
   <a href="https://github.com/cubxxw" class="rich-diff-level-one"><img src="https://github-readme-stats.vercel.app/api?username=cubxxw&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn">
-</p>   
+</p>
+-->
 
 <!--
 <p align="center">
