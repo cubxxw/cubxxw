@@ -67,17 +67,17 @@
 - [Cubos(幼兽os）开发准备~](https://zhuanlan.zhihu.com/p/574430945) (1 month ago)
 
 #### 📫 How to reach me
+<div>
+<p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
 
-- Twitter: https://twitter.com/mueslix
-- Fediverse: https://mastodon.social/@fribbledom
-- Blog: https://fribbledom.com
-- IRC: muesli on Libera
-
-
-
-
+</div>
+If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  <br>
+<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
+<a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
 
+
+#### 🚧 My Todoist Stats: ⬇️👀
 
 <br>
 <details><summary><b>💡 more （about github❗）</b></summary>
