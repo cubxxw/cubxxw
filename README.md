@@ -52,11 +52,12 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Have we reached consensus on consensus？](https://tanxinyu.work/have-we-reached-consensus-on-consensus/) (2 weeks ago)
-- [TiKV 源码阅读三部曲（三）写流程](https://tanxinyu.work/tikv-source-code-reading-write/) (1 month ago)
-- [TiKV 源码阅读三部曲（二）读流程](https://tanxinyu.work/tikv-source-code-reading-read/) (1 month ago)
-- [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (1 month ago)
-- [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (2 months ago)
+- [常用命令行替代](https://zhuanlan.zhihu.com/p/576392923) (4 weeks ago)
+- [在线vscode完成贡献和阅读](https://zhuanlan.zhihu.com/p/576392446) (4 weeks ago)
+- [使用sealos搭建k8s](https://zhuanlan.zhihu.com/p/576388662) (4 weeks ago)
+- [k8s集群搭建记录](https://zhuanlan.zhihu.com/p/576388231) (4 weeks ago)
+- [Cubos(幼兽os）开发准备~](https://zhuanlan.zhihu.com/p/574430945) (1 month ago)
+
 
 
 
