@@ -204,4 +204,4 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
