@@ -204,4 +204,9 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<details><summary><b>💡 more （about github❗）</b></summary>
+
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+</details>
