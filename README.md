@@ -36,11 +36,11 @@
 
 #### 👯 Check out my recent followers
 
+- [qiwu575757](https://github.com/qiwu575757)
 - [wangdongya](https://github.com/wangdongya)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [403Suiz](https://github.com/403Suiz)
 - [xcbyao](https://github.com/xcbyao)
-- [t1228788319](https://github.com/t1228788319)
 
 #### 🔨 Check out my recent pull requests
 
