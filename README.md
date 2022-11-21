@@ -66,7 +66,22 @@
 - [k8s集群搭建记录](https://zhuanlan.zhihu.com/p/576388231) (4 weeks ago)
 - [Cubos(幼兽os）开发准备~](https://zhuanlan.zhihu.com/p/574430945) (1 month ago)
 
+#### 📫 How to reach me
+
+- Twitter: https://twitter.com/mueslix
+- Fediverse: https://mastodon.social/@fribbledom
+- Blog: https://fribbledom.com
+- IRC: muesli on Libera
 
 
 
 
+
+
+
+<br>
+<details><summary><b>💡 more （about github❗）</b></summary>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
+</details>
