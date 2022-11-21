@@ -39,3 +39,7 @@
 {{range rss "https://tanxinyu.work/atom.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
