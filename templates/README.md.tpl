@@ -36,10 +36,11 @@
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://tanxinyu.work/atom.xml" 5}}
+{{range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
