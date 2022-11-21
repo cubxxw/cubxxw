@@ -12,7 +12,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (today)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (2 days ago)
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (3 days ago)
@@ -58,8 +58,6 @@
 - [TiKV 源码阅读三部曲（一）重要模块](https://tanxinyu.work/tikv-source-code-reading-module/) (1 month ago)
 - [Talent-Plan：用 Rust 实现简易 KV 引擎](https://tanxinyu.work/naive-kvengine-in-rust/) (2 months ago)
 
-<!-- 
-这是注释
--->
+
 
 
