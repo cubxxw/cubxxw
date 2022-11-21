@@ -62,6 +62,38 @@
 -->
 
 
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="400" />
+</p>
+
+<p align="center">
+  <a href="https://blog.csdn.net/weixin_54529579" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.zhihu.com/people/3293172751" target="_blank" alt="Zhihu" title="Zhihu">
+    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  </a>
+  &emsp;
+  <a href="https://space.bilibili.com/1233089591" target="_blank" alt="Bilibili" title="Bilibili">
+    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
+  </a> 
+  &emsp;
+  <a href="https://https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" alt="YouTube" title="YouTube">
+    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  </a>
+  &emsp;
+  <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  </a>
+  &emsp;
+  <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="34px"/>
+  </a>
+</p>
+<h2></h2>
+
 
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
