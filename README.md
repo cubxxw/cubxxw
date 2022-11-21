@@ -201,3 +201,7 @@ Here are some ideas to get you started:
 [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&hide=php,javascript)](https://github.com/cubxxw/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=3293172751&repo=Surface-Defect-Detection)](https://github.com/cubxxw/Surface-Defect-Detection)
 -->
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
