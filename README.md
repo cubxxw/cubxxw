@@ -57,19 +57,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (today)
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech. (today)
 - [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language. (2 days ago)
 - [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects (2 days ago)
 - [canonical/dqlite](https://github.com/canonical/dqlite) - Embeddable, replicated and fault tolerant SQL engine. (5 days ago)
-- [xianlubird/mydocker](https://github.com/xianlubird/mydocker) - &lt;&lt;自己动手写docker&gt;&gt; 源码 (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [randomdog2](https://github.com/randomdog2)
 - [qiwu575757](https://github.com/qiwu575757)
 - [wangdongya](https://github.com/wangdongya)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
 - [403Suiz](https://github.com/403Suiz)
-- [xcbyao](https://github.com/xcbyao)
 
 #### 🔨 Check out my recent pull requests
 
