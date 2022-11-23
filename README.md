@@ -41,9 +41,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (2 days ago)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (3 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (4 days ago)
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (5 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (5 days ago)
 
@@ -65,11 +65,11 @@
 
 #### 👯 Check out my recent followers
 
+- [biki9933](https://github.com/biki9933)
 - [randomdog2](https://github.com/randomdog2)
 - [qiwu575757](https://github.com/qiwu575757)
 - [wangdongya](https://github.com/wangdongya)
 - [peter-kimanzi](https://github.com/peter-kimanzi)
-- [403Suiz](https://github.com/403Suiz)
 
 #### 🔨 Check out my recent pull requests
 
