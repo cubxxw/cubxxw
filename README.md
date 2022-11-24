@@ -81,11 +81,11 @@
 
 #### 📜 Check out my recent blog posts
 
+- [Go genericity、Workspaces、Fuzz测试](https://zhuanlan.zhihu.com/p/586367554) (today)
 - [常用命令行替代](https://zhuanlan.zhihu.com/p/576392923) (1 month ago)
 - [在线vscode完成贡献和阅读](https://zhuanlan.zhihu.com/p/576392446) (1 month ago)
 - [使用sealos搭建k8s](https://zhuanlan.zhihu.com/p/576388662) (1 month ago)
 - [k8s集群搭建记录](https://zhuanlan.zhihu.com/p/576388231) (1 month ago)
-- [Cubos(幼兽os）开发准备~](https://zhuanlan.zhihu.com/p/574430945) (1 month ago)
 
 #### 📫 How to reach me
 
