@@ -57,11 +57,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (today)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (1 day ago)
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel. (1 day ago)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (3 days ago)
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech. (3 days ago)
-- [beego/beego](https://github.com/beego/beego) - beego is an open-source, high-performance web framework for the Go programming language. (5 days ago)
 
 #### 👯 Check out my recent followers
 
