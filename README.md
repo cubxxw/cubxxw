@@ -41,19 +41,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (2 days ago)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (5 days ago)
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/MIT6.824-DistributedSystem](https://github.com/cubxxw/MIT6.824-DistributedSystem) - 
 - [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
 - [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr
 - [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
 - [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档
 
 #### ⭐ Check out my recent stars
 
