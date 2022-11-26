@@ -35,8 +35,7 @@
 </p>
 
 <br>
-  <strong>Check out my work below!</strong>
-
+  <strong>Check out my work below!</strong> Time I contributed this year: 🎉<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4" title="项目的进展时长" > <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg"></a> 🎉
 <h2></h2>
 
 #### 👷 Check out what I'm currently working on
