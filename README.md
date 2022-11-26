@@ -41,7 +41,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (2 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (2 days ago)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (6 days ago)
@@ -57,11 +57,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [Dreamacro/clash](https://github.com/Dreamacro/clash) - A rule-based tunnel in Go. (today)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF) (1 day ago)
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager (2 days ago)
 - [bazelbuild/bazelisk](https://github.com/bazelbuild/bazelisk) - A user-friendly launcher for Bazel. (2 days ago)
 - [MystenLabs/sui](https://github.com/MystenLabs/sui) -  Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language (4 days ago)
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech. (4 days ago)
 
 #### 👯 Check out my recent followers
 
