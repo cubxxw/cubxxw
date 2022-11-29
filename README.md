@@ -40,9 +40,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (4 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (2 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (5 days ago)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (1 week ago)
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 week ago)
 
@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (1 day ago)
-- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (1 day ago)
-- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz (2 days ago)
-- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. (2 days ago)
-- [kubernetes/minikube](https://github.com/kubernetes/minikube) - Run Kubernetes locally (2 days ago)
+- [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
+- [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 days ago)
+- [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (2 days ago)
+- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz (3 days ago)
+- [kelseyhightower/kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -80,7 +80,7 @@
 
 #### 📜 Check out my recent blog posts
 
-- [Go genericity、Workspaces、Fuzz测试](https://zhuanlan.zhihu.com/p/586367554) (4 days ago)
+- [Go genericity、Workspaces、Fuzz测试](https://zhuanlan.zhihu.com/p/586367554) (5 days ago)
 - [常用命令行替代](https://zhuanlan.zhihu.com/p/576392923) (1 month ago)
 - [在线vscode完成贡献和阅读](https://zhuanlan.zhihu.com/p/576392446) (1 month ago)
 - [使用sealos搭建k8s](https://zhuanlan.zhihu.com/p/576388662) (1 month ago)
