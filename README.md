@@ -41,10 +41,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
+- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (5 days ago)
 - [cubxxw/go-mod](https://github.com/cubxxw/go-mod) - 🏄‍♂️ 用来学习Go语言的mod包管理工具，包括go1.18新特性workspaces使用。 并且提供包和笔记分享学习 (1 week ago)
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (today)
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (today)
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database. (1 day ago)
 - [huihongxiao/MIT6.824](https://github.com/huihongxiao/MIT6.824) -  (2 days ago)
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform (2 days ago)
-- [feiskyer/kubernetes-handbook](https://github.com/feiskyer/kubernetes-handbook) - Kubernetes Handbook （Kubernetes指南）   https://kubernetes.feisky.xyz (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -72,11 +72,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Create LICENSE](https://github.com/cubxxw/course-design-of-database/pull/3) on [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) (today)
 - [Create LICENSE](https://github.com/cubxxw/awesome-cloud-native/pull/5) on [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) (3 weeks ago)
 - [Create LICENSE](https://github.com/cubxxw/awesome-go/pull/4) on [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) (3 weeks ago)
 - [pull lwxfairy](https://github.com/lwxfairy/lwxfairy/pull/1) on [lwxfairy/lwxfairy](https://github.com/lwxfairy/lwxfairy) (1 month ago)
 - [docs&lt;git &amp;&amp; go-path&gt;: a small number of errors](https://github.com/labring/sealos/pull/1978) on [labring/sealos](https://github.com/labring/sealos) (1 month ago)
-- [【perfect】Improved shell command, adding &#39;-c&#39; to allow interrupt subsequent tra…](https://github.com/merbridge/merbridge/pull/235) on [merbridge/merbridge](https://github.com/merbridge/merbridge) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
