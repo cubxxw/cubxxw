@@ -40,7 +40,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (2 days ago)
 - [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (4 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 week ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver (today)
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images. (1 day ago)
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 (1 day ago)
 - [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go (1 day ago)
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (4 days ago)
-- [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -72,11 +72,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114275) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
+- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114274) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Create LICENSE](https://github.com/cubxxw/course-design-of-database/pull/3) on [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) (4 days ago)
 - [Create LICENSE](https://github.com/cubxxw/awesome-cloud-native/pull/5) on [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) (3 weeks ago)
 - [Create LICENSE](https://github.com/cubxxw/awesome-go/pull/4) on [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) (3 weeks ago)
-- [pull lwxfairy](https://github.com/lwxfairy/lwxfairy/pull/1) on [lwxfairy/lwxfairy](https://github.com/lwxfairy/lwxfairy) (1 month ago)
-- [docs&lt;git &amp;&amp; go-path&gt;: a small number of errors](https://github.com/labring/sealos/pull/1978) on [labring/sealos](https://github.com/labring/sealos) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
