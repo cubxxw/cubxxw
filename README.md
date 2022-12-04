@@ -56,19 +56,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook (today)
+- [kubernetes/client-go](https://github.com/kubernetes/client-go) - Go client for Kubernetes. (today)
 - [kubernetes/sample-controller](https://github.com/kubernetes/sample-controller) - Repository for sample controller. Complements sample-apiserver (1 day ago)
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images. (2 days ago)
 - [eip-work/kuboard-press](https://github.com/eip-work/kuboard-press) - Kuboard 是基于 Kubernetes 的微服务管理界面。同时提供 Kubernetes 免费中文教程，入门教程，最新版本的 Kubernetes v1.23.4 安装手册，(k8s install) 在线答疑，持续更新。 (2 days ago)
-- [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go (2 days ago)
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [zz-f-g](https://github.com/zz-f-g)
 - [saintlike](https://github.com/saintlike)
 - [98667](https://github.com/98667)
 - [PHYPlong](https://github.com/PHYPlong)
 - [qianbeibei-fairy](https://github.com/qianbeibei-fairy)
-- [aihuahua-522](https://github.com/aihuahua-522)
 
 #### 🔨 Check out my recent pull requests
 
