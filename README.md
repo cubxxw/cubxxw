@@ -40,11 +40,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
+- [c-ub/cub](https://github.com/c-ub/cub) - 🚸 c-ub (c-universal blockchain) is a blockchain society based on blockchain, providing a learning platform for all.  Welcome to cub🎉 (today)
 - [cubxxw/myblog](https://github.com/cubxxw/myblog) - 我的博客网站，可以访问到http://nsddd.top   网页：https://3293172751.github.io/myblog/ (1 day ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (3 days ago)
-- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -72,11 +72,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (today)
+- [add Contributor License Agreement](https://github.com/kubernetes/kubernetes/pull/114363) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114275) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114274) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (5 days ago)
 - [Create LICENSE](https://github.com/cubxxw/course-design-of-database/pull/3) on [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) (1 week ago)
-- [Create LICENSE](https://github.com/cubxxw/awesome-cloud-native/pull/5) on [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) (1 month ago)
-- [Create LICENSE](https://github.com/cubxxw/awesome-go/pull/4) on [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
