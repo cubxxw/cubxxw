@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="http://sm.nsddd.top/smf7d1d5a78dc20ba3bbd32db2a0dc628.jpg" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank" alt="CSDN" title="CSDN">
+    <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="30px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/3293172751" target="_blank" alt="Zhihu" title="Zhihu">
