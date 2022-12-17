@@ -40,11 +40,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (1 day ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (4 days ago)
-- [c-ub/CUB-learning](https://github.com/c-ub/CUB-learning) - ⚠️ cub-lerning (5 days ago)
+- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (2 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - go语言基础篇、进阶篇、高级篇文档 (2 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (5 days ago)
+- [c-ub/CUB-learning](https://github.com/c-ub/CUB-learning) - ⚠️ cub-lerning (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -56,7 +56,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language (1 day ago)
+- [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language (2 days ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (1 week ago)
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (1 week ago)
 - [rootsongjc/kubernetes-handbook](https://github.com/rootsongjc/kubernetes-handbook) - Kubernetes中文指南/云原生应用架构实战手册 -  https://jimmysong.io/kubernetes-handbook (1 week ago)
@@ -72,11 +72,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Some minor changes in the details](https://github.com/cloudreve/Cloudreve/pull/1567) on [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) (1 day ago)
 - [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (1 week ago)
 - [add Contributor License Agreement](https://github.com/kubernetes/kubernetes/pull/114363) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114275) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114274) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 week ago)
-- [Create LICENSE](https://github.com/cubxxw/course-design-of-database/pull/3) on [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) (2 weeks ago)
+- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114275) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
+- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114274) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
