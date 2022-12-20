@@ -64,11 +64,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ppnu](https://github.com/ppnu)
 - [Silencelay](https://github.com/Silencelay)
 - [solitudealma](https://github.com/solitudealma)
 - [DaviRain-Su](https://github.com/DaviRain-Su)
 - [Sativarsainath-26](https://github.com/Sativarsainath-26)
-- [zz-f-g](https://github.com/zz-f-g)
 
 #### 🔨 Check out my recent pull requests
 
