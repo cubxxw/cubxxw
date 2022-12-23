@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files (today)
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service (6 days ago)
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea, painless self-hosted git service (6 days ago)
 - [crystal-lang/crystal](https://github.com/crystal-lang/crystal) - The Crystal Programming Language (1 week ago)
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative continuous deployment for Kubernetes. (2 weeks ago)
-- [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow engine for Kubernetes (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
