@@ -80,11 +80,11 @@
 
 #### 📜 Check out my recent blog posts
 
+- [用于本地实验的小型 Kubernetes：k0s、MicroK8s、kind、k3s 和 Minikube](https://zhuanlan.zhihu.com/p/594206344) (today)
 - [Go genericity、Workspaces、Fuzz测试](https://zhuanlan.zhihu.com/p/586367554) (1 month ago)
 - [常用命令行替代](https://zhuanlan.zhihu.com/p/576392923) (2 months ago)
 - [在线vscode完成贡献和阅读](https://zhuanlan.zhihu.com/p/576392446) (2 months ago)
 - [使用sealos搭建k8s](https://zhuanlan.zhihu.com/p/576388662) (2 months ago)
-- [k8s集群搭建记录](https://zhuanlan.zhihu.com/p/576388231) (2 months ago)
 
 #### 📫 How to reach me
 
