@@ -45,7 +45,7 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
+          commit_user_name: cubxxw
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
 
