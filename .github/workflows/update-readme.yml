@@ -1,16 +1,25 @@
-name: Update README Main
+# 这个 GitHub Action 的名字是 "Update the main branch README profile page with a script"
+name: Update the main branch README profile page with a script
 
+# 触发条件：
+# - 在项目的代码库中有 push 操作
+# - 每 4 小时触发一次（cron 格式："0 */4 * * *"）
 on:
   push:
   schedule:
     - cron: "0 */4 * * *"
 
+# 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 jobs:
   markscribe:
     runs-on: ubuntu-latest
 
+    # 这个 job 有三个步骤：
     steps:
+      # 使用 actions/checkout@main 操作，将项目代码库克隆到工作区。
       - uses: actions/checkout@main
+
+      # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
           git config --local user.email "3293172751nss@gmail.com"
@@ -19,15 +28,18 @@ jobs:
           git pull --rebase
           git commit --allow-empty -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
-          
+
+      # 使用 muesli/readme-scribe@master 操作，使用指定的模板生成 README 文件，并将其写入到项目的根目录中。
       - uses: muesli/readme-scribe@master
+        # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-
+      # 使用 stefanzweifel/git-auto-commit-action@v4 操作，将生成的 README 文件提交到项目的 "main" 分支，并使用指定的用户名和邮箱记录提交记录。
       - uses: stefanzweifel/git-auto-commit-action@v4
+        # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
@@ -36,20 +48,7 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
-          
-          
-# 这个 GitHub Action 的名字是 "Update README Main"，它会在满足以下条件之一时触发：
-# 在项目的代码库中有 push 操作
-# 每 4 小时触发一次（cron 格式："0 */4 * * *"）
-# 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 
-# 这个 job 有三个步骤：
-
-# 使用 actions/checkout@main 操作，将项目代码库克隆到工作区。
-# 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
-# 使用 muesli/readme-scribe@master 操作，使用指定的模板生成 README 文件，并将其写入到项目的根目录中。
-# 使用 stefanzweifel/git-auto-commit-action@v4 操作，将生成的 README 文件提交到项目的 "main" 分支，并使用指定的用户名和邮箱记录提交记录。
-# 在这个 Action 中，会使用两个环境变量：
-
+# env
 # GITHUB_TOKEN：这是一个自动生成的令牌，可以让 Action 访问项目的数据。
 # PERSONAL_GITHUB_TOKEN：这是一个使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
