@@ -2,12 +2,16 @@
 name: Update the main branch README profile page with a script
 
 # 触发条件：
-# - 在项目的代码库中有 push 操作
-# - 每 4 小时触发一次（cron 格式："0 */4 * * *"）
 on:
+  # 当有新的 push 操作时触发
   push:
-  schedule:
-    - cron: "0 */4 * * *"
+  # 当有新的 pull request 操作时触发
+  pull_request:
+  schedule: 
+    # Runs on the 8, 10, 14 and 16th hour.
+    - cron: "0 8-11/2,14-17/2 * * *"
+    # Runs at 00:00 UTC every day.
+    - cron: "0 0 * * *"
 
 # 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 jobs:
