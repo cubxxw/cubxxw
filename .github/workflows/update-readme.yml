@@ -46,8 +46,10 @@ jobs:
           git config --local user.name "cubxxw"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
+          # 设置时区为 Asia/Shanghai
+          ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime
           echo "<br>" >> README.md
-          echo " 🚀 README文件数据上一次更新时间：$(date) " >> README.md
+          echo " 🚀 README file data last updated Wuhan time：$(date) " >> README.md
           # 允许空提交，-a 省略git add . 而且设置签名
           git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
