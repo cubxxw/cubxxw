@@ -2,12 +2,10 @@
 name: Update the main branch README profile page with a script
 
 # 触发条件：
+# - 在项目的代码库中有 push 操作
+# - 每 4 小时触发一次（cron 格式："0 */4 * * *"）
 on:
-  # 当有新的 push 操作时触发
   push:
-  # 当有新的 pull request 操作时触发
-  pull_request:
-  # Runs on the 0, 4, 8, 12, 16 and 20th hour.
   schedule:
     - cron: "0 */4 * * *"
 
@@ -40,23 +38,7 @@ jobs:
           commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
----
-name: Auto green
 
-on:
-  # 当有新的 push 操作时触发
-  push:
-  # 当有新的 pull request 操作时触发
-  pull_request:
-  # 每天晚上 10 点触发
-  schedule:
-    - cron: "0 22 * * *"
-
-jobs:
-  run-auto-green:
-    runs-on: ubuntu-latest
-
-    steps:
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
@@ -64,11 +46,11 @@ jobs:
           git config --local user.name "cubxxw"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          echo "<!-- 当前时间：$(date) -->" >> README.md
+          echo "<br>" >> README.md
+          echo " 🚀 README文件数据上一次更新时间：$(date) " >> README.md
           # 允许空提交，-a 省略git add . 而且设置签名
           git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
-
 # env
 # GITHUB_TOKEN：这是一个自动生成的令牌，可以让 Action 访问项目的数据。
 # PERSONAL_GITHUB_TOKEN：这是一个使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
