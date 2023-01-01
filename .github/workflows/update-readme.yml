@@ -44,9 +44,10 @@ jobs:
         run: |
           git config --local user.email "3293172751nss@gmail.com"
           git config --local user.name "cubxxw"
-          echo "<!-- 当前时间：$(date) -->" >> README.md
+          # echo "<!-- 当前时间：$(date) -->" >> README.md
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
+          echo "# 更新时间：$(date)" >> README.md
           git commit --allow-empty -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
 
