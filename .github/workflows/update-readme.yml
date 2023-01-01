@@ -12,6 +12,7 @@ on:
     - cron: "0 8-11/2,14-17/2 * * *"
     # Runs at 00:00 UTC every day.
     - cron: "0 0 * * *"
+    - cron: "0 */8 * * *"
 
 # 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 jobs:
