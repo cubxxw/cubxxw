@@ -19,16 +19,6 @@ jobs:
       # 使用 actions/checkout@main 操作，将项目代码库克隆到工作区。
       - uses: actions/checkout@main
 
-      # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
-      - name: Auto green
-        run: |
-          git config --local user.email "3293172751nss@gmail.com"
-          git config --local user.name "cubxxw"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
-          git pull --rebase
-          git commit --allow-empty -s -m "🌟 You never lose, either you win or you learn! 💪"
-          git push
-
       # 使用 muesli/readme-scribe@master 操作，使用指定的模板生成 README 文件，并将其写入到项目的根目录中。
       - uses: muesli/readme-scribe@master
         # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
@@ -45,9 +35,20 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: cubxxw
+          commit_user_name: readme-scribe 🤖
           commit_user_email: actions@github.com
           commit_author: readme-scribe 🤖 <actions@github.com>
+
+      # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
+      - name: Auto green
+        run: |
+          git config --local user.email "3293172751nss@gmail.com"
+          git config --local user.name "cubxxw"
+          echo "<!-- 当前时间：$(date) -->" >> README.md
+          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          git commit --allow-empty -s -m "🌟 You never lose, either you win or you learn! 💪"
+          git push
 
 # env
 # GITHUB_TOKEN：这是一个自动生成的令牌，可以让 Action 访问项目的数据。
