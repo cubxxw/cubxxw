@@ -97,7 +97,7 @@
 
 <br>
 <details><summary><b>💡 more （about github❗）</b></summary>
-<br><br>
+<br>
 <p><a href='https://www.facebook.com/profile.php?id=100034435372354'>Facebook</a> | <a href='https://telsacoin.io/'>Website</a> | <a href='http://nsddd.top'>Blog</a> | <a href='https://t.me/smile3293172751'>Telegram</a> | <a href='https://twitter.com/xxw3293172751'>Twitter</a> | <a href='https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227'>Linkedin</a> | <a href='https://liberapay.com/xiongxinwei/donate'>Donate</a></p>
 <p align='center'>
 <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin&style=flat-square"></a>
@@ -114,13 +114,6 @@
 </hr>
 
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
-<p align="center">
-  Visitor count<br>
-  <img src="https://cdn.jsdelivr.net/gh/yangchuansheng/yangchuansheng/assets/count.svg" />
-</p>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cubxxw&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Issues,Repositories" alt="cubxxw" /></a> </p>
-</div>
 
 ### 🔮 Platform & Tools
 
@@ -192,4 +185,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-02 17:20:05
