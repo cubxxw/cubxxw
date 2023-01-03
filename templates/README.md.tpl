@@ -112,6 +112,8 @@
 </div>
 -->
 
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 ### 🔮 Platform & Tools
 
 [![](https://img.shields.io/badge/mac%20os-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/big-sur/)
