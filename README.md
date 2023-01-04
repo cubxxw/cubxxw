@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF) (today)
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest. (1 day ago)
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (1 day ago)
 - [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (1 day ago)
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services. (1 day ago)
-- [rook/rook](https://github.com/rook/rook) - Storage Orchestration for Kubernetes (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-04 10:58:21
