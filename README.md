@@ -40,8 +40,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (today)
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (2 days ago)
 - [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~ (5 days ago)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 week ago)
 - [cubxxw/cubxxw.gitHub.io](https://github.com/cubxxw/cubxxw.gitHub.io) - 😎 (2 weeks ago)
@@ -56,11 +56,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone (today)
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT promt curation to use ChatGPT better. (today)
 - [Sorosliu1029/6.824](https://github.com/Sorosliu1029/6.824) - 🤹 MIT 6.824 Distributed Systems (today)
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF) (2 days ago)
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users&#39; behavior. Find some thing interest. (3 days ago)
-- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system (3 days ago)
-- [harness/drone](https://github.com/harness/drone) - Drone is a Container-Native, Continuous Delivery Platform (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-06 16:16:01
