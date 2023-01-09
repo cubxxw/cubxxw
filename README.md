@@ -41,10 +41,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (today)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
 - [c-ub/CUB-learning](https://github.com/c-ub/CUB-learning) - ⚠️ cub-lerning (2 days ago)
 - [cubxxw/myblog](https://github.com/cubxxw/myblog) - 我的博客网站，可以访问到http://nsddd.top   网页：https://3293172751.github.io/myblog/ (2 days ago)
-- [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~ (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -64,11 +64,11 @@
 
 #### 👯 Check out my recent followers
 
+- [xz-alex](https://github.com/xz-alex)
 - [Cobra1717](https://github.com/Cobra1717)
 - [ppnu](https://github.com/ppnu)
 - [Silencelay](https://github.com/Silencelay)
 - [solitudealma](https://github.com/solitudealma)
-- [DaviRain-Su](https://github.com/DaviRain-Su)
 
 #### 🔨 Check out my recent pull requests
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-09 16:16:49
