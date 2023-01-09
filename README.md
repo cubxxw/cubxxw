@@ -40,7 +40,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 day ago)
+- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生、sealos学习 (1 day ago)
 - [c-ub/CUB-learning](https://github.com/c-ub/CUB-learning) - ⚠️ cub-lerning (2 days ago)
 - [cubxxw/myblog](https://github.com/cubxxw/myblog) - 我的博客网站，可以访问到http://nsddd.top   网页：https://3293172751.github.io/myblog/ (2 days ago)
@@ -64,11 +64,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Cobra1717](https://github.com/Cobra1717)
 - [ppnu](https://github.com/ppnu)
 - [Silencelay](https://github.com/Silencelay)
 - [solitudealma](https://github.com/solitudealma)
 - [DaviRain-Su](https://github.com/DaviRain-Su)
-- [Sativarsainath-26](https://github.com/Sativarsainath-26)
 
 #### 🔨 Check out my recent pull requests
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-09 08:55:10
