@@ -40,11 +40,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (today)
+- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (today)
 - [xiongxinweic/xiongxinweic](https://github.com/xiongxinweic/xiongxinweic) -  (1 day ago)
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (3 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (4 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (5 days ago)
-- [c-ub/CUB-learning](https://github.com/c-ub/CUB-learning) - ⚠️ cub-lerning (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -64,11 +64,11 @@
 
 #### 👯 Check out my recent followers
 
+- [uniqueJoseph](https://github.com/uniqueJoseph)
 - [lhp96](https://github.com/lhp96)
 - [amcones](https://github.com/amcones)
 - [shaokeyibb](https://github.com/shaokeyibb)
 - [paopaoshuaige](https://github.com/paopaoshuaige)
-- [xz-alex](https://github.com/xz-alex)
 
 #### 🔨 Check out my recent pull requests
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-13 08:57:10
