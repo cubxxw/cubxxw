@@ -64,11 +64,11 @@
 
 #### 👯 Check out my recent followers
 
+- [PokIsemaine](https://github.com/PokIsemaine)
 - [uniqueJoseph](https://github.com/uniqueJoseph)
 - [lhp96](https://github.com/lhp96)
 - [amcones](https://github.com/amcones)
 - [shaokeyibb](https://github.com/shaokeyibb)
-- [paopaoshuaige](https://github.com/paopaoshuaige)
 
 #### 🔨 Check out my recent pull requests
 
@@ -80,11 +80,11 @@
 
 #### 📜 Check out my recent blog posts
 
+- [项目管理从理论到实践（含GitHub Projects）](https://zhuanlan.zhihu.com/p/598930020) (today)
 - [kubernetes 源码解析资源](https://zhuanlan.zhihu.com/p/597276550) (6 days ago)
 - [用于本地实验的小型 Kubernetes：k0s、MicroK8s、kind、k3s 和 Minikube](https://zhuanlan.zhihu.com/p/594206344) (1 week ago)
 - [Go genericity、Workspaces、Fuzz测试](https://zhuanlan.zhihu.com/p/586367554) (1 month ago)
 - [常用命令行替代](https://zhuanlan.zhihu.com/p/576392923) (2 months ago)
-- [在线vscode完成贡献和阅读](https://zhuanlan.zhihu.com/p/576392446) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-13 22:12:38
