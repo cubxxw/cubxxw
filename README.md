@@ -41,7 +41,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 day ago)
-- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、web系列 、BlockChain系列、web3系列🔥、Golang系列💡...... 欢迎pr🫰 (1 day ago)
+- [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 day ago)
 - [xiongxinweic/xiongxinweic](https://github.com/xiongxinweic/xiongxinweic) -  (3 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (6 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 week ago)
@@ -72,11 +72,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [The long-updated main branch is filed for 2023](https://github.com/cubxxw/cs-awesome-Block_Chain/pull/17) on [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) (today)
 - [Make a partial change to the document](https://github.com/marmotedu/iam/pull/66) on [marmotedu/iam](https://github.com/marmotedu/iam) (1 day ago)
 - [Some minor changes in the details](https://github.com/cloudreve/Cloudreve/pull/1567) on [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) (1 month ago)
 - [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (1 month ago)
 - [add Contributor License Agreement](https://github.com/kubernetes/kubernetes/pull/114363) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
-- [Add any necessary comments](https://github.com/kubernetes/kubernetes/pull/114275) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-15 08:59:11
