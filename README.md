@@ -41,7 +41,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [xiongxinweic/xiongxinweic](https://github.com/xiongxinweic/xiongxinweic) -  (today)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 day ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (today)
 - [cubxxw/cs-awesome-Block_Chain](https://github.com/cubxxw/cs-awesome-Block_Chain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 week ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 week ago)
@@ -187,4 +187,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-17 16:16:29
