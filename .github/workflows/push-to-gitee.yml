@@ -1,8 +1,10 @@
+
 name: Gitee repos mirror periodic job
 on:
   push:
   schedule:
-    - cron: '0 9 * * *'
+    # 每天北京时间9点跑
+    - cron: '* 1 * * *'
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,19 +12,17 @@ jobs:
     - name: Mirror the Github organization repos to Gitee.
       uses: Yikun/gitee-mirror-action@v0.01
       with:
+        # 必选，需要同步的Github用户（源）
         src: github/cubxxw
+        # 必选，需要同步到的Gitee的用户（目的）
         dst: gitee/xxw3293172751
+        # 必选，Gitee公钥对应的私钥，https://gitee.com/profile/sshkeys
         dst_key: ${{ secrets.GITEE_TOKEN }}
-        dst_token: ${{ secrets.GITEE_PRIVATE_KEY }}
-    - name: Commit changes
-      env:
-        GIT_SSH_COMMAND: "ssh -i ${{ secrets.GITEE_TOKEN }}"
-        GIT_AUTHOR_NAME: "Your name"
-        GIT_AUTHOR_EMAIL: "Your email"
-      run: |
-        git remote add origin https://gitee.com/xxw3293172751/cubxxw.git
-        git config user.name "${{ env.GIT_AUTHOR_NAME }}"
-        git config user.email "${{ env.GIT_AUTHOR_EMAIL }}"
-        git add .
-        git commit -a -s  --allow-empty -m "Periodic commit"
-        git push -u origin master
+        # 必选，Gitee对应的用于创建仓库的token，https://gitee.com/profile/personal_access_tokens
+        dst_token:  ${{ secrets.GITEE_PRIVATE_KEY }}
+        # 如果是组织，指定组织即可，默认为用户user
+        # account_type: org
+        # 还有黑、白名单，静态名单机制，可以用于更新某些指定库
+        # static_list: repo_name
+        # black_list: 'repo_name,repo_name2'
+        # white_list: 'repo_name,repo_name2'
