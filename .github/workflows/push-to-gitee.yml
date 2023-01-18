@@ -25,3 +25,16 @@ jobs:
         # static_list: repo_name
         # black_list: 'repo_name,repo_name2'
         # white_list: 'repo_name,repo_name2'
+        
+    - name: Checkout
+      uses: actions/checkout@v2
+    - name: Configure git
+      run: git config --global user.email "3293172751nss@gmail.com" && git config --global user.name "Xinwei Xiong"
+    - name: Add Gitee remote
+      run: git remote add gitee https://gitee.com/xxw3293172751/cubxxw.git
+    - name: Create empty commit
+      run: |
+        git commit -s -a --allow-empty -m "Empty commit for periodic push"
+        git push -u gitee main
+    - name: Cleanup
+      run: git remote remove gitee
