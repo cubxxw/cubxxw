@@ -66,7 +66,9 @@
 {{- end}}
 
 #### 📜 Check out my recent blog posts
-{{range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5}}
+<!--zhihu：range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5 -->
+<!--blog: range rss "https://nsddd.top/rss.xml" 5-->
+{{range rss "https://nsddd.top/rss.xml" 5}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
