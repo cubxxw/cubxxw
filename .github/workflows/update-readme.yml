@@ -5,6 +5,9 @@ name: Update the main branch README profile page with a script
 on:
   # 当有新的 push 操作时触发
   push:
+  # 我在使用 GitHub CLI （gh） 允许手动触发工作流
+  # gh workflow run update-readme
+  workflow_dispatch:
   # 当有新的 pull request 操作时触发
   pull_request:
   schedule: 
