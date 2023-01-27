@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [athosss23](https://github.com/athosss23)
+- [carinalisboa](https://github.com/carinalisboa)
+- [phpfriend95](https://github.com/phpfriend95)
+- [PoesiasRomanticas](https://github.com/PoesiasRomanticas)
 - [weqeweqewe](https://github.com/weqeweqewe)
-- [CodePromoter](https://github.com/CodePromoter)
-- [alineai18](https://github.com/alineai18)
-- [dinosoid](https://github.com/dinosoid)
-- [aplus-developer](https://github.com/aplus-developer)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-27 22:11:29
