@@ -84,11 +84,11 @@
 
 
 
+- [GTD实践](https://nsddd.top/archives/gtd-todo) (today)
 - [技术领导力与职业规划: 人生路线图上的必读阅读推荐](https://nsddd.top/archives/career-development) (2 days ago)
 - [GitHub CLI 命令行工具（gh)](https://nsddd.top/archives/gh) (3 days ago)
 - [sealos开源社区~第一阶段](https://nsddd.top/archives/sealos-one) (3 months ago)
 - [在线vscode完成贡献和阅读](https://nsddd.top/archives/githubdev) (3 months ago)
-- [常用命令行替代](https://nsddd.top/archives/cmdorbash) (3 months ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-01-30 22:11:34
