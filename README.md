@@ -42,7 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/CS-NativeCloud-Blockchain-awesome](https://github.com/cubxxw/CS-NativeCloud-Blockchain-awesome) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (today)
 - [cubxxw/cubxxw.gitHub.io](https://github.com/cubxxw/cubxxw.gitHub.io) - 😎 (1 week ago)
 - [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它 (1 week ago)
@@ -74,8 +74,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/CS-NativeCloud-Blockchain-awesome/pull/18) on [cubxxw/CS-NativeCloud-Blockchain-awesome](https://github.com/cubxxw/CS-NativeCloud-Blockchain-awesome) (2 weeks ago)
-- [The long-updated main branch is filed for 2023](https://github.com/cubxxw/CS-NativeCloud-Blockchain-awesome/pull/17) on [cubxxw/CS-NativeCloud-Blockchain-awesome](https://github.com/cubxxw/CS-NativeCloud-Blockchain-awesome) (2 weeks ago)
+- [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/18) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
+- [The long-updated main branch is filed for 2023](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/17) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
 - [Make a partial change to the document](https://github.com/marmotedu/iam/pull/66) on [marmotedu/iam](https://github.com/marmotedu/iam) (2 weeks ago)
 - [Some minor changes in the details](https://github.com/cloudreve/Cloudreve/pull/1567) on [cloudreve/Cloudreve](https://github.com/cloudreve/Cloudreve) (1 month ago)
 - [feat(#1 It has good readability): Code optimization](https://github.com/c-ub/cub/pull/3) on [c-ub/cub](https://github.com/c-ub/cub) (1 month ago)
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-01 16:16:09
