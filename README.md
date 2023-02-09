@@ -43,7 +43,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (today)
 - [cubxxw/cubxxw.gitHub.io](https://github.com/cubxxw/cubxxw.gitHub.io) - 😎 (4 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (6 days ago)
 - [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它 (2 weeks ago)
@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [lwx1559792554](https://github.com/lwx1559792554)
 - [LiChenyang-GZ](https://github.com/LiChenyang-GZ)
 - [kubernetes-on](https://github.com/kubernetes-on)
 - [mengdong123](https://github.com/mengdong123)
 - [libfancy](https://github.com/libfancy)
-- [ShiMaRing](https://github.com/ShiMaRing)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-09 22:12:07
