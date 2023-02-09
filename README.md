@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [juicedata/juicefs](https://github.com/juicedata/juicefs) - JuiceFS is a distributed POSIX file system built on top of Redis and S3. (today)
 - [sirupsen/logrus](https://github.com/sirupsen/logrus) - Structured, pluggable logging for Go. (1 day ago)
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods. (1 week ago)
 - [kubernetes-sigs/kind](https://github.com/kubernetes-sigs/kind) - Kubernetes IN Docker - local clusters for testing Kubernetes (1 week ago)
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services. (2 weeks ago)
-- [apache/dubbo-go](https://github.com/apache/dubbo-go) - Go Implementation For Apache Dubbo (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-09 16:16:30
