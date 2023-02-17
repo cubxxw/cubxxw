@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. (today)
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程） (today)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (today)
-- [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [borfi](https://github.com/borfi)
 - [daweiTianLong1](https://github.com/daweiTianLong1)
 - [HyunCafe](https://github.com/HyunCafe)
 - [lwx1559792554](https://github.com/lwx1559792554)
 - [LiChenyang-GZ](https://github.com/LiChenyang-GZ)
-- [kubernetes-on](https://github.com/kubernetes-on)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-17 18:00:41
