@@ -84,11 +84,11 @@
 
 
 
+- [Gotests Automatically generate Go test](https://nsddd.top/archives/gotests) (today)
 - [git-chglog write your CHANGELOG](https://nsddd.top/archives/git-chglog) (1 day ago)
 - [Project specification and commit message](https://nsddd.top/archives/projectspecificationandcommitmessage) (1 day ago)
 - [GTD实践](https://nsddd.top/archives/gtd-todo) (2 weeks ago)
 - [技术领导力与职业规划: 人生路线图上的必读阅读推荐](https://nsddd.top/archives/career-development) (2 weeks ago)
-- [GitHub CLI 命令行工具（gh)](https://nsddd.top/archives/gh) (3 weeks ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-17 22:11:48
