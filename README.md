@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻XiongXinWei</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
 
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (today)
 - [marmotedu/iam](https://github.com/marmotedu/iam) - 企业级的 Go 语言实战项目：认证和授权系统（带配套课程） (today)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (today)
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (today)
 - [git-chglog/git-chglog](https://github.com/git-chglog/git-chglog) - CHANGELOG generator implemented in Go (Golang). (1 day ago)
-- [z-shell/zi](https://github.com/z-shell/zi) - ✨ A Swiss Army Knife for Zsh - Unix Shell (1 day ago)
 
 #### 👯 Check out my recent followers
 
+- [daweiTianLong1](https://github.com/daweiTianLong1)
 - [HyunCafe](https://github.com/HyunCafe)
 - [lwx1559792554](https://github.com/lwx1559792554)
 - [LiChenyang-GZ](https://github.com/LiChenyang-GZ)
 - [kubernetes-on](https://github.com/kubernetes-on)
-- [mengdong123](https://github.com/mengdong123)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-17 16:16:49
