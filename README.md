@@ -4,8 +4,8 @@
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="160" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="400" height="160"/>
+	<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
+	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
 </p>
 
 </p>
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-17 17:36:56
