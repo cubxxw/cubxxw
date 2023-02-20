@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (today)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 day ago)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100&#43; contributors) framework for managing your zsh configuration. Includes 300&#43; optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140&#43; themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community. (2 days ago)
 - [securego/gosec](https://github.com/securego/gosec) - Golang security checker (2 days ago)
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code. (3 days ago)
-- [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -84,11 +84,11 @@
 
 
 
+- [ golangci-lin: Fast linters Runner for Go](https://nsddd.top/archives/golangci) (today)
 - [高质量的Makefile编写](https://nsddd.top/archives/makefile) (today)
 - [Gotests Automatically generate Go test](https://nsddd.top/archives/gotests) (3 days ago)
 - [git-chglog write your CHANGELOG](https://nsddd.top/archives/git-chglog) (4 days ago)
 - [Project specification and commit message](https://nsddd.top/archives/projectspecificationandcommitmessage) (4 days ago)
-- [GTD实践](https://nsddd.top/archives/gtd-todo) (3 weeks ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-20 22:12:04
