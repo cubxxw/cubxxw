@@ -84,11 +84,11 @@
 
 
 
+- [高质量的Makefile编写](https://nsddd.top/archives/makefile) (today)
 - [Gotests Automatically generate Go test](https://nsddd.top/archives/gotests) (3 days ago)
 - [git-chglog write your CHANGELOG](https://nsddd.top/archives/git-chglog) (4 days ago)
 - [Project specification and commit message](https://nsddd.top/archives/projectspecificationandcommitmessage) (4 days ago)
 - [GTD实践](https://nsddd.top/archives/gtd-todo) (3 weeks ago)
-- [技术领导力与职业规划: 人生路线图上的必读阅读推荐](https://nsddd.top/archives/career-development) (3 weeks ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-20 16:17:40
