@@ -42,7 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (today)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (3 days ago)
 - [cubxxw/big_data](https://github.com/cubxxw/big_data) - Big data, hadoop installation and deployment    (5 days ago)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zpffly001](https://github.com/zpffly001)
 - [QQQ300kuai](https://github.com/QQQ300kuai)
 - [even-april](https://github.com/even-april)
 - [JimWen](https://github.com/JimWen)
 - [geezerxue](https://github.com/geezerxue)
-- [borfi](https://github.com/borfi)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-02-25 22:10:54
