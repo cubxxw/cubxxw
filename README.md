@@ -42,9 +42,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 day ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (2 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (4 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (5 days ago)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 week ago)
 - [cubxxw/big_data](https://github.com/cubxxw/big_data) - Big data, hadoop installation and deployment    (1 week ago)
 
@@ -58,35 +58,35 @@
 
 #### ⭐ Check out my recent stars
 
-- [gocrane/crane](https://github.com/gocrane/crane) - Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications.  https://gocrane.io/ (2 days ago)
-- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (3 days ago)
-- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering (5 days ago)
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more. (6 days ago)
-- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (6 days ago)
+- [gocrane/crane](https://github.com/gocrane/crane) - Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications.  https://gocrane.io/ (3 days ago)
+- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (4 days ago)
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - :octopus: Guides, papers, lecture, and resources for prompt engineering (6 days ago)
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more. (1 week ago)
+- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Buce-Ithon](https://github.com/Buce-Ithon)
 - [haokeqiudu](https://github.com/haokeqiudu)
 - [ligaotan](https://github.com/ligaotan)
 - [aslam420](https://github.com/aslam420)
 - [zpffly001](https://github.com/zpffly001)
-- [QQQ300kuai](https://github.com/QQQ300kuai)
 
 #### 🔨 Check out my recent pull requests
 
-- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/horizoncd/horizon/pull/65) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 day ago)
+- [bug(passwd): Solve the ssh password transfer character problem](https://github.com/sealerio/sealer/pull/2078) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 day ago)
+- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/horizoncd/horizon/pull/65) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (2 days ago)
 - [Create LICENSE](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/19) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
 - [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/18) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (1 month ago)
 - [The long-updated main branch is filed for 2023](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/17) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (1 month ago)
-- [Make a partial change to the document](https://github.com/marmotedu/iam/pull/66) on [marmotedu/iam](https://github.com/marmotedu/iam) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (1 day ago)
-- [深挖容器底层技术（全）](https://nsddd.top/archives/dockers) (1 day ago)
-- [Clash for Linux(CLI)、Windows、Android](https://nsddd.top/archives/clash) (6 days ago)
+- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (2 days ago)
+- [深挖容器底层技术（全）](https://nsddd.top/archives/dockers) (2 days ago)
+- [Clash for Linux(CLI)、Windows、Android](https://nsddd.top/archives/clash) (1 week ago)
 - [ golangci-lin: Fast linters Runner for Go](https://nsddd.top/archives/golangci) (1 week ago)
 - [高质量的Makefile编写](https://nsddd.top/archives/makefile) (1 week ago)
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-04 08:35:27
