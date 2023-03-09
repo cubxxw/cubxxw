@@ -42,8 +42,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 days ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (5 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (4 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (6 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 week ago)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (2 weeks ago)
 - [cubxxw/big_data](https://github.com/cubxxw/big_data) - Big data, hadoop installation and deployment    (2 weeks ago)
@@ -58,34 +58,34 @@
 
 #### ⭐ Check out my recent stars
 
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. (1 day ago)
-- [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions (2 days ago)
-- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (3 days ago)
-- [gocrane/crane](https://github.com/gocrane/crane) - Crane is a FinOps Platform for Cloud Resource Analytics and Economics in Kubernetes clusters. The goal is not only help user to manage cloud cost easier but also ensure the quality of applications.  https://gocrane.io/ (6 days ago)
-- [julienschmidt/httprouter](https://github.com/julienschmidt/httprouter) - A high performance HTTP request router that scales well (1 week ago)
+- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 day ago)
+- [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector (1 day ago)
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era. (2 days ago)
+- [instrumenta/kubeval](https://github.com/instrumenta/kubeval) - Validate your Kubernetes configuration files, supports multiple Kubernetes versions (3 days ago)
+- [ServiceWeaver/weaver](https://github.com/ServiceWeaver/weaver) - Programming framework for writing and deploying cloud applications. (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [mmertpolat](https://github.com/mmertpolat)
 - [xiao-jay](https://github.com/xiao-jay)
 - [BitCoinDanner](https://github.com/BitCoinDanner)
 - [Buce-Ithon](https://github.com/Buce-Ithon)
 - [haokeqiudu](https://github.com/haokeqiudu)
-- [ligaotan](https://github.com/ligaotan)
 
 #### 🔨 Check out my recent pull requests
 
-- [Add beautified Makefile, Help information, better output](https://github.com/instrumenta/kubeval/pull/363) on [instrumenta/kubeval](https://github.com/instrumenta/kubeval) (2 days ago)
-- [bug(passwd): Solve the ssh password transfer character problem](https://github.com/sealerio/sealer/pull/2078) on [sealerio/sealer](https://github.com/sealerio/sealer) (4 days ago)
-- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/horizoncd/horizon/pull/65) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (5 days ago)
-- [Create LICENSE](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/19) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (2 weeks ago)
-- [Archive awesome 2022 and keep 2022 records in the warehouse   ](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain/pull/18) on [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) (1 month ago)
+- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/55) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (1 day ago)
+- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/kubevela/kubevela/pull/5638) on [kubevela/kubevela](https://github.com/kubevela/kubevela) (1 day ago)
+- [Add beautified Makefile, Help information, better output](https://github.com/instrumenta/kubeval/pull/363) on [instrumenta/kubeval](https://github.com/instrumenta/kubeval) (3 days ago)
+- [bug(passwd): Solve the ssh password transfer character problem](https://github.com/sealerio/sealer/pull/2078) on [sealerio/sealer](https://github.com/sealerio/sealer) (5 days ago)
+- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/horizoncd/horizon/pull/65) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (5 days ago)
-- [深挖容器底层技术（全）](https://nsddd.top/archives/dockers) (5 days ago)
+- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (6 days ago)
+- [深挖容器底层技术（全）](https://nsddd.top/archives/dockers) (6 days ago)
 - [Clash for Linux(CLI)、Windows、Android](https://nsddd.top/archives/clash) (1 week ago)
 - [ golangci-lin: Fast linters Runner for Go](https://nsddd.top/archives/golangci) (2 weeks ago)
 - [高质量的Makefile编写](https://nsddd.top/archives/makefile) (2 weeks ago)
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-08 08:38:25
