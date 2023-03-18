@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods. (1 day ago)
-- [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) - Website repo for http://sealer.cool (2 days ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (2 days ago)
-- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (3 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (4 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 day ago)
+- [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods. (2 days ago)
+- [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) - Website repo for http://sealer.cool (3 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 day ago)
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (3 days ago)
-- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn&#39;t suck. (3 days ago)
-- [cilium/cilium](https://github.com/cilium/cilium) - eBPF-based Networking, Security, and Observability (1 week ago)
-- [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker (1 week ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (1 day ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 day ago)
+- [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (2 days ago)
+- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (4 days ago)
+- [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn&#39;t suck. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,21 +74,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/59) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (3 days ago)
-- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/58) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (3 days ago)
+- [docs: There are sentences in the contributors file that are not punct…](https://github.com/kubernetes/community/pull/7189) on [kubernetes/community](https://github.com/kubernetes/community) (1 day ago)
+- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/59) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (4 days ago)
+- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/58) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (4 days ago)
 - [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/56) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (1 week ago)
 - [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/55) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (1 week ago)
-- [chore(Makefile): Give the help information of Makefile to make it mor…](https://github.com/kubevela/kubevela/pull/5638) on [kubevela/kubevela](https://github.com/kubevela/kubevela) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (2 days ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 day ago)
+- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 day ago)
+- [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (3 days ago)
 - [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (2 weeks ago)
 - [深挖容器底层技术（全）](https://nsddd.top/archives/dockers) (2 weeks ago)
-- [Clash for Linux(CLI)、Windows、Android](https://nsddd.top/archives/clash) (2 weeks ago)
-- [ golangci-lin: Fast linters Runner for Go](https://nsddd.top/archives/golangci) (3 weeks ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-17 08:35:51
