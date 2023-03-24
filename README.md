@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 day ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (2 days ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (6 days ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (2 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (2 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (3 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
 - [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods. (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -58,37 +58,37 @@
 
 #### ⭐ Check out my recent stars
 
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (1 day ago)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (6 days ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (6 days ago)
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (2 days ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (1 week ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [skyleaworlder](https://github.com/skyleaworlder)
+- [mvpsheng](https://github.com/mvpsheng)
+- [erdengk](https://github.com/erdengk)
 - [evadaivd](https://github.com/evadaivd)
 - [sponge-dad](https://github.com/sponge-dad)
-- [mmertpolat](https://github.com/mmertpolat)
-- [xiao-jay](https://github.com/xiao-jay)
-- [BitCoinDanner](https://github.com/BitCoinDanner)
 
 #### 🔨 Check out my recent pull requests
 
-- [feature(makefile): Add help and necessary comments to the makefile to…](https://github.com/buildpacks/pack/pull/1679) on [buildpacks/pack](https://github.com/buildpacks/pack) (4 days ago)
-- [docs: There are sentences in the contributors file that are not punct…](https://github.com/kubernetes/community/pull/7189) on [kubernetes/community](https://github.com/kubernetes/community) (6 days ago)
+- [feature: k3s install](https://github.com/kilosonc/horizon/pull/1) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (1 day ago)
+- [feature(&#43;script #100): k3s can be installed locally](https://github.com/horizoncd/horizon/pull/101) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 day ago)
+- [feature(makefile): Add help and necessary comments to the makefile to…](https://github.com/buildpacks/pack/pull/1679) on [buildpacks/pack](https://github.com/buildpacks/pack) (5 days ago)
+- [docs: There are sentences in the contributors file that are not punct…](https://github.com/kubernetes/community/pull/7189) on [kubernetes/community](https://github.com/kubernetes/community) (1 week ago)
 - [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/59) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (1 week ago)
-- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/58) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (1 week ago)
-- [docs: sealer is not supported by root users](https://github.com/sealerio/sealer.cool/pull/56) on [sealerio/sealer.cool](https://github.com/sealerio/sealer.cool) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (4 days ago)
-- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (6 days ago)
-- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (6 days ago)
+- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (5 days ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 week ago)
+- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 week ago)
 - [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (1 week ago)
-- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (2 weeks ago)
+- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (3 weeks ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-23 08:34:23
