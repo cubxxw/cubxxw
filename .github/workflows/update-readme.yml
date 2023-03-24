@@ -15,7 +15,7 @@ on:
     # - cron: "0 8-11/5,14-17/4 * * *"
     # Runs at 00:00 UTC every day.
     - cron: "0 0 * * *"
-    # - cron: "0 */8 * * *"
+    - cron: "0 */8 * * *"
 
 # 在触发后，会运行一个名为 "markscribe" 的 job，该 job 在 Ubuntu 系统最新版上运行。
 jobs:
@@ -50,8 +50,8 @@ jobs:
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
-          git config --local user.email "3293172751nss@gmail.com"
-          git config --local user.name "cubxxw"
+          # git config --local user.email "3293172751nss@gmail.com"
+          # git config --local user.name "cubxxw"
           git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           # 将 UTC 时间转换为上海时间
