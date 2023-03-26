@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (3 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (3 days ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (4 days ago)
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io (1 day ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (4 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (4 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (5 days ago)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
-- [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods. (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (3 days ago)
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 day ago)
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (4 days ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (1 week ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
-- [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,17 +74,17 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [refactor(runtime): sealos runtime module needs better design to meet …](https://github.com/labring/sealos/pull/2864) on [labring/sealos](https://github.com/labring/sealos) (1 day ago)
-- [fix: Password does not add single quotes will identify environment va…](https://github.com/labring/sealos/pull/2862) on [labring/sealos](https://github.com/labring/sealos) (1 day ago)
-- [feature: k3s install](https://github.com/kilosonc/horizon/pull/1) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (2 days ago)
-- [feature(&#43;script #100): k3s can be installed locally](https://github.com/horizoncd/horizon/pull/101) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (2 days ago)
-- [feature(makefile): Add help and necessary comments to the makefile to…](https://github.com/buildpacks/pack/pull/1679) on [buildpacks/pack](https://github.com/buildpacks/pack) (6 days ago)
+- [Feature(Fixes #7229) : Refine the Makefile file so that it can do the basic work](https://github.com/cli/cli/pull/7228) on [cli/cli](https://github.com/cli/cli) (1 day ago)
+- [refactor(runtime): sealos runtime module needs better design to meet …](https://github.com/labring/sealos/pull/2864) on [labring/sealos](https://github.com/labring/sealos) (2 days ago)
+- [fix: Password does not add single quotes will identify environment va…](https://github.com/labring/sealos/pull/2862) on [labring/sealos](https://github.com/labring/sealos) (2 days ago)
+- [feature: k3s install](https://github.com/kilosonc/horizon/pull/1) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (3 days ago)
+- [feature(&#43;script #100): k3s can be installed locally](https://github.com/horizoncd/horizon/pull/101) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (6 days ago)
+- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 week ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 week ago)
 - [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 week ago)
 - [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (1 week ago)
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-25 08:32:26
