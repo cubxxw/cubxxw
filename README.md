@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 day ago)
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io (3 days ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (6 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (6 days ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (2 days ago)
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io (4 days ago)
+- [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks (1 week ago)
+- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 week ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (3 days ago)
-- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (6 days ago)
+- [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (4 days ago)
+- [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (1 week ago)
 - [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (1 week ago)
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (1 week ago)
 - [open-telemetry/opentelemetry-go](https://github.com/open-telemetry/opentelemetry-go) - OpenTelemetry Go API and SDK (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Z-kamili](https://github.com/Z-kamili)
+- [yingxu9582795833](https://github.com/yingxu9582795833)
 - [skyleaworlder](https://github.com/skyleaworlder)
 - [mvpsheng](https://github.com/mvpsheng)
 - [erdengk](https://github.com/erdengk)
-- [evadaivd](https://github.com/evadaivd)
-- [sponge-dad](https://github.com/sponge-dad)
 
 #### 🔨 Check out my recent pull requests
 
-- [docs:Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2144) on [sealerio/sealer](https://github.com/sealerio/sealer) (2 days ago)
-- [Feature(Fixes #7229) : Refine the Makefile file so that it can do the basic work](https://github.com/cli/cli/pull/7228) on [cli/cli](https://github.com/cli/cli) (3 days ago)
-- [refactor(runtime): sealos runtime module needs better design to meet …](https://github.com/labring/sealos/pull/2864) on [labring/sealos](https://github.com/labring/sealos) (4 days ago)
-- [fix: Password does not add single quotes will identify environment va…](https://github.com/labring/sealos/pull/2862) on [labring/sealos](https://github.com/labring/sealos) (4 days ago)
-- [feature: k3s install](https://github.com/kilosonc/horizon/pull/1) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (5 days ago)
+- [docs: Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2150) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 day ago)
+- [feature(makefile): Makefiles cross-compile arm](https://github.com/sealerio/sealer/pull/2149) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 day ago)
+- [docs:Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2144) on [sealerio/sealer](https://github.com/sealerio/sealer) (3 days ago)
+- [Feature(Fixes #7229) : Refine the Makefile file so that it can do the basic work](https://github.com/cli/cli/pull/7228) on [cli/cli](https://github.com/cli/cli) (4 days ago)
+- [refactor(runtime): sealos runtime module needs better design to meet …](https://github.com/labring/sealos/pull/2864) on [labring/sealos](https://github.com/labring/sealos) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -87,7 +87,7 @@
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 week ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 week ago)
 - [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 week ago)
-- [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (1 week ago)
+- [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (2 weeks ago)
 - [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (3 weeks ago)
 
 #### 📫 How to reach me
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-03-28 08:34:42
