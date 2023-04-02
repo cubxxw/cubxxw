@@ -42,9 +42,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 days ago)
-- [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF) (3 days ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (5 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
+- [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF) (4 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (6 days ago)
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a Kubernetes distribution, a general-purpose Cloud Operating System designed for managing cloud-native applications. Demo: https://cloud.sealos.io (1 week ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 week ago)
 
@@ -74,21 +74,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Extend sealer save to support multi-image-archive and tmp-dir](https://github.com/sealerio/sealer/pull/2160) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 day ago)
-- [K3s install](https://github.com/kilosonc/horizon/pull/2) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (3 days ago)
-- [docs: Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2150) on [sealerio/sealer](https://github.com/sealerio/sealer) (4 days ago)
-- [feature(makefile): Makefiles cross-compile arm](https://github.com/sealerio/sealer/pull/2149) on [sealerio/sealer](https://github.com/sealerio/sealer) (4 days ago)
-- [docs:Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2144) on [sealerio/sealer](https://github.com/sealerio/sealer) (6 days ago)
+- [【draft】Design pre-version storage](https://github.com/sealerio/sealer/pull/2161) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 day ago)
+- [Extend sealer save to support multi-image-archive and tmp-dir](https://github.com/sealerio/sealer/pull/2160) on [sealerio/sealer](https://github.com/sealerio/sealer) (2 days ago)
+- [K3s install](https://github.com/kilosonc/horizon/pull/2) on [kilosonc/horizon](https://github.com/kilosonc/horizon) (4 days ago)
+- [docs: Provide human-readable comment information](https://github.com/sealerio/sealer/pull/2150) on [sealerio/sealer](https://github.com/sealerio/sealer) (5 days ago)
+- [feature(makefile): Makefiles cross-compile arm](https://github.com/sealerio/sealer/pull/2149) on [sealerio/sealer](https://github.com/sealerio/sealer) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 week ago)
+- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (2 weeks ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (2 weeks ago)
 - [ Istio 高级流量管理](https://nsddd.top/archives/istio) (2 weeks ago)
 - [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (2 weeks ago)
-- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (4 weeks ago)
+- [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-01 08:33:59
