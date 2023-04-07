@@ -42,9 +42,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (3 days ago)
-- [c-ub/k8s-iam](https://github.com/c-ub/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)    (3 days ago)
-- [c-ub/docs](https://github.com/c-ub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (3 days ago)
+- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (4 days ago)
+- [c-ub/k8s-iam](https://github.com/c-ub/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)    (4 days ago)
+- [c-ub/docs](https://github.com/c-ub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (4 days ago)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 week ago)
 - [sealerio/sealer](https://github.com/sealerio/sealer) - Build, Share and Run Both Your Kubernetes Cluster and Distributed Applications  (Project under CNCF) (1 week ago)
 
@@ -58,35 +58,35 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster (3 days ago)
+- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster (4 days ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (1 week ago)
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (2 weeks ago)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (2 weeks ago)
-- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (2 weeks ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (3 weeks ago)
+- [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.  (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
-- [cuisongliu](https://github.com/cuisongliu)
-- [Weldhappy](https://github.com/Weldhappy)
-- [scz321](https://github.com/scz321)
-- [theoriz0](https://github.com/theoriz0)
-- [Z-kamili](https://github.com/Z-kamili)
+- [Adika1630](https://github.com/Adika1630)
+- [romanofficial](https://github.com/romanofficial)
+- [esin](https://github.com/esin)
+- [leofab](https://github.com/leofab)
+- [jnhu76](https://github.com/jnhu76)
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: code format](https://github.com/sealerio/sealer/pull/2169) on [sealerio/sealer](https://github.com/sealerio/sealer) (2 days ago)
-- [feature: Supports the use of the system&#39;s temporary directory](https://github.com/sealerio/sealer/pull/2168) on [sealerio/sealer](https://github.com/sealerio/sealer) (2 days ago)
-- [docs: Provide interface description ](https://github.com/containers/podman/pull/18039) on [containers/podman](https://github.com/containers/podman) (2 days ago)
-- [feature: Podman image set the temporary load directory](https://github.com/containers/podman/pull/18015) on [containers/podman](https://github.com/containers/podman) (3 days ago)
-- [【draft】Design pre-version storage](https://github.com/sealerio/sealer/pull/2161) on [sealerio/sealer](https://github.com/sealerio/sealer) (5 days ago)
+- [fix: code format](https://github.com/sealerio/sealer/pull/2169) on [sealerio/sealer](https://github.com/sealerio/sealer) (3 days ago)
+- [feature: Supports the use of the system&#39;s temporary directory](https://github.com/sealerio/sealer/pull/2168) on [sealerio/sealer](https://github.com/sealerio/sealer) (3 days ago)
+- [docs: Provide interface description ](https://github.com/containers/podman/pull/18039) on [containers/podman](https://github.com/containers/podman) (3 days ago)
+- [feature: Podman image set the temporary load directory](https://github.com/containers/podman/pull/18015) on [containers/podman](https://github.com/containers/podman) (4 days ago)
+- [【draft】Design pre-version storage](https://github.com/sealerio/sealer/pull/2161) on [sealerio/sealer](https://github.com/sealerio/sealer) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (2 weeks ago)
-- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (2 weeks ago)
-- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (2 weeks ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (3 weeks ago)
+- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (3 weeks ago)
 - [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (3 weeks ago)
 - [Kubernetes 概念以及架构](https://nsddd.top/archives/kubernetes-docker) (1 month ago)
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-06 08:31:21
