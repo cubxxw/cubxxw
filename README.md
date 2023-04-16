@@ -42,19 +42,19 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (5 days ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 week ago)
+- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 day ago)
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (1 day ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (3 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 😎🐋docker、k8s、云原生 (6 days ago)
 - [c-ub/k8s-iam](https://github.com/c-ub/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)    (1 week ago)
-- [c-ub/docs](https://github.com/c-ub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (1 week ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 - [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods.
 - [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
 - [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr
 - [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
-- [cubxxw/awesome-rust](https://github.com/cubxxw/awesome-rust) -  🔥一个rust的编程指南，将以docs形式阅读它
 
 #### ⭐ Check out my recent stars
 
@@ -62,7 +62,7 @@
 - [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster (1 week ago)
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs (3 weeks ago)
 - [cncf/mentoring](https://github.com/cncf/mentoring) - 👩🏿‍🎓👨🏽‍🎓👩🏻‍🎓CNCF Mentoring &#43; CommunityBridge &#43; Summer of Code (3 weeks ago)
-- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (4 weeks ago)
+- [crossplane/crossplane](https://github.com/crossplane/crossplane) - Cloud Native Control Planes (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,7 +74,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feature: Implement CRD, own blog metadata information](https://github.com/cubxxw/sample-controller/pull/7) on [cubxxw/sample-controller](https://github.com/cubxxw/sample-controller) (6 days ago)
+- [feature: Implement CRD, own blog metadata information](https://github.com/cubxxw/sample-controller/pull/7) on [cubxxw/sample-controller](https://github.com/cubxxw/sample-controller) (1 week ago)
 - [fix: code format](https://github.com/sealerio/sealer/pull/2169) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 week ago)
 - [feature: Supports the use of the system&#39;s temporary directory](https://github.com/sealerio/sealer/pull/2168) on [sealerio/sealer](https://github.com/sealerio/sealer) (1 week ago)
 - [docs: Provide interface description ](https://github.com/containers/podman/pull/18039) on [containers/podman](https://github.com/containers/podman) (1 week ago)
@@ -84,11 +84,11 @@
 
 
 
-- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (5 days ago)
-- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (3 weeks ago)
-- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (4 weeks ago)
-- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (4 weeks ago)
-- [Kubernetes 网络](https://nsddd.top/archives/kubernetes-network) (1 month ago)
+- [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (1 day ago)
+- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (6 days ago)
+- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (4 weeks ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 month ago)
+- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-15 08:34:24
