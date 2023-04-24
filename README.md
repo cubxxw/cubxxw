@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (1 day ago)
-- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
 - [kubecub/log](https://github.com/kubecub/log) -  (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (3 days ago)
-- [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (3 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (2 days ago)
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (2 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (3 days ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (3 days ago)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (5 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (4 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (4 days ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (6 days ago)
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (2 weeks ago)
-- [kubernetes-sigs/aws-iam-authenticator](https://github.com/kubernetes-sigs/aws-iam-authenticator) - A tool to use AWS IAM credentials to authenticate to a Kubernetes cluster (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,18 +74,18 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: optimization part copyright and ignoring files](https://github.com/k8sgpt-ai/k8sgpt/pull/319) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (1 day ago)
-- [feat: the overall optimization and architecture design of the makefile are made](https://github.com/k8sgpt-ai/k8sgpt/pull/317) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (2 days ago)
-- [feat(#100): makefile big project tweaks, basic build and delete tests succeed](https://github.com/horizoncd/horizon/pull/141) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (3 days ago)
-- [feat(zap-pkg/log): Supports zap log packages and directory migration before init](https://github.com/horizoncd/horizon/pull/140) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (3 days ago)
-- [feature: Extend sealer save to support multi-image-archive and tmp-dir](https://github.com/sealerio/sealer/pull/2193) on [sealerio/sealer](https://github.com/sealerio/sealer) (3 days ago)
+- [feat: extensions ignore files](https://github.com/OpenIMSDK/Open-IM-Server/pull/362) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [fix: optimization part copyright and ignoring files](https://github.com/k8sgpt-ai/k8sgpt/pull/319) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (2 days ago)
+- [feat: the overall optimization and architecture design of the makefile are made](https://github.com/k8sgpt-ai/k8sgpt/pull/317) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (3 days ago)
+- [feat(#100): makefile big project tweaks, basic build and delete tests succeed](https://github.com/horizoncd/horizon/pull/141) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (4 days ago)
+- [feat(zap-pkg/log): Supports zap log packages and directory migration before init](https://github.com/horizoncd/horizon/pull/140) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
 - [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (1 week ago)
-- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (1 week ago)
+- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (2 weeks ago)
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 month ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 month ago)
 - [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 month ago)
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-23 08:35:52
