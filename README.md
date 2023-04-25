@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
 - [kubecub/log](https://github.com/kubecub/log) -  (1 day ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (2 days ago)
-- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (2 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (4 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (2 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (3 days ago)
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (3 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
-- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (4 days ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (4 days ago)
-- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (6 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (2 days ago)
+- [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (5 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (5 days ago)
+- [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [fodedoumbouya](https://github.com/fodedoumbouya)
 - [DannySanchez6658](https://github.com/DannySanchez6658)
 - [zxu-cloud](https://github.com/zxu-cloud)
 - [Adika1630](https://github.com/Adika1630)
 - [romanofficial](https://github.com/romanofficial)
-- [esin](https://github.com/esin)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: extensions ignore files](https://github.com/OpenIMSDK/Open-IM-Server/pull/362) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix: optimization part copyright and ignoring files](https://github.com/k8sgpt-ai/k8sgpt/pull/319) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (2 days ago)
-- [feat: the overall optimization and architecture design of the makefile are made](https://github.com/k8sgpt-ai/k8sgpt/pull/317) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (3 days ago)
-- [feat(#100): makefile big project tweaks, basic build and delete tests succeed](https://github.com/horizoncd/horizon/pull/141) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (4 days ago)
-- [feat(zap-pkg/log): Supports zap log packages and directory migration before init](https://github.com/horizoncd/horizon/pull/140) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (4 days ago)
+- [feat: extensions ignore files](https://github.com/OpenIMSDK/Open-IM-Server/pull/362) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
+- [fix: optimization part copyright and ignoring files](https://github.com/k8sgpt-ai/k8sgpt/pull/319) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (3 days ago)
+- [feat: the overall optimization and architecture design of the makefile are made](https://github.com/k8sgpt-ai/k8sgpt/pull/317) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (4 days ago)
+- [feat(#100): makefile big project tweaks, basic build and delete tests succeed](https://github.com/horizoncd/horizon/pull/141) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (5 days ago)
+- [feat(zap-pkg/log): Supports zap log packages and directory migration before init](https://github.com/horizoncd/horizon/pull/140) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-24 08:33:29
