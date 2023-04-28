@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (2 days ago)
-- [kubecub/log](https://github.com/kubecub/log) -  (3 days ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (4 days ago)
-- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (5 days ago)
-- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (5 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (today)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
+- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (3 days ago)
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824 (6 days ago)
+- [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (4 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (5 days ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (1 week ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes SRE superpowers to everyone (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
-- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (2 weeks ago)
+- [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [Surgg](https://github.com/Surgg)
 - [fodedoumbouya](https://github.com/fodedoumbouya)
 - [DannySanchez6658](https://github.com/DannySanchez6658)
 - [zxu-cloud](https://github.com/zxu-cloud)
 - [romanofficial](https://github.com/romanofficial)
-- [esin](https://github.com/esin)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: extensions ignore files](https://github.com/OpenIMSDK/Open-IM-Server/pull/362) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (4 days ago)
-- [fix: optimization part copyright and ignoring files](https://github.com/k8sgpt-ai/k8sgpt/pull/319) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (5 days ago)
-- [feat: the overall optimization and architecture design of the makefile are made](https://github.com/k8sgpt-ai/k8sgpt/pull/317) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (6 days ago)
-- [feat(#100): makefile big project tweaks, basic build and delete tests succeed](https://github.com/horizoncd/horizon/pull/141) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 week ago)
-- [feat(zap-pkg/log): Supports zap log packages and directory migration before init](https://github.com/horizoncd/horizon/pull/140) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 week ago)
+- [docs: design contributor documentation](https://github.com/horizoncd/horizon/pull/151) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 day ago)
+- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/pull/366) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/54) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (1 day ago)
+- [feat: copyright and test handling](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/52) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (1 day ago)
+- [Feat/makefile](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/51) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-27 08:35:08
