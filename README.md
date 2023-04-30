@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
-- [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (1 day ago)
-- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
-- [kubecub/k8s-iam](https://github.com/kubecub/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)    (1 day ago)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (2 days ago)
+- [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (2 days ago)
+- [horizoncd/horizon](https://github.com/horizoncd/horizon) - Production-Grade GitOps CD PlatForm For CloudNative Applications, MiddleWares, etc. (2 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (2 days ago)
+- [kubecub/k8s-iam](https://github.com/kubecub/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)    (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,7 +58,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (6 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 week ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (1 week ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (1 week ago)
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous. (1 week ago)
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [LeonardoJayTyler](https://github.com/LeonardoJayTyler)
 - [Surgg](https://github.com/Surgg)
 - [fodedoumbouya](https://github.com/fodedoumbouya)
 - [DannySanchez6658](https://github.com/DannySanchez6658)
 - [zxu-cloud](https://github.com/zxu-cloud)
-- [romanofficial](https://github.com/romanofficial)
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: design contributor documentation](https://github.com/horizoncd/horizon/pull/151) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (2 days ago)
-- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/pull/366) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
-- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/54) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (2 days ago)
-- [feat: copyright and test handling](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/52) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (2 days ago)
-- [Feat/makefile](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/51) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (2 days ago)
+- [docs: design contributor documentation](https://github.com/horizoncd/horizon/pull/151) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (3 days ago)
+- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/pull/366) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 days ago)
+- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/54) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (3 days ago)
+- [feat: copyright and test handling](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/52) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (3 days ago)
+- [Feat/makefile](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/51) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-04-29 08:31:57
