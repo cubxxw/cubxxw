@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) - Community Management for K8sGPT (today)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
-- [kubecub/community](https://github.com/kubecub/community) - kubecub community content (today)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (2 days ago)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - 🅰️ Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 day ago)
+- [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) - Community Management for K8sGPT (1 day ago)
+- [kubecub/community](https://github.com/kubecub/community) - kubecub community content (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,8 +58,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (1 day ago)
-- [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 (2 days ago)
+- [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (2 days ago)
+- [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 (3 days ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 week ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (2 weeks ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 weeks ago)
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update readme file](https://github.com/k8sgpt-ai/community/pull/31) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (1 day ago)
-- [docs: update interested-parties.md](https://github.com/k8sgpt-ai/community/pull/30) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (1 day ago)
+- [docs: initializing community](https://github.com/OpenIMSDK/community/pull/1) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (1 day ago)
+- [fix: update CHARTER.md License Agreement](https://github.com/k8sgpt-ai/community/pull/32) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (1 day ago)
+- [docs: update readme file](https://github.com/k8sgpt-ai/community/pull/31) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (2 days ago)
+- [docs: update interested-parties.md](https://github.com/k8sgpt-ai/community/pull/30) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (2 days ago)
 - [docs: design contributor documentation](https://github.com/horizoncd/horizon/pull/151) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 week ago)
-- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-Server/pull/366) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 week ago)
-- [docs: design contributor documentation](https://github.com/OpenIMSDK/Open-IM-SDK-Core/pull/54) on [OpenIMSDK/Open-IM-SDK-Core](https://github.com/OpenIMSDK/Open-IM-SDK-Core) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-04 08:32:31
