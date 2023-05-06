@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - 🅰️ Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 day ago)
-- [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) - Community Management for K8sGPT (1 day ago)
-- [kubecub/community](https://github.com/kubecub/community) - kubecub community content (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (1 day ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - 🅰️ Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (2 days ago)
+- [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) - Community Management for K8sGPT (2 days ago)
+- [kubecub/community](https://github.com/kubecub/community) - kubecub community content (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,33 +58,33 @@
 
 #### ⭐ Check out my recent stars
 
-- [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (2 days ago)
-- [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 (3 days ago)
+- [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (3 days ago)
+- [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 (4 days ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 week ago)
 - [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai) - OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go (2 weeks ago)
 - [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) - Giving Kubernetes Superpowers to everyone (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [ziguiyue](https://github.com/ziguiyue)
 - [LeonardoJayTyler](https://github.com/LeonardoJayTyler)
 - [Surgg](https://github.com/Surgg)
 - [fodedoumbouya](https://github.com/fodedoumbouya)
 - [DannySanchez6658](https://github.com/DannySanchez6658)
-- [zxu-cloud](https://github.com/zxu-cloud)
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: initializing community](https://github.com/OpenIMSDK/community/pull/1) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (1 day ago)
-- [fix: update CHARTER.md License Agreement](https://github.com/k8sgpt-ai/community/pull/32) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (1 day ago)
-- [docs: update readme file](https://github.com/k8sgpt-ai/community/pull/31) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (2 days ago)
-- [docs: update interested-parties.md](https://github.com/k8sgpt-ai/community/pull/30) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (2 days ago)
-- [docs: design contributor documentation](https://github.com/horizoncd/horizon/pull/151) on [horizoncd/horizon](https://github.com/horizoncd/horizon) (1 week ago)
+- [test: backup cra file](https://github.com/OpenIMSDK/community/pull/3) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (1 day ago)
+- [file: add RFC template](https://github.com/OpenIMSDK/community/pull/2) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (1 day ago)
+- [V3 backup](https://github.com/OpenIMSDK/openim-sdk-core/pull/56) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
+- [docs: initializing community](https://github.com/OpenIMSDK/community/pull/1) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (2 days ago)
+- [fix: update CHARTER.md License Agreement](https://github.com/k8sgpt-ai/community/pull/32) on [k8sgpt-ai/community](https://github.com/k8sgpt-ai/community) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (2 weeks ago)
+- [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (3 weeks ago)
 - [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (3 weeks ago)
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 month ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 month ago)
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-05 08:30:43
