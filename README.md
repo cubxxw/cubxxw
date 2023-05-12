@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (1 day ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
-- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (2 days ago)
-- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (2 days ago)
+- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (2 days ago)
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform. (3 days ago)
+- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (1 day ago)
-- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (2 days ago)
+- [talent-plan/tinykv](https://github.com/talent-plan/tinykv) - A course to build distributed key-value service based on TiKV model (2 days ago)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (3 days ago)
 - [kaqijiang/Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH) - Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现 (1 week ago)
 - [ffhelicopter/Go42](https://github.com/ffhelicopter/Go42) - 《Go语言四十二章经》详细讲述Go语言规范与语法细节及开发中常见的误区，通过研读标准库等经典代码设计模式，启发读者深刻理解Go语言的核心思维，进入Go语言开发的更高阶段。 (1 week ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [wangzhilongh](https://github.com/wangzhilongh)
+- [xiaochengzjc](https://github.com/xiaochengzjc)
+- [liujieking](https://github.com/liujieking)
 - [Jason-Fly](https://github.com/Jason-Fly)
 - [joe1986](https://github.com/joe1986)
-- [beifeng778](https://github.com/beifeng778)
-- [ShiYue-oo](https://github.com/ShiYue-oo)
-- [454270186](https://github.com/454270186)
 
 #### 🔨 Check out my recent pull requests
 
-- [styles: add a language to the markdown block](https://github.com/kubernetes/kubernetes/pull/117867) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [styles: add a language to the markdown block](https://github.com/kubernetes/kubernetes/pull/117866) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
-- [Update FUNDING.yml](https://github.com/OpenIMSDK/.github/pull/1) on [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) (3 days ago)
-- [delete issue template](https://github.com/OpenIMSDK/Open-IM-Server/pull/376) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 days ago)
-- [delete .github](https://github.com/OpenIMSDK/community/pull/17) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (3 days ago)
+- [docs: add body to readme-zh file](https://github.com/OpenIMSDK/Open-IM-Server/pull/388) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [feat: refactor the makefile to initialize the base modules](https://github.com/OpenIMSDK/Open-IM-Server/pull/382) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [docs: modified section about style shields display issues in readme-zh](https://github.com/kubesphere/kubesphere/pull/5678) on [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) (1 day ago)
+- [docs: modified section about style shields display issues in readme](https://github.com/kubesphere/kubesphere/pull/5677) on [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) (1 day ago)
+- [styles: add a language to the markdown block](https://github.com/kubernetes/kubernetes/pull/117867) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-11 08:31:57
