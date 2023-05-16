@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/.github](https://github.com/kubecub/.github) -  (1 day ago)
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (1 day ago)
-- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (1 day ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 day ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
+- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
+- [k8sgpt-ai/docs](https://github.com/k8sgpt-ai/docs) - Documentation for K8sGPT (1 day ago)
+- [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️ (1 day ago)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 day ago)
-- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2 (1 day ago)
-- [labring/sealpkg](https://github.com/labring/sealpkg) - SealPkg integrates and packages various components of Sealos clusters to simplify deployment and management processes, enabling users to conveniently build and distribute custom images. (2 days ago)
-- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (2 days ago)
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (2 days ago)
+- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (2 days ago)
+- [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2 (2 days ago)
+- [labring/sealpkg](https://github.com/labring/sealpkg) - SealPkg integrates and packages various components of Sealos clusters to simplify deployment and management processes, enabling users to conveniently build and distribute custom images. (3 days ago)
+- [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project. (3 days ago)
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,21 +74,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: Prefer analyze over analyse](https://github.com/k8sgpt-ai/docs/pull/42) on [k8sgpt-ai/docs](https://github.com/k8sgpt-ai/docs) (1 day ago)
-- [fix: use analyze instead of analyse in Kubernetes command](https://github.com/k8sgpt-ai/k8sgpt/pull/410) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (1 day ago)
-- [Update and rename 0001-server-suggest-flutter.md to 0001-openimsdk-ci…](https://github.com/OpenIMSDK/community/pull/24) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (2 days ago)
-- [docs: copyright header file](https://github.com/OpenIMSDK/Open-IM-Server/pull/397) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
-- [feat: remove github url and name](https://github.com/kubecub/docs/pull/1) on [kubecub/docs](https://github.com/kubecub/docs) (2 days ago)
+- [feat: supports and optimizes git hooks](https://github.com/OpenIMSDK/Open-IM-Server/pull/405) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [fix: Fix the cicd error of the robot](https://github.com/OpenIMSDK/Open-IM-Server/pull/401) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [docs: Prefer analyze over analyse](https://github.com/k8sgpt-ai/docs/pull/42) on [k8sgpt-ai/docs](https://github.com/k8sgpt-ai/docs) (2 days ago)
+- [fix: use analyze instead of analyse in Kubernetes command](https://github.com/k8sgpt-ai/k8sgpt/pull/410) on [k8sgpt-ai/k8sgpt](https://github.com/k8sgpt-ai/k8sgpt) (2 days ago)
+- [Update and rename 0001-server-suggest-flutter.md to 0001-openimsdk-ci…](https://github.com/OpenIMSDK/community/pull/24) on [OpenIMSDK/community](https://github.com/OpenIMSDK/community) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
+- [高级的 Githook 设计](https://nsddd.top/archives/githook) (1 day ago)
 - [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (1 month ago)
 - [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (1 month ago)
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (1 month ago)
-- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (1 month ago)
-- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (1 month ago)
+- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-15 08:34:08
