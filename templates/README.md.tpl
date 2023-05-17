@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 <!--
 [![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
 -->
