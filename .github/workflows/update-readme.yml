@@ -59,7 +59,7 @@ jobs:
           echo " 🚀 Shanghai time when the README file was last updated：$local_time" >> README.md
           # 允许空提交，-a 省略git add . 而且设置签名
           git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
-          git push
+          git push https://github.com/cubxxw/cubxxw main -f
 # env
 # GITHUB_TOKEN：这是一个自动生成的令牌，可以让 Action 访问项目的数据。
 # PERSONAL_GITHUB_TOKEN：这是一个使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
