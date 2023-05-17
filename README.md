@@ -1,4 +1,4 @@
-## Hi, 👋  I'm <a href="https://3293172751.github.io/resume/" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://cubxxw.github.io/resume/" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-17 08:36:10
