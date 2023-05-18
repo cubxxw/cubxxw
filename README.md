@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
-- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (1 day ago)
+- [kubecub/kubecub](https://github.com/kubecub/kubecub) - kubecub provides the capability of k8s chains (today)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (today)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (1 day ago)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (1 day ago)
-- [OpenIMSDK/automation](https://github.com/OpenIMSDK/automation) - OpenIM Automation, cicd, and actions, Robotics. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time when the README file was last updated：2023-05-18 09:07:39
