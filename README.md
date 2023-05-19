@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (today)
 - [kubecub/community](https://github.com/kubecub/community) - kubecub community content (today)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (today)
 
 #### 🌱 Check out my recent projects
 
@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [dimiro1/banner](https://github.com/dimiro1/banner) - An easy way to add useful startup banners into your Go applications (today)
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes (1 day ago)
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning (2 days ago)
 - [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (5 days ago)
 - [vuepress/vuepress-next](https://github.com/vuepress/vuepress-next) - Repo for VuePress 2 (5 days ago)
-- [labring/sealpkg](https://github.com/labring/sealpkg) - SealPkg integrates and packages various components of Sealos clusters to simplify deployment and management processes, enabling users to conveniently build and distribute custom images. (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [aFlyBird0](https://github.com/aFlyBird0)
 - [yoonA2022](https://github.com/yoonA2022)
 - [bxy4543](https://github.com/bxy4543)
 - [wangzhilongh](https://github.com/wangzhilongh)
 - [xiaochengzjc](https://github.com/xiaochengzjc)
-- [liujieking](https://github.com/liujieking)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-19 16:19:58
