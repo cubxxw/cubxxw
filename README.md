@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
+- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (today)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (today)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (today)
-- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (today)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
 - [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics. (today)
 
 #### 🌱 Check out my recent projects
@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Radeity](https://github.com/Radeity)
+- [iyear](https://github.com/iyear)
 - [codeworm111](https://github.com/codeworm111)
 - [aFlyBird0](https://github.com/aFlyBird0)
 - [yoonA2022](https://github.com/yoonA2022)
-- [bxy4543](https://github.com/bxy4543)
-- [wangzhilongh](https://github.com/wangzhilongh)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-20 16:18:31
