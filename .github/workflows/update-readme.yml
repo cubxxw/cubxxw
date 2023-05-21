@@ -44,9 +44,9 @@ jobs:
         with:
           commit_message: Update generated README
           branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
+          commit_user_name: kubbot 🤖
+          commit_user_email: 3293172751nss@gmail.com
+          commit_author: kubbot 🤖 <actions@github.com>
           token: "${{ secrets.BOT_GITHUB_TOKEN }}"
 
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
