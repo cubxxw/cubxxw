@@ -54,7 +54,7 @@ jobs:
         run: |
           git config --local user.email "3293172751nss@gmail.com"
           git config --local user.name "kubbot"
-          git remote set-url origin https://${{ github.actor }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git remote set-url origin https://${{ secrets.BOT_GITHUB_TOKEN }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           # 将 UTC 时间转换为上海时间
           local_time=$(date -u -d "$(date -u)" "+%Y-%m-%d %H:%M:%S" -d "8 hours")
