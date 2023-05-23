@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (2 days ago)
-- [kubecub/RemoteOps-scripts](https://github.com/kubecub/RemoteOps-scripts) - A GitHub repository dedicated to storing scripts executed by @kubbot on remote servers for the purpose of pulling and creating PRs on repositories within the kubecub organization, as well as resolving various issue problems. (2 days ago)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
 - [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (2 days ago)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (2 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (2 days ago)
 
 #### 🌱 Check out my recent projects
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-23 09:16:07
