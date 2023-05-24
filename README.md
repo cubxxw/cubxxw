@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [jiujuan/go-collection](https://github.com/jiujuan/go-collection) - :tulip: awesome awesome go, study golang from basic to proficient。Go Study Guide。从学习golang基础和高级特性，到实战，到架构微服务，最后到跑路。 (today)
 - [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答 (1 day ago)
 - [dimiro1/banner](https://github.com/dimiro1/banner) - An easy way to add useful startup banners into your Go applications (5 days ago)
 - [slack-go/slack](https://github.com/slack-go/slack) - Slack API in Go - community-maintained fork created by the original author, @nlopes (6 days ago)
 - [actions/typescript-action](https://github.com/actions/typescript-action) - Create a TypeScript Action with tests, linting, workflow, publishing, and versioning (1 week ago)
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - One-Click to deploy well-designed ChatGPT web UI on Vercel. 一键拥有你自己的 ChatGPT 网页服务。 (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [swish0x7](https://github.com/swish0x7)
 - [Radeity](https://github.com/Radeity)
 - [iyear](https://github.com/iyear)
 - [codeworm111](https://github.com/codeworm111)
 - [aFlyBird0](https://github.com/aFlyBird0)
-- [yoonA2022](https://github.com/yoonA2022)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-24 09:18:21
