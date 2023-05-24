@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 day ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (3 days ago)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (3 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (3 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (today)
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (today)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (today)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
 
 #### 🌱 Check out my recent projects
 
@@ -89,6 +89,7 @@
 - [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (1 month ago)
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (2 months ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (2 months ago)
+- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-24 16:20:48
