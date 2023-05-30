@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [aweffr](https://github.com/aweffr)
 - [zj2556528828](https://github.com/zj2556528828)
 - [qstommyshu](https://github.com/qstommyshu)
 - [Kirov7](https://github.com/Kirov7)
 - [txxzx](https://github.com/txxzx)
-- [Stone-afk](https://github.com/Stone-afk)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-30 16:20:44
