@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/.github](https://github.com/kubecub/.github) -  (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (today)
+- [OpenIMSDK/.github-private](https://github.com/OpenIMSDK/.github-private) -  (today)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (today)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - The IMSDK implemented by golang can be used in IOS, Android, PC and other platforms (2 days ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (5 days ago)
-- [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update FUNDING.yml](https://github.com/OpenIMSDK/.github-private/pull/1) on [OpenIMSDK/.github-private](https://github.com/OpenIMSDK/.github-private) (today)
 - [docs: Initialize the readme file](https://github.com/kubecub/feishu-sheet-parser/pull/1) on [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) (1 week ago)
 - [feat: exchange tokens for the robot](https://github.com/OpenIMSDK/Open-IM-Server/pull/412) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 week ago)
 - [Update config.yml](https://github.com/OpenIMSDK/.github/pull/6) on [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) (1 week ago)
 - [feat: Translation and Commenting Bots](https://github.com/OpenIMSDK/Open-IM-Server/pull/410) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 weeks ago)
-- [ci: join the desgin of chglog and init](https://github.com/OpenIMSDK/Open-IM-Server/pull/408) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-05-31 22:14:23
