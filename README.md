@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (today)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (today)
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
+- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
+- [kubecub/.github](https://github.com/kubecub/.github) -  (1 day ago)
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 day ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -66,15 +66,15 @@
 
 #### 👯 Check out my recent followers
 
+- [Anyc66666666](https://github.com/Anyc66666666)
 - [BrodyYoung](https://github.com/BrodyYoung)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
 - [ning0515](https://github.com/ning0515)
 - [IRONICBo](https://github.com/IRONICBo)
-- [aweffr](https://github.com/aweffr)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update FUNDING.yml](https://github.com/OpenIMSDK/.github-private/pull/1) on [OpenIMSDK/.github-private](https://github.com/OpenIMSDK/.github-private) (3 days ago)
+- [Update FUNDING.yml](https://github.com/OpenIMSDK/.github-private/pull/1) on [OpenIMSDK/.github-private](https://github.com/OpenIMSDK/.github-private) (4 days ago)
 - [docs: Initialize the readme file](https://github.com/kubecub/feishu-sheet-parser/pull/1) on [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) (2 weeks ago)
 - [feat: exchange tokens for the robot](https://github.com/OpenIMSDK/Open-IM-Server/pull/412) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 weeks ago)
 - [Update config.yml](https://github.com/OpenIMSDK/.github/pull/6) on [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) (2 weeks ago)
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-04 00:18:33
