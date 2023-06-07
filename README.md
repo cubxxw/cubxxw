@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (2 days ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (4 days ago)
 - [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (4 days ago)
-- [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [bigboss2063](https://github.com/bigboss2063)
 - [halalala222](https://github.com/halalala222)
 - [Anyc66666666](https://github.com/Anyc66666666)
 - [BrodyYoung](https://github.com/BrodyYoung)
 - [Ziy1-Tan](https://github.com/Ziy1-Tan)
-- [ning0515](https://github.com/ning0515)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-07 16:21:26
