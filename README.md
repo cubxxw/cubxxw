@@ -46,7 +46,7 @@
 - [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. (today)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
 - [kubecub/kube-im](https://github.com/kubecub/kube-im) - Kube-im is a distributed IM communication system based on Kubernetes. It utilizes Kubernetes&#39; Service and Deployment capabilities to achieve high availability and scaling of IM systems, making it easy to build a powerful distributed IM solution. (today)
-- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - 即时通讯IM (today)
 
 #### 🌱 Check out my recent projects
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-10 22:13:28
