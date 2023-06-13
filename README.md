@@ -45,7 +45,7 @@
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (1 day ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 day ago)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - OpenIM instant messaging service (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (1 day ago)
 
 #### 🌱 Check out my recent projects
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(v3): case-deleted models](https://github.com/OpenIMSDK/openim-sdk-core/pull/78) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [feat: test robot review](https://github.com/kubecub/log/pull/6) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
 - [test: test robot form kubbot](https://github.com/OpenIMSDK/Open-IM-Server/pull/437) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
 - [Update FUNDING.yml](https://github.com/OpenIMSDK/.github-private/pull/1) on [OpenIMSDK/.github-private](https://github.com/OpenIMSDK/.github-private) (1 week ago)
 - [docs: Initialize the readme file](https://github.com/kubecub/feishu-sheet-parser/pull/1) on [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) (3 weeks ago)
-- [feat: exchange tokens for the robot](https://github.com/OpenIMSDK/Open-IM-Server/pull/412) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-13 09:25:54
