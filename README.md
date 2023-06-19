@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
 - [OpenIMSDK/openim-sdk-cpp](https://github.com/OpenIMSDK/openim-sdk-cpp) -  (2 days ago)
 - [OpenIMSDK/openim-miniprogram-demo](https://github.com/OpenIMSDK/openim-miniprogram-demo) -  (2 days ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI&#43;CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton (today)
+- [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) -  (today)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python (4 days ago)
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of &#34;encoding/json&#34; (5 days ago)
-- [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams (6 days ago)
-- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [tobehardest](https://github.com/tobehardest)
 - [tlifeng](https://github.com/tlifeng)
 - [JiangZhiyu-1024](https://github.com/JiangZhiyu-1024)
 - [williamli-15](https://github.com/williamli-15)
 - [bigboss2063](https://github.com/bigboss2063)
-- [halalala222](https://github.com/halalala222)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-19 16:21:37
