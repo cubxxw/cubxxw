@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hanzhixiao](https://github.com/hanzhixiao)
 - [tobehardest](https://github.com/tobehardest)
 - [tlifeng](https://github.com/tlifeng)
 - [JiangZhiyu-1024](https://github.com/JiangZhiyu-1024)
 - [williamli-15](https://github.com/williamli-15)
-- [bigboss2063](https://github.com/bigboss2063)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-20 16:20:37
