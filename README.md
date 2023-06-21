@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [0xWhitePages](https://github.com/0xWhitePages)
+- [mouuii](https://github.com/mouuii)
 - [hanzhixiao](https://github.com/hanzhixiao)
 - [tobehardest](https://github.com/tobehardest)
 - [tlifeng](https://github.com/tlifeng)
-- [JiangZhiyu-1024](https://github.com/JiangZhiyu-1024)
-- [williamli-15](https://github.com/williamli-15)
 
 #### 🔨 Check out my recent pull requests
 
+- [style: some details](https://github.com/OpenIMSDK/openim-sdk-core/pull/88) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [feat: main test](https://github.com/OpenIMSDK/openim-sdk-core/pull/87) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [Revert &#34;style: some details&#34;](https://github.com/OpenIMSDK/openim-sdk-core/pull/86) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [style: some details](https://github.com/OpenIMSDK/openim-sdk-core/pull/85) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [wasm module design](https://github.com/OpenIMSDK/Open-IM-SDK-Core-IndexDB-Doc/pull/1) on [OpenIMSDK/Open-IM-SDK-Core-IndexDB-Doc](https://github.com/OpenIMSDK/Open-IM-SDK-Core-IndexDB-Doc) (1 day ago)
-- [style: some details](https://github.com/OpenIMSDK/openim-sdk-core/pull/83) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [style: style adjustments](https://github.com/OpenIMSDK/openim-sdk-core/pull/80) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (6 days ago)
-- [feat(v3): case-deleted models](https://github.com/OpenIMSDK/openim-sdk-core/pull/78) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 week ago)
-- [feat: test robot review](https://github.com/kubecub/log/pull/6) on [kubecub/log](https://github.com/kubecub/log) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-21 09:22:56
