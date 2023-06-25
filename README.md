@@ -42,8 +42,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [kubecub/.github](https://github.com/kubecub/.github) -  (1 day ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (6 days ago)
@@ -54,7 +54,7 @@
 - [cubxxw/k8s-iam](https://github.com/cubxxw/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)   
 - [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods.
 - [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
-- [cubxxw/Goalng-interview-QA](https://github.com/cubxxw/Goalng-interview-QA) - 🔥 go语言的面试题库，采用使用actions自动pr
+- [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
 
 #### ⭐ Check out my recent stars
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-25 16:22:25
