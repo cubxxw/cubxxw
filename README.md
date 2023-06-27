@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [OpenIMSDK/openim-miniprogram-demo](https://github.com/OpenIMSDK/openim-miniprogram-demo) -  (1 day ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 days ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (3 days ago)
-- [kubecub/.github](https://github.com/kubecub/.github) -  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services (today)
+- [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  (today)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (3 days ago)
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI&#43;CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton (1 week ago)
 - [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) -  (1 week ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 week ago)
-- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-27 16:23:55
