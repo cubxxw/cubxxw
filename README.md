@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mrljoy](https://github.com/mrljoy)
 - [BanTanger](https://github.com/BanTanger)
 - [0xWhitePages](https://github.com/0xWhitePages)
 - [mouuii](https://github.com/mouuii)
 - [hanzhixiao](https://github.com/hanzhixiao)
-- [tobehardest](https://github.com/tobehardest)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-27 09:43:20
