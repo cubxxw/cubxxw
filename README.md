@@ -42,7 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
 - [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (today)
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (today)
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services (1 day ago)
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  (1 day ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (4 days ago)
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI&#43;CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton (1 week ago)
-- [jenkins-x/lighthouse](https://github.com/jenkins-x/lighthouse) -  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: make fix](https://github.com/OpenIMSDK/OpenKF/pull/33) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
 - [Update assigness.yml](https://github.com/kubecub/log/pull/30) on [kubecub/log](https://github.com/kubecub/log) (today)
 - [Update assigness.yml](https://github.com/kubecub/log/pull/27) on [kubecub/log](https://github.com/kubecub/log) (today)
 - [Update auto-pr-assign.yml](https://github.com/kubecub/log/pull/25) on [kubecub/log](https://github.com/kubecub/log) (today)
 - [Create n](https://github.com/kubecub/log/pull/24) on [kubecub/log](https://github.com/kubecub/log) (today)
-- [feat: add script license](https://github.com/OpenIMSDK/OpenKF/pull/17) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-28 22:16:56
