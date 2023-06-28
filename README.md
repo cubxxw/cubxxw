@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [OpenIMSDK/openim-miniprogram-demo](https://github.com/OpenIMSDK/openim-miniprogram-demo) -  (2 days ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update assigness.yml](https://github.com/kubecub/log/pull/30) on [kubecub/log](https://github.com/kubecub/log) (today)
+- [Update assigness.yml](https://github.com/kubecub/log/pull/27) on [kubecub/log](https://github.com/kubecub/log) (today)
+- [Update auto-pr-assign.yml](https://github.com/kubecub/log/pull/25) on [kubecub/log](https://github.com/kubecub/log) (today)
+- [Create n](https://github.com/kubecub/log/pull/24) on [kubecub/log](https://github.com/kubecub/log) (today)
 - [feat: add script license](https://github.com/OpenIMSDK/OpenKF/pull/17) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (2 days ago)
-- [feat: branch save](https://github.com/kubecub/github-label-syncer/pull/54) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (4 days ago)
-- [feat: enhance automated review for codeowners](https://github.com/OpenIMSDK/OpenKF/pull/11) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (4 days ago)
-- [Revert &#34;2 wasm&#34;](https://github.com/OpenIMSDK/openim-sdk-core/pull/89) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 week ago)
-- [style: some details](https://github.com/OpenIMSDK/openim-sdk-core/pull/88) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-28 09:43:15
