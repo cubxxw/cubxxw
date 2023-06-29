@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [V3 - main a big refactoring effort](https://github.com/OpenIMSDK/Open-IM-Server/pull/454) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [cicd: test ci and add gpt key](https://github.com/OpenIMSDK/OpenKF/pull/38) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
 - [feat: test github labels](https://github.com/kubecub/github-label-syncer/pull/63) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (today)
+- [feat: origanization](https://github.com/OpenIMSDK/chat/pull/2) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [fix: make fix](https://github.com/OpenIMSDK/OpenKF/pull/33) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
-- [Update assigness.yml](https://github.com/kubecub/log/pull/30) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
-- [Update assigness.yml](https://github.com/kubecub/log/pull/27) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-29 16:24:27
