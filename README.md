@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (today)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 day ago)
-- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
 - [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [kubecub/log](https://github.com/kubecub/log) - Based on the zap encapsulated log, to achieve more functions.  (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go. (1 day ago)
 - [aws/aws-cli](https://github.com/aws/aws-cli) - Universal Command Line Interface for Amazon Web Services (2 days ago)
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows  (2 days ago)
 - [actions/setup-go](https://github.com/actions/setup-go) - Set up your GitHub Actions workflow with a specific version of Go (5 days ago)
-- [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI&#43;CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [cicd: test ci and add gpt key](https://github.com/OpenIMSDK/OpenKF/pull/38) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
+- [feat: test github labels](https://github.com/kubecub/github-label-syncer/pull/63) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (today)
 - [fix: make fix](https://github.com/OpenIMSDK/OpenKF/pull/33) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
 - [Update assigness.yml](https://github.com/kubecub/log/pull/30) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
 - [Update assigness.yml](https://github.com/kubecub/log/pull/27) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
-- [Update auto-pr-assign.yml](https://github.com/kubecub/log/pull/25) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
-- [Create n](https://github.com/kubecub/log/pull/24) on [kubecub/log](https://github.com/kubecub/log) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-06-29 09:38:25
