@@ -42,8 +42,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (2 days ago)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) -  (2 days ago)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
 - [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (3 days ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (3 days ago)
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-02 09:48:05
