@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add logic to deploy images](https://github.com/OpenIMSDK/Open-IM-Server/pull/497) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: docker file path](https://github.com/OpenIMSDK/Open-IM-Server/pull/495) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: docker file path](https://github.com/OpenIMSDK/Open-IM-Server/pull/492) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [feat: add the changelog](https://github.com/OpenIMSDK/Open-IM-Server/pull/490) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [Revert &#34;feat: add test function about user login&#34;](https://github.com/OpenIMSDK/openim-sdk-core/pull/97) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [Revert &#34;feat: add test function about user login&#34;](https://github.com/OpenIMSDK/openim-sdk-core/pull/96) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-11 22:17:24
