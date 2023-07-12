@@ -44,7 +44,7 @@
 
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
-- [openkf/website](https://github.com/openkf/website) - openkf docs (1 day ago)
+- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/ (1 day ago)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (2 days ago)
 - [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 week ago)
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/522) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add code](https://github.com/OpenIMSDK/Open-IM-Server/pull/519) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/515) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/514) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [Delete .idea directory](https://github.com/OpenIMSDK/Open-IM-Server/pull/507) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [fix: fix start scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/501) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: add logic to deploy images](https://github.com/OpenIMSDK/Open-IM-Server/pull/497) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix: docker file path](https://github.com/OpenIMSDK/Open-IM-Server/pull/495) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix: docker file path](https://github.com/OpenIMSDK/Open-IM-Server/pull/492) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-12 16:23:36
