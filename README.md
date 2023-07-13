@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/ (2 days ago)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (3 days ago)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: scripts and release](https://github.com/OpenIMSDK/Open-IM-Server/pull/552) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [Release/v3 test](https://github.com/OpenIMSDK/Open-IM-Server/pull/551) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add log changelog file](https://github.com/OpenIMSDK/openim-sdk-core/pull/111) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [feat: add test file](https://github.com/OpenIMSDK/Open-IM-Server/pull/540) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [feat: add scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/525) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: add the changelog](https://github.com/OpenIMSDK/OpenKF/pull/96) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
-- [feat: add the changelog](https://github.com/OpenIMSDK/OpenKF/pull/95) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
-- [Update project-progress.yml](https://github.com/OpenIMSDK/OpenKF/pull/93) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
-- [fix: docs link](https://github.com/OpenIMSDK/OpenKF/pull/91) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-13 16:23:09
