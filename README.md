@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Revert &#34;fix: implement of GetUsersOnlineStatus (#567)&#34;](https://github.com/OpenIMSDK/Open-IM-Server/pull/571) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/564) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [fix: delete batch build all file](https://github.com/OpenIMSDK/Open-IM-Server/pull/561) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/558) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: makefile in windows goos](https://github.com/OpenIMSDK/OpenKF/pull/109) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
-- [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/556) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: fix format issues](https://github.com/MC-kanon/OpenKF/pull/1) on [MC-kanon/OpenKF](https://github.com/MC-kanon/OpenKF) (today)
-- [fix: scripts and release](https://github.com/OpenIMSDK/Open-IM-Server/pull/552) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-14 16:22:52
