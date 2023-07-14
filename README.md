@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
+- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (today)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 day ago)
-- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/ (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/558) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [fix: makefile in windows goos](https://github.com/OpenIMSDK/OpenKF/pull/109) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
+- [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/556) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: fix format issues](https://github.com/MC-kanon/OpenKF/pull/1) on [MC-kanon/OpenKF](https://github.com/MC-kanon/OpenKF) (today)
 - [fix: scripts and release](https://github.com/OpenIMSDK/Open-IM-Server/pull/552) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [Release/v3 test](https://github.com/OpenIMSDK/Open-IM-Server/pull/551) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: add log changelog file](https://github.com/OpenIMSDK/openim-sdk-core/pull/111) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [feat: add test file](https://github.com/OpenIMSDK/Open-IM-Server/pull/540) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: add scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/525) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-14 09:44:13
