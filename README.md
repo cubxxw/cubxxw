@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 week ago)
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 - [docker/metadata-action](https://github.com/docker/metadata-action) - GitHub Action to extract metadata (tags, labels) from Git reference and GitHub events for Docker (1 week ago)
 - [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 week ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-15 09:43:01
