@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [openimbot](https://github.com/openimbot)
 - [FlyerHao](https://github.com/FlyerHao)
 - [martinezyh2077](https://github.com/martinezyh2077)
 - [g6619563](https://github.com/g6619563)
 - [uyarn](https://github.com/uyarn)
-- [kaiiak](https://github.com/kaiiak)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-18 16:22:20
