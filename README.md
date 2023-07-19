@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (today)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (1 day ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (1 day ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (4 days ago)
 - [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 week ago)
-- [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [sjtiuijx](https://github.com/sjtiuijx)
 - [xjaa](https://github.com/xjaa)
 - [openimbot](https://github.com/openimbot)
 - [FlyerHao](https://github.com/FlyerHao)
 - [martinezyh2077](https://github.com/martinezyh2077)
-- [g6619563](https://github.com/g6619563)
 
 #### 🔨 Check out my recent pull requests
 
+- [add parameter check](https://github.com/OpenIMSDK/chat/pull/27) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [Update README.md](https://github.com/OpenIMSDK/openim-sdk-core/pull/132) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [fix: chat release path](https://github.com/OpenIMSDK/chat/pull/25) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [Revert &#34;fix: implement of GetUsersOnlineStatus (#567)&#34;](https://github.com/OpenIMSDK/Open-IM-Server/pull/571) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (5 days ago)
 - [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/564) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (5 days ago)
-- [fix: delete batch build all file](https://github.com/OpenIMSDK/Open-IM-Server/pull/561) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-19 16:20:10
