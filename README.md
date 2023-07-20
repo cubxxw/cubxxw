@@ -42,9 +42,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (today)
 - [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
 - [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (1 day ago)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (1 day ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 days ago)
 - [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [haoside666](https://github.com/haoside666)
 - [sjtiuijx](https://github.com/sjtiuijx)
 - [xjaa](https://github.com/xjaa)
 - [openimbot](https://github.com/openimbot)
 - [FlyerHao](https://github.com/FlyerHao)
-- [martinezyh2077](https://github.com/martinezyh2077)
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add code owners](https://github.com/OpenIMSDK/openim-sdk-core/pull/144) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [feat: add feature #141](https://github.com/OpenIMSDK/openim-sdk-core/pull/143) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [feat: add feature](https://github.com/OpenIMSDK/openim-sdk-core/pull/138) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [add parameter check](https://github.com/OpenIMSDK/chat/pull/27) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
 - [Update README.md](https://github.com/OpenIMSDK/openim-sdk-core/pull/132) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [fix: chat release path](https://github.com/OpenIMSDK/chat/pull/25) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Revert &#34;fix: implement of GetUsersOnlineStatus (#567)&#34;](https://github.com/OpenIMSDK/Open-IM-Server/pull/571) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (6 days ago)
-- [feat: Add light mode and dark mode.(#89)](https://github.com/OpenIMSDK/Open-IM-Server/pull/564) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-20 09:18:51
