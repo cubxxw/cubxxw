@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (2 days ago)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (3 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 days ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (6 days ago)
-- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-21 22:15:02
