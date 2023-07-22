@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (1 day ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (2 days ago)
+- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (2 days ago)
-- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (3 days ago)
-- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (3 days ago)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (6 days ago)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (3 days ago)
+- [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (4 days ago)
+- [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (4 days ago)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add chat release](https://github.com/OpenIMSDK/chat/pull/44) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
-- [feat: add release](https://github.com/OpenIMSDK/openim-sdk-core/pull/150) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [Update README.md](https://github.com/openim-sigs/cla/pull/10) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 day ago)
-- [Update README.md](https://github.com/openim-sigs/cla/pull/9) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 day ago)
-- [Update cla.yml](https://github.com/openim-sigs/cla/pull/8) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 day ago)
+- [feat: add chat release](https://github.com/OpenIMSDK/chat/pull/44) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
+- [feat: add release](https://github.com/OpenIMSDK/openim-sdk-core/pull/150) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (2 days ago)
+- [Update README.md](https://github.com/openim-sigs/cla/pull/10) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (2 days ago)
+- [Update README.md](https://github.com/openim-sigs/cla/pull/9) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (2 days ago)
+- [Update cla.yml](https://github.com/openim-sigs/cla/pull/8) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-22 00:19:08
