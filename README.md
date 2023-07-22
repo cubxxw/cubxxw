@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (today)
 - [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [aws/aws-sdk-go](https://github.com/aws/aws-sdk-go) - AWS SDK for the Go programming language. (3 days ago)
 - [actions/cache](https://github.com/actions/cache) - Cache dependencies and build outputs in GitHub Actions (4 days ago)
 - [ko-build/ko](https://github.com/ko-build/ko) - Build and deploy Go applications (4 days ago)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-22 22:13:19
