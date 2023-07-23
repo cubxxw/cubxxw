@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (today)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (2 days ago)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add chat release](https://github.com/OpenIMSDK/chat/pull/44) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (2 days ago)
-- [feat: add release](https://github.com/OpenIMSDK/openim-sdk-core/pull/150) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (3 days ago)
-- [Update README.md](https://github.com/openim-sigs/cla/pull/10) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (3 days ago)
-- [Update README.md](https://github.com/openim-sigs/cla/pull/9) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (3 days ago)
-- [Update cla.yml](https://github.com/openim-sigs/cla/pull/8) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (3 days ago)
+- [Update README.md](https://github.com/kubecub/go-project-layout/pull/78) on [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) (today)
+- [Create auto-assign-issue.yml](https://github.com/kubecub/go-project-layout/pull/76) on [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) (today)
+- [Update cla.yml](https://github.com/kubecub/github-label-syncer/pull/91) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (today)
+- [Update cla.yml](https://github.com/kubecub/github-label-syncer/pull/89) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (today)
+- [fix: actions milestones auto](https://github.com/OpenIMSDK/Open-IM-Server/pull/638) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-23 16:18:44
