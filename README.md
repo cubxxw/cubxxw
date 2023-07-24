@@ -43,9 +43,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (1 day ago)
 - [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (1 day ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 
 #### 🌱 Check out my recent projects
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [LonlyCat](https://github.com/LonlyCat)
 - [haoside666](https://github.com/haoside666)
 - [sjtiuijx](https://github.com/sjtiuijx)
 - [xjaa](https://github.com/xjaa)
 - [openimbot](https://github.com/openimbot)
-- [FlyerHao](https://github.com/FlyerHao)
 
 #### 🔨 Check out my recent pull requests
 
+- [Delete auto-release.yml](https://github.com/OpenIMSDK/Open-IM-Server/pull/651) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add file:](https://github.com/OpenIMSDK/Open-IM-Server/pull/650) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add file:](https://github.com/OpenIMSDK/Open-IM-Server/pull/648) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: actions milestones auto](https://github.com/OpenIMSDK/Open-IM-Server/pull/642) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: actions milestones auto](https://github.com/OpenIMSDK/Open-IM-Server/pull/640) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [Update README.md](https://github.com/kubecub/go-project-layout/pull/78) on [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) (1 day ago)
-- [Create auto-assign-issue.yml](https://github.com/kubecub/go-project-layout/pull/76) on [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) (1 day ago)
-- [Update cla.yml](https://github.com/kubecub/github-label-syncer/pull/91) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-24 16:21:33
