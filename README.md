@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 🐋 Docker, Kubernetes, Cloud Native learning docs with vuepress2.0.    (2 days ago)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (2 days ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (4 days ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
+- [OpenIMSDK/k8s-jenkins](https://github.com/OpenIMSDK/k8s-jenkins) -  (today)
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (today)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 
 #### 🌱 Check out my recent projects
 
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [shendaoshu](https://github.com/shendaoshu)
 - [LonlyCat](https://github.com/LonlyCat)
 - [haoside666](https://github.com/haoside666)
 - [sjtiuijx](https://github.com/sjtiuijx)
 - [xjaa](https://github.com/xjaa)
-- [openimbot](https://github.com/openimbot)
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add test format](https://github.com/OpenIMSDK/Open-IM-Server/pull/657) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [test: net and endless replace](https://github.com/OpenIMSDK/OpenKF/pull/137) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
 - [Delete auto-release.yml](https://github.com/OpenIMSDK/Open-IM-Server/pull/651) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 - [feat: add file:](https://github.com/OpenIMSDK/Open-IM-Server/pull/650) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 - [feat: add file:](https://github.com/OpenIMSDK/Open-IM-Server/pull/648) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix: actions milestones auto](https://github.com/OpenIMSDK/Open-IM-Server/pull/642) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix: actions milestones auto](https://github.com/OpenIMSDK/Open-IM-Server/pull/640) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-25 09:26:41
