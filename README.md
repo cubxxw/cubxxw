@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
+- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (today)
 - [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
 - [openimbot/openimbot](https://github.com/openimbot/openimbot) -  (1 day ago)
 - [OpenIMSDK/k8s-jenkins](https://github.com/OpenIMSDK/k8s-jenkins) -  (2 days ago)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: config env optimize](https://github.com/OpenIMSDK/Open-IM-Server/pull/683) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: config env optimize](https://github.com/OpenIMSDK/Open-IM-Server/pull/680) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add openim log](https://github.com/OpenIMSDK/Open-IM-Server/pull/679) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [docs: update README.md install](https://github.com/OpenIMSDK/Open-IM-Server/pull/673) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 - [docs: update CODEOWNERS](https://github.com/OpenIMSDK/Open-IM-Server/pull/670) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [Update README.md](https://github.com/OpenIMSDK/Open-IM-Server/pull/669) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: add test format](https://github.com/OpenIMSDK/Open-IM-Server/pull/657) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
-- [test: net and endless replace](https://github.com/OpenIMSDK/OpenKF/pull/137) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-27 09:11:04
