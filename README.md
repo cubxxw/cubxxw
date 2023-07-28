@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: test actions](https://github.com/OpenIMSDK/chat/pull/71) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [Feat/test project](https://github.com/OpenIMSDK/chat/pull/70) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [fix: docker file fix](https://github.com/OpenIMSDK/Open-IM-Server/pull/692) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [docs: add readme docs](https://github.com/OpenIMSDK/Open-IM-Server/pull/691) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [docs: add readme docs](https://github.com/OpenIMSDK/Open-IM-Server/pull/690) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [Fix/docker images](https://github.com/OpenIMSDK/Open-IM-Server/pull/689) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-28 16:19:43
