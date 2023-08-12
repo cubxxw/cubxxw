@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [OpenIMSDK/.github](https://github.com/OpenIMSDK/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
+- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [docker/build-push-action](https://github.com/docker/build-push-action) - GitHub Action to build and push Docker images with Buildx (today)
-- [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Community maintained clone of https://github.com/dgrijalva/jwt-go (3 days ago)
-- [inconshreveable/ngrok](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost (4 days ago)
-- [OpenIMSDK/openim-charts](https://github.com/OpenIMSDK/openim-charts) - OpenIM-Charts: Kubernetes-ready Helm charts for deploying OpenIM, an open-source instant messaging system. Simplify deployment and management of scalable and secure IM infrastructure on Kubernetes. (6 days ago)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 week ago)
+- [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (2 days ago)
+- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (3 days ago)
+- [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (3 days ago)
+- [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. (3 days ago)
+- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (1 week ago)
 
 #### 👯 Check out my recent followers
 
-- [JOSH11300](https://github.com/JOSH11300)
-- [shendaoshu](https://github.com/shendaoshu)
-- [LonlyCat](https://github.com/LonlyCat)
-- [haoside666](https://github.com/haoside666)
-- [sjtiuijx](https://github.com/sjtiuijx)
+- [asimali4719763](https://github.com/asimali4719763)
+- [shivvamm](https://github.com/shivvamm)
+- [Bafson2020](https://github.com/Bafson2020)
+- [fosilg12](https://github.com/fosilg12)
+- [euansu123](https://github.com/euansu123)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: test actions](https://github.com/OpenIMSDK/chat/pull/71) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
-- [Feat/test project](https://github.com/OpenIMSDK/chat/pull/70) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
-- [fix: docker file fix](https://github.com/OpenIMSDK/Open-IM-Server/pull/692) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [docs: add readme docs](https://github.com/OpenIMSDK/Open-IM-Server/pull/691) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [docs: add readme docs](https://github.com/OpenIMSDK/Open-IM-Server/pull/690) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [Create OpenIM_Remote_Work_Culture_Guide-zh_CN.md](https://github.com/openim-sigs/cla/pull/12) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 day ago)
+- [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/136) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (3 days ago)
+- [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/135) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (3 days ago)
+- [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/134) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (3 days ago)
+- [fix: fix bin tools path](https://github.com/OpenIMSDK/Open-IM-Server/pull/825) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -86,7 +86,7 @@
 
 - [高级的 Githook 设计](https://nsddd.top/archives/githook) (2 months ago)
 - [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (3 months ago)
-- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (3 months ago)
+- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (4 months ago)
 - [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (4 months ago)
 - [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (4 months ago)
 - [ Istio 高级流量管理](https://nsddd.top/archives/istio) (4 months ago)
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-07-28 22:13:49
