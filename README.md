@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [AviralKG](https://github.com/AviralKG)
 - [asimali4719763](https://github.com/asimali4719763)
 - [shivvamm](https://github.com/shivvamm)
 - [Bafson2020](https://github.com/Bafson2020)
 - [fosilg12](https://github.com/fosilg12)
-- [euansu123](https://github.com/euansu123)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-13 16:17:31
