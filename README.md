@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (today)
+- [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 days ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (3 days ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (3 days ago)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (5 days ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (today)
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (4 days ago)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (5 days ago)
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (5 days ago)
 - [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly. (5 days ago)
-- [onsi/ginkgo](https://github.com/onsi/ginkgo) - A Modern Testing Framework for Go (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-14 09:02:27
