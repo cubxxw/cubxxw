@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [zivyou](https://github.com/zivyou)
 - [AviralKG](https://github.com/AviralKG)
 - [asimali4719763](https://github.com/asimali4719763)
 - [shivvamm](https://github.com/shivvamm)
 - [Bafson2020](https://github.com/Bafson2020)
-- [fosilg12](https://github.com/fosilg12)
 
 #### 🔨 Check out my recent pull requests
 
+- [Update docker-compose.yaml](https://github.com/OpenIMSDK/Open-IM-Server/pull/868) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [Create OpenIM_Remote_Work_Culture_Guide-zh_CN.md](https://github.com/openim-sigs/cla/pull/12) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (4 days ago)
 - [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/136) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (6 days ago)
 - [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/135) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (6 days ago)
 - [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/134) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (6 days ago)
-- [fix: fix bin tools path](https://github.com/OpenIMSDK/Open-IM-Server/pull/825) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-15 09:01:33
