@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update Makefile](https://github.com/OpenIMSDK/openim-sdk-core/pull/266) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [feat: test cicd](https://github.com/OpenIMSDK/openim-sdk-core/pull/262) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [Update docker-compose.yaml](https://github.com/OpenIMSDK/Open-IM-Server/pull/868) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 days ago)
 - [Create OpenIM_Remote_Work_Culture_Guide-zh_CN.md](https://github.com/openim-sigs/cla/pull/12) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 week ago)
 - [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/136) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 week ago)
-- [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/135) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-18 16:19:19
