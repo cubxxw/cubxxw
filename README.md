@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
 - [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (4 days ago)
 - [kubecub/feishu-sheet-parser](https://github.com/kubecub/feishu-sheet-parser) - A system that monitors and tracks ESG (Environmental, Social and Governance) disclosures and ratings from various public data sources. It collects ESG data points from sources like Feishu spreadsheets and makes them available through an administrative interface. (4 days ago)
-- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: test cicd](https://github.com/OpenIMSDK/openim-sdk-core/pull/262) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
 - [Update docker-compose.yaml](https://github.com/OpenIMSDK/Open-IM-Server/pull/868) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (3 days ago)
 - [Create OpenIM_Remote_Work_Culture_Guide-zh_CN.md](https://github.com/openim-sigs/cla/pull/12) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 week ago)
 - [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/136) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 week ago)
 - [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/135) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 week ago)
-- [fix: script absolute path problem](https://github.com/OpenIMSDK/chat/pull/134) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-18 09:01:15
