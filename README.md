@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [openim-sigs/openim-docker](https://github.com/openim-sigs/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (2 days ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Release v1.2](https://github.com/OpenIMSDK/chat/pull/153) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
+- [docs: update sync file](https://github.com/OpenIMSDK/Open-IM-Server/pull/900) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/152) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [Update Makefile](https://github.com/OpenIMSDK/openim-sdk-core/pull/266) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
 - [feat: test cicd](https://github.com/OpenIMSDK/openim-sdk-core/pull/262) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [Update docker-compose.yaml](https://github.com/OpenIMSDK/Open-IM-Server/pull/868) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (4 days ago)
-- [Create OpenIM_Remote_Work_Culture_Guide-zh_CN.md](https://github.com/openim-sigs/cla/pull/12) on [openim-sigs/cla](https://github.com/openim-sigs/cla) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-19 16:18:04
