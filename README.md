@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openim-sigs/openim-docker](https://github.com/openim-sigs/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (1 day ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (2 days ago)
+- [openim-sigs/openim-docker](https://github.com/openim-sigs/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) - Instant Messaging (2 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,8 +58,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (4 days ago)
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (5 days ago)
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (5 days ago)
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (6 days ago)
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (1 week ago)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (1 week ago)
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (1 week ago)
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Release v1.2](https://github.com/OpenIMSDK/chat/pull/153) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
-- [docs: update sync file](https://github.com/OpenIMSDK/Open-IM-Server/pull/900) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/152) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
-- [Update Makefile](https://github.com/OpenIMSDK/openim-sdk-core/pull/266) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [feat: test cicd](https://github.com/OpenIMSDK/openim-sdk-core/pull/262) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
+- [Release v1.2](https://github.com/OpenIMSDK/chat/pull/153) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
+- [docs: update sync file](https://github.com/OpenIMSDK/Open-IM-Server/pull/900) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [fix: chat scripts path bug](https://github.com/OpenIMSDK/chat/pull/152) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
+- [Update Makefile](https://github.com/OpenIMSDK/openim-sdk-core/pull/266) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (2 days ago)
+- [feat: test cicd](https://github.com/OpenIMSDK/openim-sdk-core/pull/262) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-20 00:16:29
