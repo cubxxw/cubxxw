@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
-- [SmugAnn](https://github.com/SmugAnn)
-- [Shardensi](https://github.com/Shardensi)
-- [Comfyrdyn](https://github.com/Comfyrdyn)
-- [Inkshamp](https://github.com/Inkshamp)
-- [kelykayle](https://github.com/kelykayle)
+- [lilaputor](https://github.com/lilaputor)
+- [Gossipak](https://github.com/Gossipak)
+- [Beckield](https://github.com/Beckield)
+- [Bassafe](https://github.com/Bassafe)
+- [Communiquestep](https://github.com/Communiquestep)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-24 22:14:35
