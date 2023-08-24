@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openim-sigs/gh-bot](https://github.com/openim-sigs/gh-bot) -  (today)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (today)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
-- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openim-sigs/gh-bot](https://github.com/openim-sigs/gh-bot) -  (1 day ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -60,25 +60,25 @@
 
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (1 week ago)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (1 week ago)
-- [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (1 week ago)
+- [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (2 weeks ago)
 - [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (2 weeks ago)
 - [golang/tools](https://github.com/golang/tools) - [mirror] Go Tools (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [kelykayle](https://github.com/kelykayle)
 - [ppd0705](https://github.com/ppd0705)
 - [wd665544](https://github.com/wd665544)
 - [allen7wang](https://github.com/allen7wang)
 - [zivyou](https://github.com/zivyou)
-- [AviralKG](https://github.com/AviralKG)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add more test code](https://github.com/OpenIMSDK/Open-IM-Server/pull/926) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: Automate Git Tag Creation with GitHub Actions #899](https://github.com/OpenIMSDK/Open-IM-Server/pull/923) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [Docs: Update README file test](https://github.com/cubxxw/first-interaction/pull/1) on [cubxxw/first-interaction](https://github.com/cubxxw/first-interaction) (today)
-- [fix: Fix Bug related issues with OpenIM actions PR](https://github.com/OpenIMSDK/Open-IM-Server/pull/921) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [fix: images bug find tput in make demo](https://github.com/OpenIMSDK/Open-IM-Server/pull/918) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: add more test code](https://github.com/OpenIMSDK/Open-IM-Server/pull/926) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [feat: Automate Git Tag Creation with GitHub Actions #899](https://github.com/OpenIMSDK/Open-IM-Server/pull/923) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [Docs: Update README file test](https://github.com/cubxxw/first-interaction/pull/1) on [cubxxw/first-interaction](https://github.com/cubxxw/first-interaction) (1 day ago)
+- [fix: Fix Bug related issues with OpenIM actions PR](https://github.com/OpenIMSDK/Open-IM-Server/pull/921) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [fix: images bug find tput in make demo](https://github.com/OpenIMSDK/Open-IM-Server/pull/918) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-24 00:18:10
