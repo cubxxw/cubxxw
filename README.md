@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
-- [KeeperBiggm](https://github.com/KeeperBiggm)
-- [jAsptbla](https://github.com/jAsptbla)
-- [ShowMiracleInkshamp](https://github.com/ShowMiracleInkshamp)
-- [t-Wannada](https://github.com/t-Wannada)
+- [28GrinderPlace](https://github.com/28GrinderPlace)
 - [DisgruntledCat](https://github.com/DisgruntledCat)
+- [BrightDark21](https://github.com/BrightDark21)
+- [chrismikkel](https://github.com/chrismikkel)
+- [LimeTary77](https://github.com/LimeTary77)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-25 22:14:25
