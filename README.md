@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openim-sigs/gh-actions](https://github.com/openim-sigs/gh-actions) -  (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (1 day ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openim-sigs/gh-actions](https://github.com/openim-sigs/gh-actions) -  (2 days ago)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (2 days ago)
+- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (2 days ago)
+- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [lilaputor](https://github.com/lilaputor)
-- [Gossipak](https://github.com/Gossipak)
-- [Beckield](https://github.com/Beckield)
-- [Bassafe](https://github.com/Bassafe)
-- [Communiquestep](https://github.com/Communiquestep)
+- [SaviorRazu](https://github.com/SaviorRazu)
+- [Scopency](https://github.com/Scopency)
+- [Khadsr](https://github.com/Khadsr)
+- [SurrealSleek](https://github.com/SurrealSleek)
+- [Ieryptom](https://github.com/Ieryptom)
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: ncpu install](https://github.com/OpenIMSDK/Open-IM-Server/pull/936) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: add more test code](https://github.com/OpenIMSDK/Open-IM-Server/pull/926) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: Automate Git Tag Creation with GitHub Actions #899](https://github.com/OpenIMSDK/Open-IM-Server/pull/923) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [Docs: Update README file test](https://github.com/cubxxw/first-interaction/pull/1) on [cubxxw/first-interaction](https://github.com/cubxxw/first-interaction) (1 day ago)
-- [fix: Fix Bug related issues with OpenIM actions PR](https://github.com/OpenIMSDK/Open-IM-Server/pull/921) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [fix: ncpu install](https://github.com/OpenIMSDK/Open-IM-Server/pull/936) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
+- [feat: add more test code](https://github.com/OpenIMSDK/Open-IM-Server/pull/926) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
+- [feat: Automate Git Tag Creation with GitHub Actions #899](https://github.com/OpenIMSDK/Open-IM-Server/pull/923) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
+- [Docs: Update README file test](https://github.com/cubxxw/first-interaction/pull/1) on [cubxxw/first-interaction](https://github.com/cubxxw/first-interaction) (2 days ago)
+- [fix: Fix Bug related issues with OpenIM actions PR](https://github.com/OpenIMSDK/Open-IM-Server/pull/921) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-25 00:18:23
