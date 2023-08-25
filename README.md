@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [WebExotic](https://github.com/WebExotic)
+- [WolfieStoop](https://github.com/WolfieStoop)
 - [SaviorRazu](https://github.com/SaviorRazu)
 - [Scopency](https://github.com/Scopency)
 - [Khadsr](https://github.com/Khadsr)
-- [SurrealSleek](https://github.com/SurrealSleek)
-- [Ieryptom](https://github.com/Ieryptom)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-25 08:28:49
