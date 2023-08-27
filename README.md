@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ravizare](https://github.com/ravizare)
+- [ni387](https://github.com/ni387)
 - [Daniel-Saravia](https://github.com/Daniel-Saravia)
 - [Sunsidia](https://github.com/Sunsidia)
 - [orbcoder](https://github.com/orbcoder)
-- [navnathdeshmukh45](https://github.com/navnathdeshmukh45)
-- [MikeSoul21](https://github.com/MikeSoul21)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-27 09:05:47
