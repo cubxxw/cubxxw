@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (today)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
 - [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
-- [OpenIMSDK/community](https://github.com/OpenIMSDK/community) - Community Management for OpenIM (3 days ago)
-- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add openim-docker design](https://github.com/OpenIMSDK/chat/pull/172) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
+- [Update docker_start_all.sh](https://github.com/OpenIMSDK/chat/pull/171) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
+- [Update Dockerfile](https://github.com/OpenIMSDK/Open-IM-Server/pull/966) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 - [feat: add openim-docker design](https://github.com/OpenIMSDK/chat/pull/169) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [Update sync-release.yml](https://github.com/OpenIMSDK/Open-IM-Server/pull/965) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: create sync-release.yml](https://github.com/OpenIMSDK/Open-IM-Server/pull/964) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: Automating openim-docker synchronization](https://github.com/OpenIMSDK/Open-IM-Server/pull/963) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
-- [feat: Automating openim-docker synchronization](https://github.com/OpenIMSDK/Open-IM-Server/pull/962) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-28 16:21:11
