@@ -42,8 +42,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (1 day ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
 - [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (4 days ago)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (2 weeks ago)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (2 weeks ago)
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (2 weeks ago)
-- [HariSekhon/DevOps-Bash-tools](https://github.com/HariSekhon/DevOps-Bash-tools) - 1000&#43; DevOps Bash Scripts - AWS, GCP, Kubernetes, Docker, CI/CD, APIs, SQL, PostgreSQL, MySQL, Hive, Impala, Kafka, Hadoop, Jenkins, GitHub, GitLab, BitBucket, Azure DevOps, TeamCity, Spotify, MP3, LDAP, Code/Build Linting, pkg mgmt for Linux, Mac, Python, Perl, Ruby, NodeJS, Golang, Advanced dotfiles: .bashrc, .vimrc, .gitconfig, .screenrc, tmux.. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update check_all.sh](https://github.com/OpenIMSDK/chat/pull/175) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
+- [Update check_all.sh](https://github.com/cubxxw/chat/pull/5) on [cubxxw/chat](https://github.com/cubxxw/chat) (today)
+- [feat: add test file code](https://github.com/OpenIMSDK/chat/pull/174) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
+- [Update Makefile](https://github.com/OpenIMSDK/chat/pull/173) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (today)
 - [feat: add openim-docker design](https://github.com/OpenIMSDK/chat/pull/172) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Update docker_start_all.sh](https://github.com/OpenIMSDK/chat/pull/171) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Update Dockerfile](https://github.com/OpenIMSDK/Open-IM-Server/pull/966) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: add openim-docker design](https://github.com/OpenIMSDK/chat/pull/169) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Update sync-release.yml](https://github.com/OpenIMSDK/Open-IM-Server/pull/965) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-29 16:20:39
