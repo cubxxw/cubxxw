@@ -43,10 +43,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
+- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (today)
+- [cit965/.github](https://github.com/cit965/.github) - cit 配置中心 (today)
 - [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
-- [cubxxw/awesome-cs-course](https://github.com/cubxxw/awesome-cs-course) - 📚awesome：Linux、csapp、os、leetcode、web、html、css、JavaScript、git、java、python、C/C&#43;&#43;、mysql、mongodb、golang、blockchain、markdown (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,38 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (5 days ago)
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (2 weeks ago)
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (2 weeks ago)
-- [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (2 weeks ago)
+- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
+- [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (1 week ago)
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (3 weeks ago)
+- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (3 weeks ago)
+- [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [biningo](https://github.com/biningo)
 - [zredMonkey](https://github.com/zredMonkey)
 - [Lopezarman123](https://github.com/Lopezarman123)
 - [ravizare](https://github.com/ravizare)
 - [ni387](https://github.com/ni387)
-- [Daniel-Saravia](https://github.com/Daniel-Saravia)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update check_all.sh](https://github.com/OpenIMSDK/chat/pull/175) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Update check_all.sh](https://github.com/cubxxw/chat/pull/5) on [cubxxw/chat](https://github.com/cubxxw/chat) (1 day ago)
-- [feat: add test file code](https://github.com/OpenIMSDK/chat/pull/174) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [Update Makefile](https://github.com/OpenIMSDK/chat/pull/173) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (1 day ago)
-- [feat: add openim-docker design](https://github.com/OpenIMSDK/chat/pull/172) on [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) (2 days ago)
-
-#### 📜 Check out my recent blog posts
-
-
-
-- [高级的 Githook 设计](https://nsddd.top/archives/githook) (3 months ago)
-- [速读 sealos 源码 核心思想解析](https://nsddd.top/archives/sealos-source-code) (4 months ago)
-- [Kubernetes 二次开发 CRD 入门](https://nsddd.top/archives/kubernetes-crd) (4 months ago)
-- [开源之路：跨越八个阶段，成就行业佼佼者](https://nsddd.top/archives/open-source) (5 months ago)
-- [CloudNative / Kubernetes 学习资源整理](https://nsddd.top/archives/cloudnativekubernetes) (5 months ago)
-- [ Istio 高级流量管理](https://nsddd.top/archives/istio) (5 months ago)
+- [feat: set openim sdk version](https://github.com/OpenIMSDK/openim-sdk-core/pull/316) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (today)
+- [fix: fix openkf githook](https://github.com/OpenIMSDK/OpenKF/pull/172) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (today)
+- [fix: go work update go.work](https://github.com/OpenIMSDK/Open-IM-Server/pull/1012) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: Feat/rfc super imctl 924](https://github.com/OpenIMSDK/Open-IM-Server/pull/1010) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [Create README.md](https://github.com/cit965/.github/pull/1) on [cit965/.github](https://github.com/cit965/.github) (today)
 
 #### 📫 How to reach me
 
@@ -192,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-08-31 00:18:51
