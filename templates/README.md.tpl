@@ -67,13 +67,6 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 Check out my recent blog posts
-<!--zhihu：range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5 -->
-<!--blog: range rss "https://nsddd.top/rss.xml" 6-->
-{{range rss "https://nsddd.top/rss.xml" 6}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
-{{- end}}
-
 #### 📫 How to reach me
 <!-- 
 <div>
