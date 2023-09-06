@@ -42,8 +42,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (today)
 - [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
 - [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (1 day ago)
 - [cit965/.github](https://github.com/cit965/.github) - cit 配置中心 (1 day ago)
 - [OpenIMSDK/chat](https://github.com/OpenIMSDK/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: set openim sdk version](https://github.com/OpenIMSDK/openim-sdk-core/pull/316) on [OpenIMSDK/openim-sdk-core](https://github.com/OpenIMSDK/openim-sdk-core) (1 day ago)
-- [fix: fix openkf githook](https://github.com/OpenIMSDK/OpenKF/pull/172) on [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) (1 day ago)
-- [fix: go work update go.work](https://github.com/OpenIMSDK/Open-IM-Server/pull/1012) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: Feat/rfc super imctl 924](https://github.com/OpenIMSDK/Open-IM-Server/pull/1010) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [Create README.md](https://github.com/cit965/.github/pull/1) on [cit965/.github](https://github.com/cit965/.github) (1 day ago)
+- [docs: update openim readme](https://github.com/OpenIMSDK/Open-IM-Server/pull/1017) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [feat: update demo scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/1016) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (today)
+- [fix(sec): upgrade org.apache.kafka:kafka-clients to 3.4.0](https://github.com/apache/shenyu/pull/5122) on [apache/shenyu](https://github.com/apache/shenyu) (today)
+- [fix(sec): upgrade github.com/containerd/containerd to 1.6.18](https://github.com/google/gvisor/pull/9343) on [google/gvisor](https://github.com/google/gvisor) (today)
+- [fix(sec): upgrade golang.org/x/sys to 0.1.0](https://github.com/github/gh-ost/pull/1297) on [github/gh-ost](https://github.com/github/gh-ost) (today)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-06 09:03:01
