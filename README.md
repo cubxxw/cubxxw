@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [OpenIMSDK/OpenKF](https://github.com/OpenIMSDK/OpenKF) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
-- [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) - IM即时通讯 (1 day ago)
+- [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 day ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 day ago)
-- [cit965/.github](https://github.com/cit965/.github) - cit 配置中心 (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -59,7 +59,7 @@
 #### ⭐ Check out my recent stars
 
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 day ago)
-- [OpenIMSDK/openim-docker](https://github.com/OpenIMSDK/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
 - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (1 week ago)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (3 weeks ago)
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (3 weeks ago)
@@ -74,11 +74,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update openim readme](https://github.com/OpenIMSDK/Open-IM-Server/pull/1017) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [feat: update demo scripts](https://github.com/OpenIMSDK/Open-IM-Server/pull/1016) on [OpenIMSDK/Open-IM-Server](https://github.com/OpenIMSDK/Open-IM-Server) (1 day ago)
-- [fix(sec): upgrade org.apache.kafka:kafka-clients to 3.4.0](https://github.com/apache/shenyu/pull/5122) on [apache/shenyu](https://github.com/apache/shenyu) (1 day ago)
-- [fix(sec): upgrade github.com/containerd/containerd to 1.6.18](https://github.com/google/gvisor/pull/9343) on [google/gvisor](https://github.com/google/gvisor) (1 day ago)
-- [fix(sec): upgrade golang.org/x/sys to 0.1.0](https://github.com/github/gh-ost/pull/1297) on [github/gh-ost](https://github.com/github/gh-ost) (1 day ago)
+- [fix: openim-server Mirrored the pull](https://github.com/openimsdk/open-im-server/pull/1033) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: v3.2 update docker-compose.yaml](https://github.com/openimsdk/open-im-server/pull/1032) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix(release-v3.2)-docker compose fix port and host](https://github.com/openimsdk/open-im-server/pull/1029) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [docs: update openim readme](https://github.com/openimsdk/open-im-server/pull/1017) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: update demo scripts](https://github.com/openimsdk/open-im-server/pull/1016) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-07 09:03:08
