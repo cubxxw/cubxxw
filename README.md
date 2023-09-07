@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
+- [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) - Instant Messaging (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 day ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
 - [zeromicro/go-zero](https://github.com/zeromicro/go-zero) - A cloud-native Go microservices framework with cli tool for productivity. (1 day ago)
 
 #### 🌱 Check out my recent projects
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Adil223](https://github.com/Adil223)
+- [CNCSMonster](https://github.com/CNCSMonster)
 - [bearbearkeeper](https://github.com/bearbearkeeper)
 - [biningo](https://github.com/biningo)
 - [zredMonkey](https://github.com/zredMonkey)
-- [Lopezarman123](https://github.com/Lopezarman123)
-- [ravizare](https://github.com/ravizare)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix:Normal storage of stranger information (#318)](https://github.com/openimsdk/openim-sdk-core/pull/321) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (today)
+- [build: build openim server v3.2 branch update README.md](https://github.com/openimsdk/openim-docker/pull/9) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [fix: add openim server deploy](https://github.com/openimsdk/open-im-server/pull/1036) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: openim-server Mirrored the pull](https://github.com/openimsdk/open-im-server/pull/1033) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: v3.2 update docker-compose.yaml](https://github.com/openimsdk/open-im-server/pull/1032) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix(release-v3.2)-docker compose fix port and host](https://github.com/openimsdk/open-im-server/pull/1029) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [docs: update openim readme](https://github.com/openimsdk/open-im-server/pull/1017) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: update demo scripts](https://github.com/openimsdk/open-im-server/pull/1016) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-07 16:20:33
