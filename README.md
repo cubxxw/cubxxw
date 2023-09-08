@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
+- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) - Instant Messaging (1 day ago)
 
 #### 🌱 Check out my recent projects
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [m809745357](https://github.com/m809745357)
-- [EmaanMotorpointtourismandservices](https://github.com/EmaanMotorpointtourismandservices)
-- [Adil223](https://github.com/Adil223)
-- [CNCSMonster](https://github.com/CNCSMonster)
-- [bearbearkeeper](https://github.com/bearbearkeeper)
+- [gogohong726](https://github.com/gogohong726)
+- [yuha0lin](https://github.com/yuha0lin)
+- [khadidjainfoinfinity](https://github.com/khadidjainfoinfinity)
+- [Igrokturko](https://github.com/Igrokturko)
+- [eviltomato](https://github.com/eviltomato)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: set docs openim-server url address fix](https://github.com/openimsdk/open-im-server/pull/1043) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix:Normal storage of stranger information (#318)](https://github.com/openimsdk/openim-sdk-core/pull/321) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (1 day ago)
-- [build: build openim server v3.2 branch update README.md](https://github.com/openimsdk/openim-docker/pull/9) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [fix: add openim server deploy](https://github.com/openimsdk/open-im-server/pull/1036) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: openim-server Mirrored the pull](https://github.com/openimsdk/open-im-server/pull/1033) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/12) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [feat: openim-chat makefile super (#185)](https://github.com/openimsdk/chat/pull/193) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [fix: script print](https://github.com/openimsdk/chat/pull/192) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Update check_all.sh](https://github.com/openimsdk/chat/pull/191) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [fix: fix chat scripts user docker and loacl deployment update check_all.sh](https://github.com/openimsdk/chat/pull/190) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-08 16:19:34
