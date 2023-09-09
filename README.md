@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [woidzero](https://github.com/woidzero)
 - [MyGtSusi](https://github.com/MyGtSusi)
 - [Ayan189](https://github.com/Ayan189)
 - [Rafayhyder](https://github.com/Rafayhyder)
 - [AlexPankratov1992](https://github.com/AlexPankratov1992)
-- [muhammadrendysa](https://github.com/muhammadrendysa)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-09 16:16:38
