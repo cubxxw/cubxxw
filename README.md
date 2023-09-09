@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (today)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (3 days ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
 - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (2 weeks ago)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (3 weeks ago)
-- [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: AI-powered Junior Developer for small features and bug fixes. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [ImSR123](https://github.com/ImSR123)
+- [moon8bit](https://github.com/moon8bit)
+- [jwalker2024](https://github.com/jwalker2024)
+- [Russoboy](https://github.com/Russoboy)
 - [woidzero](https://github.com/woidzero)
-- [MyGtSusi](https://github.com/MyGtSusi)
-- [Ayan189](https://github.com/Ayan189)
-- [Rafayhyder](https://github.com/Rafayhyder)
-- [AlexPankratov1992](https://github.com/AlexPankratov1992)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-09 16:18:16
