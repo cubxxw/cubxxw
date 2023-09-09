@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
-- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
+- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,7 +58,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (2 days ago)
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (3 days ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
 - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (2 weeks ago)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (3 weeks ago)
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [elmasir](https://github.com/elmasir)
-- [yzt2339](https://github.com/yzt2339)
-- [sleepyowlQ](https://github.com/sleepyowlQ)
-- [gogohong726](https://github.com/gogohong726)
-- [yuha0lin](https://github.com/yuha0lin)
+- [francisuyaemesi](https://github.com/francisuyaemesi)
+- [smartmanru](https://github.com/smartmanru)
+- [diogns](https://github.com/diogns)
+- [Kokane80204](https://github.com/Kokane80204)
+- [Muhammad743758](https://github.com/Muhammad743758)
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/13) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/12) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [feat: openim-chat makefile super (#185)](https://github.com/openimsdk/chat/pull/193) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
-- [fix: script print](https://github.com/openimsdk/chat/pull/192) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/13) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
+- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/12) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
+- [feat: openim-chat makefile super (#185)](https://github.com/openimsdk/chat/pull/193) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
+- [fix: script print](https://github.com/openimsdk/chat/pull/192) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-09 00:18:29
