@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
-- [apache/shenyu](https://github.com/apache/shenyu) - Apache ShenYu is a Java native API Gateway for service proxy, protocol conversion and API governance. (1 day ago)
+- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 
 #### 🌱 Check out my recent projects
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [francisuyaemesi](https://github.com/francisuyaemesi)
-- [smartmanru](https://github.com/smartmanru)
-- [diogns](https://github.com/diogns)
-- [Kokane80204](https://github.com/Kokane80204)
-- [Muhammad743758](https://github.com/Muhammad743758)
+- [MyGtSusi](https://github.com/MyGtSusi)
+- [Ayan189](https://github.com/Ayan189)
+- [Rafayhyder](https://github.com/Rafayhyder)
+- [AlexPankratov1992](https://github.com/AlexPankratov1992)
+- [muhammadrendysa](https://github.com/muhammadrendysa)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1052) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: set openim volume](https://github.com/openimsdk/open-im-server/pull/1051) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [🎯 Optimize the deployment scheme to provide kubernetes deployment strategy](https://github.com/openimsdk/open-im-server/pull/1050) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1049) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/13) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [fix: fix openim web port](https://github.com/openimsdk/openim-docker/pull/12) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [feat: openim-chat makefile super (#185)](https://github.com/openimsdk/chat/pull/193) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [fix: script print](https://github.com/openimsdk/chat/pull/192) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-09 09:01:11
