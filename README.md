@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
-- [Tywoo96](https://github.com/Tywoo96)
-- [HellerTianhuo](https://github.com/HellerTianhuo)
-- [hentainer](https://github.com/hentainer)
-- [shaddybett](https://github.com/shaddybett)
-- [Rinasue](https://github.com/Rinasue)
+- [Akayusuf](https://github.com/Akayusuf)
+- [TsayIssian](https://github.com/TsayIssian)
+- [mrmamshad](https://github.com/mrmamshad)
+- [Mu-Nae](https://github.com/Mu-Nae)
+- [jastsmail1](https://github.com/jastsmail1)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-10 16:18:18
