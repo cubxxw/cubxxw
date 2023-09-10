@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Nazlouis](https://github.com/Nazlouis)
 - [1991a09aj](https://github.com/1991a09aj)
 - [Voldemort373](https://github.com/Voldemort373)
 - [rvydlra](https://github.com/rvydlra)
 - [MrRedaL](https://github.com/MrRedaL)
-- [Mitesh908](https://github.com/Mitesh908)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-10 08:31:19
