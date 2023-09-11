@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [hualinli](https://github.com/hualinli)
-- [outputboy](https://github.com/outputboy)
-- [parksan1127](https://github.com/parksan1127)
-- [samuelgjekic](https://github.com/samuelgjekic)
-- [Lella90](https://github.com/Lella90)
+- [DolphinQiao](https://github.com/DolphinQiao)
+- [wwmogu](https://github.com/wwmogu)
+- [gitpromax](https://github.com/gitpromax)
+- [Speedo8769](https://github.com/Speedo8769)
+- [TeaSage](https://github.com/TeaSage)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix docker compose file](https://github.com/openimsdk/open-im-server/pull/1055) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix(sec): upgrade org.apache.commons:commons-dbcp2 to 2.9.0](https://github.com/apache/shardingsphere-elasticjob/pull/2255) on [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) (today)
+- [fix(sec): upgrade org.yaml:snakeyaml to 2.0](https://github.com/alibaba/canal/pull/4873) on [alibaba/canal](https://github.com/alibaba/canal) (today)
 - [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1052) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [fix: set openim volume](https://github.com/openimsdk/open-im-server/pull/1051) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [🎯 Optimize the deployment scheme to provide kubernetes deployment strategy](https://github.com/openimsdk/open-im-server/pull/1050) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1049) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-11 09:04:03
