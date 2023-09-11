@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openim-sigs/.github](https://github.com/openim-sigs/.github) - OpenIM Sigs (1 day ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
-- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (1 day ago)
+- [openim-sigs/.github](https://github.com/openim-sigs/.github) - OpenIM Sigs (2 days ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
+- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,27 +58,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 day ago)
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (4 days ago)
+- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (2 days ago)
+- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (5 days ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
 - [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (2 weeks ago)
 - [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
-- [Akayusuf](https://github.com/Akayusuf)
-- [TsayIssian](https://github.com/TsayIssian)
-- [mrmamshad](https://github.com/mrmamshad)
-- [Mu-Nae](https://github.com/Mu-Nae)
-- [jastsmail1](https://github.com/jastsmail1)
+- [outputboy](https://github.com/outputboy)
+- [parksan1127](https://github.com/parksan1127)
+- [samuelgjekic](https://github.com/samuelgjekic)
+- [Lella90](https://github.com/Lella90)
+- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1052) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: set openim volume](https://github.com/openimsdk/open-im-server/pull/1051) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [🎯 Optimize the deployment scheme to provide kubernetes deployment strategy](https://github.com/openimsdk/open-im-server/pull/1050) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1049) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1052) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [fix: set openim volume](https://github.com/openimsdk/open-im-server/pull/1051) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [🎯 Optimize the deployment scheme to provide kubernetes deployment strategy](https://github.com/openimsdk/open-im-server/pull/1050) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1049) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [fix: openim logs release v3.3](https://github.com/openimsdk/open-im-server/pull/1048) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-11 00:17:25
