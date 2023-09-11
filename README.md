@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
 - [openim-sigs/.github](https://github.com/openim-sigs/.github) - OpenIM Sigs (2 days ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
-- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [DolphinQiao](https://github.com/DolphinQiao)
-- [wwmogu](https://github.com/wwmogu)
-- [gitpromax](https://github.com/gitpromax)
-- [Speedo8769](https://github.com/Speedo8769)
-- [TeaSage](https://github.com/TeaSage)
+- [panoskazantzis](https://github.com/panoskazantzis)
+- [HeRui0813](https://github.com/HeRui0813)
+- [iforever0](https://github.com/iforever0)
+- [814471489](https://github.com/814471489)
+- [FelixcanoC](https://github.com/FelixcanoC)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1056) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Docs: Update LICENSE about dbcp2](https://github.com/cubxxw/shardingsphere-elasticjob/pull/2) on [cubxxw/shardingsphere-elasticjob](https://github.com/cubxxw/shardingsphere-elasticjob) (today)
 - [fix: fix docker compose file](https://github.com/openimsdk/open-im-server/pull/1055) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix(sec): upgrade org.apache.commons:commons-dbcp2 to 2.9.0](https://github.com/apache/shardingsphere-elasticjob/pull/2255) on [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) (today)
 - [fix(sec): upgrade org.yaml:snakeyaml to 2.0](https://github.com/alibaba/canal/pull/4873) on [alibaba/canal](https://github.com/alibaba/canal) (today)
-- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1052) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [fix: set openim volume](https://github.com/openimsdk/open-im-server/pull/1051) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-11 16:21:08
