@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [honeycodeme](https://github.com/honeycodeme)
 - [panoskazantzis](https://github.com/panoskazantzis)
 - [HeRui0813](https://github.com/HeRui0813)
 - [iforever0](https://github.com/iforever0)
 - [814471489](https://github.com/814471489)
-- [FelixcanoC](https://github.com/FelixcanoC)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-11 22:15:16
