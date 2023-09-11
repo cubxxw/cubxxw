@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [hualinli](https://github.com/hualinli)
 - [outputboy](https://github.com/outputboy)
 - [parksan1127](https://github.com/parksan1127)
 - [samuelgjekic](https://github.com/samuelgjekic)
 - [Lella90](https://github.com/Lella90)
-- [jeffersonsimaogoncalves](https://github.com/jeffersonsimaogoncalves)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-11 08:29:51
