@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
-- [celestelueur](https://github.com/celestelueur)
-- [34Thesoyit](https://github.com/34Thesoyit)
-- [NoteNumber1x](https://github.com/NoteNumber1x)
-- [Campass7Stripper](https://github.com/Campass7Stripper)
-- [Sleeventi-p](https://github.com/Sleeventi-p)
+- [Nicklonlee](https://github.com/Nicklonlee)
+- [jetngu24](https://github.com/jetngu24)
+- [VitalBee-Blueba](https://github.com/VitalBee-Blueba)
+- [RavenSteru](https://github.com/RavenSteru)
+- [76Wasgrou](https://github.com/76Wasgrou)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-12 22:15:16
