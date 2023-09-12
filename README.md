@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
+- [FlashHi-s](https://github.com/FlashHi-s)
+- [Sityqsouv](https://github.com/Sityqsouv)
+- [ChickNumero-j](https://github.com/ChickNumero-j)
 - [bFestiveForlife](https://github.com/bFestiveForlife)
 - [Lawrt-Gament](https://github.com/Lawrt-Gament)
-- [Kamingah](https://github.com/Kamingah)
-- [BurrofillHenryko](https://github.com/BurrofillHenryko)
-- [LeonMisterj](https://github.com/LeonMisterj)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-12 08:28:24
