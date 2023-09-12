@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [cit965/kubecit-service](https://github.com/cit965/kubecit-service) -  (today)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
-- [openim-sigs/.github](https://github.com/openim-sigs/.github) - OpenIM Sigs (3 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework (1 day ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 
 #### 🌱 Check out my recent projects
@@ -66,19 +66,19 @@
 
 #### 👯 Check out my recent followers
 
-- [FlashHi-s](https://github.com/FlashHi-s)
-- [Sityqsouv](https://github.com/Sityqsouv)
-- [ChickNumero-j](https://github.com/ChickNumero-j)
-- [bFestiveForlife](https://github.com/bFestiveForlife)
-- [Lawrt-Gament](https://github.com/Lawrt-Gament)
+- [wasi-creator](https://github.com/wasi-creator)
+- [Guidema-Deltatana](https://github.com/Guidema-Deltatana)
+- [Comfyre-VitalBee](https://github.com/Comfyre-VitalBee)
+- [dPrecisePress](https://github.com/dPrecisePress)
+- [ThegaSeenTrickedSilly](https://github.com/ThegaSeenTrickedSilly)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [docs: update readme about check](https://github.com/openimsdk/chat/pull/199) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1056) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [Docs: Update LICENSE about dbcp2](https://github.com/cubxxw/shardingsphere-elasticjob/pull/2) on [cubxxw/shardingsphere-elasticjob](https://github.com/cubxxw/shardingsphere-elasticjob) (1 day ago)
 - [fix: fix docker compose file](https://github.com/openimsdk/open-im-server/pull/1055) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix(sec): upgrade org.apache.commons:commons-dbcp2 to 2.9.0](https://github.com/apache/shardingsphere-elasticjob/pull/2255) on [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) (1 day ago)
-- [fix(sec): upgrade org.yaml:snakeyaml to 2.0](https://github.com/alibaba/canal/pull/4873) on [alibaba/canal](https://github.com/alibaba/canal) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-12 09:01:39
