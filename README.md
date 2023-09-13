@@ -42,10 +42,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [cit965/kubecit-service](https://github.com/cit965/kubecit-service) -  (1 day ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 - [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework (2 days ago)
 
 #### 🌱 Check out my recent projects
@@ -66,11 +66,11 @@
 
 #### 👯 Check out my recent followers
 
-- [xMatrixIntcat](https://github.com/xMatrixIntcat)
-- [83-Wotifra](https://github.com/83-Wotifra)
-- [QuantTrendyGotReptile](https://github.com/QuantTrendyGotReptile)
-- [CookyPeach81](https://github.com/CookyPeach81)
-- [Reliafutun](https://github.com/Reliafutun)
+- [CarimedPlanetGazer](https://github.com/CarimedPlanetGazer)
+- [SovyFibeiryi](https://github.com/SovyFibeiryi)
+- [CampassDiagonalLipsx](https://github.com/CampassDiagonalLipsx)
+- [CornySlipLogicDot](https://github.com/CornySlipLogicDot)
+- [LucytoEpiclife](https://github.com/LucytoEpiclife)
 
 #### 🔨 Check out my recent pull requests
 
@@ -181,4 +181,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-13 09:04:28
