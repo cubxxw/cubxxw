@@ -27,8 +27,8 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  <a href="https://www.linkedin.com/in/cubxxw" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <img src="http://sm.nsddd.top/sm202309161903134.svg" width="26px"/>
   </a>
   &emsp;
   <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
@@ -42,43 +42,53 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [cit965/kubecit-service](https://github.com/cit965/kubecit-service) -  (1 day ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (2 days ago)
-- [apache/shardingsphere-elasticjob](https://github.com/apache/shardingsphere-elasticjob) - Distributed scheduled job framework (2 days ago)
+- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.top (today)
+- [openim/.github](https://github.com/openim/.github) -  (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [cit965/kubecit-service](https://github.com/cit965/kubecit-service) -  (4 days ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.top
 - [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 - [cubxxw/k8s-iam](https://github.com/cubxxw/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)   
 - [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods.
 - [cubxxw/k3s-rootfs](https://github.com/cubxxw/k3s-rootfs) - ⚡ Some rootfs, runtime modules about k3s
-- [cubxxw/cubgo-os](https://github.com/cubxxw/cubgo-os) -  ⚡cubgo-os（幼兽操作系统）由Go语言开发，可以运行基础应用~
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (4 days ago)
+- [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 week ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 week ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 weeks ago)
-- [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (2 weeks ago)
-- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (4 weeks ago)
+- [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (3 weeks ago)
+- [alibaba/nacos](https://github.com/alibaba/nacos) - an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications. (1 month ago)
 
 #### 👯 Check out my recent followers
 
-- [CarimedPlanetGazer](https://github.com/CarimedPlanetGazer)
-- [SovyFibeiryi](https://github.com/SovyFibeiryi)
-- [CampassDiagonalLipsx](https://github.com/CampassDiagonalLipsx)
-- [CornySlipLogicDot](https://github.com/CornySlipLogicDot)
-- [LucytoEpiclife](https://github.com/LucytoEpiclife)
+- [giaming](https://github.com/giaming)
+- [Corruptru](https://github.com/Corruptru)
+- [gassesrtyws](https://github.com/gassesrtyws)
+- [zhaiyuanhao](https://github.com/zhaiyuanhao)
+- [linlele840123](https://github.com/linlele840123)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [docs: update readme about check](https://github.com/openimsdk/chat/pull/199) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [fix: openim logs release v3.3 (#1048)](https://github.com/openimsdk/open-im-server/pull/1056) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [Docs: Update LICENSE about dbcp2](https://github.com/cubxxw/shardingsphere-elasticjob/pull/2) on [cubxxw/shardingsphere-elasticjob](https://github.com/cubxxw/shardingsphere-elasticjob) (2 days ago)
+- [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
+- [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
+- [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
+- [docs: update readme about check](https://github.com/openimsdk/chat/pull/199) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
+
+#### 📜 Check out my recent blog posts
+
+
+
+- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (today)
+- [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (today)
+- [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (today)
+- [Openim Devops Design](https://nsddd.top/posts/openim-devops-design/) (today)
+- [GoReleaser: Automate your software releases](https://nsddd.top/posts/go-release-tools/) (today)
+- [Openim Multi Process Management](https://nsddd.top/posts/openim-multi-process-management/) (today)
 
 #### 📫 How to reach me
 
@@ -181,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-13 16:20:44
