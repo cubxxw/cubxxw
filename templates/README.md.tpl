@@ -29,8 +29,8 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="https://img.icons8.com/ios-filled/256/000000/linkedin.svg" width="26px"/>
+  <a href="https://www.linkedin.com/in/cubxxw" target="_blank" alt="LinkedIn" title="LinkedIn">
+    <img src="http://sm.nsddd.top/sm202309161903134.svg" width="26px"/>
   </a>
   &emsp;
   <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
