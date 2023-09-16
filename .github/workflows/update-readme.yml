@@ -35,7 +35,7 @@ jobs:
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-          # token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
       # 使用 stefanzweifel/git-auto-commit-action@v4 操作，将生成的 README 文件提交到项目的 "main" 分支，并使用指定的用户名和邮箱记录提交记录。
       - uses: stefanzweifel/git-auto-commit-action@v4
         # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
