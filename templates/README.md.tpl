@@ -70,7 +70,7 @@
 #### 📜 Check out my recent blog posts
 <!--zhihu：range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5 -->
 <!--blog: range rss "https://nsddd.top/rss.xml" 6-->
-{{range rss "https://nsddd.top/posts/index.xml" 6}}
+{{range rss "https://rss.starerror.com/https://nsddd.top/posts/index.xml" 6}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
