@@ -42,7 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.top (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (1 day ago)
 - [openim/.github](https://github.com/openim/.github) -  (2 days ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
@@ -50,7 +50,7 @@
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.top
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/
 - [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 - [cubxxw/k8s-iam](https://github.com/cubxxw/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)   
 - [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods.
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.top (1 day ago)
+- [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes. (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 week ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (1 week ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 weeks ago)
-- [mohuishou/go-design-pattern](https://github.com/mohuishou/go-design-pattern) - golang design pattern go 设计模式实现，包含 23 种常见的设计模式实现，同时这也是极客时间-设计模式之美 的笔记 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,12 +83,12 @@
 
 
 
+- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (today)
 - [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (1 day ago)
 - [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (1 day ago)
 - [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (1 day ago)
 - [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (1 day ago)
 - [Openim Devops Design](https://nsddd.top/posts/openim-devops-design/) (1 day ago)
-- [GoReleaser: Automate your software releases](https://nsddd.top/posts/go-release-tools/) (1 day ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-17 16:18:07
