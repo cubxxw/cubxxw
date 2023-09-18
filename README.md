@@ -42,9 +42,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (today)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (2 days ago)
 - [openim/.github](https://github.com/openim/.github) -  (3 days ago)
 
@@ -83,12 +83,12 @@
 
 
 
+- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (today)
 - [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (1 day ago)
 - [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (2 days ago)
 - [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (2 days ago)
 - [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (2 days ago)
 - [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (2 days ago)
-- [Openim Devops Design](https://nsddd.top/posts/openim-devops-design/) (2 days ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-18 22:15:49
