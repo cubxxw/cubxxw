@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (today)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (1 day ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (1 day ago)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
+- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (2 days ago)
+- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (2 days ago)
+- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,9 +58,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (1 day ago)
-- [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes. (3 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (4 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
+- [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes. (4 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
 - [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 week ago)
 - [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (2 weeks ago)
 
@@ -74,7 +74,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (6 days ago)
+- [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 week ago)
 - [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [docs: update readme about check](https://github.com/openimsdk/chat/pull/199) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
@@ -83,12 +83,12 @@
 
 
 
-- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (2 days ago)
-- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (3 days ago)
-- [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (4 days ago)
-- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (4 days ago)
-- [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (4 days ago)
-- [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (4 days ago)
+- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (3 days ago)
+- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (4 days ago)
+- [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (5 days ago)
+- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (5 days ago)
+- [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (5 days ago)
+- [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (5 days ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-21 00:19:05
