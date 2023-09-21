@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (2 days ago)
 - [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (2 days ago)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,11 +58,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (today)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (2 days ago)
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes. (4 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
 - [cubxxw/course-design-of-database](https://github.com/cubxxw/course-design-of-database) - 数据库期末课程设计：数据库设计针对学籍管理系统，使用python语言和MySQL实现的，针对老师、学生、管理员用户，功能齐全，使用了hash函数单向加密等密码学技术。 (1 week ago)
-- [kubecub/community](https://github.com/kubecub/community) - 🚀 kubecub community content. developer guidelines and contribution guidelines are defined (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -74,10 +74,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update release-v3.3 code and images with bug fixes](https://github.com/openimsdk/open-im-server/pull/1113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 week ago)
 - [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
-- [docs: update readme about check](https://github.com/openimsdk/chat/pull/199) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-21 09:03:13
