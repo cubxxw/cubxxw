@@ -42,7 +42,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (2 days ago)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (3 days ago)
@@ -58,19 +58,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (today)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 day ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
 - [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
 - [openebs/openebs](https://github.com/openebs/openebs) - Leading Open Source Container Attached Storage, built using Cloud Native Architecture, simplifies running Stateful Applications on Kubernetes. (5 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [LiJoeAllen](https://github.com/LiJoeAllen)
 - [windsonsea](https://github.com/windsonsea)
 - [giaming](https://github.com/giaming)
 - [Corruptru](https://github.com/Corruptru)
 - [gassesrtyws](https://github.com/gassesrtyws)
-- [zhaiyuanhao](https://github.com/zhaiyuanhao)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-22 09:03:57
