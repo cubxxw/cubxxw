@@ -42,27 +42,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes. (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [openim-sigs/k8s-demo](https://github.com/openim-sigs/k8s-demo) - This is a case test warehouse for kubernetes (today)
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV (1 day ago)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (4 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/
 - [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 - [cubxxw/k8s-iam](https://github.com/cubxxw/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)   
-- [cubxxw/client-go](https://github.com/cubxxw/client-go) - 👀 Some examples of client-go provide invocation methods.
 
 #### ⭐ Check out my recent stars
 
+- [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (today)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io (1 day ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 day ago)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 days ago)
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-23 16:18:12
