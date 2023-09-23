@@ -42,11 +42,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (today)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
-- [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (3 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (1 day ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 day ago)
+- [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 days ago)
+- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -58,23 +58,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io (today)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (today)
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (1 day ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (1 day ago)
-- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (3 days ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io (1 day ago)
+- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 day ago)
+- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (2 days ago)
+- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (2 days ago)
+- [prometheus-community/helm-charts](https://github.com/prometheus-community/helm-charts) - Prometheus community Helm charts (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [rezkywm](https://github.com/rezkywm)
 - [Peefy](https://github.com/Peefy)
 - [LiJoeAllen](https://github.com/LiJoeAllen)
 - [windsonsea](https://github.com/windsonsea)
 - [giaming](https://github.com/giaming)
-- [Corruptru](https://github.com/Corruptru)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update release-v3.3 code and images with bug fixes](https://github.com/openimsdk/open-im-server/pull/1113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Update release-v3.3 code and images with bug fixes](https://github.com/openimsdk/open-im-server/pull/1113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 week ago)
 - [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [Fix: Fix Local Check Script to Continuously Monitor Docker Start-up a…](https://github.com/openimsdk/chat/pull/200) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
@@ -83,12 +83,12 @@
 
 
 
-- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (4 days ago)
-- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (5 days ago)
-- [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (6 days ago)
-- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (6 days ago)
-- [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (6 days ago)
-- [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (6 days ago)
+- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (5 days ago)
+- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (6 days ago)
+- [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (1 week ago)
+- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (1 week ago)
+- [Cross Platform Compilation](https://nsddd.top/posts/cross-platform-compilation/) (1 week ago)
+- [Github Actions Advanced Techniques](https://nsddd.top/posts/github-actions-advanced-techniques/) (1 week ago)
 
 #### 📫 How to reach me
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-23 00:18:46
