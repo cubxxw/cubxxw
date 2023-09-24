@@ -17,6 +17,10 @@
     <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="30px"/>
   </a>
   &emsp;
+  <a href="https://calendly.com/cubxxw" target="_blank" alt="CSDN" title="CSDN">
+    <img src="http://sm.nsddd.top/sm202309241412249.svg" width="22px"/>
+  </a>
+  &emsp;
   <a href="https://www.zhihu.com/people/3293172751" target="_blank" alt="Zhihu" title="Zhihu">
     <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
   </a>
