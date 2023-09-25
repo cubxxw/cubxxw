@@ -49,7 +49,7 @@
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes. (2 days ago)
 - [openim-sigs/k8s-demo](https://github.com/openim-sigs/k8s-demo) - This is a case test warehouse for kubernetes (2 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM即时通讯 (3 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat (3 days ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 
 #### 🌱 Check out my recent projects
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (today)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (today)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (2 days ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io (3 days ago)
 - [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (3 days ago)
-- [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content. (4 days ago)
-- [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-25 09:04:25
