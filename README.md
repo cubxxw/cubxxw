@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/charts](https://github.com/openimsdk/charts) - openim helm charts (today)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (today)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat (today)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (today)
+- [openim/.github](https://github.com/openim/.github) -  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
+- [openimsdk/charts](https://github.com/openimsdk/charts) - openim helm charts (today)
 
 #### 🌱 Check out my recent projects
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-28 22:15:51
