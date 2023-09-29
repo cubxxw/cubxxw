@@ -47,10 +47,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
+- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (today)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (today)
+- [openimsdk/charts](https://github.com/openimsdk/charts) - openim helm charts (1 day ago)
 - [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (1 day ago)
-- [openim/.github](https://github.com/openim/.github) -  (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM chat (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [GoogleCloudPlatform/oss-test-infra](https://github.com/GoogleCloudPlatform/oss-test-infra) -  (today)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (4 days ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (4 days ago)
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you&#39;re using it! (6 days ago)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - A constraint-based record &amp; functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io (1 week ago)
-- [kubernetes/ingress-nginx](https://github.com/kubernetes/ingress-nginx) - Ingress-NGINX Controller for Kubernetes (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-09-29 16:20:09
