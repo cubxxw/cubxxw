@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [googs1025](https://github.com/googs1025)
+- [mohammed-b-hassan](https://github.com/mohammed-b-hassan)
 - [whling](https://github.com/whling)
 - [ewerton336](https://github.com/ewerton336)
 - [Peefy](https://github.com/Peefy)
-- [LiJoeAllen](https://github.com/LiJoeAllen)
-- [windsonsea](https://github.com/windsonsea)
 
 #### 🔨 Check out my recent pull requests
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-03 09:04:57
