@@ -78,10 +78,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs(main): update openim readme](https://github.com/openimsdk/open-im-server/pull/1157) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [docs: update and fix docs Link](https://github.com/openimsdk/openkf/pull/204) on [openimsdk/openkf](https://github.com/openimsdk/openkf) (6 days ago)
 - [Update release-v3.3 code and images with bug fixes](https://github.com/openimsdk/open-im-server/pull/1113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
 - [docs: update en faq](https://github.com/openimsdk/openim-docker/pull/21) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 weeks ago)
-- [Update CODEOWNERS](https://github.com/openimsdk/chat/pull/203) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-07 22:13:07
