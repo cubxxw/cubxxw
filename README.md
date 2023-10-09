@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Clonumell-b](https://github.com/Clonumell-b)
+- [mCleverissu](https://github.com/mCleverissu)
+- [Postil94Cooledia](https://github.com/Postil94Cooledia)
 - [Awadabang](https://github.com/Awadabang)
 - [skankhutner42](https://github.com/skankhutner42)
-- [LVM-23](https://github.com/LVM-23)
-- [googs1025](https://github.com/googs1025)
-- [mohammed-b-hassan](https://github.com/mohammed-b-hassan)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-09 16:22:17
