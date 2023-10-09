@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat  (today)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
-- [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes. (6 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat  (1 day ago)
+- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (6 days ago)
+- [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes. (1 week ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [cncf/toc](https://github.com/cncf/toc) - ⚖️ Technical Oversight Committee (TOC) (4 days ago)
-- [cubxxw/sample-controller](https://github.com/cubxxw/sample-controller) - Repository for sample controller. Complements sample-apiserver (6 days ago)
+- [cncf/toc](https://github.com/cncf/toc) - ⚖️ Technical Oversight Committee (TOC) (5 days ago)
+- [cubxxw/sample-controller](https://github.com/cubxxw/sample-controller) - Repository for sample controller. Complements sample-apiserver (1 week ago)
 - [GoogleCloudPlatform/oss-test-infra](https://github.com/GoogleCloudPlatform/oss-test-infra) -  (1 week ago)
-- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (1 week ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (1 week ago)
+- [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (2 weeks ago)
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,10 +78,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add openim docs](https://github.com/openimsdk/open-im-server/pull/1165) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: make lint about cicd](https://github.com/openimsdk/open-im-server/pull/1161) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: Implement Enhanced File Descriptor Limit Handling in Shell Script](https://github.com/openimsdk/open-im-server/pull/1160) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [docs(main): update openim readme](https://github.com/openimsdk/open-im-server/pull/1157) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [docs: add openim docs](https://github.com/openimsdk/open-im-server/pull/1165) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix: make lint about cicd](https://github.com/openimsdk/open-im-server/pull/1161) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix: Implement Enhanced File Descriptor Limit Handling in Shell Script](https://github.com/openimsdk/open-im-server/pull/1160) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [docs(main): update openim readme](https://github.com/openimsdk/open-im-server/pull/1157) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [docs: update and fix docs Link](https://github.com/openimsdk/openkf/pull/204) on [openimsdk/openkf](https://github.com/openimsdk/openkf) (1 week ago)
 
 #### 📜 Check out my recent blog posts
@@ -90,7 +90,7 @@
 
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (1 week ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (1 week ago)
-- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (2 weeks ago)
+- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (3 weeks ago)
 - [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (3 weeks ago)
 - [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (3 weeks ago)
 - [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (3 weeks ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-09 00:16:51
