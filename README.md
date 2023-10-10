@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (today)
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️ Technical Oversight Committee (TOC) (6 days ago)
 - [cubxxw/sample-controller](https://github.com/cubxxw/sample-controller) - Repository for sample controller. Complements sample-apiserver (1 week ago)
 - [GoogleCloudPlatform/oss-test-infra](https://github.com/GoogleCloudPlatform/oss-test-infra) -  (1 week ago)
 - [datenlord/datenlord](https://github.com/datenlord/datenlord) - DatenLord, Computing Defined Storage, an application-orientated, cloud-native distributed storage system (2 weeks ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
-- [GambitLeak37](https://github.com/GambitLeak37)
-- [Communiquestaf-Stamaha](https://github.com/Communiquestaf-Stamaha)
-- [SakiMiracle0GodzillaYellow](https://github.com/SakiMiracle0GodzillaYellow)
-- [Henryko4VengeanceIs](https://github.com/Henryko4VengeanceIs)
-- [hSpearoomt](https://github.com/hSpearoomt)
+- [Jiggyough-RosesWasabi](https://github.com/Jiggyough-RosesWasabi)
+- [Thegaro42GutsyLao](https://github.com/Thegaro42GutsyLao)
+- [ScoopenliFacubing](https://github.com/ScoopenliFacubing)
+- [Scorpipeen85](https://github.com/Scorpipeen85)
+- [FullyFangc](https://github.com/FullyFangc)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-10 09:03:55
