@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [GambitLeak37](https://github.com/GambitLeak37)
+- [Communiquestaf-Stamaha](https://github.com/Communiquestaf-Stamaha)
+- [SakiMiracle0GodzillaYellow](https://github.com/SakiMiracle0GodzillaYellow)
+- [Henryko4VengeanceIs](https://github.com/Henryko4VengeanceIs)
 - [hSpearoomt](https://github.com/hSpearoomt)
-- [6HiroRoll](https://github.com/6HiroRoll)
-- [Fibeiryi-d](https://github.com/Fibeiryi-d)
-- [Mibargu-l](https://github.com/Mibargu-l)
-- [SandSly58](https://github.com/SandSly58)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-10 08:29:55
