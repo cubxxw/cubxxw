@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM SDK chat  (4 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (5 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 week ago)
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes. (1 week ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Docs(main): Add English translation for README.md](https://github.com/openimsdk/open-im-server/pull/1194) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Ensure Script Compatibility Across Different Bash Versions](https://github.com/openimsdk/open-im-server/pull/1185) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [docs: add openim docs](https://github.com/openimsdk/open-im-server/pull/1165) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [fix: make lint about cicd](https://github.com/openimsdk/open-im-server/pull/1161) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [fix: Implement Enhanced File Descriptor Limit Handling in Shell Script](https://github.com/openimsdk/open-im-server/pull/1160) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [docs(main): update openim readme](https://github.com/openimsdk/open-im-server/pull/1157) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-12 09:02:15
