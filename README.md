@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [cit965/kubecit-service](https://github.com/cit965/kubecit-service) -  (1 day ago)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (6 days ago)
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-13 22:15:26
