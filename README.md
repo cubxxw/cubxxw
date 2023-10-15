@@ -48,9 +48,9 @@
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (1 day ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -88,12 +88,12 @@
 
 
 
+- [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (1 day ago)
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (2 weeks ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (2 weeks ago)
 - [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (3 weeks ago)
 - [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (4 weeks ago)
 - [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (4 weeks ago)
-- [Open Source Contribution Guidelines](https://nsddd.top/posts/open-source-contribution-guidelines/) (4 weeks ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-15 22:13:32
