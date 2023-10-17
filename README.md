@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (today)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
+- [openim/helm-charts](https://github.com/openim/helm-charts) - OpenIM Helm Charts (today)
+- [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (1 day ago)
+- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (3 days ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 day ago)
-- [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go (1 day ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
-- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (3 days ago)
-- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (6 days ago)
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (2 days ago)
+- [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go (2 days ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (4 days ago)
+- [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF&#39;s tool to obtain certs from Let&#39;s Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol. (4 days ago)
+- [cert-manager/cert-manager](https://github.com/cert-manager/cert-manager) - Automatically provision and manage TLS certificates in Kubernetes (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,21 +78,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (3 days ago)
-- [feat: Refactor the structure of the document](https://github.com/openimsdk/docs/pull/35) on [openimsdk/docs](https://github.com/openimsdk/docs) (3 days ago)
-- [fix(release-v3.0): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1218) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [fix(release-v3.2): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1217) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [fix(release-v3.1): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1210) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (4 days ago)
+- [feat: Refactor the structure of the document](https://github.com/openimsdk/docs/pull/35) on [openimsdk/docs](https://github.com/openimsdk/docs) (4 days ago)
+- [fix(release-v3.0): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1218) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [fix(release-v3.2): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1217) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [fix(release-v3.1): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1210) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (2 days ago)
+- [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (3 days ago)
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (2 weeks ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (2 weeks ago)
 - [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (4 weeks ago)
-- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (4 weeks ago)
+- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (1 month ago)
 - [The Art of Asking Questions in Open Source Communities](https://nsddd.top/posts/the-art-of-asking-questions-in-open-source-communities/) (1 month ago)
 
 #### 📫 How to reach me
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-17 00:20:06
