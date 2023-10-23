@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openim/helm-charts](https://github.com/openim/helm-charts) - OpenIM Helm Charts (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (4 days ago)
 - [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 week ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 week ago)
 - [feat: Refactor the structure of the document](https://github.com/openimsdk/docs/pull/35) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 week ago)
 - [fix(release-v3.0): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1218) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [fix(release-v3.2): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1217) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-23 09:04:47
