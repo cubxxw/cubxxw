@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openim/helm-charts](https://github.com/openim/helm-charts) - OpenIM Helm Charts (1 day ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (4 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openim/helm-charts](https://github.com/openim/helm-charts) - OpenIM Helm Charts (2 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
 - [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (1 week ago)
 - [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (1 week ago)
 
@@ -62,8 +62,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
-- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (6 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
+- [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 week ago)
 - [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go (1 week ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
@@ -78,8 +78,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 week ago)
 - [feat: Refactor the structure of the document](https://github.com/openimsdk/docs/pull/35) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 week ago)
 - [fix(release-v3.0): fix makefile go version update image](https://github.com/openimsdk/open-im-server/pull/1218) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-24 00:18:31
