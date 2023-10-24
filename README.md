@@ -46,27 +46,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
-- [openim/helm-charts](https://github.com/openim/helm-charts) - OpenIM Helm Charts (2 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
 - [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (1 week ago)
-- [openim/website](https://github.com/openim/website) - OpenIM website and documentation repo: (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 week ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/helm-charts](https://github.com/cubxxw/helm-charts) - OpenIM Helm Charts
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/
 - [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
-- [cubxxw/k8s-iam](https://github.com/cubxxw/k8s-iam) - Kubernetes Based iam Permission Authentication and Authorization System (RBAC &amp; ABAC)   
 
 #### ⭐ Check out my recent stars
 
+- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (today)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 week ago)
 - [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go (1 week ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-24 16:20:56
