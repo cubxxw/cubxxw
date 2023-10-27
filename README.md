@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [18122487437](https://github.com/18122487437)
 - [wsmbsbbz](https://github.com/wsmbsbbz)
 - [appletv850](https://github.com/appletv850)
 - [linux2Java](https://github.com/linux2Java)
 - [aaronkan007](https://github.com/aaronkan007)
-- [binc4t](https://github.com/binc4t)
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
 - [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 weeks ago)
-- [feat: Refactor the structure of the document](https://github.com/openimsdk/docs/pull/35) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-27 16:20:05
