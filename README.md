@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts (today)
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (4 days ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 week ago)
-- [tebeka/selenium](https://github.com/tebeka/selenium) - Selenium/Webdriver client for Go (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [dongowu](https://github.com/dongowu)
 - [18122487437](https://github.com/18122487437)
 - [wsmbsbbz](https://github.com/wsmbsbbz)
 - [appletv850](https://github.com/appletv850)
 - [linux2Java](https://github.com/linux2Java)
-- [aaronkan007](https://github.com/aaronkan007)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-28 09:02:09
