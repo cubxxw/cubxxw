@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (3 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (4 days ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 week ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-28 16:18:24
