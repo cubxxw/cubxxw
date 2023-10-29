@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (3 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (4 days ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (4 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (5 days ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 week ago)
 - [openimsdk/openim-official](https://github.com/openimsdk/openim-official) -  (1 week ago)
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts (today)
-- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (4 days ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
+- [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts (1 day ago)
+- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (5 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (6 days ago)
 - [kubernetes-sigs/kustomize](https://github.com/kubernetes-sigs/kustomize) - Customization of kubernetes YAML configurations (1 week ago)
-- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 week ago)
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,9 +78,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [docs: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
-- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
+- [docs: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (5 days ago)
+- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 - [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 weeks ago)
 
@@ -88,7 +88,7 @@
 
 
 
-- [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (3 days ago)
+- [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (4 days ago)
 - [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (2 weeks ago)
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (1 month ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-29 00:16:44
