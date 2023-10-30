@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update readme docs](https://github.com/openimsdk/open-im-server/pull/1304) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [docs: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (6 days ago)
 - [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [feat: test openim cicd](https://github.com/openimsdk/docs/pull/36) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-10-30 16:20:51
