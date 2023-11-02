@@ -47,10 +47,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
 - [xuexihuang/new_gonet](https://github.com/xuexihuang/new_gonet) -  (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (today)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a variety of public clouds and on-premise environments. (today)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (4 days ago)
 - [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts (5 days ago)
 - [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (1 week ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -88,12 +88,12 @@
 
 
 
+- [Kubernetes for Kustomize Learning](https://nsddd.top/posts/kubernetes-for-kustomize-learning/) (2 days ago)
 - [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (1 week ago)
 - [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (2 weeks ago)
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (1 month ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (1 month ago)
 - [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (1 month ago)
-- [OpenIM clustering design Kubernetes deploy concludes](https://nsddd.top/posts/openim-cluster-deployment-scheme-of/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-02 16:20:06
