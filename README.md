@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [openim-sigs/openim-java-sdk](https://github.com/openim-sigs/openim-java-sdk) - The Java SDK for OpenIM is a Java-based development kit designed to provide a convenient way to integrate OpenIM. OpenIM is an open source instant messaging solution that provides developers with a complete instant messaging development solution, covering both the server and the client. (today)
+- [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (today)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 days ago)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a variety of public clouds and on-premise environments. (2 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (6 days ago)
-- [roboll/helmfile](https://github.com/roboll/helmfile) - Deploy Kubernetes Helm Charts (1 week ago)
-- [helm/chart-releaser-action](https://github.com/helm/chart-releaser-action) - A GitHub Action to turn a GitHub project into a self-hosted Helm chart repo, using helm/chart-releaser CLI tool (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: code style untidy  and update version.sh](https://github.com/kubernetes/kubernetes/pull/121725) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (today)
 - [docs: update readme docs](https://github.com/openimsdk/open-im-server/pull/1304) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 - [feat: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [feat(release-v3.4): Enhanced Build, Deployment, and Configuration Management for Optimized Performance and Automation](https://github.com/openimsdk/open-im-server/pull/1255) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-04 16:18:39
