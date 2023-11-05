@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (today)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
 - [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (2 days ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Feat/add test scripts](https://github.com/openimsdk/open-im-server/pull/1341) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: code style untidy  and update version.sh](https://github.com/kubernetes/kubernetes/pull/121725) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (1 day ago)
 - [docs: update readme docs](https://github.com/openimsdk/open-im-server/pull/1304) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 - [feat: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
-- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1265) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-05 16:19:01
