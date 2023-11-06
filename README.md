@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (1 day ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (3 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
-- [openim-sigs/cla](https://github.com/openim-sigs/cla) - OpenIM and OpenIM-sigS CLA Management (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [YouthInThinking](https://github.com/YouthInThinking)
 - [dongowu](https://github.com/dongowu)
 - [18122487437](https://github.com/18122487437)
 - [wsmbsbbz](https://github.com/wsmbsbbz)
 - [appletv850](https://github.com/appletv850)
-- [linux2Java](https://github.com/linux2Java)
 
 #### 🔨 Check out my recent pull requests
 
@@ -88,12 +88,12 @@
 
 
 
+- [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (today)
 - [Kubernetes for Kustomize Learning](https://nsddd.top/posts/kubernetes-for-kustomize-learning/) (6 days ago)
 - [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (1 week ago)
 - [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (3 weeks ago)
 - [In-depth understanding of the components of Kubernetes Kube apisserver](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-kube-apiserver/) (1 month ago)
 - [Deep Dive Into the Components of Kubernetes Etcd](https://nsddd.top/posts/deep-dive-into-the-components-of-kubernetes-etcd/) (1 month ago)
-- [Design Proposal: Simplified Port Configuration via Config Files for Kubernetes Deployment](https://nsddd.top/posts/openim-cluster-deployment-parameter-passing-policy/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-06 09:07:29
