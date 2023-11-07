@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openim-sigs/jsservergateway](https://github.com/openim-sigs/jsservergateway) - The lightweight service gateway provides a stable routing mechanism for JS SDK Server to ensure the reliability and efficiency of the service (today)
+- [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [UIBERsjoker](https://github.com/UIBERsjoker)
 - [PHSix](https://github.com/PHSix)
 - [xiyaowong](https://github.com/xiyaowong)
 - [YouthInThinking](https://github.com/YouthInThinking)
 - [dongowu](https://github.com/dongowu)
-- [18122487437](https://github.com/18122487437)
 
 #### 🔨 Check out my recent pull requests
 
+- [🤖 feat: Enhancing OpenIM with Integrated E2E Testing and CI/CD Enhancements](https://github.com/openimsdk/open-im-server/pull/1359) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat/super k8s](https://github.com/openimsdk/chat/pull/256) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [Feat/add test scripts](https://github.com/openimsdk/open-im-server/pull/1341) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [fix: code style untidy  and update version.sh](https://github.com/kubernetes/kubernetes/pull/121725) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (3 days ago)
 - [docs: update readme docs](https://github.com/openimsdk/open-im-server/pull/1304) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [feat: add openim cluster helm chart](https://github.com/openimsdk/open-im-server/pull/1291) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [feat: super openim chat k8s deployment and code remould](https://github.com/openimsdk/chat/pull/240) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-07 16:20:36
