@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [openim-sigs/jsservergateway](https://github.com/openim-sigs/jsservergateway) - The lightweight service gateway provides a stable routing mechanism for JS SDK Server to ensure the reliability and efficiency of the service (1 day ago)
 - [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,7 +78,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [🤖 feat: Enhancing OpenIM with Integrated E2E Testing and CI/CD Enhancements](https://github.com/openimsdk/open-im-server/pull/1359) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [☀️ feat: Enhancing OpenIM with Integrated E2E Testing and CI/CD Enhancements](https://github.com/openimsdk/open-im-server/pull/1359) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat/super k8s](https://github.com/openimsdk/chat/pull/256) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [Feat/add test scripts](https://github.com/openimsdk/open-im-server/pull/1341) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [fix: code style untidy  and update version.sh](https://github.com/kubernetes/kubernetes/pull/121725) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (4 days ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-08 16:20:25
