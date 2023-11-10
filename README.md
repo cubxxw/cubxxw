@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
-- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (3 days ago)
+- [openimsdk/.github](https://github.com/openimsdk/.github) - OpenIMSDK aim to be the top open source community (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: openim-chat super docker images aliyun and docker hub](https://github.com/openimsdk/chat/pull/263) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Update scripts-test.yml](https://github.com/openimsdk/chat/pull/262) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [☀️ feat: Enhancing OpenIM with Integrated E2E Testing and CI/CD Enhancements](https://github.com/openimsdk/open-im-server/pull/1359) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat/super k8s](https://github.com/openimsdk/chat/pull/256) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
 - [Feat/add test scripts](https://github.com/openimsdk/open-im-server/pull/1341) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
-- [fix: code style untidy  and update version.sh](https://github.com/kubernetes/kubernetes/pull/121725) on [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) (6 days ago)
-- [docs: update readme docs](https://github.com/openimsdk/open-im-server/pull/1304) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-10 09:05:41
