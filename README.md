@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [liamgheng](https://github.com/liamgheng)
 - [z1son](https://github.com/z1son)
 - [HACKWrld999](https://github.com/HACKWrld999)
 - [UIBERsjoker](https://github.com/UIBERsjoker)
 - [PHSix](https://github.com/PHSix)
-- [xiyaowong](https://github.com/xiyaowong)
 
 #### 🔨 Check out my recent pull requests
 
+- [OpenIM Support prometheus deployment&#34;](https://github.com/openimsdk/open-im-server/pull/1394) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Formatting adjustments, script removal, and helm template rendering](https://github.com/openimsdk/open-im-server/pull/1389) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [build: build openim image](https://github.com/openimsdk/open-im-server/pull/1381) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [Update head.md.tmpl](https://github.com/openimsdk/openim-sdk-core/pull/406) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (3 days ago)
 - [feat: openim-chat super docker images aliyun and docker hub](https://github.com/openimsdk/chat/pull/263) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [Update scripts-test.yml](https://github.com/openimsdk/chat/pull/262) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [☀️ feat: Enhancing OpenIM with Integrated E2E Testing and CI/CD Enhancements](https://github.com/openimsdk/open-im-server/pull/1359) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-13 16:21:32
