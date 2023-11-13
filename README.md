@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [z1son](https://github.com/z1son)
 - [HACKWrld999](https://github.com/HACKWrld999)
 - [UIBERsjoker](https://github.com/UIBERsjoker)
 - [PHSix](https://github.com/PHSix)
 - [xiyaowong](https://github.com/xiyaowong)
-- [YouthInThinking](https://github.com/YouthInThinking)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-13 09:07:26
