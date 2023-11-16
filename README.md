@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Support the Prometheus deployment](https://github.com/openimsdk/helm-charts/pull/19) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
+- [feat: deployment and design of management backend and monitoring](https://github.com/openimsdk/openim-docker/pull/46) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1425) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Add Prometheus alerting functionality](https://github.com/openimsdk/open-im-server/pull/1424) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [&#34;Add Prometheus Support with Documentation and Docker Compose Integration to OpenIM&#34;](https://github.com/openimsdk/open-im-server/pull/1403) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [refactor: Refactor and Optimize Network Listener Code](https://github.com/WuKongIM/WuKongIM/pull/60) on [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) (2 days ago)
-- [OpenIM Support prometheus deployment&#34;](https://github.com/openimsdk/open-im-server/pull/1394) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [Formatting adjustments, script removal, and helm template rendering](https://github.com/openimsdk/open-im-server/pull/1389) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-16 16:21:30
