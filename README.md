@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add Prometheus alerting functionality](https://github.com/openimsdk/open-im-server/pull/1424) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [&#34;Add Prometheus Support with Documentation and Docker Compose Integration to OpenIM&#34;](https://github.com/openimsdk/open-im-server/pull/1403) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [refactor: Refactor and Optimize Network Listener Code](https://github.com/WuKongIM/WuKongIM/pull/60) on [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) (2 days ago)
 - [OpenIM Support prometheus deployment&#34;](https://github.com/openimsdk/open-im-server/pull/1394) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [Formatting adjustments, script removal, and helm template rendering](https://github.com/openimsdk/open-im-server/pull/1389) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [build: build openim image](https://github.com/openimsdk/open-im-server/pull/1381) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-16 09:08:11
