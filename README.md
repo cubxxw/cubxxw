@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [test(main): test openim mysql replace with mongo](https://github.com/openimsdk/open-im-server/pull/1427) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: Support the Prometheus deployment](https://github.com/openimsdk/helm-charts/pull/19) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
 - [feat: deployment and design of management backend and monitoring](https://github.com/openimsdk/openim-docker/pull/46) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
 - [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1425) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [Add Prometheus alerting functionality](https://github.com/openimsdk/open-im-server/pull/1424) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [&#34;Add Prometheus Support with Documentation and Docker Compose Integration to OpenIM&#34;](https://github.com/openimsdk/open-im-server/pull/1403) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-17 09:07:53
