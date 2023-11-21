@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (today)
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (1 week ago)
 - [openim-sigs/openim-java-sdk](https://github.com/openim-sigs/openim-java-sdk) - The Java SDK for OpenIM is a Java-based development kit designed to provide a convenient way to integrate OpenIM. OpenIM is an open source instant messaging solution that provides developers with a complete instant messaging development solution, covering both the server and the client. (2 weeks ago)
 - [openim-sigs/oimws](https://github.com/openim-sigs/oimws) - A websocket and tcp framework for openim (2 weeks ago)
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust (2 weeks ago)
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open source system software that runs and manages data infrastructure on K8s. It helps developers, SREs, and platform engineers deploy and maintain dedicated DBPaaS, and supports a variety of public clouds and on-premise environments. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/openimsdk/chat/pull/272) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Refactor MySQL to Mongo](https://github.com/openimsdk/open-im-server/pull/1450) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Mongo](https://github.com/openimsdk/open-im-server/pull/1449) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [cicd: robot automated Change](https://github.com/openimsdk/open-im-server/pull/1448) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Feat/mongo](https://github.com/openimsdk/open-im-server/pull/1447) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Revert &#34;feat: deployment and design of management backend and monitoring&#34;](https://github.com/openimsdk/open-im-server/pull/1434) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat: deployment and design of management backend and monitoring](https://github.com/openimsdk/open-im-server/pull/1432) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-21 09:10:16
