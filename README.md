@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [ayo-dele](https://github.com/ayo-dele)
 - [wanminny](https://github.com/wanminny)
 - [0xRecruiter](https://github.com/0xRecruiter)
 - [meihuabo](https://github.com/meihuabo)
 - [kemiboy](https://github.com/kemiboy)
-- [liamgheng](https://github.com/liamgheng)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-26 22:13:35
