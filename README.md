@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 days ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 days ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Jenna0308](https://github.com/Jenna0308)
 - [beyu9918](https://github.com/beyu9918)
 - [tsukaychan](https://github.com/tsukaychan)
 - [ayo-dele](https://github.com/ayo-dele)
 - [wanminny](https://github.com/wanminny)
-- [0xRecruiter](https://github.com/0xRecruiter)
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: update openim pull message by seq](https://github.com/openimsdk/open-im-server/pull/1498) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [docs: add openim search test](https://github.com/openimsdk/open-im-server/pull/1485) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [Update README.md](https://github.com/openimsdk/open-im-server/pull/1477) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [Update environment.sh](https://github.com/openimsdk/openim-docker/pull/49) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 week ago)
 - [xTest](https://github.com/openimsdk/openim-docker/pull/48) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 week ago)
-- [Update README.md](https://github.com/openimsdk/chat/pull/272) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-11-30 09:07:44
