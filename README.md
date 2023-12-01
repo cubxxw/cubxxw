@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (today)
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (1 day ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. (1 week ago)
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (1 week ago)
-- [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - The high-performance database for modern applications (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [geeks7i](https://github.com/geeks7i)
 - [0xmelon](https://github.com/0xmelon)
 - [Jenna0308](https://github.com/Jenna0308)
 - [beyu9918](https://github.com/beyu9918)
 - [tsukaychan](https://github.com/tsukaychan)
-- [ayo-dele](https://github.com/ayo-dele)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-01 09:14:02
