@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (today)
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (today)
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (1 day ago)
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
 - [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. (1 week ago)
-- [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Enhance Template Generation Logic in OPENIM Deployment Scripts](https://github.com/openimsdk/open-im-server/pull/1510) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: add openim helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/31) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
 - [Ⓜ️feat: openim docker fix ](https://github.com/openimsdk/open-im-server/pull/1502) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: update openim pull message by seq](https://github.com/openimsdk/open-im-server/pull/1498) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [docs: add openim search test](https://github.com/openimsdk/open-im-server/pull/1485) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [Update README.md](https://github.com/openimsdk/open-im-server/pull/1477) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-01 16:21:32
