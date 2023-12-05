@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (today)
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (today)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (4 days ago)
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (4 days ago)
 - [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (5 days ago)
-- [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet. (1 week ago)
-- [dapr/dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
 - [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
 - [feat: Enhance Template Generation Logic in OPENIM Deployment Scripts](https://github.com/openimsdk/open-im-server/pull/1510) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [fix: add openim helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/31) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (5 days ago)
-- [Ⓜ️feat: openim docker fix ](https://github.com/openimsdk/open-im-server/pull/1502) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-05 16:21:46
