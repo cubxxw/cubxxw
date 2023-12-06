@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (today)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
-- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (5 days ago)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (5 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
+- [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (6 days ago)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (today)
-- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (today)
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (4 days ago)
-- [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (4 days ago)
-- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (5 days ago)
+- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 day ago)
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (1 day ago)
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (5 days ago)
+- [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (5 days ago)
+- [Kong/kong](https://github.com/Kong/kong) - 🦍 The Cloud-Native API Gateway  (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,19 +78,19 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
-- [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
-- [feat: Enhance Template Generation Logic in OPENIM Deployment Scripts](https://github.com/openimsdk/open-im-server/pull/1510) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
+- [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (2 days ago)
+- [feat: Enhance Template Generation Logic in OPENIM Deployment Scripts](https://github.com/openimsdk/open-im-server/pull/1510) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 week ago)
-- [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (2 weeks ago)
-- [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (4 weeks ago)
+- [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (3 weeks ago)
+- [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (1 month ago)
 - [Kubernetes for Kustomize Learning](https://nsddd.top/posts/kubernetes-for-kustomize-learning/) (1 month ago)
 - [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (1 month ago)
 - [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-06 00:20:37
