@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add openim chat fix support v3.5 install](https://github.com/openimsdk/chat/pull/289) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (3 days ago)
 - [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (4 days ago)
-- [feat: Enhance Template Generation Logic in OPENIM Deployment Scripts](https://github.com/openimsdk/open-im-server/pull/1510) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-08 16:21:28
