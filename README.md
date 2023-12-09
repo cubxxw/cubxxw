@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (3 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,33 +62,33 @@
 
 #### ⭐ Check out my recent stars
 
-- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (2 days ago)
-- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (3 days ago)
-- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (3 days ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (3 days ago)
+- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (4 days ago)
+- [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (4 days ago)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (1 week ago)
 - [helm/chart-releaser](https://github.com/helm/chart-releaser) - Hosting Helm Charts via GitHub Pages and Releases (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [thisoverride](https://github.com/thisoverride)
 - [geeks7i](https://github.com/geeks7i)
 - [0xmelon](https://github.com/0xmelon)
 - [Jenna0308](https://github.com/Jenna0308)
 - [beyu9918](https://github.com/beyu9918)
-- [tsukaychan](https://github.com/tsukaychan)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add openim chat fix support v3.5 install](https://github.com/openimsdk/chat/pull/289) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
-- [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (3 days ago)
-- [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (4 days ago)
+- [feat: add openim chat fix support v3.5 install](https://github.com/openimsdk/chat/pull/289) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
+- [fix: remove docker compose mysql](https://github.com/openimsdk/open-im-server/pull/1523) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [feat: Provides a new reading scheme for profile privacy through environment variables   ](https://github.com/openimsdk/open-im-server/pull/1520) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [fix(github): add chat thmp](https://github.com/openimsdk/helm-charts/pull/33) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (4 days ago)
+- [feat(github): add helm charts test cicd](https://github.com/openimsdk/helm-charts/pull/32) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 week ago)
+- [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (2 weeks ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (3 weeks ago)
 - [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (1 month ago)
 - [Kubernetes for Kustomize Learning](https://nsddd.top/posts/kubernetes-for-kustomize-learning/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-09 00:19:35
