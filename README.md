@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (today)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (4 days ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 week ago)
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 week ago)
 - [smallnest/rpcx](https://github.com/smallnest/rpcx) - Best microservices framework in Go, like alibaba Dubbo, but with more features, Scale easily. Try it. Test it. If you feel it&#39;s better, use it! 𝐉𝐚𝐯𝐚有𝐝𝐮𝐛𝐛𝐨, 𝐆𝐨𝐥𝐚𝐧𝐠有𝐫𝐩𝐜𝐱! build for cloud! (1 week ago)
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [chakid](https://github.com/chakid)
+- [michelle-0808](https://github.com/michelle-0808)
 - [zhangwenbin4747](https://github.com/zhangwenbin4747)
 - [kellehod](https://github.com/kellehod)
 - [thisoverride](https://github.com/thisoverride)
-- [geeks7i](https://github.com/geeks7i)
-- [0xmelon](https://github.com/0xmelon)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-16 09:07:29
