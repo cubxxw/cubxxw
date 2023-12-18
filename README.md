@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (4 days ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (6 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 week ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update build-docker-image.yml](https://github.com/openimsdk/chat/pull/325) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Update check-all.sh](https://github.com/openimsdk/open-im-server/pull/1573) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [openim create and fix scripts add config](https://github.com/openimsdk/chat/pull/321) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [feat: support mac deployment and optimization make check](https://github.com/openimsdk/open-im-server/pull/1570) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [Update docker_start_all.sh](https://github.com/openimsdk/chat/pull/316) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [fix: Image Dockerfile Update Dockerfile](https://github.com/openimsdk/chat/pull/314) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [Update build-docker-image.yml](https://github.com/openimsdk/chat/pull/312) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [feat: add openim chat env and config](https://github.com/openimsdk/chat/pull/306) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-18 09:09:10
