@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [cold-bin](https://github.com/cold-bin)
 - [chakid](https://github.com/chakid)
 - [michelle-0808](https://github.com/michelle-0808)
 - [zhangwenbin4747](https://github.com/zhangwenbin4747)
 - [kellehod](https://github.com/kellehod)
-- [thisoverride](https://github.com/thisoverride)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-22 16:20:21
