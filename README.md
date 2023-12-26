@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [ElectronFang](https://github.com/ElectronFang)
 - [HenryHeSZ](https://github.com/HenryHeSZ)
 - [lv123123long](https://github.com/lv123123long)
 - [Neustradamus](https://github.com/Neustradamus)
 - [cold-bin](https://github.com/cold-bin)
-- [chakid](https://github.com/chakid)
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: Update README.md and add openim web online demo address](https://github.com/openimsdk/open-im-server/pull/1615) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update openimci.yml](https://github.com/openimsdk/open-im-server/pull/1610) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update scripts-test.yml](https://github.com/openimsdk/chat/pull/353) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [Update config.yaml](https://github.com/openimsdk/chat/pull/332) on [openimsdk/chat](https://github.com/openimsdk/chat) (5 days ago)
 - [Update check-all.sh](https://github.com/openimsdk/open-im-server/pull/1591) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
-- [Update prometheus.yml](https://github.com/openimsdk/open-im-server/pull/1586) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-26 16:20:23
