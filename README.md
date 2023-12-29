@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix openim scripts and ci add openim check](https://github.com/openimsdk/open-im-server/pull/1632) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: fix openim zk env set](https://github.com/openimsdk/open-im-server/pull/1623) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [docs: Update README.md and add openim web online demo address](https://github.com/openimsdk/open-im-server/pull/1615) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [Update openimci.yml](https://github.com/openimsdk/open-im-server/pull/1610) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [Update scripts-test.yml](https://github.com/openimsdk/chat/pull/353) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [Update config.yaml](https://github.com/openimsdk/chat/pull/332) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-29 08:56:50
