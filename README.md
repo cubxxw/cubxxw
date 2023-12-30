@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 - [openim-sigs/openim-base-image](https://github.com/openim-sigs/openim-base-image) - OpenIM bash image from alpine (2 weeks ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 weeks ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: Bash Compatibility in print_services_and_ports Function](https://github.com/openimsdk/open-im-server/pull/1643) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: add openim scripts fix and optimize config about openim source code deployment for this PR? openim ci and scripts](https://github.com/openimsdk/open-im-server/pull/1641) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix: fix openim scripts and ci add openim check](https://github.com/openimsdk/open-im-server/pull/1632) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix: fix openim zk env set](https://github.com/openimsdk/open-im-server/pull/1623) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [docs: Update README.md and add openim web online demo address](https://github.com/openimsdk/open-im-server/pull/1615) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [Update openimci.yml](https://github.com/openimsdk/open-im-server/pull/1610) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-30 09:05:08
