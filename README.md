@@ -47,9 +47,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (today)
 - [openim-sigs/component-base](https://github.com/openim-sigs/component-base) - OpenIM Component-Base: Reusable components and utilities for OpenIM projects. (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
 
 #### 🌱 Check out my recent projects
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [sjmshsh](https://github.com/sjmshsh)
 - [HUAHUAI23](https://github.com/HUAHUAI23)
 - [george0st](https://github.com/george0st)
 - [ElectronFang](https://github.com/ElectronFang)
 - [HenryHeSZ](https://github.com/HenryHeSZ)
-- [lv123123long](https://github.com/lv123123long)
 
 #### 🔨 Check out my recent pull requests
 
@@ -88,12 +88,12 @@
 
 
 
+- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (today)
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 month ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (1 month ago)
 - [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (1 month ago)
 - [Kubernetes for Kustomize Learning](https://nsddd.top/posts/kubernetes-for-kustomize-learning/) (2 months ago)
 - [OpenIM Use Harbor Build Enterprise Mirror Repositories](https://nsddd.top/posts/openim-use-harbor-build-enterprise-mirror-repositories/) (2 months ago)
-- [Learn About Automated Testing](https://nsddd.top/posts/learn-about-automated-testing/) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2023-12-30 22:13:51
