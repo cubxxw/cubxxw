@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-msggateway-proxy](https://github.com/openimsdk/openim-msggateway-proxy) -  (today)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
+- [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) - Instant Messaging (today)
+- [openimsdk/openim-msggateway-proxy](https://github.com/openimsdk/openim-msggateway-proxy) -  (today)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [NAVERON](https://github.com/NAVERON)
 - [coldter](https://github.com/coldter)
 - [XmchxUp](https://github.com/XmchxUp)
 - [sjmshsh](https://github.com/sjmshsh)
 - [HUAHUAI23](https://github.com/HUAHUAI23)
-- [george0st](https://github.com/george0st)
 
 #### 🔨 Check out my recent pull requests
 
-- [Feat/add build image feat](https://github.com/openimsdk/openim-msggateway-proxy/pull/4) on [openimsdk/openim-msggateway-proxy](https://github.com/openimsdk/openim-msggateway-proxy) (today)
-- [fix: install-im-server](https://github.com/openimsdk/openim-docker/pull/63) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [feat: fix openim server install scripts](https://github.com/openimsdk/open-im-server/pull/1648) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: fix Security vulnerability](https://github.com/openimsdk/openim-docker/pull/61) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [feat: OpenIM Admin Images Update k8s-adminfront-config.yaml](https://github.com/openimsdk/helm-charts/pull/46) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
+- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/openim-sdk-core/pull/466) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (today)
+- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/chat/pull/362) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Update main-ci.yaml](https://github.com/openimsdk/docs/pull/82) on [openimsdk/docs](https://github.com/openimsdk/docs) (today)
+- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build ](https://github.com/openimsdk/open-im-server/pull/1660) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: add openim docs update node version: latest](https://github.com/openimsdk/docs/pull/81) on [openimsdk/docs](https://github.com/openimsdk/docs) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-02 16:20:56
