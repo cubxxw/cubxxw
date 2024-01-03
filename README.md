@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update .env.example](https://github.com/openimsdk/openim-docker/pull/75) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [Feat/add openim docker ci fix](https://github.com/openimsdk/openim-docker/pull/74) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/openim-sdk-core/pull/466) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (1 day ago)
 - [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/chat/pull/362) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [Update main-ci.yaml](https://github.com/openimsdk/docs/pull/82) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 day ago)
-- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build ](https://github.com/openimsdk/open-im-server/pull/1660) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-03 16:21:16
