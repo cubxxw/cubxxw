@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
 - [openimsdk/openim-msggateway-proxy](https://github.com/openimsdk/openim-msggateway-proxy) -  (2 days ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(release-v3.5): fix openim docker start openim server internal port lock](https://github.com/openimsdk/open-im-server/pull/1674) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat(main): fix openim docker start openim server internal port lock ](https://github.com/openimsdk/open-im-server/pull/1673) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/1670) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update .env.example](https://github.com/openimsdk/openim-docker/pull/75) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
 - [Feat/add openim docker ci fix](https://github.com/openimsdk/openim-docker/pull/74) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/openim-sdk-core/pull/466) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (2 days ago)
-- [fix: rIssue with Asset Uploading for Official Releases in GoReleaser Action v4 - release openim version not auto build](https://github.com/openimsdk/chat/pull/362) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [Update main-ci.yaml](https://github.com/openimsdk/docs/pull/82) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-04 09:07:36
