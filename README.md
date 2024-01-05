@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(github): optimize openim helm charts docs and cicd test](https://github.com/openimsdk/helm-charts/pull/54) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
+- [Enhancements to Script Variables and Logic in OpenIM, Including dig Detection and Mongo Startup Checks](https://github.com/openimsdk/open-im-server/pull/1696) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/open-im-server/pull/1692) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/helm-charts/pull/51) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
 - [fix openim config mongo passwd env](https://github.com/openimsdk/open-im-server/pull/1690) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Fix(main): fix openim config from mongo password env upgrade openim build CICD](https://github.com/openimsdk/open-im-server/pull/1689) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update .gitignore add components](https://github.com/openimsdk/chat/pull/368) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-05 16:21:20
