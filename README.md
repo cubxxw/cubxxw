@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (1 day ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,8 +62,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (6 days ago)
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (2 weeks ago)
+- [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (1 week ago)
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (3 weeks ago)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (3 weeks ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 month ago)
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 month ago)
@@ -78,17 +78,17 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat(github): optimize openim helm charts docs and cicd test](https://github.com/openimsdk/helm-charts/pull/54) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
-- [Enhancements to Script Variables and Logic in OpenIM, Including dig Detection and Mongo Startup Checks](https://github.com/openimsdk/open-im-server/pull/1696) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/open-im-server/pull/1692) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/helm-charts/pull/51) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
-- [fix openim config mongo passwd env](https://github.com/openimsdk/open-im-server/pull/1690) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat(github): optimize openim helm charts docs and cicd test](https://github.com/openimsdk/helm-charts/pull/54) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
+- [Enhancements to Script Variables and Logic in OpenIM, Including dig Detection and Mongo Startup Checks](https://github.com/openimsdk/open-im-server/pull/1696) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/open-im-server/pull/1692) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Request for Assistance with PR Title and Description Update cla.yml](https://github.com/openimsdk/helm-charts/pull/51) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
+- [fix openim config mongo passwd env](https://github.com/openimsdk/open-im-server/pull/1690) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (6 days ago)
+- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (1 week ago)
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 month ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (1 month ago)
 - [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (2 months ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-06 00:17:53
