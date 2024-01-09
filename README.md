@@ -47,8 +47,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (4 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (4 days ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix openim support arm arch](https://github.com/openimsdk/openim-docker/pull/92) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: add instance down rules yaml file](https://github.com/openimsdk/openim-docker/pull/91) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [feat: add go formity checker](https://github.com/openimsdk/openim-docker/pull/90) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [feat(github): test and optimize openim helm charts actions and add auto](https://github.com/openimsdk/helm-charts/pull/68) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (2 days ago)
-- [feat: Enhancements and CI/CD Fixes for OpenIM Helm Charts](https://github.com/openimsdk/helm-charts/pull/67) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-09 16:21:40
