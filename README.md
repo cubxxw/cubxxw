@@ -46,27 +46,27 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (3 days ago)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (6 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (6 days ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI!
 - [cubxxw/helm-charts](https://github.com/cubxxw/helm-charts) - OpenIM Helm Charts
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/
-- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 
 #### ⭐ Check out my recent stars
 
+- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (today)
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (1 week ago)
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (3 weeks ago)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (1 month ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 month ago)
-- [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-11 16:22:01
