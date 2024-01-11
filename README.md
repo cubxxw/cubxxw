@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 days ago)
-- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (5 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (5 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (3 days ago)
+- [openimsdk/community](https://github.com/openimsdk/community) - Community Management for OpenIM (6 days ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -64,7 +64,7 @@
 
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (1 week ago)
 - [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (3 weeks ago)
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (4 weeks ago)
+- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (1 month ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 month ago)
 - [techschool/simplebank](https://github.com/techschool/simplebank) - Backend master class: build a simple bank service in Go (1 month ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: fix openim support arm arch](https://github.com/openimsdk/openim-docker/pull/92) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: add instance down rules yaml file](https://github.com/openimsdk/openim-docker/pull/91) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [feat: add go formity checker](https://github.com/openimsdk/openim-docker/pull/90) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [feat(github): test and optimize openim helm charts actions and add auto](https://github.com/openimsdk/helm-charts/pull/68) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (3 days ago)
+- [fix: fix openim support arm arch](https://github.com/openimsdk/openim-docker/pull/92) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
+- [Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [feat: add instance down rules yaml file](https://github.com/openimsdk/openim-docker/pull/91) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
+- [feat: add go formity checker](https://github.com/openimsdk/openim-docker/pull/90) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
+- [feat(github): test and optimize openim helm charts actions and add auto](https://github.com/openimsdk/helm-charts/pull/68) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-11 00:20:19
