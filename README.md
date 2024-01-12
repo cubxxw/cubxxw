@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (4 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix Typo in Function Name: Rename updload_tarballs to upload_tarballs](https://github.com/marmotedu/iam/pull/87) on [marmotedu/iam](https://github.com/marmotedu/iam) (today)
-- [docs: update oepnim docs openim-tools images](https://github.com/openimsdk/open-im-server/pull/1748) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: fix openim support arm arch](https://github.com/openimsdk/openim-docker/pull/92) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
-- [🚀 Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat: add instance down rules yaml file](https://github.com/openimsdk/openim-docker/pull/91) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/102) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/101) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [fix: mac deployment](https://github.com/openimsdk/open-im-server/pull/1761) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1760) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1759) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-12 16:22:01
