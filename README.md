@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1763) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/103) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1762) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/102) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/101) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [fix: mac deployment](https://github.com/openimsdk/open-im-server/pull/1761) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1760) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1759) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-12 22:16:05
