@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix Typo in Function Name: Rename updload_tarballs to upload_tarballs](https://github.com/marmotedu/iam/pull/87) on [marmotedu/iam](https://github.com/marmotedu/iam) (today)
+- [docs: update oepnim docs openim-tools images](https://github.com/openimsdk/open-im-server/pull/1748) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: fix openim support arm arch](https://github.com/openimsdk/openim-docker/pull/92) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
-- [Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [🚀 Enhancements in Offline Deployment Documentation, CICD Process Upgrades, Deployment Optimization, and Additional Fixes](https://github.com/openimsdk/open-im-server/pull/1721) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat: add instance down rules yaml file](https://github.com/openimsdk/openim-docker/pull/91) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
-- [feat: add go formity checker](https://github.com/openimsdk/openim-docker/pull/90) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
-- [feat(github): test and optimize openim helm charts actions and add auto](https://github.com/openimsdk/helm-charts/pull/68) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-12 09:09:38
