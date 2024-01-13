@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (2 days ago)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (5 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Pink-Dolphin](https://github.com/Pink-Dolphin)
+- [xiaoyelulu](https://github.com/xiaoyelulu)
 - [AndyFHAF](https://github.com/AndyFHAF)
 - [zhangbo630](https://github.com/zhangbo630)
 - [NAVERON](https://github.com/NAVERON)
-- [coldter](https://github.com/coldter)
-- [XmchxUp](https://github.com/XmchxUp)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-13 09:08:32
