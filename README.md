@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (1 day ago)
-- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (4 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (2 days ago)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (5 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -62,9 +62,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (1 day ago)
-- [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (1 week ago)
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (3 weeks ago)
+- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (2 days ago)
+- [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (2 weeks ago)
+- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (4 weeks ago)
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (1 month ago)
 - [datafuselabs/databend](https://github.com/datafuselabs/databend) - Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. Cloud: https://databend.com (1 month ago)
 
@@ -78,17 +78,17 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1763) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/103) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1762) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/102) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
-- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/101) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1763) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/103) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
+- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1762) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/102) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
+- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/101) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (1 week ago)
+- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (2 weeks ago)
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 month ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (1 month ago)
 - [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (2 months ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-13 00:19:39
