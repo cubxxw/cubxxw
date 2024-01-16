@@ -47,9 +47,9 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus is an open-source platform revolutionizing AI learning and resource sharing. It&#39;s a dynamic hub for AI enthusiasts, featuring an intelligent customer service system, and AI-driven updates on resources, news, and educational content. Join this ever-evolving community and dive into the endless possibilities of AI! (5 days ago)
 
 #### 🌱 Check out my recent projects
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1774) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update docker-compose.yaml support arm/v6, arm/v8](https://github.com/openimsdk/open-im-server/pull/1776) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Update docker-compose.yaml support arm/v6, arm/v8 ](https://github.com/openimsdk/openim-docker/pull/105) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [fix(release-v3.5): Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1774) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [update config Readme file, add templates file](https://github.com/openimsdk/chat/pull/376) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [feat: add openim docker compose deployment github comment](https://github.com/openimsdk/open-im-server/pull/1769) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [Stability Enhancement: Pin Docker Compose Images for minio and openim-web](https://github.com/openimsdk/open-im-server/pull/1763) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [Update docker-compose.yaml](https://github.com/openimsdk/openim-docker/pull/103) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-16 16:22:05
