@@ -13,7 +13,7 @@ jobs:
       uses: Yikun/gitee-mirror-action@v0.01
       with:
         # 必选，需要同步的Github用户（源）
-        src: github/cubxxw
+        uses: Yikun/gitee-mirror-action@v2.0.0
         # 必选，需要同步到的Gitee的用户（目的）
         dst: gitee/xxw3293172751
         # 必选，Gitee公钥对应的私钥，https://gitee.com/profile/sshkeys
