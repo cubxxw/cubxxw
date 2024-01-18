@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.0.0
         with:
           # Your GitHub token
           # The following scopes are required:
