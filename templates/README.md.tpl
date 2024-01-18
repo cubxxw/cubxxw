@@ -1,13 +1,13 @@
 ## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
 <!--
-[![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
+[![菜鸟成长手册](https://example.com/new-badge)](https://github.com/3293172751/block_Chain/)
 -->
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
+	<img src="https://example.com/new-badge" alt="maemreyo" width="380" height="152" />
+	<img src="https://example.com/new-badge" alt="maemreyo" width="380" height="152"/>
 </p>
 
 </p>
@@ -82,7 +82,7 @@
 <!-- 
 <div>
 <p><a href='https://githubtrends.io'><img src="https://api.githubtrends.io/user/svg/3293172751/repos?time_range=one_year&amp;theme=synthwaves" referrerpolicy="no-referrer" alt="GitHub Trends SVG" style="zoom:20%;"></a>
-<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://github-readme-stats.vercel.app/api/wakatime?username=3293172751&theme=tokyonight" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
+<a href='https://github.com/anuraghazra/github-readme-stats'><img src="https://example.com/new-badge" alt="willianrod's wakatime stats" style="zoom:20%;" /></a></p>
 </div>
 -->
 <!-- If you like what I do, 👉👈check out my blog☕ you are welcome 🍰 cake please 🥺🤺💕  -->
@@ -183,7 +183,7 @@
 [![](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff)](https://gohugo.io/)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://example.com/github-actions)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff)](https://ceph.io/)
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
