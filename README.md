@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (3 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性! (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -62,34 +62,34 @@
 
 #### ⭐ Check out my recent stars
 
-- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. (1 day ago)
+- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally. (1 day ago)
+- [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB (1 day ago)
+- [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences. (2 days ago)
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性! (1 week ago)
 - [apache/dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes) - The Dubbo Kubernetes integration. (2 weeks ago)
-- [kubernetes-sigs/kwok](https://github.com/kubernetes-sigs/kwok) - Kubernetes WithOut Kubelet -  Simulates thousands of Nodes and Clusters. (1 month ago)
-- [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash: (1 month ago)
 
 #### 👯 Check out my recent followers
 
+- [HUAHUAI23](https://github.com/HUAHUAI23)
 - [linyerun](https://github.com/linyerun)
 - [Pink-Dolphin](https://github.com/Pink-Dolphin)
 - [xiaoyelulu](https://github.com/xiaoyelulu)
 - [AndyFHAF](https://github.com/AndyFHAF)
-- [zhangbo630](https://github.com/zhangbo630)
 
 #### 🔨 Check out my recent pull requests
 
-- [Update docker-compose.yaml support arm/v6, arm/v8](https://github.com/openimsdk/open-im-server/pull/1776) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [Update docker-compose.yaml support arm/v6, arm/v8 ](https://github.com/openimsdk/openim-docker/pull/105) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
-- [fix(release-v3.5): Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1774) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [update config Readme file, add templates file](https://github.com/openimsdk/chat/pull/376) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [feat: add openim docker compose deployment github comment](https://github.com/openimsdk/open-im-server/pull/1769) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [Update docker-compose.yaml support arm/v6, arm/v8](https://github.com/openimsdk/open-im-server/pull/1776) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [Update docker-compose.yaml support arm/v6, arm/v8 ](https://github.com/openimsdk/openim-docker/pull/105) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
+- [fix(release-v3.5): Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1774) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
+- [update config Readme file, add templates file](https://github.com/openimsdk/chat/pull/376) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
+- [feat: add openim docker compose deployment github comment](https://github.com/openimsdk/open-im-server/pull/1769) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [OpenIM: Building an Efficient Version Control and Testing Workflow](https://nsddd.top/posts/openim-building-an-efficient-version-control-and-testing-workflow/) (3 days ago)
-- [Emerging Challenges and Trends in 2024](https://nsddd.top/posts/emerging-challenges-and-trends-in-2024/) (4 days ago)
+- [OpenIM: Building an Efficient Version Control and Testing Workflow](https://nsddd.top/posts/openim-building-an-efficient-version-control-and-testing-workflow/) (4 days ago)
+- [Emerging Challenges and Trends in 2024](https://nsddd.top/posts/emerging-challenges-and-trends-in-2024/) (5 days ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (2 weeks ago)
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 month ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (2 months ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-18 09:10:08
