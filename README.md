@@ -4,8 +4,8 @@
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="380" height="152" />
-	<img src="http://github-readme-streak-stats.herokuapp.com?user=cubxxw&theme=dracula&hide_border=false" alt="maemreyo" width="380" height="152"/>
+	<img src="https://example.com/new-badge" alt="maemreyo" width="380" height="152" />
+	<img src="https://example.com/new-badge" alt="maemreyo" width="380" height="152"/>
 </p>
 
 </p>
@@ -187,7 +187,7 @@
 [![](https://img.shields.io/badge/-Hugo-FF4088?style=flat-square&logo=hugo&logoColor=ffffff)](https://gohugo.io/)
 [![](https://img.shields.io/badge/-Linux-Fcc624?style=flat-square&logo=linux&logoColor=ffffff)](https://www.linux.org/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://github.com/features/actions)
+[![](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)](https://example.com/github-actions)
 [![](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://golang.org/)
 [![](https://img.shields.io/badge/-Ceph-EF5C55?style=flat-square&logo=ceph&logoColor=ffffff)](https://ceph.io/)
 [![](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=ffffff)](https://www.ansible.com/)
@@ -196,4 +196,4 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-19 08:33:49
+ 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-19 08:34:11
