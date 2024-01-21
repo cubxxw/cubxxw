@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (2 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (today)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (today)
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction. (1 day ago)
 - [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn) - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域 (2 days ago)
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents (2 days ago)
-- [jmorganca/ollama](https://github.com/jmorganca/ollama) - Get up and running with Llama 2, Mistral, and other large language models locally. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,22 +78,22 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: Enhance Mac Deployment for Chat with Containerization and Documentation Updates](https://github.com/openimsdk/open-im-server/pull/1795) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: Enhance Script Details and Add MacOS Compatibility with Documentation Updates](https://github.com/openimsdk/open-im-server/pull/1794) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yaml support arm/v6, arm/v8](https://github.com/openimsdk/open-im-server/pull/1776) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
-- [Update docker-compose.yaml support arm/v6, arm/v8 ](https://github.com/openimsdk/openim-docker/pull/105) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (5 days ago)
-- [fix(release-v3.5): Update docker-compose.yml](https://github.com/openimsdk/open-im-server/pull/1774) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
+- [Update README.md](https://github.com/cubxxw/blog/pull/38) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
+- [Fix(main): Ensure Database Names are Initialized in Lowercase on macOS](https://github.com/openimsdk/chat/pull/385) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Fix(release-v1.5): Ensure Database Names are Initialized in Lowercase on macOS](https://github.com/openimsdk/chat/pull/384) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Revert &#34;add openim images&#34;](https://github.com/cubxxw/blog/pull/37) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
+- [feature: msggateway support multi replicas](https://github.com/openimsdk/helm-charts/pull/74) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
 
 #### 📜 Check out my recent blog posts
 
 
 
+- [Vector Database Learning](https://nsddd.top/posts/vector-database-learning/) (1 day ago)
 - [OpenIM: Building an Efficient Version Control and Testing Workflow](https://nsddd.top/posts/openim-building-an-efficient-version-control-and-testing-workflow/) (6 days ago)
 - [Emerging Challenges and Trends in 2024](https://nsddd.top/posts/emerging-challenges-and-trends-in-2024/) (1 week ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (3 weeks ago)
 - [GitOps Practice Theory: In-Depth Analysis of Kubernetes Deployment Strategies](https://nsddd.top/posts/gitops-practice-theory-part/) (1 month ago)
 - [Deployment and Design of Management Backend and Monitoring](https://nsddd.top/posts/deployment-and-design-of-management-backend-and-monitoring/) (2 months ago)
-- [Hugo Advanced Tutorial](https://nsddd.top/posts/hugo-advanced-tutorial/) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-21 16:20:26
