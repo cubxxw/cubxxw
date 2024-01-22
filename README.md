@@ -48,7 +48,7 @@
 
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs(mac-deployment-guide.mdx): create openim mac source deployment docs](https://github.com/openimsdk/docs/pull/117) on [openimsdk/docs](https://github.com/openimsdk/docs) (today)
+- [feat: optimize mac deployment scripts](https://github.com/openimsdk/open-im-server/pull/1799) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: supoort openim-chat source code deployment in mac](https://github.com/openimsdk/openim-docker/pull/111) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [Update check_all.sh](https://github.com/openimsdk/chat/pull/390) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [feat: supoort openim-chat source code deployment in mac](https://github.com/openimsdk/chat/pull/386) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
-- [Update .env.example](https://github.com/openimsdk/openim-docker/pull/109) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [Update .gitignore](https://github.com/openimsdk/openim-docker/pull/108) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [Update README.md](https://github.com/cubxxw/blog/pull/38) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
-- [Fix(main): Ensure Database Names are Initialized in Lowercase on macOS](https://github.com/openimsdk/chat/pull/385) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-22 16:23:09
