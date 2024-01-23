@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (today)
 - [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (2 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (2 days ago)
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction. (3 days ago)
 - [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn) - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域 (4 days ago)
-- [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation, chat with your documents (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [update check_all.sh fix mac check scripts](https://github.com/openimsdk/chat/pull/393) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [docs(mac-deployment-guide.mdx): create openim mac source deployment docs](https://github.com/openimsdk/docs/pull/117) on [openimsdk/docs](https://github.com/openimsdk/docs) (1 day ago)
 - [feat: optimize mac deployment scripts](https://github.com/openimsdk/open-im-server/pull/1799) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: supoort openim-chat source code deployment in mac](https://github.com/openimsdk/openim-docker/pull/111) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
 - [Update check_all.sh](https://github.com/openimsdk/chat/pull/390) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [feat: supoort openim-chat source code deployment in mac](https://github.com/openimsdk/chat/pull/386) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-23 09:10:32
