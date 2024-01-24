@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [smileluck](https://github.com/smileluck)
 - [HUAHUAI23](https://github.com/HUAHUAI23)
 - [linyerun](https://github.com/linyerun)
 - [Pink-Dolphin](https://github.com/Pink-Dolphin)
 - [xiaoyelulu](https://github.com/xiaoyelulu)
-- [AndyFHAF](https://github.com/AndyFHAF)
 
 #### 🔨 Check out my recent pull requests
 
+- [Update rpc_server_interceptor.go](https://github.com/openimsdk/tools/pull/13) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
+- [Fix(release-v3.5) Enhance Component Monitoring with Dual Logging to Screen and File](https://github.com/openimsdk/open-im-server/pull/1806) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [update check_all.sh fix mac check scripts](https://github.com/openimsdk/chat/pull/393) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [docs(mac-deployment-guide.mdx): create openim mac source deployment docs](https://github.com/openimsdk/docs/pull/117) on [openimsdk/docs](https://github.com/openimsdk/docs) (2 days ago)
 - [feat: optimize mac deployment scripts](https://github.com/openimsdk/open-im-server/pull/1799) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [feat: supoort openim-chat source code deployment in mac](https://github.com/openimsdk/openim-docker/pull/111) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
-- [Update check_all.sh](https://github.com/openimsdk/chat/pull/390) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-24 09:10:23
