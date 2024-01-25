@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
 - [openimsdk/openkf](https://github.com/openimsdk/openkf) - Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (today)
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (2 days ago)
 - [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (4 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (4 days ago)
 - [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction. (5 days ago)
-- [tangyudi/Ai-Learn](https://github.com/tangyudi/Ai-Learn) - 人工智能学习路线图，整理近200个实战案例与项目，免费提供配套教材，零基础入门，就业实战！包括：Python，数学，机器学习，数据分析，深度学习，计算机视觉，自然语言处理，PyTorch tensorflow machine-learning,deep-learning data-analysis data-mining mathematics data-science artificial-intelligence python tensorflow tensorflow2 caffe keras pytorch algorithm numpy pandas matplotlib seaborn nlp cv等热门领域 (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update rpc_server_interceptor.go](https://github.com/openimsdk/tools/pull/13) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
+- [Standardizing Log Path: Migrating chat Service Startup Logs to _output/logs](https://github.com/openimsdk/chat/pull/397) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [Update rpc_server_interceptor.go fix int32 Overflow problem](https://github.com/openimsdk/tools/pull/13) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
 - [Fix(release-v3.5) Enhance Component Monitoring with Dual Logging to Screen and File](https://github.com/openimsdk/open-im-server/pull/1806) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [update check_all.sh fix mac check scripts](https://github.com/openimsdk/chat/pull/393) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 - [docs(mac-deployment-guide.mdx): create openim mac source deployment docs](https://github.com/openimsdk/docs/pull/117) on [openimsdk/docs](https://github.com/openimsdk/docs) (3 days ago)
-- [feat: optimize mac deployment scripts](https://github.com/openimsdk/open-im-server/pull/1799) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-25 16:22:17
