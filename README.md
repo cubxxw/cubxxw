@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (2 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix openim-server scripts and optimize build date](https://github.com/openimsdk/open-im-server/pull/1817) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Standardizing Log Path: Migrating chat Service Startup Logs to _output/logs](https://github.com/openimsdk/chat/pull/397) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [Update rpc_server_interceptor.go fix int32 Overflow problem](https://github.com/openimsdk/tools/pull/13) on [openimsdk/tools](https://github.com/openimsdk/tools) (2 days ago)
 - [Fix(release-v3.5) Enhance Component Monitoring with Dual Logging to Screen and File](https://github.com/openimsdk/open-im-server/pull/1806) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [update check_all.sh fix mac check scripts](https://github.com/openimsdk/chat/pull/393) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [docs(mac-deployment-guide.mdx): create openim mac source deployment docs](https://github.com/openimsdk/docs/pull/117) on [openimsdk/docs](https://github.com/openimsdk/docs) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-26 09:05:16
