@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat(release-v3.5): Provide more automation, as well as build capabilities](https://github.com/openimsdk/open-im-server/pull/1820) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: Enhanced Automation for OpenIM Advanced CICD and GitOps Support](https://github.com/openimsdk/open-im-server/pull/1819) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: fix openim-server scripts and optimize build date](https://github.com/openimsdk/open-im-server/pull/1817) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Standardizing Log Path: Migrating chat Service Startup Logs to _output/logs](https://github.com/openimsdk/chat/pull/397) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [Update rpc_server_interceptor.go fix int32 Overflow problem](https://github.com/openimsdk/tools/pull/13) on [openimsdk/tools](https://github.com/openimsdk/tools) (2 days ago)
-- [Fix(release-v3.5) Enhance Component Monitoring with Dual Logging to Screen and File](https://github.com/openimsdk/open-im-server/pull/1806) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [update check_all.sh fix mac check scripts](https://github.com/openimsdk/chat/pull/393) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-26 16:19:47
