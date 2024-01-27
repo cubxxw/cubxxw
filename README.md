@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. https://kubecub.netlify.app/ (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (2 days ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (3 days ago)
 
 #### 🌱 Check out my recent projects
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (today)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (2 days ago)
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (4 days ago)
 - [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (6 days ago)
 - [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (6 days ago)
-- [chenzomi12/DeepLearningSystem](https://github.com/chenzomi12/DeepLearningSystem) - Deep Learning System core principles introduction. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [bug(main): update check_all fix chat scripts logs print](https://github.com/openimsdk/chat/pull/400) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [[Auto PR] Bump League Patch in &#39;&#34;base branch&#39;](https://github.com/openimsdk/open-im-server/pull/1827) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: add pull request set workflows](https://github.com/openimsdk/open-im-server/pull/1824) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat(release-v3.5): Provide more automation, as well as build capabilities](https://github.com/openimsdk/open-im-server/pull/1820) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: Enhanced Automation for OpenIM Advanced CICD and GitOps Support](https://github.com/openimsdk/open-im-server/pull/1819) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: fix openim-server scripts and optimize build date](https://github.com/openimsdk/open-im-server/pull/1817) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-27 09:03:20
