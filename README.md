@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 - [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. https://kubecub.netlify.app/ (3 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (4 days ago)
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [huiwanggo](https://github.com/huiwanggo)
 - [smileluck](https://github.com/smileluck)
 - [HUAHUAI23](https://github.com/HUAHUAI23)
 - [linyerun](https://github.com/linyerun)
-- [Pink-Dolphin](https://github.com/Pink-Dolphin)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix(release-v1.5): fix release-v1.5 scritps bug support mac deployment](https://github.com/openimsdk/chat/pull/403) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [fix(docker-compose): Update the env template to uncomment the mongo port](https://github.com/openimsdk/open-im-server/pull/1833) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [bug(main): update check_all fix chat scripts logs print](https://github.com/openimsdk/chat/pull/400) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 - [[Auto PR] Bump League Patch in &#39;&#34;base branch&#39;](https://github.com/openimsdk/open-im-server/pull/1827) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 - [feat: add pull request set workflows](https://github.com/openimsdk/open-im-server/pull/1824) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat(release-v3.5): Provide more automation, as well as build capabilities](https://github.com/openimsdk/open-im-server/pull/1820) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat: Enhanced Automation for OpenIM Advanced CICD and GitOps Support](https://github.com/openimsdk/open-im-server/pull/1819) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-29 16:19:55
