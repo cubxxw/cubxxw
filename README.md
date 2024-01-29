@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [huiwanggo](https://github.com/huiwanggo)
 - [smileluck](https://github.com/smileluck)
 - [HUAHUAI23](https://github.com/HUAHUAI23)
 - [linyerun](https://github.com/linyerun)
 - [Pink-Dolphin](https://github.com/Pink-Dolphin)
-- [xiaoyelulu](https://github.com/xiaoyelulu)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-29 09:04:37
