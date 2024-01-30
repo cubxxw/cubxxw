@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openim/.github](https://github.com/openim/.github) -  (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
-- [kubecub/docs](https://github.com/kubecub/docs) - About the k8s-iam project documentation, as well as learning documentation and development documentation tutorials. https://kubecub.netlify.app/ (4 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (today)
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (today)
+- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (today)
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (today)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (3 days ago)
-- [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (5 days ago)
-- [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (1 week ago)
-- [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-30 16:19:34
