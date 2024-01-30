@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (today)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (3 days ago)
 - [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM) - RWKV is an RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it&#39;s combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, &#34;infinite&#34; ctx_len, and free sentence embedding. (5 days ago)
 - [livekit/livekit](https://github.com/livekit/livekit) - End-to-end stack for WebRTC. SFU media server and SDKs. (1 week ago)
 - [livekit/livekit-helm](https://github.com/livekit/livekit-helm) - LiveKit Helm charts (1 week ago)
-- [chroma-core/chroma](https://github.com/chroma-core/chroma) - the AI-native open-source embedding database (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Delete build/images/openim-rpc-encryption directory](https://github.com/openimsdk/open-im-server/pull/1842) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Delete build/images/openim-rpc-extend-msg directory](https://github.com/openimsdk/open-im-server/pull/1841) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix(release-v1.5): fix release-v1.5 scritps bug support mac deployment](https://github.com/openimsdk/chat/pull/403) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [fix(docker-compose): Update the env template to uncomment the mongo port](https://github.com/openimsdk/open-im-server/pull/1833) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [bug(main): update check_all fix chat scripts logs print](https://github.com/openimsdk/chat/pull/400) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [[Auto PR] Bump League Patch in &#39;&#34;base branch&#39;](https://github.com/openimsdk/open-im-server/pull/1827) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [feat: add pull request set workflows](https://github.com/openimsdk/open-im-server/pull/1824) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-30 09:04:04
