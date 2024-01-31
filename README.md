@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openim/.github](https://github.com/openim/.github) -  (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update environment.md fix environment mongo username](https://github.com/openimsdk/open-im-server/pull/1847) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [Delete build/images/openim-rpc-encryption directory](https://github.com/openimsdk/open-im-server/pull/1842) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [Delete build/images/openim-rpc-extend-msg directory](https://github.com/openimsdk/open-im-server/pull/1841) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix(release-v1.5): fix release-v1.5 scritps bug support mac deployment](https://github.com/openimsdk/chat/pull/403) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
-- [fix(docker-compose): Update the env template to uncomment the mongo port](https://github.com/openimsdk/open-im-server/pull/1833) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-31 09:04:19
