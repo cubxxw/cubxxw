@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [openim/.github](https://github.com/openim/.github) -  (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 days ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (3 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
+- [openim/.github](https://github.com/openim/.github) -  (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (today)
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (today)
-- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (today)
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (today)
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (3 days ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 day ago)
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (1 day ago)
+- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (1 day ago)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (1 day ago)
+- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,18 +78,18 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Delete build/images/openim-rpc-encryption directory](https://github.com/openimsdk/open-im-server/pull/1842) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Delete build/images/openim-rpc-extend-msg directory](https://github.com/openimsdk/open-im-server/pull/1841) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix(release-v1.5): fix release-v1.5 scritps bug support mac deployment](https://github.com/openimsdk/chat/pull/403) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [fix(docker-compose): Update the env template to uncomment the mongo port](https://github.com/openimsdk/open-im-server/pull/1833) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Delete build/images/openim-rpc-encryption directory](https://github.com/openimsdk/open-im-server/pull/1842) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Delete build/images/openim-rpc-extend-msg directory](https://github.com/openimsdk/open-im-server/pull/1841) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix(release-v1.5): fix release-v1.5 scritps bug support mac deployment](https://github.com/openimsdk/chat/pull/403) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
+- [fix(docker-compose): Update the env template to uncomment the mongo port](https://github.com/openimsdk/open-im-server/pull/1833) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Decoding Go Language Source Code: A Deep Dive into go: Directives and the Use of Automation Tools](https://nsddd.top/posts/directives-and-the-use-of-automation-tools/) (5 days ago)
-- [Concurrent Type Checking and Cross-Platform Development in Go](https://nsddd.top/posts/concurrent-type-checking-and-cross-platform-development-in-go/) (6 days ago)
+- [Decoding Go Language Source Code: A Deep Dive into go: Directives and the Use of Automation Tools](https://nsddd.top/posts/directives-and-the-use-of-automation-tools/) (6 days ago)
+- [Concurrent Type Checking and Cross-Platform Development in Go](https://nsddd.top/posts/concurrent-type-checking-and-cross-platform-development-in-go/) (1 week ago)
 - [Vector Database Learning](https://nsddd.top/posts/vector-database-learning/) (1 week ago)
 - [OpenIM: Building an Efficient Version Control and Testing Workflow](https://nsddd.top/posts/openim-building-an-efficient-version-control-and-testing-workflow/) (2 weeks ago)
 - [Emerging Challenges and Trends in 2024](https://nsddd.top/posts/emerging-challenges-and-trends-in-2024/) (2 weeks ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-01-31 00:18:05
