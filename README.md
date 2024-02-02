@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
 - [openim/.github](https://github.com/openim/.github) -  (3 days ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support openim readme docs](https://github.com/openimsdk/open-im-server/pull/1866) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Revert &#34;Check&#34;](https://github.com/cubxxw/open-im-server/pull/61) on [cubxxw/open-im-server](https://github.com/cubxxw/open-im-server) (today)
+- [feat: Optimize openim scripts and standard output logs](https://github.com/openimsdk/open-im-server/pull/1866) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: add architecture layers](https://github.com/openimsdk/open-im-server/pull/1860) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [Update environment.md fix environment mongo username](https://github.com/openimsdk/open-im-server/pull/1847) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [Delete build/images/openim-rpc-encryption directory](https://github.com/openimsdk/open-im-server/pull/1842) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-02 16:20:00
