@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix(main): fix openim scripts start rpc log ](https://github.com/openimsdk/open-im-server/pull/1877) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Feat/fix/optimization script](https://github.com/openimsdk/open-im-server/pull/1876) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Revert &#34;Check&#34;](https://github.com/cubxxw/open-im-server/pull/61) on [cubxxw/open-im-server](https://github.com/cubxxw/open-im-server) (2 days ago)
-- [feat: Optimize openim scripts and standard output logs](https://github.com/openimsdk/open-im-server/pull/1866) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [feat: add architecture layers](https://github.com/openimsdk/open-im-server/pull/1860) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [Update environment.md fix environment mongo username](https://github.com/openimsdk/open-im-server/pull/1847) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [Update offline-deployment.md openim offine deployment docs](https://github.com/openimsdk/open-im-server/pull/1843) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-04 09:08:38
