@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [notBdougie](https://github.com/notBdougie)
 - [YvetteQSystim](https://github.com/YvetteQSystim)
 - [flyAstar](https://github.com/flyAstar)
 - [AbdeenM](https://github.com/AbdeenM)
 - [huiwanggo](https://github.com/huiwanggo)
-- [smileluck](https://github.com/smileluck)
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix(main): fix openim scripts start rpc log ](https://github.com/openimsdk/open-im-server/pull/1877) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [Feat/fix/optimization script](https://github.com/openimsdk/open-im-server/pull/1876) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-05 22:15:03
