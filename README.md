@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (4 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (4 days ago)
-- [openim/.github](https://github.com/openim/.github) -  (6 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (5 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
+- [openim/.github](https://github.com/openim/.github) -  (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,27 +62,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (6 days ago)
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (6 days ago)
-- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (6 days ago)
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (6 days ago)
+- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (1 week ago)
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (1 week ago)
+- [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (1 week ago)
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (1 week ago)
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [wanyulindev](https://github.com/wanyulindev)
+- [ck76](https://github.com/ck76)
+- [MuriloNatariani](https://github.com/MuriloNatariani)
 - [notBdougie](https://github.com/notBdougie)
 - [YvetteQSystim](https://github.com/YvetteQSystim)
-- [flyAstar](https://github.com/flyAstar)
-- [AbdeenM](https://github.com/AbdeenM)
-- [huiwanggo](https://github.com/huiwanggo)
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix(main): fix openim scripts start rpc log ](https://github.com/openimsdk/open-im-server/pull/1877) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
+- [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [fix(main): fix openim scripts start rpc log ](https://github.com/openimsdk/open-im-server/pull/1877) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-06 00:17:48
