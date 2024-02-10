@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [OnlyAIGC](https://github.com/OnlyAIGC)
 - [LukanovaAleksa1](https://github.com/LukanovaAleksa1)
 - [wanyulindev](https://github.com/wanyulindev)
 - [ck76](https://github.com/ck76)
 - [MuriloNatariani](https://github.com/MuriloNatariani)
-- [notBdougie](https://github.com/notBdougie)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-10 16:18:04
