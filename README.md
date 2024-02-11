@@ -50,7 +50,7 @@
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (5 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 week ago)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (1 week ago)
-- [openim/.github](https://github.com/openim/.github) -  (1 week ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Integrate Comprehensive E2E Testing for GoChat](https://github.com/openimsdk/open-im-server/pull/1906) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 - [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
-- [fix(main): fix openim scripts start rpc log ](https://github.com/openimsdk/open-im-server/pull/1877) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-11 22:14:17
