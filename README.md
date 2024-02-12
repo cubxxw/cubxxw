@@ -88,12 +88,12 @@
 
 
 
+- [GTD and the Quadrant Method Practice](https://nsddd.top/posts/gtd-and-the-four-quadrant-rule-practice/) (today)
 - [Decoding Go Language Source Code: A Deep Dive into go: Directives and the Use of Automation Tools](https://nsddd.top/posts/directives-and-the-use-of-automation-tools/) (2 weeks ago)
 - [Concurrent Type Checking and Cross-Platform Development in Go](https://nsddd.top/posts/concurrent-type-checking-and-cross-platform-development-in-go/) (2 weeks ago)
 - [Vector Database Learning](https://nsddd.top/posts/vector-database-learning/) (3 weeks ago)
 - [OpenIM: Building an Efficient Version Control and Testing Workflow](https://nsddd.top/posts/openim-building-an-efficient-version-control-and-testing-workflow/) (4 weeks ago)
 - [Emerging Challenges and Trends in 2024](https://nsddd.top/posts/emerging-challenges-and-trends-in-2024/) (4 weeks ago)
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-12 22:14:58
