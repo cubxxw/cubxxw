@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (today)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (today)
 - [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (2 weeks ago)
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks (2 weeks ago)
 - [luban-agi/Awesome-AIGC-Tutorials](https://github.com/luban-agi/Awesome-AIGC-Tutorials) - Curated tutorials and resources for Large Language Models, AI Painting, and more.  (2 weeks ago)
-- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ (2 weeks ago)
-- [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena. (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Refactor ChatTemplate for Enhanced Clarity and Efficiency](https://github.com/sgl-project/sglang/pull/201) on [sgl-project/sglang](https://github.com/sgl-project/sglang) (today)
 - [feat: Integrate Comprehensive E2E Testing for GoChat](https://github.com/openimsdk/open-im-server/pull/1906) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 - [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: Add Color Logging for Error Messages ](https://github.com/openimsdk/chat/pull/406) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
-- [feat: Add Color Logging for Error Messages](https://github.com/openimsdk/open-im-server/pull/1878) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-17 09:03:06
