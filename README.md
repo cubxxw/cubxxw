@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (today)
 - [aicworld/interview](https://github.com/aicworld/interview) - An AI-powered Interview Simulation Platform (1 day ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (4 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (4 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [bxhzzx](https://github.com/bxhzzx)
 - [g0fcn](https://github.com/g0fcn)
 - [valloon91234](https://github.com/valloon91234)
 - [OnlyAIGC](https://github.com/OnlyAIGC)
 - [LukanovaAleksa1](https://github.com/LukanovaAleksa1)
-- [wanyulindev](https://github.com/wanyulindev)
 
 #### 🔨 Check out my recent pull requests
 
@@ -88,12 +88,12 @@
 
 
 
+- [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (today)
 - [Brain-Friendly English Learning Strategies: Tools and Techniques Explained](https://nsddd.top/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/) (6 days ago)
 - [Unlocking the Magic of Flow State: A Guide to Enhanced Focus and Happiness](https://nsddd.top/posts/flow-state/) (1 week ago)
 - [GTD and the Quadrant Method Practice](https://nsddd.top/posts/gtd-and-the-four-quadrant-rule-practice/) (1 week ago)
 - [Decoding Go Language Source Code: A Deep Dive into go: Directives and the Use of Automation Tools](https://nsddd.top/posts/directives-and-the-use-of-automation-tools/) (4 weeks ago)
 - [Concurrent Type Checking and Cross-Platform Development in Go](https://nsddd.top/posts/concurrent-type-checking-and-cross-platform-development-in-go/) (4 weeks ago)
-- [Vector Database Learning](https://nsddd.top/posts/vector-database-learning/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-22 09:03:06
