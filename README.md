@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/ (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [aicworld/interview](https://github.com/aicworld/interview) - An AI-powered Interview Simulation Platform (2 days ago)
 - [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (5 days ago)
@@ -58,7 +58,7 @@
 - [cubxxw/helm-charts](https://github.com/cubxxw/helm-charts) - OpenIM Helm Charts
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system https://cubxxw.netlify.app/  https://nsddd.me/blog/
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml
 
 #### ⭐ Check out my recent stars
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-23 09:02:27
