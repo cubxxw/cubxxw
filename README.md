@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [SoraEase/.github](https://github.com/SoraEase/.github) - SoraEase offers tools and resources to simplify Sora&#39;s AI video tech for everyone. Dive into easy AI-powered video creation with us. (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. 结构化 Prompt | Sora 提示词集合，一个旨在激发使用Sora进行AI驱动视频创作的仓库。 (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
+- [SoraEase/.github](https://github.com/SoraEase/.github) - SoraEase offers tools and resources to simplify Sora&#39;s AI video tech for everyone. Dive into easy AI-powered video creation with us. (today)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat/create page data](https://github.com/SoraEase/Sora-Next-Web/pull/1) on [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) (today)
 - [Update and rename README-ES.md to README_es.md](https://github.com/openimsdk/open-im-server/pull/1918) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 - [Refactor ChatTemplate for Enhanced Clarity and Efficiency](https://github.com/sgl-project/sglang/pull/201) on [sgl-project/sglang](https://github.com/sgl-project/sglang) (1 week ago)
 - [feat: Integrate Comprehensive E2E Testing for GoChat](https://github.com/openimsdk/open-im-server/pull/1906) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
-- [Implement Graceful Shutdown for Go Application](https://github.com/openimsdk/open-im-server/pull/1883) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-24 16:18:04
