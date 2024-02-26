@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. 结构化 Prompt | Sora 提示词集合，一个旨在激发使用Sora进行AI驱动视频创作的仓库。 (today)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 day ago)
-- [SoraEase/.github](https://github.com/SoraEase/.github) - SoraEase offers tools and resources to simplify Sora&#39;s AI video tech for everyone. Dive into easy AI-powered video creation with us. (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. 结构化 Prompt | Sora 提示词集合，一个旨在激发使用Sora进行AI驱动视频创作的仓库。 (1 day ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (2 days ago)
+- [SoraEase/.github](https://github.com/SoraEase/.github) - SoraEase offers tools and resources to simplify Sora&#39;s AI video tech for everyone. Dive into easy AI-powered video creation with us. (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,10 +62,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (3 days ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (3 days ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 day ago)
+- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (4 days ago)
+- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (4 days ago)
 - [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。 (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -78,21 +78,21 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat/create page data](https://github.com/SoraEase/Sora-Next-Web/pull/1) on [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) (1 day ago)
+- [feat/create page data](https://github.com/SoraEase/Sora-Next-Web/pull/1) on [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) (2 days ago)
 - [Update and rename README-ES.md to README_es.md](https://github.com/openimsdk/open-im-server/pull/1918) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [Refactor ChatTemplate for Enhanced Clarity and Efficiency](https://github.com/sgl-project/sglang/pull/201) on [sgl-project/sglang](https://github.com/sgl-project/sglang) (1 week ago)
 - [feat: Integrate Comprehensive E2E Testing for GoChat](https://github.com/openimsdk/open-im-server/pull/1906) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
-- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
+- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (1 day ago)
-- [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (3 days ago)
+- [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (2 days ago)
+- [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (4 days ago)
 - [Brain-Friendly English Learning Strategies: Tools and Techniques Explained](https://nsddd.top/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/) (1 week ago)
 - [Unlocking the Magic of Flow State: A Guide to Enhanced Focus and Happiness](https://nsddd.top/posts/flow-state/) (1 week ago)
-- [GTD and the Quadrant Method Practice](https://nsddd.top/posts/gtd-and-the-four-quadrant-rule-practice/) (1 week ago)
+- [GTD and the Quadrant Method Practice](https://nsddd.top/posts/gtd-and-the-four-quadrant-rule-practice/) (2 weeks ago)
 - [Decoding Go Language Source Code: A Deep Dive into go: Directives and the Use of Automation Tools](https://nsddd.top/posts/directives-and-the-use-of-automation-tools/) (1 month ago)
 
 #### 📫 How to reach me
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-26 00:17:53
