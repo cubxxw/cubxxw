@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora. 结构化 Prompt | Sora 提示词集合，一个旨在激发使用Sora进行AI驱动视频创作的仓库。 (1 day ago)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (2 days ago)
 - [SoraEase/.github](https://github.com/SoraEase/.github) - SoraEase offers tools and resources to simplify Sora&#39;s AI video tech for everyone. Dive into easy AI-powered video creation with us. (2 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 day ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (4 days ago)
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (4 days ago)
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: fix openim tools error code](https://github.com/openimsdk/tools/pull/18) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
 - [feat/create page data](https://github.com/SoraEase/Sora-Next-Web/pull/1) on [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) (2 days ago)
 - [Update and rename README-ES.md to README_es.md](https://github.com/openimsdk/open-im-server/pull/1918) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [Refactor ChatTemplate for Enhanced Clarity and Efficiency](https://github.com/sgl-project/sglang/pull/201) on [sgl-project/sglang](https://github.com/sgl-project/sglang) (1 week ago)
 - [feat: Integrate Comprehensive E2E Testing for GoChat](https://github.com/openimsdk/open-im-server/pull/1906) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 weeks ago)
-- [Fix Script Error and Enhance Code Robustness and Details](https://github.com/openimsdk/open-im-server/pull/1890) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-02-26 09:05:31
