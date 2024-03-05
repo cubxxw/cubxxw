@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (3 days ago)
 
 #### 🌱 Check out my recent projects
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (today)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 week ago)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 week ago)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 week ago)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (1 week ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: support makefile build](https://github.com/withchao/chat/pull/1) on [withchao/chat](https://github.com/withchao/chat) (today)
 - [feat: format openim make lint code](https://github.com/openimsdk/open-im-server/pull/1997) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: optimize openim reset code](https://github.com/openimsdk/chat/pull/416) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [feat: Introduce Language-Specific Comment Detection Tool and Standardize Log Filename Convention](https://github.com/openimsdk/open-im-server/pull/1992) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat:  Update .golangci.yml Configuration for Improved Linting Efficiency](https://github.com/openimsdk/open-im-server/pull/1989) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [docs: update openim server readme github codespaces](https://github.com/openimsdk/open-im-server/pull/1984) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-05 16:20:25
