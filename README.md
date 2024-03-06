@@ -47,7 +47,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (3 days ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (4 days ago)
@@ -58,7 +58,7 @@
 - [cubxxw/helm-charts](https://github.com/cubxxw/helm-charts) - OpenIM Helm Charts
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system  ----------- 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml
 
 #### ⭐ Check out my recent stars
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [update config and remove  mysql conf](https://github.com/openimsdk/chat/pull/444) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [Update chatci.yml change go version](https://github.com/openimsdk/chat/pull/440) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [feat: format openim make lint code](https://github.com/openimsdk/open-im-server/pull/1997) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [feat: optimize openim reset code](https://github.com/openimsdk/chat/pull/416) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 - [feat: Introduce Language-Specific Comment Detection Tool and Standardize Log Filename Convention](https://github.com/openimsdk/open-im-server/pull/1992) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [feat:  Update .golangci.yml Configuration for Improved Linting Efficiency](https://github.com/openimsdk/open-im-server/pull/1989) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-06 16:21:44
