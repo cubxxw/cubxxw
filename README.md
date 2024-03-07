@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (4 days ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [titrxw](https://github.com/titrxw)
 - [Gavin-boy](https://github.com/Gavin-boy)
 - [marsxingzhi](https://github.com/marsxingzhi)
 - [zmc-x](https://github.com/zmc-x)
 - [Bruce-Lu674](https://github.com/Bruce-Lu674)
-- [Sarracen1a](https://github.com/Sarracen1a)
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/openimsdk/openim-docker/pull/121) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
+- [feat: release openim v3.6.0](https://github.com/openimsdk/openim-docker/pull/120) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [update config and remove  mysql conf](https://github.com/openimsdk/chat/pull/444) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [Update chatci.yml change go version](https://github.com/openimsdk/chat/pull/440) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [feat: format openim make lint code](https://github.com/openimsdk/open-im-server/pull/1997) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [feat: optimize openim reset code](https://github.com/openimsdk/chat/pull/416) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [feat: Introduce Language-Specific Comment Detection Tool and Standardize Log Filename Convention](https://github.com/openimsdk/open-im-server/pull/1992) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-07 16:16:54
