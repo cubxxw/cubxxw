@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (4 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (5 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 days ago)
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: fix make lint error about scripts errout](https://github.com/openimsdk/open-im-server/pull/2068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [docs: Optimize Makefile for Better Usability and Maintenance](https://github.com/langchain-ai/langchain/pull/18859) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (today)
 - [Update README.md](https://github.com/openimsdk/openim-docker/pull/121) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
 - [feat: release openim v3.6.0](https://github.com/openimsdk/openim-docker/pull/120) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (3 days ago)
-- [update config and remove  mysql conf](https://github.com/openimsdk/chat/pull/444) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
-- [Update chatci.yml change go version](https://github.com/openimsdk/chat/pull/440) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
-- [feat: format openim make lint code](https://github.com/openimsdk/open-im-server/pull/1997) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-10 09:07:46
