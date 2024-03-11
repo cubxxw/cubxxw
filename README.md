@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (4 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (5 days ago)
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a structured generation language designed for large language models (LLMs). It makes your interaction with models faster and more controllable. (1 week ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [awesome-sora/website](https://github.com/awesome-sora/website) -  (today)
+- [awesome-sora/.github](https://github.com/awesome-sora/.github) -  (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [kelein](https://github.com/kelein)
 - [titrxw](https://github.com/titrxw)
 - [Gavin-boy](https://github.com/Gavin-boy)
 - [marsxingzhi](https://github.com/marsxingzhi)
 - [zmc-x](https://github.com/zmc-x)
-- [Bruce-Lu674](https://github.com/Bruce-Lu674)
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2071) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [Delete .github/workflows/sync-release.yml](https://github.com/openimsdk/chat/pull/457) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix: fix make lint error about scripts errout](https://github.com/openimsdk/open-im-server/pull/2068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [docs: Optimize Makefile for Better Usability and Maintenance](https://github.com/langchain-ai/langchain/pull/18859) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (1 day ago)
-- [Update README.md](https://github.com/openimsdk/openim-docker/pull/121) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (4 days ago)
-- [feat: release openim v3.6.0](https://github.com/openimsdk/openim-docker/pull/120) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-11 09:04:42
