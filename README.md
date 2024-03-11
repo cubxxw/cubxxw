@@ -46,27 +46,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
-- [awesome-sora/website](https://github.com/awesome-sora/website) -  (today)
-- [awesome-sora/.github](https://github.com/awesome-sora/.github) -  (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
+- [awesome-sora/.github](https://github.com/awesome-sora/.github) -  (today)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
 
 #### 🌱 Check out my recent projects
 
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性!
-- [cubxxw/helm-charts](https://github.com/cubxxw/helm-charts) - OpenIM Helm Charts
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml
+- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 
 #### ⭐ Check out my recent stars
 
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproducing Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (6 days ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 week ago)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 weeks ago)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (2 weeks ago)
-- [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️ (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: Update openim version management strategy, detailed design](https://github.com/openimsdk/open-im-server/pull/2076) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: Optimize openim helm charts to support v3.6 server deployment](https://github.com/openimsdk/helm-charts/pull/89) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (today)
+- [fix: fix docker images ](https://github.com/openimsdk/chat/pull/460) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2071) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Delete .github/workflows/sync-release.yml](https://github.com/openimsdk/chat/pull/457) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
-- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2069) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: fix make lint error about scripts errout](https://github.com/openimsdk/open-im-server/pull/2068) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [docs: Optimize Makefile for Better Usability and Maintenance](https://github.com/langchain-ai/langchain/pull/18859) on [langchain-ai/langchain](https://github.com/langchain-ai/langchain) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-11 16:20:49
