@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (today)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
+- [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 day ago)
-- [awesome-sora/.github](https://github.com/awesome-sora/.github) -  (1 day ago)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [merge main to releae-v1.6 branch ](https://github.com/openimsdk/chat/pull/462) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [docs: update openim deployment images go1.21](https://github.com/openimsdk/chat/pull/461) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [docs: update kubernetes versioning doc](https://github.com/kubernetes/sig-release/pull/2452) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (today)
 - [docs: Update openim version management strategy, detailed design](https://github.com/openimsdk/open-im-server/pull/2076) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: Optimize openim helm charts to support v3.6 server deployment](https://github.com/openimsdk/helm-charts/pull/89) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
-- [fix: fix docker images ](https://github.com/openimsdk/chat/pull/460) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2071) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [Delete .github/workflows/sync-release.yml](https://github.com/openimsdk/chat/pull/457) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-12 09:03:07
