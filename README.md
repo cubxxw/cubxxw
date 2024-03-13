@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (today)
 - [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (2 days ago)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (1 week ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (2 weeks ago)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 weeks ago)
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update test.sh](https://github.com/openimsdk/open-im-server/pull/2085) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: golang fix apt test design](https://github.com/openimsdk/open-im-server/pull/2084) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: remove mysql and add livekit](https://github.com/openimsdk/helm-charts/pull/91) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
 - [merge main to releae-v1.6 branch ](https://github.com/openimsdk/chat/pull/462) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 - [docs: update openim deployment images go1.21](https://github.com/openimsdk/chat/pull/461) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [docs: update kubernetes versioning doc](https://github.com/kubernetes/sig-release/pull/2452) on [kubernetes/sig-release](https://github.com/kubernetes/sig-release) (1 day ago)
-- [docs: Update openim version management strategy, detailed design](https://github.com/openimsdk/open-im-server/pull/2076) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-13 09:04:57
