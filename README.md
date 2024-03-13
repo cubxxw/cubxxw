@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
 - [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) - helm charts repository for openim  (1 day ago)
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 day ago)
 - [kubernetes/sig-release](https://github.com/kubernetes/sig-release) - Repo for SIG release (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 day ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [cicd: update e2e-test fix e2e and api test ci](https://github.com/openimsdk/open-im-server/pull/2101) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [refactor: extract nested structures in the config.](https://github.com/openimsdk/open-im-server/pull/2100) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: Add Descending Sort by Creation Time to Group Search &amp; Fix Admin Update Error](https://github.com/openimsdk/open-im-server/pull/2090) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update test.sh](https://github.com/openimsdk/open-im-server/pull/2085) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: golang fix apt test design](https://github.com/openimsdk/open-im-server/pull/2084) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: remove mysql and add livekit](https://github.com/openimsdk/helm-charts/pull/91) on [openimsdk/helm-charts](https://github.com/openimsdk/helm-charts) (1 day ago)
-- [merge main to releae-v1.6 branch ](https://github.com/openimsdk/chat/pull/462) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [docs: update openim deployment images go1.21](https://github.com/openimsdk/chat/pull/461) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-13 16:19:55
