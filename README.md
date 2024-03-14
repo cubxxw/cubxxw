@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
@@ -57,7 +57,7 @@
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性!
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
 - [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml
 - [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 
 #### ⭐ Check out my recent stars
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [fix: Fix Incorrect Group Member Count in SearchMessage API  group getGroupMemberIDs is 0 err](https://github.com/openimsdk/open-im-server/pull/2108) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [cicd: update chat makefile fix go version minimun 1.21](https://github.com/openimsdk/chat/pull/467) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [create robot auto create pr to formating code and update tag version](https://github.com/openimsdk/chat/pull/466) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [cicd: update e2e-test fix e2e and api test ci](https://github.com/openimsdk/open-im-server/pull/2101) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [refactor: extract nested structures in the config.](https://github.com/openimsdk/open-im-server/pull/2100) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [fix: Add Descending Sort by Creation Time to Group Search &amp; Fix Admin Update Error](https://github.com/openimsdk/open-im-server/pull/2090) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-14 16:19:55
