@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 歡迎訂閱 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [hhuang1231](https://github.com/hhuang1231)
 - [kelein](https://github.com/kelein)
 - [titrxw](https://github.com/titrxw)
 - [Gavin-boy](https://github.com/Gavin-boy)
 - [marsxingzhi](https://github.com/marsxingzhi)
-- [zmc-x](https://github.com/zmc-x)
 
 #### 🔨 Check out my recent pull requests
 
+- [cicd: update chat makefile fix go version minimun 1.21](https://github.com/openimsdk/chat/pull/467) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [create robot auto create pr to formating code and update tag version](https://github.com/openimsdk/chat/pull/466) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [cicd: update e2e-test fix e2e and api test ci](https://github.com/openimsdk/open-im-server/pull/2101) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [refactor: extract nested structures in the config.](https://github.com/openimsdk/open-im-server/pull/2100) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix: Add Descending Sort by Creation Time to Group Search &amp; Fix Admin Update Error](https://github.com/openimsdk/open-im-server/pull/2090) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [Update test.sh](https://github.com/openimsdk/open-im-server/pull/2085) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: golang fix apt test design](https://github.com/openimsdk/open-im-server/pull/2084) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-14 09:03:34
