@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openkf/openkf](https://github.com/openkf/openkf) - openkf (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
-- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (1 day ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 days ago)
+- [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
+- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (2 days ago)
+- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,9 +62,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (1 day ago)
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (4 days ago)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (6 days ago)
+- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (2 days ago)
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (5 days ago)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 week ago)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (1 week ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (2 weeks ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [add github actions is create code-language-detector.yml](https://github.com/openimsdk/chat/pull/470) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
-- [build: init comment-lang-detector project](https://github.com/kubecub/comment-lang-detector/pull/1) on [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) (1 day ago)
-- [fix: fix cicd build project](https://github.com/kubecub/github-label-syncer/pull/175) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (1 day ago)
-- [fix: Fix Incorrect Group Member Count in SearchMessage API  group getGroupMemberIDs is 0 err](https://github.com/openimsdk/open-im-server/pull/2108) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [cicd: update chat makefile fix go version minimun 1.21](https://github.com/openimsdk/chat/pull/467) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
+- [add github actions is create code-language-detector.yml](https://github.com/openimsdk/chat/pull/470) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
+- [build: init comment-lang-detector project](https://github.com/kubecub/comment-lang-detector/pull/1) on [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) (2 days ago)
+- [fix: fix cicd build project](https://github.com/kubecub/github-label-syncer/pull/175) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (2 days ago)
+- [fix: Fix Incorrect Group Member Count in SearchMessage API  group getGroupMemberIDs is 0 err](https://github.com/openimsdk/open-im-server/pull/2108) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
+- [cicd: update chat makefile fix go version minimun 1.21](https://github.com/openimsdk/chat/pull/467) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -90,7 +90,7 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (2 weeks ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (2 months ago)
-- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (3 days ago)
+- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (4 days ago)
 - [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (3 weeks ago)
 - [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (3 weeks ago)
 - [Brain-Friendly English Learning Strategies: Tools and Techniques Explained](https://nsddd.top/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-18 00:16:41
