@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 day ago)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
 - [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (2 days ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (today)
 - [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (2 days ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (5 days ago)
 - [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 week ago)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (1 week ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [create code language detector file](https://github.com/openimsdk/tools/pull/22) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
+- [add github actions is create code-language-detector.yml ](https://github.com/openimsdk/open-im-server/pull/2113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [add github actions is create code-language-detector.yml](https://github.com/openimsdk/chat/pull/470) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 - [build: init comment-lang-detector project](https://github.com/kubecub/comment-lang-detector/pull/1) on [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) (2 days ago)
 - [fix: fix cicd build project](https://github.com/kubecub/github-label-syncer/pull/175) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (2 days ago)
-- [fix: Fix Incorrect Group Member Count in SearchMessage API  group getGroupMemberIDs is 0 err](https://github.com/openimsdk/open-im-server/pull/2108) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [cicd: update chat makefile fix go version minimun 1.21](https://github.com/openimsdk/chat/pull/467) on [openimsdk/chat](https://github.com/openimsdk/chat) (4 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-18 09:04:52
