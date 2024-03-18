@@ -47,10 +47,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [openimsdk/tools](https://github.com/openimsdk/tools) -  (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (1 day ago)
-- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (2 days ago)
-- [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Update docker-compose.yaml fix mongo start ](https://github.com/openimsdk/openim-docker/pull/125) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (today)
 - [create code language detector file](https://github.com/openimsdk/tools/pull/22) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
 - [add github actions is create code-language-detector.yml ](https://github.com/openimsdk/open-im-server/pull/2113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [add github actions is create code-language-detector.yml](https://github.com/openimsdk/chat/pull/470) on [openimsdk/chat](https://github.com/openimsdk/chat) (2 days ago)
 - [build: init comment-lang-detector project](https://github.com/kubecub/comment-lang-detector/pull/1) on [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) (2 days ago)
-- [fix: fix cicd build project](https://github.com/kubecub/github-label-syncer/pull/175) on [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-18 16:20:09
