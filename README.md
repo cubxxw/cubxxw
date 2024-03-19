@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openkf/openkf](https://github.com/openkf/openkf) - openkf (2 days ago)
 
 #### 🌱 Check out my recent projects
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Fix Path Resolution Error for Root Directory .env File Generation Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/2128) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: add scripts verify shell check](https://github.com/openimsdk/open-im-server/pull/2124) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2123) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
+- [feat: remove tools/codescan catalog](https://github.com/openimsdk/open-im-server/pull/2122) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Update docker-compose.yaml fix mongo start ](https://github.com/openimsdk/openim-docker/pull/125) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
-- [create code language detector file](https://github.com/openimsdk/tools/pull/22) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
-- [add github actions is create code-language-detector.yml ](https://github.com/openimsdk/open-im-server/pull/2113) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [add github actions is create code-language-detector.yml](https://github.com/openimsdk/chat/pull/470) on [openimsdk/chat](https://github.com/openimsdk/chat) (3 days ago)
-- [build: init comment-lang-detector project](https://github.com/kubecub/comment-lang-detector/pull/1) on [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-19 16:20:09
