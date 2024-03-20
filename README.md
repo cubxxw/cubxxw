@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [releasev3.6: Automated cherry pick of #2128 upstream release v3.6](https://github.com/openimsdk/open-im-server/pull/2129) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [Fix Path Resolution Error for Root Directory .env File Generation Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/2128) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: add scripts verify shell check](https://github.com/openimsdk/open-im-server/pull/2124) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2123) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 - [feat: remove tools/codescan catalog](https://github.com/openimsdk/open-im-server/pull/2122) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [Update docker-compose.yaml fix mongo start ](https://github.com/openimsdk/openim-docker/pull/125) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-20 08:30:41
