@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
-- [openkf/openkf](https://github.com/openkf/openkf) - openkf (2 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
+- [openimsdk/tools](https://github.com/openimsdk/tools) -  (2 days ago)
+- [openkf/openkf](https://github.com/openkf/openkf) - openkf (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,9 +62,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 day ago)
-- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (3 days ago)
-- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (6 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 days ago)
+- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (4 days ago)
+- [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 week ago)
 - [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 week ago)
 - [PKU-YuanGroup/Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan) - This project aim to reproduce Sora (Open AI T2V model), but we only have limited resource. We deeply wish the all open source community can contribute to this project. (2 weeks ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Fix Path Resolution Error for Root Directory .env File Generation Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/2128) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: add scripts verify shell check](https://github.com/openimsdk/open-im-server/pull/2124) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2123) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: remove tools/codescan catalog](https://github.com/openimsdk/open-im-server/pull/2122) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Update docker-compose.yaml fix mongo start ](https://github.com/openimsdk/openim-docker/pull/125) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (1 day ago)
+- [Fix Path Resolution Error for Root Directory .env File Generation Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/2128) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: add scripts verify shell check](https://github.com/openimsdk/open-im-server/pull/2124) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [fix: fix docker file images proxy](https://github.com/openimsdk/open-im-server/pull/2123) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: remove tools/codescan catalog](https://github.com/openimsdk/open-im-server/pull/2122) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [Update docker-compose.yaml fix mongo start ](https://github.com/openimsdk/openim-docker/pull/125) on [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -90,7 +90,7 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (2 weeks ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (2 months ago)
-- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (5 days ago)
+- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (6 days ago)
 - [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (3 weeks ago)
 - [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (3 weeks ago)
 - [Brain-Friendly English Learning Strategies: Tools and Techniques Explained](https://nsddd.top/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-20 00:18:51
