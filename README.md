@@ -47,10 +47,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (2 days ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (2 days ago)
-- [openkf/openkf](https://github.com/openkf/openkf) - openkf (3 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (today)
 - [openkf/openkf-core](https://github.com/openkf/openkf-core) - 🤖 The heart of OpenKF - A powerful and extensible AI-driven chatbot framework for creating sophisticated conversational experiences. Dive in to revolutionize customer service! (today)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (2 days ago)
 - [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (4 days ago)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines. (1 week ago)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: add redis config](https://github.com/openimsdk/tools/pull/36) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
+- [Create code-language-detector.yml](https://github.com/openimsdk/openim-sdk-core/pull/532) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (today)
 - [feat: Update bot-cherry-pick.yml fixes the release branch protection issue by going PR](https://github.com/openimsdk/open-im-server/pull/2132) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [feat: set git cherry pick and Milestone](https://github.com/openimsdk/open-im-server/pull/2131) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [releasev3.6: Automated cherry pick of #2128 upstream release v3.6](https://github.com/openimsdk/open-im-server/pull/2129) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [Fix Path Resolution Error for Root Directory .env File Generation Update env-template.yaml](https://github.com/openimsdk/open-im-server/pull/2128) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: add scripts verify shell check](https://github.com/openimsdk/open-im-server/pull/2124) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-20 16:20:12
