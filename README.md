@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Biold](https://github.com/Biold)
 - [duoluodexiaoxiaoyuan](https://github.com/duoluodexiaoxiaoyuan)
 - [ZihouWong](https://github.com/ZihouWong)
 - [hhuang1231](https://github.com/hhuang1231)
 - [kelein](https://github.com/kelein)
-- [titrxw](https://github.com/titrxw)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-21 22:15:04
