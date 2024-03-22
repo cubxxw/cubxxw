@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/tools](https://github.com/openimsdk/tools) -  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (3 days ago)
+- [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (4 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,27 +62,27 @@
 
 #### ⭐ Check out my recent stars
 
-- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (today)
-- [link1st/gowebsocket](https://github.com/link1st/gowebsocket) - golang基于websocket单台机器支持百万连接分布式聊天(IM)系统 (today)
-- [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (1 day ago)
-- [openkf/openkf-core](https://github.com/openkf/openkf-core) - 🤖 The heart of OpenKF - A powerful and extensible AI-driven chatbot framework for creating sophisticated conversational experiences. Dive in to revolutionize customer service! (1 day ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (3 days ago)
+- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (1 day ago)
+- [link1st/gowebsocket](https://github.com/link1st/gowebsocket) - golang基于websocket单台机器支持百万连接分布式聊天(IM)系统 (1 day ago)
+- [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (2 days ago)
+- [openkf/openkf-core](https://github.com/openkf/openkf-core) - 🤖 The heart of OpenKF - A powerful and extensible AI-driven chatbot framework for creating sophisticated conversational experiences. Dive in to revolutionize customer service! (2 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (4 days ago)
 
 #### 👯 Check out my recent followers
 
+- [WalkerKenneth](https://github.com/WalkerKenneth)
+- [mmoritz8](https://github.com/mmoritz8)
+- [dev-to2k](https://github.com/dev-to2k)
+- [Dothitanh](https://github.com/Dothitanh)
 - [Biold](https://github.com/Biold)
-- [duoluodexiaoxiaoyuan](https://github.com/duoluodexiaoxiaoyuan)
-- [ZihouWong](https://github.com/ZihouWong)
-- [hhuang1231](https://github.com/hhuang1231)
-- [kelein](https://github.com/kelein)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: add redis code](https://github.com/openimsdk/tools/pull/37) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
-- [docs: add redis config](https://github.com/openimsdk/tools/pull/36) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
-- [Create code-language-detector.yml](https://github.com/openimsdk/openim-sdk-core/pull/532) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (1 day ago)
-- [feat: Update bot-cherry-pick.yml fixes the release branch protection issue by going PR](https://github.com/openimsdk/open-im-server/pull/2132) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
-- [feat: set git cherry pick and Milestone](https://github.com/openimsdk/open-im-server/pull/2131) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: add redis code](https://github.com/openimsdk/tools/pull/37) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
+- [docs: add redis config](https://github.com/openimsdk/tools/pull/36) on [openimsdk/tools](https://github.com/openimsdk/tools) (2 days ago)
+- [Create code-language-detector.yml](https://github.com/openimsdk/openim-sdk-core/pull/532) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (2 days ago)
+- [feat: Update bot-cherry-pick.yml fixes the release branch protection issue by going PR](https://github.com/openimsdk/open-im-server/pull/2132) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
+- [feat: set git cherry pick and Milestone](https://github.com/openimsdk/open-im-server/pull/2131) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-22 00:19:59
