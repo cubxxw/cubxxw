@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
-- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (1 day ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (4 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [kubecub/go-project-layout](https://github.com/kubecub/go-project-layout) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.    (today)
+- [openimsdk/tools](https://github.com/openimsdk/tools) -  (today)
+- [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (today)
+- [kubecub/comment-lang-detector](https://github.com/kubecub/comment-lang-detector) - A GitHub Action for detecting specified languages (e.g., Chinese or Japanese) in comments within code files across multiple programming languages (YAML, Go, Java, Rust). Ideal for projects aiming to adhere to internationalization standards or maintain language-specific coding guidelines. (today)
 
 #### 🌱 Check out my recent projects
 
@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Humjujubee](https://github.com/Humjujubee)
 - [WalkerKenneth](https://github.com/WalkerKenneth)
 - [mmoritz8](https://github.com/mmoritz8)
 - [dev-to2k](https://github.com/dev-to2k)
 - [Dothitanh](https://github.com/Dothitanh)
-- [Biold](https://github.com/Biold)
 
 #### 🔨 Check out my recent pull requests
 
+- [Update Makefile add test cover is 75](https://github.com/openimsdk/chat/pull/478) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
+- [feat: add go typecheck actions](https://github.com/openimsdk/chat/pull/477) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
 - [feat: add redis code](https://github.com/openimsdk/tools/pull/37) on [openimsdk/tools](https://github.com/openimsdk/tools) (1 day ago)
 - [docs: add redis config](https://github.com/openimsdk/tools/pull/36) on [openimsdk/tools](https://github.com/openimsdk/tools) (2 days ago)
 - [Create code-language-detector.yml](https://github.com/openimsdk/openim-sdk-core/pull/532) on [openimsdk/openim-sdk-core](https://github.com/openimsdk/openim-sdk-core) (2 days ago)
-- [feat: Update bot-cherry-pick.yml fixes the release branch protection issue by going PR](https://github.com/openimsdk/open-im-server/pull/2132) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
-- [feat: set git cherry pick and Milestone](https://github.com/openimsdk/open-im-server/pull/2131) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-22 09:03:52
