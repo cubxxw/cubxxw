@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [yjhtry](https://github.com/yjhtry)
+- [Youngpaa](https://github.com/Youngpaa)
 - [Humjujubee](https://github.com/Humjujubee)
 - [WalkerKenneth](https://github.com/WalkerKenneth)
 - [mmoritz8](https://github.com/mmoritz8)
-- [dev-to2k](https://github.com/dev-to2k)
-- [Dothitanh](https://github.com/Dothitanh)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-22 16:20:16
