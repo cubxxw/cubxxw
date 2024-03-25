@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [openkf/openkf-server](https://github.com/openkf/openkf-server) - ☁️ OpenKF Server - Robust backend services powering the OpenKF ecosystem. Scale your AI chatbot solutions with our high-performance server architecture. Ready to deploy, ready to scale. (today)
+- [openkf/openkf-web](https://github.com/openkf/openkf-web) - 🌐 OpenKF Web UI - A sleek and intuitive web interface for the OpenKF chatbot system. Engage your users with beautiful conversational UIs. Start building your AI-powered customer service portal today! (today)
 - [kubecub/typecheck](https://github.com/kubecub/typecheck) - Typecheck is a github actions robust tool designed for cross-platform source code type checking across all Go build platforms. This utility leverages Go’s built-in parsing and type-check libraries (`go/parser` and `go/types`) to deliver efficient and reliable code analysis. (4 days ago)
 - [link1st/gowebsocket](https://github.com/link1st/gowebsocket) - golang基于websocket单台机器支持百万连接分布式聊天(IM)系统 (4 days ago)
 - [ory/ladon](https://github.com/ory/ladon) - A SDK for access control policies: authorization for the microservice and IoT age. Inspired by AWS IAM policies. Written for Go. (5 days ago)
-- [openkf/openkf-core](https://github.com/openkf/openkf-core) - 🤖 The heart of OpenKF - A powerful and extensible AI-driven chatbot framework for creating sophisticated conversational experiences. Dive in to revolutionize customer service! (5 days ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-25 08:32:32
