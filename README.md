@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
+- [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (today)
+- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (today)
+- [openimsdk/tools](https://github.com/openimsdk/tools) -  (today)
 - [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (2 days ago)
-- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (2 days ago)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [test: test cicd make lint and make test](https://github.com/openimsdk/tools/pull/43) on [openimsdk/tools](https://github.com/openimsdk/tools) (today)
 - [feat: Remove Go Typecheck Tools Implement GitHub Actions Based Typecheck for OpenIM](https://github.com/openimsdk/open-im-server/pull/2140) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [【TODO】](https://github.com/openimsdk/openkf/pull/223) on [openimsdk/openkf](https://github.com/openimsdk/openkf) (4 days ago)
 - [Update Makefile add test cover is 75](https://github.com/openimsdk/chat/pull/478) on [openimsdk/chat](https://github.com/openimsdk/chat) (5 days ago)
 - [feat: add go typecheck actions](https://github.com/openimsdk/chat/pull/477) on [openimsdk/chat](https://github.com/openimsdk/chat) (5 days ago)
-- [feat: add redis code](https://github.com/openimsdk/tools/pull/37) on [openimsdk/tools](https://github.com/openimsdk/tools) (6 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-27 09:04:02
