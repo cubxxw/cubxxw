@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/openim-docker](https://github.com/openimsdk/openim-docker) - openim-docker configuration for deploying OpenIM. Provides a build solution for a stable distribution, as well as a docker compose deployment strategy (1 day ago)
-- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 day ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (1 day ago)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (3 days ago)
+- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-03-28 09:04:27
