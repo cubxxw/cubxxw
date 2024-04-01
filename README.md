@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [google/season-of-docs](https://github.com/google/season-of-docs) - Supporting materials for Google&#39;s Season of Docs program (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (2 days ago)
 - [openimsdk/google-season-of-docs](https://github.com/openimsdk/google-season-of-docs) - OpenIM as a mentoring organization for Google Season of Docs. (3 days ago)
-- [openimsdk/google-summer-of-code](https://github.com/openimsdk/google-summer-of-code) - OpenIM as mentoring organization for Google Summer of Code (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-01 22:15:30
