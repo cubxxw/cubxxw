@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: update user guide](https://github.com/spf13/cobra/pull/2128) on [spf13/cobra](https://github.com/spf13/cobra) (today)
 - [docs: Fix Markdown Lint Errors in Communication Best Practices Guide](https://github.com/google/gsocguides/pull/123) on [google/gsocguides](https://github.com/google/gsocguides) (1 day ago)
 - [fix: fix fixed some writing issues](https://github.com/superproj/onex/pull/1) on [superproj/onex](https://github.com/superproj/onex) (2 days ago)
 - [feat: Enhancements to OpenIM Engineering Practices with Standardizer and Tool Versioning](https://github.com/openimsdk/open-im-server/pull/2159) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 days ago)
 - [docs: Optimize Deployment Speed for Users in China with Aliyun Image Registry](https://github.com/openimsdk/open-im-server/pull/2154) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
-- [docs: Add openim to interested organisations](https://github.com/google/season-of-docs/pull/1356) on [google/season-of-docs](https://github.com/google/season-of-docs) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-03 09:04:35
