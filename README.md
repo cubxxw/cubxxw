@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [microyahoo](https://github.com/microyahoo)
 - [Lansongxx](https://github.com/Lansongxx)
 - [lyannabueno](https://github.com/lyannabueno)
 - [manlinux](https://github.com/manlinux)
 - [Dandelight](https://github.com/Dandelight)
-- [reoden](https://github.com/reoden)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-03 22:15:08
