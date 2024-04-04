@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: Enhance Error Handling in System Call Execution Macro](https://github.com/danclive/rust-periphery/pull/1) on [danclive/rust-periphery](https://github.com/danclive/rust-periphery) (today)
 - [feat: Optimize Makefile for Improved Performance and Usability](https://github.com/gotomicro/ego/pull/375) on [gotomicro/ego](https://github.com/gotomicro/ego) (1 day ago)
 - [docs: update user guide](https://github.com/spf13/cobra/pull/2128) on [spf13/cobra](https://github.com/spf13/cobra) (1 day ago)
 - [docs: Fix Markdown Lint Errors in Communication Best Practices Guide](https://github.com/google/gsocguides/pull/123) on [google/gsocguides](https://github.com/google/gsocguides) (2 days ago)
 - [fix: fix fixed some writing issues](https://github.com/superproj/onex/pull/1) on [superproj/onex](https://github.com/superproj/onex) (3 days ago)
-- [feat: Enhancements to OpenIM Engineering Practices with Standardizer and Tool Versioning](https://github.com/openimsdk/open-im-server/pull/2159) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-04 16:21:11
