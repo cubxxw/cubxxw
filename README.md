@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
 - [google/gsocguides](https://github.com/google/gsocguides) - Google Summer of Code Mentor and Student Guides (1 day ago)
 - [gotomicro/ego](https://github.com/gotomicro/ego) - A simple and component-based microservice kit for go. 一个简单的基于组件的 Go 微服务套件。 (1 day ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (2 days ago)
-- [google/season-of-docs](https://github.com/google/season-of-docs) - Supporting materials for Google&#39;s Season of Docs program (2 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [fabian4](https://github.com/fabian4)
 - [microyahoo](https://github.com/microyahoo)
 - [Lansongxx](https://github.com/Lansongxx)
 - [lyannabueno](https://github.com/lyannabueno)
 - [manlinux](https://github.com/manlinux)
-- [Dandelight](https://github.com/Dandelight)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-04 09:05:57
