@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [tuxnotes](https://github.com/tuxnotes)
 - [Fleezesd](https://github.com/Fleezesd)
 - [Manacher](https://github.com/Manacher)
 - [zhenguozhang](https://github.com/zhenguozhang)
 - [fabian4](https://github.com/fabian4)
-- [microyahoo](https://github.com/microyahoo)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-06 16:19:30
