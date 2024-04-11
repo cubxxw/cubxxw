@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [openim/openim](https://github.com/openim/openim) - openim (today)
-- [openimsdk/test-e2e](https://github.com/openimsdk/test-e2e) -  (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
-- [openimsdk/openkf](https://github.com/openimsdk/openkf) - AI ChatGPT 智能客服 | Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
+- [openim/openim](https://github.com/openim/openim) - openim (1 day ago)
+- [openimsdk/test-e2e](https://github.com/openimsdk/test-e2e) -  (1 day ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 day ago)
+- [openimsdk/openkf](https://github.com/openimsdk/openkf) - AI ChatGPT 智能客服 | Supports chatgpt and llm large language models. OpenKF is an online customer service system that improves communication for enterprises and open-source communities with customizable features. (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -64,7 +64,7 @@
 
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
 - [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 week ago)
-- [LiveHelperChat/livehelperchat](https://github.com/LiveHelperChat/livehelperchat) - Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice &amp; Video &amp; ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot. (1 week ago)
+- [LiveHelperChat/livehelperchat](https://github.com/LiveHelperChat/livehelperchat) - Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice &amp; Video &amp; ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot. (2 weeks ago)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (2 weeks ago)
 - [openimsdk/tools](https://github.com/openimsdk/tools) -  (2 weeks ago)
 
@@ -78,10 +78,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (today)
-- [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [update release-v3.1  images](https://github.com/openimsdk/open-im-server/pull/2177) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
-- [feat: Enhance Error Handling in System Call Execution Macro](https://github.com/danclive/rust-periphery/pull/1) on [danclive/rust-periphery](https://github.com/danclive/rust-periphery) (6 days ago)
+- [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 day ago)
+- [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [update release-v3.1  images](https://github.com/openimsdk/open-im-server/pull/2177) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 day ago)
+- [feat: Enhance Error Handling in System Call Execution Macro](https://github.com/danclive/rust-periphery/pull/1) on [danclive/rust-periphery](https://github.com/danclive/rust-periphery) (1 week ago)
 - [feat: Optimize Makefile for Improved Performance and Usability](https://github.com/gotomicro/ego/pull/375) on [gotomicro/ego](https://github.com/gotomicro/ego) (1 week ago)
 
 #### 📜 Check out my recent blog posts
@@ -90,7 +90,7 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (1 month ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (3 months ago)
-- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (3 weeks ago)
+- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (4 weeks ago)
 - [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (1 month ago)
 - [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (1 month ago)
 - [Brain-Friendly English Learning Strategies: Tools and Techniques Explained](https://nsddd.top/posts/brain-friendly-english-learning-strategies-tools-and-techniques-explained/) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-11 00:20:53
