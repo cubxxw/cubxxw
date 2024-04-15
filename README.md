@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
-- [openimsdk/test-e2e](https://github.com/openimsdk/test-e2e) -  (3 days ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
+- [openimsdk/test-e2e](https://github.com/openimsdk/test-e2e) -  (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (3 days ago)
 - [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (4 days ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -78,22 +78,22 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (today)
 - [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (2 days ago)
 - [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
 - [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (5 days ago)
 - [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
-- [update release-v3.1  images](https://github.com/openimsdk/open-im-server/pull/2177) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
 
 #### 📜 Check out my recent blog posts
 
 
 
-- [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (1 month ago)
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (3 months ago)
-- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (2 days ago)
-- [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (1 month ago)
-- [Exploring Sora Technology for Enthusiasts and Developers](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (1 month ago)
-- [Combining GitHub and Google Workspace for Effective Project Management](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (1 month ago)
+- [2023年，我的旅行起点 - 2023年的我漫步在世界边缘](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (1 month ago)
+- [2023年度总结：反思与展望](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (3 months ago)
+- [探索开源以及商业模式研究](https://nsddd.top/posts/navigating-the-open-source-landscape/) (2 days ago)
+- [Sora Ease 指南：开发者掌握 Sora AI 的全面指南](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (1 month ago)
+- [Sora 技术讨论以及普通人和开发者如何利用 Sora 改变世界](https://nsddd.top/posts/exploring-sora-technology-for-enthusiasts-and-developers/) (1 month ago)
+- [双剑合璧：结合GitHub与Google Workspace的项目管理艺术](https://nsddd.top/posts/combining-github-and-google-workspace-for-project-management/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-15 22:14:56
