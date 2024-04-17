@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
 - [openimsdk/test-e2e](https://github.com/openimsdk/test-e2e) -  (2 days ago)
 - [kubecub/github-label-syncer](https://github.com/kubecub/github-label-syncer) - An cross-repository syncing and pull loacl saved GitHub tags CLI or actions tool. (5 days ago)
-- [cubxxw/awesome-go](https://github.com/cubxxw/awesome-go) - 🐭 go语言基础篇、进阶篇、高级篇文档 (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [heexu976](https://github.com/heexu976)
 - [jhonor777](https://github.com/jhonor777)
 - [tuxnotes](https://github.com/tuxnotes)
 - [Fleezesd](https://github.com/Fleezesd)
 - [Manacher](https://github.com/Manacher)
-- [jimmy-bro](https://github.com/jimmy-bro)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-17 16:20:33
