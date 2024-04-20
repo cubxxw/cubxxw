@@ -47,10 +47,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) Xinwei&#39;s blog system | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (today)
-- [cubxxw/resume](https://github.com/cubxxw/resume) - resume (today)
-- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (today)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (2 days ago)
+- [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (1 day ago)
+- [cubxxw/resume](https://github.com/cubxxw/resume) - resume (1 day ago)
+- [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 day ago)
+- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -64,22 +64,22 @@
 
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 week ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 weeks ago)
-- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (2 weeks ago)
+- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (3 weeks ago)
 - [LiveHelperChat/livehelperchat](https://github.com/LiveHelperChat/livehelperchat) - Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice &amp; Video &amp; ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot. (3 weeks ago)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [devopspass](https://github.com/devopspass)
 - [phyng](https://github.com/phyng)
 - [heexu976](https://github.com/heexu976)
 - [jhonor777](https://github.com/jhonor777)
 - [tuxnotes](https://github.com/tuxnotes)
-- [Fleezesd](https://github.com/Fleezesd)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 days ago)
-- [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (6 days ago)
+- [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (5 days ago)
+- [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (1 week ago)
 - [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
 - [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 week ago)
 - [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 week ago)
@@ -90,9 +90,9 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (1 month ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (3 months ago)
-- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (1 day ago)
-- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (4 days ago)
-- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (6 days ago)
+- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (2 days ago)
+- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (5 days ago)
+- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (1 week ago)
 - [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (1 month ago)
 
 #### 📫 How to reach me
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-20 00:20:08
