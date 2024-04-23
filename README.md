@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [sunfmin](https://github.com/sunfmin)
 - [xjj520](https://github.com/xjj520)
 - [devopspass](https://github.com/devopspass)
 - [phyng](https://github.com/phyng)
 - [heexu976](https://github.com/heexu976)
-- [jhonor777](https://github.com/jhonor777)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-23 09:06:52
