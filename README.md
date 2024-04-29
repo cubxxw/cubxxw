@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (today)
 - [cubxxw/resume](https://github.com/cubxxw/resume) - resume (3 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (6 days ago)
 - [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) - IM Chat  (1 week ago)
-- [openimsdk/docs](https://github.com/openimsdk/docs) - OpenIM documentation v3 (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-04-29 22:16:45
