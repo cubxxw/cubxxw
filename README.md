@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (1 week ago)
 - [cubxxw/resume](https://github.com/cubxxw/resume) - resume (2 weeks ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (2 weeks ago)
@@ -79,8 +79,8 @@
 #### 🔨 Check out my recent pull requests
 
 - [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (3 weeks ago)
-- [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (3 weeks ago)
-- [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (4 weeks ago)
+- [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (4 weeks ago)
+- [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
 - [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 month ago)
 - [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
 
@@ -92,7 +92,7 @@
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (4 months ago)
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (3 weeks ago)
 - [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (3 weeks ago)
-- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (3 weeks ago)
+- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (4 weeks ago)
 - [Sora Ease Guide: Mastering Sora AI for Developers](https://nsddd.top/posts/sora-ease-guide-mastering-sora-ai-for-developers/) (1 month ago)
 
 #### 📫 How to reach me
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-11 00:20:14
