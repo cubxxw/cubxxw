@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer. (today)
 - [jeinlee1991/chinese-llm-benchmark](https://github.com/jeinlee1991/chinese-llm-benchmark) - 中文大模型能力评测榜单：覆盖百度文心一言、chatgpt、阿里通义千问、讯飞星火、belle / chatglm6b 等开源大模型，多维度能力评测。不仅提供能力评分排行榜，也提供所有模型的原始输出结果！ (today)
 - [TykTechnologies/tyk](https://github.com/TykTechnologies/tyk) - Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols (1 month ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 month ago)
 - [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 month ago)
-- [LiveHelperChat/livehelperchat](https://github.com/LiveHelperChat/livehelperchat) - Live Helper Chat - live support for your website. Featuring web and mobile apps, Voice &amp; Video &amp; ScreenShare. Supports Telegram, Twilio (whatsapp), Facebook messenger including building a bot. (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-12 09:13:48
