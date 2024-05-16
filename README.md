@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [cubxxw/perceptofeed](https://github.com/cubxxw/perceptofeed) - perceptofeed (3 days ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (2 weeks ago)
 - [cubxxw/resume](https://github.com/cubxxw/resume) - resume (2 weeks ago)
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [iBakuman](https://github.com/iBakuman)
+- [ling6614](https://github.com/ling6614)
 - [Jichao](https://github.com/Jichao)
 - [GhostBlu](https://github.com/GhostBlu)
 - [sgalcheung](https://github.com/sgalcheung)
-- [sammorozov](https://github.com/sammorozov)
-- [xyezir](https://github.com/xyezir)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-16 09:08:59
