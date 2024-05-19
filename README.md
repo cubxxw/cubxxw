@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [rakibul-dev](https://github.com/rakibul-dev)
 - [YAOYANG68](https://github.com/YAOYANG68)
 - [azyben](https://github.com/azyben)
 - [iBakuman](https://github.com/iBakuman)
 - [ling6614](https://github.com/ling6614)
-- [Jichao](https://github.com/Jichao)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-19 08:36:12
