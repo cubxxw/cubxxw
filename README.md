@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes&#39; cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台 (today)
 - [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用） (today)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (6 days ago)
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources. (6 days ago)
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (1 week ago)
-- [OthersideAI/self-operating-computer](https://github.com/OthersideAI/self-operating-computer) - A framework to enable multimodal models to operate a computer. (1 week ago)
 
 #### 👯 Check out my recent followers
 
+- [Sigma711](https://github.com/Sigma711)
 - [rakibul-dev](https://github.com/rakibul-dev)
 - [YAOYANG68](https://github.com/YAOYANG68)
 - [azyben](https://github.com/azyben)
 - [iBakuman](https://github.com/iBakuman)
-- [ling6614](https://github.com/ling6614)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-20 16:22:19
