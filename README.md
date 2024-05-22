@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [aicworld/perceptofeed](https://github.com/aicworld/perceptofeed) - perceptofeed (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
 - [cubxxw/resume](https://github.com/cubxxw/resume) - resume (5 days ago)
 - [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (3 weeks ago)
 - [openimsdk/chat](https://github.com/openimsdk/chat) - A business server that includes user registration and login, deployed together with Open-IM-Server, can be used to set up a chat product. (4 weeks ago)
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zhuzhu1949](https://github.com/zhuzhu1949)
+- [Everything1sPossible](https://github.com/Everything1sPossible)
+- [ituserxxx](https://github.com/ituserxxx)
+- [taosu0216](https://github.com/taosu0216)
 - [Sigma711](https://github.com/Sigma711)
-- [rakibul-dev](https://github.com/rakibul-dev)
-- [YAOYANG68](https://github.com/YAOYANG68)
-- [azyben](https://github.com/azyben)
-- [iBakuman](https://github.com/iBakuman)
 
 #### 🔨 Check out my recent pull requests
 
@@ -90,10 +90,10 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (2 months ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (4 months ago)
+- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (today)
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (1 week ago)
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (1 month ago)
 - [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (1 month ago)
-- [Navigating the Open Source Landscape](https://nsddd.top/posts/navigating-the-open-source-landscape/) (1 month ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-22 16:23:06
