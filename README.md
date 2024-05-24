@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [liuqian1990](https://github.com/liuqian1990)
 - [ForeverTime](https://github.com/ForeverTime)
 - [Forrest-Tao](https://github.com/Forrest-Tao)
 - [zhuzhu1949](https://github.com/zhuzhu1949)
 - [Everything1sPossible](https://github.com/Everything1sPossible)
-- [ituserxxx](https://github.com/ituserxxx)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-24 16:21:57
