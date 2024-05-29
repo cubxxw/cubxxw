@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (today)
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (today)
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes&#39; cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台 (1 week ago)
 - [liou666/polyglot](https://github.com/liou666/polyglot) - 🤖️  Cross-platform AI language practice app （跨平台AI语言练习应用） (1 week ago)
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let&#39;s you describe UI using your imagination, then see it rendered live. (2 weeks ago)
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources. (2 weeks ago)
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX. (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-05-29 09:13:10
