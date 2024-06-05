@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [zhifwu](https://github.com/zhifwu)
 - [iwantplaygalgame](https://github.com/iwantplaygalgame)
 - [Nipuru](https://github.com/Nipuru)
 - [Wcdaren](https://github.com/Wcdaren)
 - [wtser](https://github.com/wtser)
-- [molon](https://github.com/molon)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-05 09:10:53
