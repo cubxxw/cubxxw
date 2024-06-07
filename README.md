@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (today)
+- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (today)
 - [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
 - [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (1 month ago)
 - [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
-- [feat: update chat release-v1.1 image](https://github.com/openimsdk/chat/pull/489) on [openimsdk/chat](https://github.com/openimsdk/chat) (1 month ago)
-- [feat: update release-v3.2 images ](https://github.com/openimsdk/open-im-server/pull/2178) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-07 09:13:21
