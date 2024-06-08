@@ -46,7 +46,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/.github](https://github.com/telepace/.github) -  (6 days ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [qor5/docs](https://github.com/qor5/docs) - Documentation (1 week ago)
 - [qor5/admin](https://github.com/qor5/admin) - Admin console (1 week ago)
@@ -62,7 +62,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (today)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 day ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 week ago)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (1 week ago)
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes&#39; cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台 (2 weeks ago)
@@ -78,8 +78,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (today)
-- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (today)
+- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (1 day ago)
+- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (1 day ago)
 - [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
 - [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (1 month ago)
 - [fix: fix release-v3.3 start bug](https://github.com/openimsdk/open-im-server/pull/2179) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-08 00:19:28
