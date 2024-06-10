@@ -70,19 +70,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Neo-Neooo](https://github.com/Neo-Neooo)
 - [zhifwu](https://github.com/zhifwu)
 - [iwantplaygalgame](https://github.com/iwantplaygalgame)
 - [Nipuru](https://github.com/Nipuru)
 - [Wcdaren](https://github.com/Wcdaren)
-- [wtser](https://github.com/wtser)
 
 #### 🔨 Check out my recent pull requests
 
+- [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (today)
 - [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (2 days ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (3 days ago)
 - [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (3 days ago)
 - [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
-- [fix: fix scripts git commit hooks valid_branch_regex](https://github.com/superproj/onex/pull/14) on [superproj/onex](https://github.com/superproj/onex) (1 month ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-10 16:23:48
