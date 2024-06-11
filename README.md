@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/.github](https://github.com/telepace/.github) -  (3 days ago)
 - [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (3 days ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (3 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [qor5/admin](https://github.com/qor5/admin) - Admin console (1 week ago)
 - [qor5/docs](https://github.com/qor5/docs) - Documentation (1 week ago)
@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [onion1003](https://github.com/onion1003)
 - [Neo-Neooo](https://github.com/Neo-Neooo)
 - [zhifwu](https://github.com/zhifwu)
 - [iwantplaygalgame](https://github.com/iwantplaygalgame)
 - [Nipuru](https://github.com/Nipuru)
-- [Wcdaren](https://github.com/Wcdaren)
 
 #### 🔨 Check out my recent pull requests
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-11 09:12:21
