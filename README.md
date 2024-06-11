@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (today)
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money (2 days ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (4 days ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (1 week ago)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (1 week ago)
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes&#39; cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台 (3 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-11 16:23:23
