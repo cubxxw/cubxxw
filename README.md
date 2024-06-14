@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/.github](https://github.com/telepace/.github) -  (5 days ago)
-- [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (5 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (6 days ago)
+- [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (6 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 weeks ago)
 - [qor5/admin](https://github.com/qor5/admin) - Admin console (2 weeks ago)
 - [qor5/docs](https://github.com/qor5/docs) - Documentation (2 weeks ago)
 
@@ -62,9 +62,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (2 days ago)
-- [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money (4 days ago)
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (6 days ago)
+- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (3 days ago)
+- [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money (5 days ago)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 weeks ago)
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.  (2 weeks ago)
 
@@ -78,11 +78,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (3 days ago)
-- [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (5 days ago)
-- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (6 days ago)
-- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (6 days ago)
-- [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (1 month ago)
+- [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (4 days ago)
+- [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (6 days ago)
+- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (1 week ago)
+- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (1 week ago)
+- [feat: optimize go version auto set](https://github.com/openimsdk/open-im-server/pull/2182) on [openimsdk/open-im-server](https://github.com/openimsdk/open-im-server) (2 months ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -91,9 +91,9 @@
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (3 months ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (5 months ago)
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (3 weeks ago)
-- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (4 weeks ago)
+- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (1 month ago)
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (1 month ago)
-- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (1 month ago)
+- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (2 months ago)
 
 #### 📫 How to reach me
 
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-14 00:21:50
