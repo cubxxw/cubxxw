@@ -62,7 +62,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (5 days ago)
+- [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (6 days ago)
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money (1 week ago)
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 week ago)
 - [meta-llama/llama3](https://github.com/meta-llama/llama3) - The official Meta Llama 3 GitHub site (2 weeks ago)
@@ -78,7 +78,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (6 days ago)
+- [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (1 week ago)
 - [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (1 week ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (1 week ago)
 - [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (1 week ago)
@@ -92,7 +92,7 @@
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (5 months ago)
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (3 weeks ago)
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (1 month ago)
-- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (1 month ago)
+- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (2 months ago)
 - [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (2 months ago)
 
 #### 📫 How to reach me
@@ -196,4 +196,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-17 00:18:45
