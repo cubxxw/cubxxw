@@ -48,7 +48,7 @@
 
 - [telepace/.github](https://github.com/telepace/.github) -  (1 week ago)
 - [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (1 week ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 weeks ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 weeks ago)
 - [qor5/admin](https://github.com/qor5/admin) - Admin console (3 weeks ago)
 - [qor5/docs](https://github.com/qor5/docs) - Documentation (3 weeks ago)
 
@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (today)
-- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr等镜像加速\管理服务。支持部署到Render (1 day ago)
+- [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (1 day ago)
+- [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr等镜像加速\管理服务。支持部署到Render (2 days ago)
 - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (1 week ago)
 - [mezod/awesome-indie](https://github.com/mezod/awesome-indie) - Resources for independent developers to make money (1 week ago)
-- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (1 week ago)
+- [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue) (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -80,8 +80,8 @@
 
 - [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (1 week ago)
 - [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (1 week ago)
-- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (1 week ago)
-- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (1 week ago)
+- [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (2 weeks ago)
+- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (2 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -89,7 +89,7 @@
 
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (3 months ago)
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (5 months ago)
-- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (4 weeks ago)
+- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (1 month ago)
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (1 month ago)
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (2 months ago)
 - [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (2 months ago)
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-21 00:21:22
