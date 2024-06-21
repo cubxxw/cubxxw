@@ -50,7 +50,7 @@
 - [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 weeks ago)
 - [qor5/admin](https://github.com/qor5/admin) - Admin console (3 weeks ago)
-- [qor5/docs](https://github.com/qor5/docs) - Documentation (3 weeks ago)
+- [cubxxw/resume](https://github.com/cubxxw/resume) - resume (1 month ago)
 
 #### 🌱 Check out my recent projects
 
@@ -195,4 +195,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-21 09:11:13
