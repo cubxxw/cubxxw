@@ -81,7 +81,6 @@
 - [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (2 weeks ago)
 - [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (2 weeks ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (3 weeks ago)
-- [feat: Optimized the activity code](https://github.com/qor5/admin/pull/255) on [qor5/admin](https://github.com/qor5/admin) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -195,4 +194,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-28 16:22:10
