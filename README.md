@@ -46,10 +46,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
-- [telepace/website](https://github.com/telepace/website) - Telepace website (1 day ago)
-- [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (2 weeks ago)
-- [telepace/.github](https://github.com/telepace/.github) -  (2 weeks ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 days ago)
+- [telepace/website](https://github.com/telepace/website) - Telepace website (2 days ago)
+- [telepace/ai-commons](https://github.com/telepace/ai-commons) - This repository serves as a central hub for common code and tools, including API client libraries or data transformation utilities that are used across various parts of the feedback system. (3 weeks ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (3 weeks ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -62,8 +62,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (today)
-- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB (today)
+- [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 day ago)
+- [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - 🔥🔥🔥AI-driven data management platform Over 1 million developers are using Chat2DB (1 day ago)
 - [deepseek-ai/DeepSeek-V2](https://github.com/deepseek-ai/DeepSeek-V2) - DeepSeek-V2: A Strong, Economical, and Efficient Mixture-of-Experts Language Model (1 week ago)
 - [dqzboy/Docker-Proxy](https://github.com/dqzboy/Docker-Proxy) - 🔥 🔥 🔥 自建Docker镜像加速服务，基于官方Docker  Registry 一键部署Docker、K8s、Quay、Ghcr、Mcr等镜像加速\管理服务。支持部署到Render (1 week ago)
 - [DjangoPeng/openai-quickstart](https://github.com/DjangoPeng/openai-quickstart) - A comprehensive guide to understanding and implementing large language models with hands-on examples using LangChain for GenAI applications. (2 weeks ago)
@@ -79,7 +79,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (2 weeks ago)
-- [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (2 weeks ago)
+- [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (3 weeks ago)
 - [Create PULL_REQUEST_TEMPLATE.md](https://github.com/qor5/.github/pull/1) on [qor5/.github](https://github.com/qor5/.github) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
@@ -194,4 +194,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-06-29 00:19:48
