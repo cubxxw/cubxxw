@@ -79,7 +79,6 @@
 #### 🔨 Check out my recent pull requests
 
 - [Update README.md](https://github.com/Elegycloud/clash-for-linux-backup/pull/63) on [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) (3 weeks ago)
-- [Update README.md](https://github.com/telepace/ai-commons/pull/2) on [telepace/ai-commons](https://github.com/telepace/ai-commons) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -193,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-02 16:22:55
