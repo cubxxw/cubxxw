@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Angel-QL](https://github.com/Angel-QL)
 - [wfnuser](https://github.com/wfnuser)
 - [ScorpiusJin](https://github.com/ScorpiusJin)
 - [lizesheng2020](https://github.com/lizesheng2020)
 - [shreya179-disk](https://github.com/shreya179-disk)
-- [AcidCassette](https://github.com/AcidCassette)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-04 09:12:55
