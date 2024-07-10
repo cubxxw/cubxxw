@@ -46,11 +46,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/.github](https://github.com/telepace/.github) -  (4 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (5 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (6 days ago)
 - [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 week ago)
 - [telepace/website](https://github.com/telepace/website) - Telepace website (1 week ago)
-- [qor5/admin](https://github.com/qor5/admin) - Admin console (2 weeks ago)
+- [qor5/admin](https://github.com/qor5/admin) - Admin console (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -62,10 +62,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more (today)
-- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms  (today)
-- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (2 days ago)
-- [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 (6 days ago)
+- [pandas-dev/pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more (1 day ago)
+- [jxnl/instructor](https://github.com/jxnl/instructor) - structured outputs for llms  (1 day ago)
+- [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps (3 days ago)
+- [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。 (1 week ago)
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-10 00:20:55
