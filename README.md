@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask (today)
+- [bregman-arie/devops-exercises](https://github.com/bregman-arie/devops-exercises) - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions (today)
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: Observability, metrics, evals, prompt management, playground, datasets. Integrates with LlamaIndex, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  (2 days ago)
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system (2 days ago)
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify&#39;s intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you quickly go from prototype to production. (6 days ago)
-- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Vertex AI, Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development (6 days ago)
-- [ragapp/ragapp](https://github.com/ragapp/ragapp) - The easiest way to use Agentic RAG in any enterprise (6 days ago)
 
 #### 👯 Check out my recent followers
 
+- [whoseduck](https://github.com/whoseduck)
+- [cmlanche](https://github.com/cmlanche)
 - [HomoDeusss](https://github.com/HomoDeusss)
 - [ViggoC](https://github.com/ViggoC)
 - [IntelCore0607](https://github.com/IntelCore0607)
-- [Luca-Y](https://github.com/Luca-Y)
-- [Angel-QL](https://github.com/Angel-QL)
 
 #### 🔨 Check out my recent pull requests
 
@@ -191,4 +191,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-17 09:14:48
