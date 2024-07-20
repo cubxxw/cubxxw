@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial (today)
-- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data (today)
-- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (1 day ago)
-- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry (1 day ago)
-- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.  (1 day ago)
+- [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial (1 day ago)
+- [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data (1 day ago)
+- [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (2 days ago)
+- [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry (2 days ago)
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.  (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -78,7 +78,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 day ago)
+- [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (2 days ago)
 
 #### 📜 Check out my recent blog posts
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-20 00:20:47
