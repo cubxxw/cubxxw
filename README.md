@@ -62,19 +62,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django  (today)
 - [Mikoto10032/DeepLearning](https://github.com/Mikoto10032/DeepLearning) - 深度学习入门教程, 优秀文章, Deep Learning Tutorial (2 days ago)
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data (2 days ago)
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python (3 days ago)
 - [traceloop/openllmetry](https://github.com/traceloop/openllmetry) - Open-source observability for your LLM application, based on OpenTelemetry (3 days ago)
-- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.  (3 days ago)
 
 #### 👯 Check out my recent followers
 
+- [vintagewang](https://github.com/vintagewang)
 - [whoseduck](https://github.com/whoseduck)
 - [cmlanche](https://github.com/cmlanche)
 - [HomoDeusss](https://github.com/HomoDeusss)
 - [ViggoC](https://github.com/ViggoC)
-- [IntelCore0607](https://github.com/IntelCore0607)
 
 #### 🔨 Check out my recent pull requests
 
@@ -192,4 +192,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-21 09:19:47
