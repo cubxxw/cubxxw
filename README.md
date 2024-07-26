@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [TerryWang159](https://github.com/TerryWang159)
 - [myishay](https://github.com/myishay)
 - [OffensiveBrute](https://github.com/OffensiveBrute)
 - [MiaoMint](https://github.com/MiaoMint)
 - [dhsie](https://github.com/dhsie)
-- [vintagewang](https://github.com/vintagewang)
 
 #### 🔨 Check out my recent pull requests
 
@@ -193,4 +193,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-26 22:16:38
