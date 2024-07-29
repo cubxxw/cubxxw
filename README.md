@@ -46,8 +46,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (3 days ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (2 weeks ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (3 weeks ago)
 - [telepace/website](https://github.com/telepace/website) - Telepace website (1 month ago)
@@ -62,10 +62,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy (1 day ago)
-- [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源 (2 days ago)
-- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. (5 days ago)
-- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (6 days ago)
+- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy (2 days ago)
+- [weekend-project-space/top-rss-list](https://github.com/weekend-project-space/top-rss-list) - 订阅人数最多的rss源，中文优质rss源 (3 days ago)
+- [tiangolo/full-stack-fastapi-template](https://github.com/tiangolo/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more. (6 days ago)
+- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman (1 week ago)
 - [django-cms/django-cms](https://github.com/django-cms/django-cms) - The easy-to-use and developer-friendly enterprise CMS powered by Django  (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -78,7 +78,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (2 days ago)
+- [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (3 days ago)
 - [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 week ago)
 
 #### 📜 Check out my recent blog posts
@@ -193,4 +193,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-29 00:20:45
