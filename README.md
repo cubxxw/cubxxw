@@ -70,11 +70,11 @@
 
 #### 👯 Check out my recent followers
 
+- [fanb129](https://github.com/fanb129)
 - [WORLDAHU](https://github.com/WORLDAHU)
 - [cl20050405](https://github.com/cl20050405)
 - [TerryWang159](https://github.com/TerryWang159)
 - [myishay](https://github.com/myishay)
-- [OffensiveBrute](https://github.com/OffensiveBrute)
 
 #### 🔨 Check out my recent pull requests
 
@@ -193,4 +193,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-07-30 09:14:51
