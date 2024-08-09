@@ -47,8 +47,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (1 week ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (3 weeks ago)
+- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (2 weeks ago)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (4 weeks ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 month ago)
 - [telepace/website](https://github.com/telepace/website) - Telepace website (1 month ago)
 
@@ -62,7 +62,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser (5 days ago)
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser (6 days ago)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server) (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (1 week ago)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (1 week ago)
@@ -78,7 +78,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (1 week ago)
+- [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (2 weeks ago)
 - [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (3 weeks ago)
 
 #### 📜 Check out my recent blog posts
@@ -193,4 +193,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-09 00:21:17
