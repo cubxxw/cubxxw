@@ -46,9 +46,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 weeks ago)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (2 weeks ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (4 weeks ago)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 month ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 month ago)
 - [telepace/website](https://github.com/telepace/website) - Telepace website (1 month ago)
 
@@ -193,4 +193,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-11 00:21:39
