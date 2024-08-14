@@ -71,12 +71,31 @@
 - [{{.Title}}]({{.URL}}) on [{{.Repo.Name}}]({{.Repo.URL}}) ({{humanize .CreatedAt}})
 {{- end}}
 
-#### 📜 Check out my recent blog posts
-<!--zhihu：range rss "https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594" 5 -->
-<!--blog: range rss "https://nsddd.top/rss.xml" 6-->
+## 📜 Check Out My Recent Blog Posts
+
+<div style="display: flex; justify-content: space-between;">
+
+### 🌐 English
+<div style="width: 48%;">
+
+<!-- English Blog Posts -->
 {{range rss "https://rss.starerror.com/https://nsddd.top/posts/index.xml" 6}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}}) <br> <small>Published on {{humanize .PublishedAt}}</small>
 {{- end}}
+
+</div>
+
+### 🌏 中文
+<div style="width: 48%;">
+
+<!-- 中文博客文章 -->
+{{range rss "https://rss.starerror.com/https://nsddd.top/zh/posts/index.xml" 6}}
+- [{{.Title}}]({{.URL}}) <br> <small>发表于 {{humanize .PublishedAt}}</small>
+{{- end}}
+
+</div>
+
+</div>
 
 #### 📫 How to reach me
 <!-- 
