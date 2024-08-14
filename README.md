@@ -62,11 +62,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra (today)
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser (1 week ago)
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server) (1 week ago)
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia) (2 weeks ago)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language. (2 weeks ago)
-- [agronholm/sqlacodegen](https://github.com/agronholm/sqlacodegen) - Automatic model code generator for SQLAlchemy (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
@@ -81,16 +81,39 @@
 - [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (2 weeks ago)
 - [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (3 weeks ago)
 
-#### 📜 Check out my recent blog posts
+## 📜 Check Out My Recent Blog Posts
+
+<div style="display: flex; justify-content: space-between;">
+
+### 🌐 English
+<div style="width: 48%;">
 
 
 
-- [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) (5 months ago)
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) (7 months ago)
-- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) (2 months ago)
-- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) (3 months ago)
-- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) (3 months ago)
-- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) (4 months ago)
+- [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <br> <small>Published on 5 months ago</small>
+- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) <br> <small>Published on 7 months ago</small>
+- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <br> <small>Published on 2 months ago</small>
+- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <br> <small>Published on 3 months ago</small>
+- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <br> <small>Published on 3 months ago</small>
+- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <br> <small>Published on 4 months ago</small>
+
+</div>
+
+### 🌏 中文
+<div style="width: 48%;">
+
+
+
+- [2023年，我的旅行起点 - 2023年的我漫步在世界边缘](https://nsddd.top/zh/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <br> <small>发表于 5 months ago</small>
+- [回顾与前瞻：我的2023年度总结报告](https://nsddd.top/zh/posts/2023-annual-summary-reflections-and-aspirations/) <br> <small>发表于 7 months ago</small>
+- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <br> <small>发表于 2 months ago</small>
+- [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <br> <small>发表于 3 months ago</small>
+- [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <br> <small>发表于 3 months ago</small>
+- [这是一篇我职业生涯总结的 OpenIM 故障排查指南](https://nsddd.top/zh/posts/troubleshooting-guide-for-openim/) <br> <small>发表于 4 months ago</small>
+
+</div>
+
+</div>
 
 #### 📫 How to reach me
 
@@ -193,4 +216,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-14 09:16:37
