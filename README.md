@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 weeks ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (2 weeks ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 month ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 month ago)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 month ago)
+- [telepace/website](https://github.com/telepace/website) - Telepace website (1 month ago)
 
 #### 🌱 Check out my recent projects
 
@@ -75,11 +75,11 @@
 
 #### 👯 Check out my recent followers
 
+- [BEPb](https://github.com/BEPb)
+- [leihentulong](https://github.com/leihentulong)
 - [wangcc7](https://github.com/wangcc7)
 - [Indashio](https://github.com/Indashio)
 - [dyzmj](https://github.com/dyzmj)
-- [fanb129](https://github.com/fanb129)
-- [WORLDAHU](https://github.com/WORLDAHU)
 
 #### 🔨 Check out my recent pull requests
 
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-15 16:23:47
