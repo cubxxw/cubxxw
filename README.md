@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (3 weeks ago)
 - [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 month ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 month ago)
@@ -111,10 +111,10 @@
 
 - [2023年，我的旅行起点 - 2023年的我漫步在世界边缘](https://nsddd.top/zh/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(5 months ago)</small>
 - [回顾与前瞻：我的2023年度总结报告](https://nsddd.top/zh/posts/2023-annual-summary-reflections-and-aspirations/) <small>(7 months ago)</small>
+- [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(1 week ago)</small>
 - [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(2 months ago)</small>
 - [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(3 months ago)</small>
 - [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(4 months ago)</small>
-- [这是一篇我职业生涯总结的 OpenIM 故障排查指南](https://nsddd.top/zh/posts/troubleshooting-guide-for-openim/) <small>(4 months ago)</small>
 
 </div>
 
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-16 22:17:08
