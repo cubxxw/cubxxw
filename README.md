@@ -67,19 +67,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [fullstorydev/grpcurl](https://github.com/fullstorydev/grpcurl) - Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers (today)
 - [pipecat-ai/pipecat](https://github.com/pipecat-ai/pipecat) - Open Source framework for voice and multimodal conversational AI (1 day ago)
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed inference (2 days ago)
 - [scylladb/scylladb](https://github.com/scylladb/scylladb) - NoSQL data store using the seastar framework, compatible with Apache Cassandra (3 days ago)
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser (2 weeks ago)
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server) (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [suisbuds](https://github.com/suisbuds)
 - [cuong48d](https://github.com/cuong48d)
 - [BEPb](https://github.com/BEPb)
 - [leihentulong](https://github.com/leihentulong)
 - [wangcc7](https://github.com/wangcc7)
-- [Indashio](https://github.com/Indashio)
 
 #### 🔨 Check out my recent pull requests
 
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-17 16:22:06
