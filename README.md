@@ -75,11 +75,11 @@
 
 #### 👯 Check out my recent followers
 
+- [mar-heaven](https://github.com/mar-heaven)
 - [suisbuds](https://github.com/suisbuds)
 - [cuong48d](https://github.com/cuong48d)
 - [leihentulong](https://github.com/leihentulong)
 - [wangcc7](https://github.com/wangcc7)
-- [Indashio](https://github.com/Indashio)
 
 #### 🔨 Check out my recent pull requests
 
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-08-25 09:22:36
