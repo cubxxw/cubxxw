@@ -75,14 +75,15 @@
 
 #### 👯 Check out my recent followers
 
+- [M1nghe](https://github.com/M1nghe)
+- [Neverland3124](https://github.com/Neverland3124)
 - [sanbei101](https://github.com/sanbei101)
-- [TheLeftyCoder](https://github.com/TheLeftyCoder)
 - [linjinhsien](https://github.com/linjinhsien)
 - [Hisir0909](https://github.com/Hisir0909)
-- [MarkBruns](https://github.com/MarkBruns)
 
 #### 🔨 Check out my recent pull requests
 
+- [Optimize conversation_id handling and enhance Dify chat-messages API …](https://github.com/langgenius/dify-docs/pull/263) on [langgenius/dify-docs](https://github.com/langgenius/dify-docs) (today)
 - [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (1 month ago)
 - [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 month ago)
 
@@ -221,4 +222,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-09-11 09:20:10
