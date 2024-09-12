@@ -75,11 +75,11 @@
 
 #### 👯 Check out my recent followers
 
+- [pcpcpcpcpcpc](https://github.com/pcpcpcpcpcpc)
 - [tiangua6657970](https://github.com/tiangua6657970)
 - [61616176](https://github.com/61616176)
 - [M1nghe](https://github.com/M1nghe)
 - [Neverland3124](https://github.com/Neverland3124)
-- [sanbei101](https://github.com/sanbei101)
 
 #### 🔨 Check out my recent pull requests
 
@@ -222,4 +222,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-09-12 22:20:55
