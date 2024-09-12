@@ -67,23 +67,23 @@
 
 #### ⭐ Check out my recent stars
 
-- [libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS) - 官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project (5 days ago)
-- [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 (5 days ago)
+- [libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS) - 官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project (6 days ago)
+- [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 (6 days ago)
 - [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.  (1 week ago)
 - [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! (2 weeks ago)
 - [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (2 weeks ago)
 
 #### 👯 Check out my recent followers
 
+- [tiangua6657970](https://github.com/tiangua6657970)
 - [61616176](https://github.com/61616176)
 - [M1nghe](https://github.com/M1nghe)
 - [Neverland3124](https://github.com/Neverland3124)
 - [sanbei101](https://github.com/sanbei101)
-- [linjinhsien](https://github.com/linjinhsien)
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize conversation_id handling and enhance Dify chat-messages API …](https://github.com/langgenius/dify-docs/pull/263) on [langgenius/dify-docs](https://github.com/langgenius/dify-docs) (today)
+- [Optimize conversation_id handling and enhance Dify chat-messages API …](https://github.com/langgenius/dify-docs/pull/263) on [langgenius/dify-docs](https://github.com/langgenius/dify-docs) (1 day ago)
 - [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (1 month ago)
 - [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 month ago)
 
@@ -99,9 +99,9 @@
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(6 months ago)</small>
 - [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) <small>(8 months ago)</small>
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(3 months ago)</small>
-- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(3 months ago)</small>
+- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(4 months ago)</small>
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(4 months ago)</small>
-- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <small>(4 months ago)</small>
+- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <small>(5 months ago)</small>
 
 </div>
 
@@ -114,7 +114,7 @@
 - [回顾与前瞻：我的2023年度总结报告](https://nsddd.top/zh/posts/2023-annual-summary-reflections-and-aspirations/) <small>(8 months ago)</small>
 - [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(1 month ago)</small>
 - [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(3 months ago)</small>
-- [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(3 months ago)</small>
+- [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(4 months ago)</small>
 - [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(4 months ago)</small>
 
 </div>
@@ -222,4 +222,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-09-12 00:22:35
