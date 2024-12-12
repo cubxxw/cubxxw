@@ -5,7 +5,7 @@
 
 <p align="center">
 	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="maemreyo" width="400"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="maemreyo" width="350"/>
 </p>
 
 <h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
