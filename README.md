@@ -4,8 +4,8 @@
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" height="180" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="maemreyo" width="400" height="180"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="maemreyo" width="400"/>
 </p>
 
 <h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
