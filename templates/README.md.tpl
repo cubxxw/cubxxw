@@ -84,7 +84,7 @@
 <div style="width: 48%;">
 
 <!-- English Blog Posts -->
-{{range rss "https://rss.starerror.com/https://nsddd.top/posts/index.xml" 6}}
+{{range rss "https://nsddd.top/posts/index.xml" 6}}
 - [{{.Title}}]({{.URL}}) <small>({{humanize .PublishedAt}})</small>
 {{- end}}
 
@@ -93,8 +93,8 @@
 ### 🌏 中文
 <div style="width: 48%;">
 
-<!-- 中文博客文章 -->
-{{range rss "https://rss.starerror.com/https://nsddd.top/zh/posts/index.xml" 6}}
+<!-- 中文博客文章 https://rss.starerror.com/-->
+{{range rss "https://nsddd.top/zh/posts/index.xml" 6}}
 - [{{.Title}}]({{.URL}}) <small>({{humanize .PublishedAt}})</small>
 {{- end}}
 
