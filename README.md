@@ -51,41 +51,40 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [langgenius/dify-docs](https://github.com/langgenius/dify-docs) - The open-source repo for docs.dify.ai (2 days ago)
-- [Elegycloud/clash-for-linux-backup](https://github.com/Elegycloud/clash-for-linux-backup) - 基于Clash Core 制作的Clash For Linux备份仓库      A Clash For Linux Backup Warehouse Based on Clash Core (2 weeks ago)
-- [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (4 weeks ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 weeks ago)
-- [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) - 中文独立博客列表 (1 month ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
+- [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 month ago)
+- [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 month ago)
+- [telepace/helm-charts](https://github.com/telepace/helm-charts) - helm charts repository for telepace (1 month ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/wechat-reader-ai-assistant](https://github.com/cubxxw/wechat-reader-ai-assistant) - wechat-reader-ai-assistant
+- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。
+- [cubxxw/Made-With-ML](https://github.com/cubxxw/Made-With-ML) - Made-With-ML
 - [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性!
 - [cubxxw/k8s-demo](https://github.com/cubxxw/k8s-demo) - This is a case test warehouse for kubernetes.
-- [cubxxw/Resume-CV](https://github.com/cubxxw/Resume-CV) - Resume CV
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml
-- [cubxxw/tinykv](https://github.com/cubxxw/tinykv) - tinykv &#43; mit6.824
 
 #### ⭐ Check out my recent stars
 
-- [libukai/Awesome-ChatTTS](https://github.com/libukai/Awesome-ChatTTS) - 官方推荐的 ChatTTS 资源汇总项目，整理了全网相关资源和常见问题 || Officially recommended ChatTTS resource collection project (1 week ago)
-- [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books) - 2021年最新总结，推荐工程师合适读本，计算机科学，软件技术，创业，思想类，数学类，人物传记书籍 (1 week ago)
-- [JamzyWang/awesome-redis](https://github.com/JamzyWang/awesome-redis) - A curated list of amazingly awesome redis and redis ecosystem resources.  (1 week ago)
-- [xenova/transformers.js](https://github.com/xenova/transformers.js) - State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server! (3 weeks ago)
-- [pgvector/pgvector](https://github.com/pgvector/pgvector) - Open-source vector similarity search for Postgres (3 weeks ago)
+- [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT全方面接入指南 (2 months ago)
+- [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database (2 months ago)
+- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor (2 months ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
+- [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) - Sample code for the Microsoft Cognitive Services Speech SDK (3 months ago)
 
 #### 👯 Check out my recent followers
 
-- [pcpcpcpcpcpc](https://github.com/pcpcpcpcpcpc)
-- [tiangua6657970](https://github.com/tiangua6657970)
-- [61616176](https://github.com/61616176)
-- [M1nghe](https://github.com/M1nghe)
-- [Neverland3124](https://github.com/Neverland3124)
+- [Felix2018-crypto](https://github.com/Felix2018-crypto)
+- [vedesh-padal](https://github.com/vedesh-padal)
+- [TSU-X](https://github.com/TSU-X)
+- [XiaomingX](https://github.com/XiaomingX)
+- [LinuxJS](https://github.com/LinuxJS)
 
 #### 🔨 Check out my recent pull requests
 
-- [Optimize conversation_id handling and enhance Dify chat-messages API …](https://github.com/langgenius/dify-docs/pull/263) on [langgenius/dify-docs](https://github.com/langgenius/dify-docs) (4 days ago)
-- [Update blogs-original.csv](https://github.com/timqian/chinese-independent-blogs/pull/1775) on [timqian/chinese-independent-blogs](https://github.com/timqian/chinese-independent-blogs) (1 month ago)
-- [feat: Allows docker to restart automatically upon startup](https://github.com/langfuse/langfuse/pull/2666) on [langfuse/langfuse](https://github.com/langfuse/langfuse) (1 month ago)
+- [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/19) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (1 month ago)
+- [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/17) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (1 month ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -96,12 +95,12 @@
 
 
 
-- [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(6 months ago)</small>
-- [2023 Annual Summary Reflections and Aspirations](https://nsddd.top/posts/2023-annual-summary-reflections-and-aspirations/) <small>(8 months ago)</small>
-- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(3 months ago)</small>
-- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(4 months ago)</small>
-- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(5 months ago)</small>
-- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <small>(5 months ago)</small>
+- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(1 week ago)</small>
+- [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(11 months ago)</small>
+- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
+- [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(9 months ago)</small>
+- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(10 months ago)</small>
+- [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <small>(10 months ago)</small>
 
 </div>
 
@@ -110,12 +109,12 @@
 
 
 
-- [2023年，我的旅行起点 - 2023年的我漫步在世界边缘](https://nsddd.top/zh/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(6 months ago)</small>
-- [回顾与前瞻：我的2023年度总结报告](https://nsddd.top/zh/posts/2023-annual-summary-reflections-and-aspirations/) <small>(8 months ago)</small>
-- [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(1 month ago)</small>
-- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(3 months ago)</small>
-- [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(4 months ago)</small>
-- [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(5 months ago)</small>
+- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(1 week ago)</small>
+- [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(6 months ago)</small>
+- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
+- [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(9 months ago)</small>
+- [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(10 months ago)</small>
+- [这是一篇我职业生涯总结的 OpenIM 故障排查指南](https://nsddd.top/zh/posts/troubleshooting-guide-for-openim/) <small>(10 months ago)</small>
 
 </div>
 
@@ -222,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2024-09-15 22:16:52
