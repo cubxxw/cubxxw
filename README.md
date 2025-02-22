@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 month ago)
 - [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 month ago)
@@ -70,7 +70,7 @@
 - [Daiyimo/Access-chatGPT-in-Siri](https://github.com/Daiyimo/Access-chatGPT-in-Siri) - chatGPT全方面接入指南 (2 months ago)
 - [go-testfixtures/testfixtures](https://github.com/go-testfixtures/testfixtures) - Ruby on Rails like test fixtures for Go. Write tests against a real database (2 months ago)
 - [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor (2 months ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 months ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 months ago)
 - [Azure-Samples/cognitive-services-speech-sdk](https://github.com/Azure-Samples/cognitive-services-speech-sdk) - Sample code for the Microsoft Cognitive Services Speech SDK (3 months ago)
 
 #### 👯 Check out my recent followers
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-02-22 00:26:11
