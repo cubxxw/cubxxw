@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 days ago)
-- [telepace/pharos](https://github.com/telepace/pharos) -  (5 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (6 days ago)
 - [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 month ago)
 - [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 month ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (today)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 day ago)
-- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (2 days ago)
-- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (4 days ago)
-- [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology. (4 days ago)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (1 day ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (2 days ago)
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (3 days ago)
+- [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (5 days ago)
+- [rag-web-ui/rag-web-ui](https://github.com/rag-web-ui/rag-web-ui) - RAG Web UI is an intelligent dialogue system based on RAG (Retrieval-Augmented Generation) technology. (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -95,7 +95,7 @@
 
 
 
-- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 weeks ago)</small>
+- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(3 weeks ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(9 months ago)</small>
@@ -109,7 +109,7 @@
 
 
 
-- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 weeks ago)</small>
+- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(3 weeks ago)</small>
 - [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(7 months ago)</small>
 - [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
 - [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(9 months ago)</small>
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-05 00:27:48
