@@ -67,10 +67,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 day ago)
-- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (3 days ago)
-- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (4 days ago)
-- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (5 days ago)
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (2 days ago)
+- [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (4 days ago)
+- [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (5 days ago)
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (6 days ago)
 - [HandsOnLLM/Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O&#39;Reilly Book - &#34;Hands-On Large Language Models&#34; (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -221,4 +221,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-08 00:26:49
