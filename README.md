@@ -83,9 +83,9 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (today)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (today)
 - [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/19) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (1 month ago)
-- [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/17) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (2 months ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -222,4 +222,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-09 22:00:56
