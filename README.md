@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/pharos](https://github.com/telepace/pharos) -  (1 day ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 month ago)
@@ -83,6 +83,7 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (today)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
 - [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/19) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (1 month ago)
@@ -222,4 +223,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-10 09:21:13
