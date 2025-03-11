@@ -83,10 +83,10 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (today)
 - [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (2 days ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (2 days ago)
-- [feat: add whisper git config?](https://github.com/telepace/voiceflow/pull/19) on [telepace/voiceflow](https://github.com/telepace/voiceflow) (1 month ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -223,4 +223,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-11 09:44:56
