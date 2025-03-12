@@ -51,9 +51,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [telepace/pharos](https://github.com/telepace/pharos) -  (today)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (1 day ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
 - [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 month ago)
 
@@ -67,7 +67,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (5 days ago)
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (6 days ago)
 - [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) - An Easy-to-use, Scalable and High-performance RLHF Framework (70B&#43; PPO Full Tuning &amp; Iterative DPO &amp; LoRA &amp; RingAttention &amp; RFT) (1 week ago)
 - [huggingface/open-r1](https://github.com/huggingface/open-r1) - Fully open reproduction of DeepSeek-R1 (1 week ago)
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents (1 week ago)
@@ -75,19 +75,19 @@
 
 #### 👯 Check out my recent followers
 
+- [Donaghy-Chen](https://github.com/Donaghy-Chen)
 - [markwindsorr](https://github.com/markwindsorr)
 - [aylar-ghezelbash](https://github.com/aylar-ghezelbash)
 - [beacon1096](https://github.com/beacon1096)
 - [Pshelby83833](https://github.com/Pshelby83833)
-- [Felix2018-crypto](https://github.com/Felix2018-crypto)
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (today)
-- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (today)
-- [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
-- [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (2 days ago)
-- [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (2 days ago)
+- [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
+- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (1 day ago)
+- [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (2 days ago)
+- [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (3 days ago)
+- [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (3 days ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -98,7 +98,7 @@
 
 
 
-- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(3 weeks ago)</small>
+- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(4 weeks ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(10 months ago)</small>
@@ -112,7 +112,7 @@
 
 
 
-- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(3 weeks ago)</small>
+- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(4 weeks ago)</small>
 - [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(7 months ago)</small>
 - [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
 - [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(10 months ago)</small>
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-12 00:28:49
