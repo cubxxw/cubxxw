@@ -75,11 +75,11 @@
 
 #### 👯 Check out my recent followers
 
+- [dorothyyzh](https://github.com/dorothyyzh)
 - [Donaghy-Chen](https://github.com/Donaghy-Chen)
 - [aylar-ghezelbash](https://github.com/aylar-ghezelbash)
 - [beacon1096](https://github.com/beacon1096)
 - [Pshelby83833](https://github.com/Pshelby83833)
-- [Felix2018-crypto](https://github.com/Felix2018-crypto)
 
 #### 🔨 Check out my recent pull requests
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-18 09:45:55
