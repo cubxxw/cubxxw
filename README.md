@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip&#39;s your AI agents &amp; LLMs with 100&#43; high-quality integrations via function calling (today)
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns (4 days ago)
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (4 days ago)
 - [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (4 days ago)
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (5 days ago)
-- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (today)
 - [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
-- [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-18 16:28:56
