@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/pharos](https://github.com/telepace/pharos) -  (3 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (6 days ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (4 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/infra](https://github.com/telepace/infra) - telepace infra (1 month ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (2 months ago)
@@ -67,10 +67,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns (3 days ago)
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (3 days ago)
-- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (3 days ago)
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (4 days ago)
+- [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns (4 days ago)
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0. (4 days ago)
+- [vercel/ai-chatbot](https://github.com/vercel/ai-chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel (4 days ago)
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers. (5 days ago)
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -83,8 +83,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (6 days ago)
-- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (6 days ago)
+- [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
+- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
 - [feat: add github actions](https://github.com/telepace/pharos/pull/11) on [telepace/pharos](https://github.com/telepace/pharos) (1 week ago)
@@ -100,7 +100,7 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(1 month ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
-- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
+- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(10 months ago)</small>
 - [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(11 months ago)</small>
 - [Troubleshooting Guide for OpenIM](https://nsddd.top/posts/troubleshooting-guide-for-openim/) <small>(11 months ago)</small>
@@ -114,7 +114,7 @@
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(1 month ago)</small>
 - [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(7 months ago)</small>
-- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(9 months ago)</small>
+- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 - [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(10 months ago)</small>
 - [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(11 months ago)</small>
 - [这是一篇我职业生涯总结的 OpenIM 故障排查指南](https://nsddd.top/zh/posts/troubleshooting-guide-for-openim/) <small>(11 months ago)</small>
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-18 00:28:34
