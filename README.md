@@ -77,9 +77,9 @@
 
 - [nholuongut](https://github.com/nholuongut)
 - [chenxi-null](https://github.com/chenxi-null)
-- [Xmosha](https://github.com/Xmosha)
 - [Raze-Tag](https://github.com/Raze-Tag)
 - [dorothyyzh](https://github.com/dorothyyzh)
+- [Donaghy-Chen](https://github.com/Donaghy-Chen)
 
 #### 🔨 Check out my recent pull requests
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-03-24 16:29:36
