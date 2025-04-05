@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (today)
 - [telepace/pharos](https://github.com/telepace/pharos) -  (2 days ago)
 - [telepace/feed](https://github.com/telepace/feed) - feed (2 weeks ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 weeks ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (3 weeks ago)
-- [telepace/infra](https://github.com/telepace/infra) - telepace infra (2 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-05 09:45:51
