@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (today)
-- [telepace/pharos](https://github.com/telepace/pharos) -  (2 days ago)
+- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (1 day ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (3 days ago)
 - [telepace/feed](https://github.com/telepace/feed) - feed (2 weeks ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 weeks ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (3 weeks ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (today)
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere. (2 days ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (2 days ago)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (3 days ago)
-- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (5 days ago)
+- [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (1 day ago)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere. (3 days ago)
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (3 days ago)
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (4 days ago)
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -87,7 +87,7 @@
 - [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
 - [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
 - [feat: add OpenRouter api](https://github.com/telepace/pharos/pull/13) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
-- [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
+- [feat: add github actions](https://github.com/telepace/pharos/pull/12) on [telepace/pharos](https://github.com/telepace/pharos) (4 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-06 00:25:51
