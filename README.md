@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (today)
 - [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (2 days ago)
 - [telepace/pharos](https://github.com/telepace/pharos) -  (4 days ago)
 - [telepace/feed](https://github.com/telepace/feed) - feed (2 weeks ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 weeks ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (4 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (today)
+- [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (today)
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI (today)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (2 days ago)
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere. (4 days ago)
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers (4 days ago)
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-07 16:30:33
