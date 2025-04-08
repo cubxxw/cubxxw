@@ -67,19 +67,19 @@
 
 #### ⭐ Check out my recent stars
 
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform (1 day ago)
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub&#39;s official MCP Server (1 day ago)
 - [gonzalezreal/swift-markdown-ui](https://github.com/gonzalezreal/swift-markdown-ui) - Display and customize Markdown text in SwiftUI (1 day ago)
 - [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101) - Explain complex systems using visuals and simple terms. Help you prepare for system design interviews. (3 days ago)
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere. (5 days ago)
 
 #### 👯 Check out my recent followers
 
+- [wangkeeeeee](https://github.com/wangkeeeeee)
 - [longwQaQ](https://github.com/longwQaQ)
 - [abin-z](https://github.com/abin-z)
 - [crypto0402](https://github.com/crypto0402)
 - [luo0077](https://github.com/luo0077)
-- [nholuongut](https://github.com/nholuongut)
 
 #### 🔨 Check out my recent pull requests
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-08 09:48:14
