@@ -51,9 +51,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 day ago)
-- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (3 days ago)
-- [telepace/pharos](https://github.com/telepace/pharos) -  (5 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
+- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (4 days ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (6 days ago)
 - [telepace/feed](https://github.com/telepace/feed) - feed (2 weeks ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 weeks ago)
 
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (today)
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (today)
-- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (today)
-- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 (today)
-- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (today)
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt (1 day ago)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...) (1 day ago)
+- [mendableai/firecrawl](https://github.com/mendableai/firecrawl) - 🔥 Turn entire websites into LLM-ready markdown or structured data. Scrape, crawl and extract with a single API. (1 day ago)
+- [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。 (1 day ago)
+- [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,8 +83,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (today)
-- [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (today)
+- [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (1 day ago)
+- [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (1 day ago)
 - [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
 - [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (4 weeks ago)
 - [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (4 weeks ago)
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-09 00:29:06
