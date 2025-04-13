@@ -51,10 +51,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/.github](https://github.com/telepace/.github) -  (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features (4 days ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (5 days ago)
+- [telepace/.github](https://github.com/telepace/.github) -  (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features (5 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (6 days ago)
 - [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (today)
-- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (1 day ago)
-- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 (2 days ago)
-- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation (2 days ago)
-- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner. (2 days ago)
+- [shuding/nextra](https://github.com/shuding/nextra) - Simple, powerful and flexible site generation framework with everything you love from Next.js. (1 day ago)
+- [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web. (2 days ago)
+- [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。 (3 days ago)
+- [google/docsy](https://github.com/google/docsy) - Hugo theme for open source documentation (3 days ago)
+- [YaoApp/yao](https://github.com/YaoApp/yao) - ✨ Yao is an all-in-one application engine that enables developers to create web apps, REST APIs, business applications, and more, with AI as a development partner. (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,8 +83,8 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (4 days ago)
-- [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (4 days ago)
+- [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (5 days ago)
+- [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (5 days ago)
 - [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (3 weeks ago)
 - [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
 - [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
@@ -98,12 +98,12 @@
 
 
 
-- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(1 month ago)</small>
+- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
-- [Jina](https://nsddd.top/posts/ai-projects/jina/) <small>(today)</small>
+- [Jina](https://nsddd.top/posts/ai-projects/jina/) <small>(1 day ago)</small>
 - [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 - [Exploring Large Language Models Llms Pioneering Ai Understanding Generation Human Language](https://nsddd.top/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(11 months ago)</small>
-- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(11 months ago)</small>
+- [Crafting Your Career Pathway: A Guide to Open Source Resume Builders and Expert Resume Tips](https://nsddd.top/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(1 year ago)</small>
 
 </div>
 
@@ -112,12 +112,12 @@
 
 
 
-- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(1 month ago)</small>
-- [Jina 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/jina/) <small>(today)</small>
+- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
+- [Jina 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/jina/) <small>(1 day ago)</small>
 - [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(8 months ago)</small>
 - [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 - [探索大型语言模型（llm）：人工智能在理解与生成人类语言方面的先锋](https://nsddd.top/zh/posts/exploring-large-language-models-llms-pioneering-ai-understanding-generation-human-language/) <small>(11 months ago)</small>
-- [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(11 months ago)</small>
+- [塑造职业道路：开源简历生成器与专业简历技巧指南](https://nsddd.top/zh/posts/crafting-your-career-pathway-a-guide-to-open-source-resume-builders-and-expert-resume-tips/) <small>(1 year ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-13 00:25:35
