@@ -51,19 +51,19 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。 (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [cubxxw/docs](https://github.com/cubxxw/docs) -  (today)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (4 days ago)
-- [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features (1 week ago)
-- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (1 week ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/docs](https://github.com/cubxxw/docs) - 
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities
 - [cubxxw/wechat-reader-ai-assistant](https://github.com/cubxxw/wechat-reader-ai-assistant) - wechat-reader-ai-assistant
 - [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。
 - [cubxxw/Made-With-ML](https://github.com/cubxxw/Made-With-ML) - Made-With-ML
-- [cubxxw/AI-Infinity-Nexus](https://github.com/cubxxw/AI-Infinity-Nexus) - AI Infinity Nexus是一个革命性的人工智能学习和资源共享的开源平台。它是人工智能爱好者的动态中心，拥有智能客户服务系统，以及人工智能驱动的资源、新闻和教育内容更新。加入这个不断发展的社区，深入探索人工智能的无限可能性!
 
 #### ⭐ Check out my recent stars
 
@@ -100,10 +100,10 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
+- [Langchain 开源项目深度学习](https://nsddd.top/posts/ai-projects/langchain/) <small>(today)</small>
+- [LLM/AI API 网关市场分析 &amp; 创业团队选型推荐](https://nsddd.top/posts/ai-projects/ai-getway/) <small>(today)</small>
 - [Independent Developer 开源项目深度学习](https://nsddd.top/posts/ai-projects/independent-developer/) <small>(1 day ago)</small>
 - [Gpt Researcher 开源项目深度学习](https://nsddd.top/posts/ai-projects/gpt-researcher/) <small>(2 days ago)</small>
-- [Jina](https://nsddd.top/posts/ai-projects/jina/) <small>(4 days ago)</small>
-- [Harnessing Language Model Applications with LangChain: A Developer is s Guide](https://nsddd.top/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 
 </div>
 
@@ -113,11 +113,11 @@
 
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
+- [Langchain 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/langchain/) <small>(today)</small>
+- [Ai Getway 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/ai-getway/) <small>(today)</small>
 - [独立开发者必备技能及现代工具 &amp; 分别的上手指导](https://nsddd.top/zh/posts/ai-projects/independent-developer/) <small>(1 day ago)</small>
 - [Gpt Researcher 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/gpt-researcher/) <small>(2 days ago)</small>
 - [Jina 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/jina/) <small>(4 days ago)</small>
-- [Kubernetes 资源与学习路径总结](https://nsddd.top/zh/posts/kubernetes-learning/) <small>(8 months ago)</small>
-- [利用 LangChain 框架的语言模型应用：开发者指南](https://nsddd.top/zh/posts/harnessing-language-model-applications-with-langchain-a-developer-is-guide/) <small>(10 months ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-16 16:31:02
