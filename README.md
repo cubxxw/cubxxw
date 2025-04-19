@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [telepace/.github](https://github.com/telepace/.github) -  (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。 (3 days ago)
 - [cubxxw/docs](https://github.com/cubxxw/docs) -  (3 days ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (5 days ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring (4 days ago)
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications. (4 days ago)
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development. (4 days ago)
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄 A curated list of awesome .cursorrules files (4 days ago)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. (5 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -100,10 +100,10 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
+- [Langgraph 开源项目深度学习](https://nsddd.top/posts/ai-projects/langgraph/) <small>(today)</small>
 - [Langchain 开源项目深度学习](https://nsddd.top/posts/ai-projects/langchain/) <small>(3 days ago)</small>
 - [LLM/AI API 网关市场分析 &amp; 创业团队选型推荐](https://nsddd.top/posts/ai-projects/ai-getway/) <small>(3 days ago)</small>
 - [Independent Developer 开源项目深度学习](https://nsddd.top/posts/ai-projects/independent-developer/) <small>(4 days ago)</small>
-- [Gpt Researcher 开源项目深度学习](https://nsddd.top/posts/ai-projects/gpt-researcher/) <small>(5 days ago)</small>
 
 </div>
 
@@ -113,11 +113,11 @@
 
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
+- [LangGraph 深度解析：设计、架构、原理与应用](https://nsddd.top/zh/posts/ai-projects/langgraph/) <small>(today)</small>
 - [Langchain 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/langchain/) <small>(3 days ago)</small>
 - [Ai Getway 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/ai-getway/) <small>(3 days ago)</small>
 - [独立开发者必备技能及现代工具 &amp; 分别的上手指导](https://nsddd.top/zh/posts/ai-projects/independent-developer/) <small>(4 days ago)</small>
 - [Gpt Researcher 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/gpt-researcher/) <small>(5 days ago)</small>
-- [Jina 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/jina/) <small>(1 week ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-19 09:45:12
