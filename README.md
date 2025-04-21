@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
 - [telepace/.github](https://github.com/telepace/.github) -  (3 days ago)
 - [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。 (5 days ago)
 - [cubxxw/docs](https://github.com/cubxxw/docs) -  (5 days ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-21 16:11:42
