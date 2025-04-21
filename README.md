@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (today)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients (today)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data. (today)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (1 day ago)
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (1 day ago)
-- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop &amp; Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more. (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -100,10 +100,10 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
+- [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(today)</small>
 - [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(today)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(today)</small>
 - [Langgraph 开源项目深度学习](https://nsddd.top/posts/ai-projects/langgraph/) <small>(2 days ago)</small>
-- [Langchain 开源项目深度学习](https://nsddd.top/posts/ai-projects/langchain/) <small>(5 days ago)</small>
 
 </div>
 
@@ -113,11 +113,11 @@
 
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
+- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(today)</small>
 - [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(today)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(today)</small>
 - [LangGraph 深度解析：设计、架构、原理与应用](https://nsddd.top/zh/posts/ai-projects/langgraph/) <small>(2 days ago)</small>
 - [Langchain 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/langchain/) <small>(5 days ago)</small>
-- [Ai Getway 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/ai-getway/) <small>(5 days ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-21 22:00:55
