@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (today)
 - [cubxxw/docs](https://github.com/cubxxw/docs) -  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
 - [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 day ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (4 days ago)
-- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。 (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [cookiecutter/cookiecutter-django](https://github.com/cookiecutter/cookiecutter-django) - Cookiecutter Django is a framework for jumpstarting production-ready Django projects quickly. (today)
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers (today)
 - [yaolifeng0629/Awesome-independent-tools](https://github.com/yaolifeng0629/Awesome-independent-tools) - 独立开发者工具站（Awesome Independent developer  tools） (today)
 - [t3-oss/create-t3-app](https://github.com/t3-oss/create-t3-app) - The best way to start a full-stack, typesafe Next.js app  (today)
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 day ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add initial project structure and configuration files](https://github.com/telepace/quick-forge-ai/pull/2) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (today)
 - [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (2 weeks ago)
 - [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (2 weeks ago)
 - [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
 - [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
-- [error: fix error](https://github.com/telepace/pharos/pull/16) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-22 22:00:50
