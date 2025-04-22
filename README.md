@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 day ago)
+- [cubxxw/docs](https://github.com/cubxxw/docs) -  (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (1 day ago)
 - [telepace/.github](https://github.com/telepace/.github) -  (4 days ago)
 - [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。 (6 days ago)
-- [cubxxw/docs](https://github.com/cubxxw/docs) -  (6 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (today)
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding. (1 day ago)
 - [jlowin/fastmcp](https://github.com/jlowin/fastmcp) - 🚀 The fast, Pythonic way to build MCP servers and clients (1 day ago)
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading framework for building LLM-powered agents over your data. (1 day ago)
 - [gofr-dev/gofr](https://github.com/gofr-dev/gofr) - An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability. (2 days ago)
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. (2 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-22 09:50:22
