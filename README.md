@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
-- [cubxxw/docs](https://github.com/cubxxw/docs) -  (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
-- [telepace/voiceflow](https://github.com/telepace/voiceflow) - voiceflow is a solution for LLM audio streaming (2 days ago)
-- [telepace/.github](https://github.com/telepace/.github) -  (5 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
+- [telepace/feed](https://github.com/telepace/feed) - feed (today)
+- [telepace/docmark](https://github.com/telepace/docmark) - DocMark is an open source API-based multi-format Markdown service, built with Python and supporting Serverless deployments. (today)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (today)
 
 #### 🌱 Check out my recent projects
 
@@ -100,10 +100,10 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
+- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(today)</small>
 - [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(2 days ago)</small>
 - [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(2 days ago)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(2 days ago)</small>
-- [Langgraph 开源项目深度学习](https://nsddd.top/posts/ai-projects/langgraph/) <small>(4 days ago)</small>
 
 </div>
 
@@ -113,11 +113,11 @@
 
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
+- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(today)</small>
 - [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(2 days ago)</small>
 - [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(2 days ago)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(2 days ago)</small>
 - [LangGraph 深度解析：设计、架构、原理与应用](https://nsddd.top/zh/posts/ai-projects/langgraph/) <small>(4 days ago)</small>
-- [Langchain 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/langchain/) <small>(1 week ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-23 09:50:50
