@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (today)
 - [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (2 days ago)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (3 days ago)
 - [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (3 days ago)
 - [naxiaoduo/1000UserGuide](https://github.com/naxiaoduo/1000UserGuide) - 1000UserGuide：对独立开发者和创业者来说，找到前1000个早期用户太关键了。这里精心整理了300多个国内外渠道，适合独立开发者和创业者推广产品的渠道。 (3 days ago)
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-27 09:56:37
