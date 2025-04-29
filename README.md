@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Enhance Database Modeling and SQLAlchemy Compatibility](https://github.com/fastapi/full-stack-fastapi-template/pull/1593) on [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (today)
 - [Add initial project structure and configuration files](https://github.com/telepace/quick-forge-ai/pull/2) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
 - [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
 - [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
-- [fix: warp package](https://github.com/telepace/pharos/pull/18) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-29 09:52:38
