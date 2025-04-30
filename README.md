@@ -51,11 +51,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (today)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
-- [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (4 days ago)
-- [telepace/pharos](https://github.com/telepace/pharos) -  (4 days ago)
-- [telepace/base-image](https://github.com/telepace/base-image) - telepace base image (4 days ago)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (3 days ago)
+- [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (5 days ago)
+- [telepace/pharos](https://github.com/telepace/pharos) -  (5 days ago)
+- [telepace/base-image](https://github.com/telepace/base-image) - telepace base image (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (2 days ago)
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (2 days ago)
-- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (4 days ago)
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (5 days ago)
-- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (5 days ago)
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (3 days ago)
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (3 days ago)
+- [deepseek-ai/open-infra-index](https://github.com/deepseek-ai/open-infra-index) - Production-tested AI infrastructure tools for efficient AGI development and community-driven innovation (5 days ago)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (6 days ago)
+- [actions/actions-runner-controller](https://github.com/actions/actions-runner-controller) - Kubernetes controller for GitHub Actions self-hosted runners (6 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,7 +83,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Enhance Database Modeling and SQLAlchemy Compatibility](https://github.com/fastapi/full-stack-fastapi-template/pull/1593) on [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (today)
+- [Enhance Database Modeling and SQLAlchemy Compatibility](https://github.com/fastapi/full-stack-fastapi-template/pull/1593) on [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (1 day ago)
 - [Add initial project structure and configuration files](https://github.com/telepace/quick-forge-ai/pull/2) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
 - [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
@@ -100,7 +100,7 @@
 
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
-- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(6 days ago)</small>
+- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(1 week ago)</small>
 - [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(1 week ago)</small>
 - [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(1 week ago)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(1 week ago)</small>
@@ -113,7 +113,7 @@
 
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
-- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(6 days ago)</small>
+- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(1 week ago)</small>
 - [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(1 week ago)</small>
 - [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(1 week ago)</small>
 - [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(1 week ago)</small>
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-04-30 00:28:45
