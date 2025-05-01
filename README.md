@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (today)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (4 days ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (6 days ago)
 - [telepace/pharos](https://github.com/telepace/pharos) -  (6 days ago)
@@ -75,19 +75,19 @@
 
 #### 👯 Check out my recent followers
 
+- [xianqiliu](https://github.com/xianqiliu)
 - [wangkeeeeee](https://github.com/wangkeeeeee)
 - [longwQaQ](https://github.com/longwQaQ)
 - [abin-z](https://github.com/abin-z)
 - [crypto0402](https://github.com/crypto0402)
-- [luo0077](https://github.com/luo0077)
 
 #### 🔨 Check out my recent pull requests
 
+- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (today)
 - [Enhance Database Modeling and SQLAlchemy Compatibility](https://github.com/fastapi/full-stack-fastapi-template/pull/1593) on [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (2 days ago)
 - [Add initial project structure and configuration files](https://github.com/telepace/quick-forge-ai/pull/2) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
 - [feat: Update .env.example add OpenAI API Base](https://github.com/lfnovo/open-notebook/pull/47) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
-- [feat: add code](https://github.com/telepace/pharos/pull/20) on [telepace/pharos](https://github.com/telepace/pharos) (1 month ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-01 10:01:13
