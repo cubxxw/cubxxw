@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (today)
 - [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (today)
 - [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 day ago)
 - [Enhance Database Modeling and SQLAlchemy Compatibility](https://github.com/fastapi/full-stack-fastapi-template/pull/1593) on [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) (3 days ago)
 - [Add initial project structure and configuration files](https://github.com/telepace/quick-forge-ai/pull/2) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
-- [fix: Add httpx[socks]&gt;=0.27.0 Dependency to pyproject.toml](https://github.com/lfnovo/open-notebook/pull/49) on [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) (3 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-02 16:29:57
