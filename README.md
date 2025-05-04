@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (6 days ago)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (2 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 week ago)
 - [telepace/base-image](https://github.com/telepace/base-image) - telepace base image (1 week ago)
 - [telepace/pharos](https://github.com/telepace/pharos) -  (1 week ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (2 days ago)
-- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (3 days ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (3 days ago)
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (6 days ago)
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (6 days ago)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (3 days ago)
+- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (4 days ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (4 days ago)
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (1 day ago)
-- [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 day ago)
-- [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 day ago)
-- [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 day ago)
-- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
+- [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (2 days ago)
+- [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
+- [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
+- [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
+- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (3 days ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-04 00:26:26
