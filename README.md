@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (today)
+- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/base-image](https://github.com/telepace/base-image) - telepace base image (1 week ago)
 - [telepace/test-lab](https://github.com/telepace/test-lab) - test telepace (1 week ago)
@@ -67,9 +67,9 @@
 
 #### ⭐ Check out my recent stars
 
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (3 days ago)
-- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (4 days ago)
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (4 days ago)
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (4 days ago)
+- [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (5 days ago)
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (5 days ago)
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less. (1 week ago)
 
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (2 days ago)
-- [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
-- [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
-- [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (2 days ago)
-- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (3 days ago)
+- [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (3 days ago)
+- [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (3 days ago)
+- [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (3 days ago)
+- [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (3 days ago)
+- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (4 days ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -101,9 +101,9 @@
 - [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
 - [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(1 week ago)</small>
-- [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(1 week ago)</small>
-- [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(1 week ago)</small>
-- [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(1 week ago)</small>
+- [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(2 weeks ago)</small>
+- [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(2 weeks ago)</small>
+- [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(2 weeks ago)</small>
 
 </div>
 
@@ -114,9 +114,9 @@
 
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(2 months ago)</small>
 - [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(1 week ago)</small>
-- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(1 week ago)</small>
-- [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(1 week ago)</small>
-- [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(1 week ago)</small>
+- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(2 weeks ago)</small>
+- [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(2 weeks ago)</small>
+- [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(2 weeks ago)</small>
 - [LangGraph 深度解析：设计、架构、原理与应用](https://nsddd.top/zh/posts/ai-projects/langgraph/) <small>(2 weeks ago)</small>
 
 </div>
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-05 00:26:23
