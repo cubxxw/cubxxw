@@ -51,7 +51,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (1 day ago)
+- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (today)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 day ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/base-image](https://github.com/telepace/base-image) - telepace base image (1 week ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world&#39;s best LLM resources.  (today)
 - [microsoft/UFO](https://github.com/microsoft/UFO) - The Desktop AgentOS. (1 day ago)
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management. (6 days ago)
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway (1 week ago)
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us (1 week ago)
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么 (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-07 09:54:11
