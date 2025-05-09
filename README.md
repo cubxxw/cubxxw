@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: enhance Docker setup documentation and configuration options](https://github.com/MODSetter/SurfSense/pull/83) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (today)
 - [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (1 week ago)
 - [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
-- [Add PostHog integration, email utilities, and GitHub Actions workflow for releases](https://github.com/telepace/quick-forge-ai/pull/14) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-09 16:11:24
