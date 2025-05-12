@@ -75,11 +75,11 @@
 
 #### 👯 Check out my recent followers
 
+- [Kelier](https://github.com/Kelier)
 - [xianqiliu](https://github.com/xianqiliu)
 - [wangkeeeeee](https://github.com/wangkeeeeee)
 - [longwQaQ](https://github.com/longwQaQ)
 - [abin-z](https://github.com/abin-z)
-- [crypto0402](https://github.com/crypto0402)
 
 #### 🔨 Check out my recent pull requests
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-12 09:58:04
