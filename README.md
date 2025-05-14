@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (today)
 - [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (1 day ago)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (4 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (4 days ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (6 days ago)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 week ago)
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (today)
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (4 days ago)
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK your texts with Chonkie ✨ — The no-nonsense RAG chunking library (4 days ago)
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  (5 days ago)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400&#43; integrations. (5 days ago)
-- [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（Agent框架、辅助编程、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world&#39;s best LLM resources.  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [refactor: remove frontend and backend services ](https://github.com/MODSetter/SurfSense/pull/96) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (today)
 - [feat: enhance Docker setup documentation and configuration options](https://github.com/MODSetter/SurfSense/pull/83) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (5 days ago)
 - [Add CI/CD documentation and update workflows for staging environment](https://github.com/cubxxw/quick-forge-ai/pull/15) on [cubxxw/quick-forge-ai](https://github.com/cubxxw/quick-forge-ai) (1 week ago)
 - [refactor: update labeler configuration and workflow environment from …](https://github.com/telepace/quick-forge-ai/pull/17) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 - [Add CI/CD deployment documentation and self-hosted runner setup guides](https://github.com/telepace/quick-forge-ai/pull/16) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
-- [Improve error handling in API requests](https://github.com/telepace/quick-forge-ai/pull/15) on [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) (1 week ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-14 09:54:19
