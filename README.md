@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (today)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (4 days ago)
+- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (1 day ago)
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (5 days ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (1 week ago)
@@ -67,7 +67,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (4 days ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (5 days ago)
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (1 week ago)
 - [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK your texts with Chonkie ✨ — The no-nonsense RAG chunking library (1 week ago)
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]  (1 week ago)
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (3 days ago)
-- [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (4 days ago)
-- [docs: add Makefile usage section to README for development tasks](https://github.com/MODSetter/SurfSense/pull/105) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (4 days ago)
-- [Add PR template with enhanced checklist for SurfSense](https://github.com/MODSetter/SurfSense/pull/103) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (4 days ago)
-- [refactor: remove frontend and backend services ](https://github.com/MODSetter/SurfSense/pull/96) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (4 days ago)
+- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (1 day ago)
+- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (4 days ago)
+- [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (5 days ago)
+- [docs: add Makefile usage section to README for development tasks](https://github.com/MODSetter/SurfSense/pull/105) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (5 days ago)
+- [Add PR template with enhanced checklist for SurfSense](https://github.com/MODSetter/SurfSense/pull/103) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (5 days ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -117,7 +117,7 @@
 - [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(1 week ago)</small>
 - [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(1 week ago)</small>
 - [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(3 weeks ago)</small>
-- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(3 weeks ago)</small>
+- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(4 weeks ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-19 00:26:07
