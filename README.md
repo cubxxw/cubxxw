@@ -51,8 +51,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (today)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (6 days ago)
+- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (1 day ago)
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (2 weeks ago)
@@ -67,10 +67,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files (today)
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (today)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox (1 day ago)
-- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (6 days ago)
+- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files (1 day ago)
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (1 day ago)
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox (2 days ago)
+- [tadata-org/fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth! (1 week ago)
 - [cayleygraph/cayley](https://github.com/cayleygraph/cayley) - An open-source graph database (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -83,11 +83,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: update docker-build workflow to remove main branch trigger](https://github.com/telepace/nexus/pull/43) on [telepace/nexus](https://github.com/telepace/nexus) (today)
-- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
-- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (5 days ago)
-- [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (6 days ago)
-- [docs: add Makefile usage section to README for development tasks](https://github.com/MODSetter/SurfSense/pull/105) on [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) (6 days ago)
+- [chore: update .gitignore to exclude playwright reports, generated](https://github.com/telepace/nexus/pull/47) on [telepace/nexus](https://github.com/telepace/nexus) (1 day ago)
+- [chore: update docker-build workflow to remove main branch trigger](https://github.com/telepace/nexus/pull/43) on [telepace/nexus](https://github.com/telepace/nexus) (1 day ago)
+- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (3 days ago)
+- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (6 days ago)
+- [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -103,7 +103,7 @@
 - [Mem0](https://nsddd.top/posts/mem0/) <small>(1 week ago)</small>
 - [UFO](https://nsddd.top/posts/ufo/) <small>(1 week ago)</small>
 - [Argo Cd](https://nsddd.top/posts/argo-cd/) <small>(1 week ago)</small>
-- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(3 weeks ago)</small>
+- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(4 weeks ago)</small>
 
 </div>
 
@@ -116,8 +116,8 @@
 - [Mem0 开源项目：AI记忆层的技术分析与实践](https://nsddd.top/zh/posts/mem0/) <small>(1 week ago)</small>
 - [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(1 week ago)</small>
 - [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(1 week ago)</small>
-- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(3 weeks ago)</small>
-- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(4 weeks ago)</small>
+- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(4 weeks ago)</small>
+- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(1 month ago)</small>
 
 </div>
 
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-21 00:30:14
