@@ -51,10 +51,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (1 day ago)
+- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (2 days ago)
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 weeks ago)
 - [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (2 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -67,11 +67,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust. (today)
-- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering (today)
-- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files (1 day ago)
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (1 day ago)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox (2 days ago)
+- [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust. (1 day ago)
+- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering (1 day ago)
+- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files (2 days ago)
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (2 days ago)
+- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -83,10 +83,10 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: update .gitignore to exclude playwright reports, generated](https://github.com/telepace/nexus/pull/47) on [telepace/nexus](https://github.com/telepace/nexus) (1 day ago)
-- [chore: update docker-build workflow to remove main branch trigger](https://github.com/telepace/nexus/pull/43) on [telepace/nexus](https://github.com/telepace/nexus) (1 day ago)
-- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (3 days ago)
-- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (6 days ago)
+- [chore: update .gitignore to exclude playwright reports, generated](https://github.com/telepace/nexus/pull/47) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
+- [chore: update docker-build workflow to remove main branch trigger](https://github.com/telepace/nexus/pull/43) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
+- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (4 days ago)
+- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
 - [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
 
 ## 📜 Check Out My Recent Blog Posts
@@ -224,4 +224,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-22 00:30:25
