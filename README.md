@@ -51,43 +51,41 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [telepace/nexus](https://github.com/telepace/nexus) - An AI-powered reading assistant designed to help you efficiently process, understand, and summarize text content from web pages and documents. Boost your reading productivity. (2 days ago)
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub and more. (1 week ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Xinwei(bear) blog system 博客系统 | ChatGPT | Sora | CloudNative | 定期分享前沿的 AI | ChatGpt | LLM | Sora 技术。欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 weeks ago)
-- [telepace/quick-forge-ai](https://github.com/telepace/quick-forge-ai) - QuickForge AI: A production-ready fullstack template combining FastAPI (Python) and TypeScript for rapid AI prototype development. Designed for freelancers and AI entrepreneurs who need to quickly build and deploy professional applications with modern development practices, testing frameworks, and CI/CD pipelines. (2 weeks ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/docs](https://github.com/cubxxw/docs) - 
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities
-- [cubxxw/wechat-reader-ai-assistant](https://github.com/cubxxw/wechat-reader-ai-assistant) - wechat-reader-ai-assistant
-- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 作为 AI 创业者极致远程工作的生活体验、全球数字游民社区调研、环游世界的日记，以及 AI 创业之路的点滴。在旅居办公过程中，感受全球社区氛围、和 web3、远程工作趋势和 AI 技术的创新应用，旨在分享经验，激励更多人探索无边界的工作与生活。
-- [cubxxw/Made-With-ML](https://github.com/cubxxw/Made-With-ML) - Made-With-ML
+- [kubbot/openim-cla](https://github.com/kubbot/openim-cla) - 
+- [kubbot/auto-translate-readme](https://github.com/kubbot/auto-translate-readme) - 
+- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
 
 #### ⭐ Check out my recent stars
 
-- [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust. (1 day ago)
-- [InterviewReady/ai-engineering-resources](https://github.com/InterviewReady/ai-engineering-resources) - Research papers and blogs to transition to AI Engineering (1 day ago)
-- [sanjeed5/awesome-cursor-rules-mdc](https://github.com/sanjeed5/awesome-cursor-rules-mdc) - Curated list of awesome Cursor Rules .mdc files (2 days ago)
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup in 30 seconds, fully open-source, works first prompt.  Supports every framework with first party support for React, Next.js, Vue and Nuxt.js (2 days ago)
-- [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox (3 days ago)
+- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」 (2 weeks ago)
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (2 months ago)
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web &amp; product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. (9 months ago)
+- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 year ago)
+- [cubxxw/resume](https://github.com/cubxxw/resume) - resume (1 year ago)
 
 #### 👯 Check out my recent followers
 
-- [ridhwanrazaliwork](https://github.com/ridhwanrazaliwork)
-- [andrew-werdna](https://github.com/andrew-werdna)
-- [Kelier](https://github.com/Kelier)
-- [xianqiliu](https://github.com/xianqiliu)
-- [wangkeeeeee](https://github.com/wangkeeeeee)
+- [24601](https://github.com/24601)
+- [HuiTaiLa](https://github.com/HuiTaiLa)
+- [vintagewang](https://github.com/vintagewang)
+- [Franklyn1987](https://github.com/Franklyn1987)
+- [openimbot](https://github.com/openimbot)
 
 #### 🔨 Check out my recent pull requests
 
-- [chore: update .gitignore to exclude playwright reports, generated](https://github.com/telepace/nexus/pull/47) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
-- [chore: update docker-build workflow to remove main branch trigger](https://github.com/telepace/nexus/pull/43) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
-- [refactor: update README files to reflect project name change from Qui…](https://github.com/telepace/nexus/pull/38) on [telepace/nexus](https://github.com/telepace/nexus) (4 days ago)
-- [feat: expand item types and improve API response handling](https://github.com/telepace/nexus/pull/25) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
-- [refactor: remove outdated NOTES.md and enhance type annotation](https://github.com/telepace/nexus/pull/19) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
+- [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/159) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
+- [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/155) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
+- [Fix: Resolve frontend linting error in login tests](https://github.com/telepace/nexus/pull/154) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
+- [feat: Implement public content sharing feature](https://github.com/telepace/nexus/pull/151) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
+- [feat(login): Optimize login flow for extension and web users](https://github.com/telepace/nexus/pull/150) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -98,12 +96,12 @@
 
 
 
-- [2024 Annual Recap](https://nsddd.top/posts/2024-annual-review/) <small>(3 months ago)</small>
+- [2024 Annual Review](https://nsddd.top/posts/2024-annual-review/) <small>(4 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
-- [Mem0](https://nsddd.top/posts/mem0/) <small>(1 week ago)</small>
-- [UFO](https://nsddd.top/posts/ufo/) <small>(1 week ago)</small>
-- [Argo Cd](https://nsddd.top/posts/argo-cd/) <small>(1 week ago)</small>
-- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(4 weeks ago)</small>
+- [Metacognitive Transformation Review](https://nsddd.top/posts/metacognitive-transformation-review/) <small>(2 weeks ago)</small>
+- [Mem0](https://nsddd.top/posts/mem0/) <small>(1 month ago)</small>
+- [UFO](https://nsddd.top/posts/ufo/) <small>(1 month ago)</small>
+- [Argo Cd](https://nsddd.top/posts/argo-cd/) <small>(1 month ago)</small>
 
 </div>
 
@@ -112,12 +110,12 @@
 
 
 
-- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(3 months ago)</small>
-- [Mem0 开源项目：AI记忆层的技术分析与实践](https://nsddd.top/zh/posts/mem0/) <small>(1 week ago)</small>
-- [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(1 week ago)</small>
-- [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(1 week ago)</small>
-- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(4 weeks ago)</small>
-- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(1 month ago)</small>
+- [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(4 months ago)</small>
+- [如何在博客中优雅地展示旅行足迹 - PolarSteps 集成指南](https://nsddd.top/zh/posts/travel-with-polarsteps/) <small>(1 year ago)</small>
+- [四个月的一些思考片段整理](https://nsddd.top/zh/posts/metacognitive-transformation-review/) <small>(2 weeks ago)</small>
+- [Mem0 开源项目：AI记忆层的技术分析与实践](https://nsddd.top/zh/posts/mem0/) <small>(1 month ago)</small>
+- [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(1 month ago)</small>
+- [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(1 month ago)</small>
 
 </div>
 
@@ -224,4 +222,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-05-22 09:55:26
