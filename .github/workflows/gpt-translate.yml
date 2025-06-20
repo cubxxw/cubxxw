@@ -1,23 +1,52 @@
-# .github/workflows/gpt-translate.yml
-name: GPT Translate
+# 🎯 AI Translation Automation
+# 📋 Purpose: Automated translation using GPT for issues and comments
+# 🚀 Trigger: Issue comments with translation commands
+# 🔧 Maintainer: @cubxxw
+# 📝 Last Updated: 2024-01-XX
+
+name: 🤖 GPT Translate
 
 on:
   issue_comment:
-    types: [ created ]
+    types: [created]
 
 jobs:
-  gpt_translate:
+  gpt-translate:
+    name: 🌐 AI Translation
     runs-on: ubuntu-latest
-
+    
+    # Only run on specific commands and not on bot comments
+    if: |
+      github.event.issue.pull_request == null &&
+      github.actor != 'kubbot' &&
+      (contains(github.event.comment.body, '/gpt-translate') || 
+       contains(github.event.comment.body, '/gt') ||
+       contains(github.event.comment.body, '/chat'))
+    
     steps:
-      - uses: actions/checkout@v3
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
 
-      - name: Run GPT Translate
-        if: |
-          contains(github.event.comment.body, '/gpt-translate') || 
-          contains(github.event.comment.body, '/gt') ||
-          contains(github.event.comment.body, '/chat')
+      - name: 🤖 Run GPT Translation
         uses: 3ru/gpt-translate@v1.0
         with:
           apikey: ${{ secrets.OPENAI_API_KEY }}
-          token: "${{ secrets.BOT_GITHUB_TOKEN }}"
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+
+      - name: ✅ Translation Complete
+        if: success()
+        run: |
+          echo "✅ GPT translation completed successfully"
+          echo "🕐 Processed at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+      - name: ❌ Handle Translation Failure
+        if: failure()
+        run: |
+          echo "❌ GPT translation failed"
+          echo "🔑 Please check OPENAI_API_KEY secret configuration"
+          echo "🕐 Failed at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+# Supported Commands:
+# /gpt-translate - Full translation command
+# /gt - Short translation command  
+# /chat - Interactive chat mode

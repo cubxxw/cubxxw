@@ -1,21 +1,49 @@
-name: Waka Readme
+# 🎯 Wakatime Statistics Integration
+# 📋 Purpose: Update README with Wakatime coding statistics
+# 🕐 Schedule: Daily at 12:00 AM UTC (8:00 AM Beijing time)
+# 🔧 Maintainer: @cubxxw
+# 📝 Last Updated: 2024-01-XX
+
+name: ⏰ Wakatime Stats
 
 on:
-  workflow_dispatch:
+  # Scheduled update
   schedule:
-    # Runs at 12am UTC
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # Daily at 12:00 AM UTC
+  # Manual trigger
+  workflow_dispatch:
+  # Trigger on README template changes
+  push:
+    paths: ['README.md', 'templates/**']
 
 jobs:
-  update-readme:
-    name: WakaReadme DevMetrics
+  update-wakatime:
+    name: 📊 Update Wakatime Statistics
     runs-on: ubuntu-latest
+    
     steps:
-      - uses: athul/waka-readme@master
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⏰ Update Wakatime Stats
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ->
+          BLOCKS: "->"
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+
+      - name: ✅ Update Complete
+        if: success()
+        run: |
+          echo "✅ Wakatime statistics updated successfully"
+          echo "📊 Updated at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+      - name: ❌ Handle Update Failure
+        if: failure()
+        run: |
+          echo "❌ Wakatime update failed"
+          echo "🔑 Please verify WAKATIME_API_KEY secret is configured"
+          echo "🕐 Failed at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"

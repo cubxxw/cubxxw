@@ -1,0 +1,142 @@
+# 🎯 Content Management Automation
+# 📋 Purpose: Automated content updates including README, metrics, and statistics
+# 🕐 Schedule: Daily at 2:00 AM UTC (10:00 AM Beijing time)
+# 🔧 Maintainer: @cubxxw
+# 📝 Last Updated: 2024-01-XX
+
+name: 📝 Content Management
+
+on:
+  # Optimized schedule to avoid conflicts with other workflows
+  schedule:
+    - cron: '0 2 * * *'    # Daily at 2 AM UTC
+    - cron: '0 8 * * *'    # Daily at 8 AM UTC (4 PM Beijing)
+  # Manual trigger for immediate updates
+  workflow_dispatch:
+  # Trigger on content-related changes
+  push:
+    branches: [main, master]
+    paths: 
+      - 'templates/**'
+      - '.github/workflows/content-management.yml'
+  # Trigger on pull requests affecting content
+  pull_request:
+    paths:
+      - 'templates/**'
+
+jobs:
+  update-readme:
+    name: 🔄 Update README Profile
+    runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.readme-update.outputs.updated }}
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.BOT_GITHUB_TOKEN }}
+          fetch-depth: 0
+
+      - name: 🔄 Generate README Content
+        id: readme-update
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: "templates/README.md.tpl"
+          writeTo: "README.md"
+
+      - name: 📝 Commit README Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          commit_message: "📝 Update generated README profile"
+          branch: main
+          commit_user_name: "kubbot 🤖"
+          commit_user_email: "3293172751ysy@gmail.com"
+          commit_author: "kubbot 🤖 <3293172751ysy@gmail.com>"
+
+      - name: 🕐 Add Timestamp
+        run: |
+          git config --local user.email "3293172751ysy@gmail.com"
+          git config --local user.name "kubbot"
+          git remote set-url origin https://${{ secrets.BOT_GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          git pull --rebase
+          
+          # Convert UTC to Shanghai time
+          local_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')
+          echo "" >> README.md
+          echo "🚀 Last updated by [@kubbot](https://github.com/kubbot) on $local_time" >> README.md
+          
+          # Commit with signature
+          git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
+          git push
+
+      - name: ✅ README Update Complete
+        if: success()
+        run: |
+          echo "✅ README profile updated successfully"
+          echo "🕐 Updated at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+      - name: ❌ Handle README Update Failure
+        if: failure()
+        run: |
+          echo "❌ README update failed"
+          echo "🕐 Failed at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+          echo "Please check the logs and template configuration"
+
+  update-wakatime:
+    name: ⏰ Update Wakatime Statistics
+    needs: update-readme
+    if: always()
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: ⏰ Update Wakatime Stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          BLOCKS: "->>"
+          TIME_RANGE: all_time
+          SHOW_TIME: true
+          SHOW_MASKED_TIME: true
+
+      - name: ✅ Wakatime Update Complete
+        if: success()
+        run: |
+          echo "✅ Wakatime statistics updated successfully"
+          echo "📊 Updated at: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+      - name: ❌ Handle Wakatime Update Failure
+        if: failure()
+        run: |
+          echo "❌ Wakatime update failed"
+          echo "🔑 Please verify WAKATIME_API_KEY secret is configured correctly"
+
+  workflow-summary:
+    name: 📋 Workflow Summary
+    needs: [update-readme, update-wakatime]
+    if: always()
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📊 Generate Summary
+        run: |
+          echo "## 📋 Content Management Summary"
+          echo "🕐 Execution Time: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+          echo ""
+          echo "### Job Results:"
+          echo "- README Update: ${{ needs.update-readme.result }}"
+          echo "- Wakatime Update: ${{ needs.update-wakatime.result }}"
+          echo ""
+          if [[ "${{ needs.update-readme.result }}" == "success" && "${{ needs.update-wakatime.result }}" == "success" ]]; then
+            echo "✅ All content management tasks completed successfully!"
+          else
+            echo "⚠️ Some tasks encountered issues. Please review the logs."
+          fi 

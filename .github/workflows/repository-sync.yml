@@ -1,0 +1,41 @@
+# 🎯 Repository Synchronization
+# 📋 Purpose: Sync GitHub repositories to Gitee mirror
+# 🕐 Schedule: Daily at 1:00 AM UTC (9:00 AM Beijing time)  
+# 🔧 Maintainer: @cubxxw
+# 📝 Last Updated: 2024-01-XX
+
+name: 🔄 Repository Sync
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    # Daily at 1 AM UTC (9 AM Beijing time)
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+
+jobs:
+  sync-to-gitee:
+    name: 📤 Sync to Gitee
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 🔄 Mirror GitHub repos to Gitee
+        uses: Yikun/gitee-mirror-action@v0.01
+        with:
+          private_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          github_org: cubxxw
+          gitee_org: xxw3293172751
+
+      - name: ✅ Sync Status
+        run: |
+          echo "🔄 Repository synchronization completed"
+          echo "🕐 Timestamp: $(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')"
+
+  # Future: Add other sync targets (GitLab, etc.)
+  # sync-to-gitlab:
+  #   name: 📤 Sync to GitLab
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: 🔄 Mirror to GitLab
+  #       # Implementation for GitLab sync 
