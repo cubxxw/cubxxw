@@ -31,24 +31,22 @@ jobs:
       - uses: muesli/readme-scribe@master
         # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
           template: "templates/README.md.tpl"
           writeTo: "README.md"
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
       # 使用 stefanzweifel/git-auto-commit-action@v4 操作，将生成的 README 文件提交到项目的 "main" 分支，并使用指定的用户名和邮箱记录提交记录。
       - uses: stefanzweifel/git-auto-commit-action@v4
         # 使用者提供的令牌，可以让 Action 访问使用者在 GitHub 上的私有数据。
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BOT_GITHUB_TOKEN }}
         with:
           commit_message: Update generated README
           branch: main
           commit_user_name: kubbot 🤖
           commit_user_email: 3293172751ysy@gmail.com
           commit_author: kubbot 🤖 <3293172751ysy@gmail.com>
-          token: ${{ secrets.BOT_GITHUB_TOKEN }}
-
+          
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
