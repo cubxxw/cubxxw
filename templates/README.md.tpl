@@ -1,29 +1,34 @@
 ## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
+
 <!--
 [![菜鸟成长手册](https://github-readme-stats.vercel.app/api/pin?username=cubxxw&repo=block_Chain&theme=radical)](https://github.com/3293172751/block_Chain/)
 -->
 
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
+<h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="maemreyo" width="400" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="maemreyo" width="305"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw" width="400" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw" width="305"/>
 </p>
 
 <h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
-
 <p align="center">
   Our team is currently looking for talented individuals in the field of AI, including interns, engineers, and designers. If you are passionate about AI and want to work on cutting-edge projects, we would love to hear from you! <br>
   📧 Feel free to send your resume to: <a href="mailto:3293172751nss@gmail.com">3293172751nss@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank" alt="Gmail" title="Gmail">
     <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="30px"/>
   </a>
   &emsp;
-  <a href="https://calendly.com/cubxxw" target="_blank" alt="CSDN" title="CSDN">
+  <a href="https://calendly.com/cubxxw" target="_blank" alt="Calendly" title="Schedule a meeting">
     <img src="http://sm.nsddd.top/sm202309241412249.svg" width="22px"/>
+  </a>
+  &emsp;
+  <a href="https://www.polarsteps.com/cubxxw" target="_blank" alt="PolarSteps" title="Follow my world travel journey">
+    <img src="https://static.polarsteps.com/images/logos/polarsteps-logo-icon.svg" width="28px"/>
   </a>
   &emsp;
   <a href="https://www.zhihu.com/people/3293172751" target="_blank" alt="Zhihu" title="Zhihu">
@@ -34,7 +39,7 @@
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
   &emsp;
-  <a href="https://https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" alt="YouTube" title="YouTube">
+  <a href="https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" alt="YouTube" title="YouTube">
     <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
   </a>
   &emsp;
@@ -42,13 +47,17 @@
     <img src="http://sm.nsddd.top/sm202309161903134.svg" width="26px"/>
   </a>
   &emsp;
-  <a href="https://twitter.com/xxw3293172751" target="_blank" alt="LinkedIn" title="LinkedIn">
+  <a href="https://twitter.com/xxw3293172751" target="_blank" alt="Twitter" title="Twitter">
     <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="34px"/>
   </a>
 </p>
 
 <br>
+
+<p align="center">
   <strong>Check out my work below!</strong> Time I contributed this year: 🎉<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4" title="项目的进展时长" > <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg"></a> 🎉
+</p>
+
 <h2></h2>
 
 #### 👷 Check out what I'm currently working on
