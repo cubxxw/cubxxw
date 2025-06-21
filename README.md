@@ -90,11 +90,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/94) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
 - [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/159) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 - [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/155) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 - [Fix: Resolve frontend linting error in login tests](https://github.com/telepace/nexus/pull/154) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 - [feat: Implement public content sharing feature](https://github.com/telepace/nexus/pull/151) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
-- [feat(login): Optimize login flow for extension and web users](https://github.com/telepace/nexus/pull/150) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-06-21 10:45:27
