@@ -90,11 +90,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [docs: 补充 Content Library 阅读界面命名体系和完整术语定义](https://github.com/telepace/nexus/pull/222) on [telepace/nexus](https://github.com/telepace/nexus) (today)
 - [Fix: Correctly pass --passWithNoTests to Jest](https://github.com/telepace/nexus/pull/203) on [telepace/nexus](https://github.com/telepace/nexus) (2 days ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/95) on [cubxxw/blog](https://github.com/cubxxw/blog) (4 days ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/94) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
 - [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/159) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
-- [Jules was unable to complete the task in time. Please review the work…](https://github.com/telepace/nexus/pull/155) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-06-26 16:32:41
