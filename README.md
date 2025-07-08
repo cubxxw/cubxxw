@@ -61,10 +61,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 day ago)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 day ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -90,9 +90,9 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [✨ Add Intelligent Card-Block Interface Component](https://github.com/telepace/nexus/pull/247) on [telepace/nexus](https://github.com/telepace/nexus) (4 days ago)
+- [✨ Add Intelligent Card-Block Interface Component](https://github.com/telepace/nexus/pull/247) on [telepace/nexus](https://github.com/telepace/nexus) (5 days ago)
 - [docs: 补充 Content Library 阅读界面命名体系和完整术语定义](https://github.com/telepace/nexus/pull/222) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
-- [Fix: Correctly pass --passWithNoTests to Jest](https://github.com/telepace/nexus/pull/203) on [telepace/nexus](https://github.com/telepace/nexus) (1 week ago)
+- [Fix: Correctly pass --passWithNoTests to Jest](https://github.com/telepace/nexus/pull/203) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/95) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/94) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 
@@ -108,9 +108,9 @@
 - [2024 Annual Review](https://nsddd.top/posts/2024-annual-review/) <small>(4 months ago)</small>
 - [In 2023, I Was Wandering at the Edge of the World](https://nsddd.top/posts/in-2023-i-was-wandering-at-the-edge-of-the-world/) <small>(1 year ago)</small>
 - [Metacognitive Transformation Review](https://nsddd.top/posts/metacognitive-transformation-review/) <small>(1 month ago)</small>
-- [Mem0](https://nsddd.top/posts/mem0/) <small>(1 month ago)</small>
-- [UFO](https://nsddd.top/posts/ufo/) <small>(1 month ago)</small>
-- [Argo Cd](https://nsddd.top/posts/argo-cd/) <small>(1 month ago)</small>
+- [Mem0](https://nsddd.top/posts/mem0/) <small>(2 months ago)</small>
+- [UFO](https://nsddd.top/posts/ufo/) <small>(2 months ago)</small>
+- [Argo Cd](https://nsddd.top/posts/argo-cd/) <small>(2 months ago)</small>
 
 </div>
 
@@ -122,9 +122,9 @@
 - [2024 年度回顾](https://nsddd.top/zh/posts/2024-annual-review/) <small>(4 months ago)</small>
 - [如何在博客中优雅地展示旅行足迹 - PolarSteps 集成指南](https://nsddd.top/zh/posts/travel-with-polarsteps/) <small>(1 year ago)</small>
 - [四个月的一些思考片段整理](https://nsddd.top/zh/posts/metacognitive-transformation-review/) <small>(1 month ago)</small>
-- [Mem0 开源项目：AI记忆层的技术分析与实践](https://nsddd.top/zh/posts/mem0/) <small>(1 month ago)</small>
-- [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(1 month ago)</small>
-- [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(1 month ago)</small>
+- [Mem0 开源项目：AI记忆层的技术分析与实践](https://nsddd.top/zh/posts/mem0/) <small>(2 months ago)</small>
+- [微软UFO项目深度解析：设计、实现、原理与架构](https://nsddd.top/zh/posts/ufo/) <small>(2 months ago)</small>
+- [Argo CD: Declarative GitOps for Kubernetes Continuous Delivery](https://nsddd.top/zh/posts/argo-cd/) <small>(2 months ago)</small>
 
 </div>
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-07-08 00:31:30
