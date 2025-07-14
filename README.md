@@ -61,10 +61,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (1 day ago)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 day ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 day ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (1 day ago)
 
 #### 🌱 Check out my recent projects
 
@@ -75,7 +75,7 @@
 #### ⭐ Check out my recent stars
 
 - [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」 (1 month ago)
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (2 months ago)
+- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (3 months ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web &amp; product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. (9 months ago)
 - [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (1 year ago)
 - [cubxxw/resume](https://github.com/cubxxw/resume) - resume (1 year ago)
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-07-14 00:28:36
