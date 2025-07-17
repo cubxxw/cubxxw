@@ -90,11 +90,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [修复: 优化 AI 分析指令加载, 防止重复加载导致性能浪费 (fixes #261)](https://github.com/telepace/nexus/pull/265) on [telepace/nexus](https://github.com/telepace/nexus) (today)
 - [✨ Add Intelligent Card-Block Interface Component](https://github.com/telepace/nexus/pull/247) on [telepace/nexus](https://github.com/telepace/nexus) (2 weeks ago)
 - [docs: 补充 Content Library 阅读界面命名体系和完整术语定义](https://github.com/telepace/nexus/pull/222) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
 - [Fix: Correctly pass --passWithNoTests to Jest](https://github.com/telepace/nexus/pull/203) on [telepace/nexus](https://github.com/telepace/nexus) (3 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/95) on [cubxxw/blog](https://github.com/cubxxw/blog) (3 weeks ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/94) on [cubxxw/blog](https://github.com/cubxxw/blog) (3 weeks ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-07-17 10:06:34
