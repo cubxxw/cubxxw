@@ -105,12 +105,12 @@
 
 
 
+- [2025 September Thought Notes](https://nsddd.top/posts/2025-09-thought-notes/) <small>(1 day ago)</small>
 - [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(1 month ago)</small>
 - [2025 July Thought Notes](https://nsddd.top/posts/2025-07-thought-notes/) <small>(2 months ago)</small>
 - [2025 June Thought Notes](https://nsddd.top/posts/2025-06-thought-notes/) <small>(3 months ago)</small>
 - [2025 May Thought Notes](https://nsddd.top/posts/2025-05-thought-notes/) <small>(4 months ago)</small>
 - [2025 April Thought Notes](https://nsddd.top/posts/2025-04-thought-notes/) <small>(5 months ago)</small>
-- [2025 March Thought Notes](https://nsddd.top/posts/2025-03-thought-notes/) <small>(6 months ago)</small>
 
 </div>
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-10-01 16:30:59
