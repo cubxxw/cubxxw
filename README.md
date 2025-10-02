@@ -90,11 +90,11 @@
 
 #### 🔨 Check out my recent pull requests
 
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/103) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/100) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
 - [Add Claude Code GitHub Workflow](https://github.com/telepace/nexus/pull/273) on [telepace/nexus](https://github.com/telepace/nexus) (2 months ago)
 - [修复: 优化 AI 分析指令加载, 防止重复加载导致性能浪费 (fixes #261)](https://github.com/telepace/nexus/pull/265) on [telepace/nexus](https://github.com/telepace/nexus) (2 months ago)
 - [✨ Add Intelligent Card-Block Interface Component](https://github.com/telepace/nexus/pull/247) on [telepace/nexus](https://github.com/telepace/nexus) (3 months ago)
-- [docs: 补充 Content Library 阅读界面命名体系和完整术语定义](https://github.com/telepace/nexus/pull/222) on [telepace/nexus](https://github.com/telepace/nexus) (3 months ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-10-02 09:44:31
