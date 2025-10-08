@@ -74,7 +74,7 @@
 
 #### ⭐ Check out my recent stars
 
-- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert!🚀  Structured Prompt，Language of GPT, 结构化提示词，结构化Prompt, Created by 「云中江树」 (4 months ago)
+- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured &amp; meta-prompt design 10,000&#43; ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树 (4 months ago)
 - [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (5 months ago)
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web &amp; product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. (1 year ago)
 - [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (2 years ago)
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-10-08 16:31:10
