@@ -119,12 +119,12 @@
 
 
 
+- [2025年10月思考笔记](https://nsddd.top/zh/posts/2025-10-thought-notes/) <small>(3 days ago)</small>
 - [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(1 month ago)</small>
 - [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(2 months ago)</small>
 - [2025年7月思考笔记](https://nsddd.top/zh/posts/2025-07-thought-notes/) <small>(3 months ago)</small>
 - [2025年6月思考笔记](https://nsddd.top/zh/posts/2025-06-thought-notes/) <small>(4 months ago)</small>
 - [2025年5月思考笔记](https://nsddd.top/zh/posts/2025-05-thought-notes/) <small>(5 months ago)</small>
-- [2025年4月思考笔记](https://nsddd.top/zh/posts/2025-04-thought-notes/) <small>(6 months ago)</small>
 
 </div>
 
@@ -231,4 +231,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-11-03 09:58:17
