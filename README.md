@@ -1,59 +1,62 @@
-## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻Xinwei Xiong⏱️</a> <sup><a href="https://nsddd.top" />🔊</a></sup>
+## Hi, 👋  I'm <a href="https://nsddd.top" target="_blank">🐻 Xinwei Xiong ⏱️</a> <sup><a href="https://nsddd.top" target="_blank">🔊</a></sup>
 
 
 
-<h2 align="center"><em>🌟 You never lose, either you win or you learn!<em> 💪</h2>
+<h2 align="center"><em>🌟 You never lose, either you win or you learn!</em> 💪</h2>
 <h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw" width="400" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw" width="305"/>
+	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw GitHub stats" width="400" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw Top languages" width="305" />
 </p>
 
 <h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
 <p align="center">
-  Our team is currently looking for talented individuals in the field of AI, including interns, engineers, and designers. If you are passionate about AI and want to work on cutting-edge projects, we would love to hear from you! <br>
+  Our team is currently looking for talented individuals in the field of AI, including interns, engineers, and designers. If you are passionate about AI and want to work on cutting-edge projects, we would love to hear from you! <br/>
   📧 Feel free to send your resume to: <a href="mailto:3293172751nss@gmail.com">3293172751nss@gmail.com</a>
 </p>
 
 <p align="center">
-  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&to=3293172751nss@gmail.com" target="_blank" alt="Gmail" title="Gmail">
-    <img src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" width="30px"/>
+  
+  <a href="mailto:3293172751nss@gmail.com" target="_blank" title="Email">
+    <img src="https://img.shields.io/badge/Email-3293172751nss%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://calendly.com/cubxxw" target="_blank" alt="Calendly" title="Schedule a meeting">
-    <img src="http://sm.nsddd.top/sm202309241412249.svg" width="22px"/>
+  
+  <a href="https://nsddd.top" target="_blank" title="Blog">
+    <img src="https://img.shields.io/badge/Blog-nsddd.top-blue?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://www.polarsteps.com/cubxxw" target="_blank" alt="PolarSteps" title="Follow my world travel journey">
-    <img src="https://static.polarsteps.com/images/logos/polarsteps-logo-icon.svg" width="28px"/>
+  
+  <a href="https://www.polarsteps.com/cubxxw" target="_blank" title="Follow my world travel journey">
+    <img src="https://img.shields.io/badge/Travel-Polarsteps-0f5b9a?style=for-the-badge&logo=google-maps&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://www.zhihu.com/people/3293172751" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  
+  <a href="https://www.zhihu.com/people/3293172751" target="_blank" title="Zhihu">
+    <img src="https://img.shields.io/badge/Zhihu-%E7%9F%A5%E4%B9%8E-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://space.bilibili.com/1233089591" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
-  </a> 
-  &emsp;
-  <a href="https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" alt="YouTube" title="YouTube">
-    <img src="https://img.icons8.com/ios-filled/50/000000/youtube-play.png" width="30px"/>
+  
+  <a href="https://space.bilibili.com/1233089591" target="_blank" title="Bilibili">
+    <img src="https://img.shields.io/badge/Bilibili-%E5%BE%97%E5%BE%97-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://www.linkedin.com/in/cubxxw" target="_blank" alt="LinkedIn" title="LinkedIn">
-    <img src="http://sm.nsddd.top/sm202309161903134.svg" width="26px"/>
+  
+  <a href="https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" title="YouTube">
+    <img src="https://img.shields.io/badge/YouTube-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  &emsp;
-  <a href="https://twitter.com/xxw3293172751" target="_blank" alt="Twitter" title="Twitter">
-    <img src="https://s2.loli.net/2022/01/15/vamdrInCTQsfDP6.jpg" width="34px"/>
+  
+  <a href="https://www.linkedin.com/in/cubxxw" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-cubxxw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://twitter.com/xxw3293172751" target="_blank" title="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-%40xxw3293172751-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <strong>Check out my work below!</strong> Time I contributed this year: 🎉<a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4" title="项目的进展时长" > <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg"></a> 🎉
+  <strong>Check out my work below!</strong> Time I contributed this year: 🎉
+  <a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4" title="项目的进展时长">
+    <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="Wakatime badge">
+  </a>
+  🎉
 </p>
 
 <h2></h2>
@@ -135,7 +138,7 @@
 #### 📫 How to reach me
 
 
-<a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="http://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
+<a target="_blank" href="https://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=1Ky9u7qzrL26o7G9i6OhvLW6lLK7rLm1vbj6t7u5" style="text-decoration:none;"><img src="https://rescdn.qqmail.com/zh_CN/htmledition/images/function/qm_open/ico_mailme_02.png" width="150"/></a>
 <a href="https://liberapay.com/xiongxinwei/donate" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="💋my blog💋" width="150" ></a>
 
 
@@ -144,20 +147,26 @@
 <br>
 <details><summary><b>💡 more （about github❗）</b></summary>
 <br>
-<p><a href='https://www.facebook.com/profile.php?id=100034435372354'>Facebook</a> | <a href='https://telsacoin.io/'>Website</a> | <a href='http://nsddd.top'>Blog</a> | <a href='https://t.me/smile3293172751'>Telegram</a> | <a href='https://twitter.com/xxw3293172751'>Twitter</a> | <a href='https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227'>Linkedin</a> | <a href='https://liberapay.com/xiongxinwei/donate'>Donate</a></p>
+<p>
+  <a href='https://nsddd.top'>Blog</a> |
+  <a href='https://t.me/smile3293172751'>Telegram</a> |
+  <a href='https://twitter.com/xxw3293172751'>Twitter</a> |
+  <a href='https://www.linkedin.com/in/cubxxw'>LinkedIn</a> |
+  <a href='https://liberapay.com/xiongxinwei/donate'>Donate</a>
+</p>
 <p align='center'>
-<a href="https://www.linkedin.cn/injobs/in/xiongxinwei-xiong-7606a0227" target="_blank"><img src="https://img.shields.io/badge/linkedin-xiongxinwei-yellowgreen?logo=linkedin&style=flat-square"></a>
+<a href="https://www.linkedin.com/in/cubxxw" target="_blank"><img src="https://img.shields.io/badge/linkedin-cubxxw-yellowgreen?logo=linkedin&style=flat-square"></a>
 <a href="https://twitter.com/xxw3293172751" target="_blank"><img src="https://img.shields.io/badge/twitter-%40xxw3293172751-informational?logo=twitter&style=flat-square"></a>
 <a href="https://www.zhihu.com/people/3293172751" target="_blank"><img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%93%BE%E5%AD%A6%E8%80%85%E7%A4%BE%E5%8C%BA-blue?logo=zhihu&style=flat-square"></a>
-<a href="http://sm.nsddd.top/sm0d220ad72063197b9875379403f6c88.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?logo=wechat&style=flat-square"></a>
+<a href="https://sm.nsddd.top/sm0d220ad72063197b9875379403f6c88.jpg" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-smile-brightgreen?logo=wechat&style=flat-square"></a>
 <a href="https://space.bilibili.com/1233089591" target="_blank"><img src="https://img.shields.io/badge/b%E7%AB%99-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-red?logo=bilibili&style=flat-square"></a>
 </p>
 <p align='center'>
 <a href="https://weibo.com/u/6248930985" target="_blank"><img src="https://img.shields.io/badge/%E5%BE%AE%E5%8D%9A-%E6%97%A0%E4%B8%8E%E4%BC%A6%E6%AF%94%E7%9A%84%E5%BE%97%E5%BE%97-critical?style=social&logo=Sina%20Weibo"></a>
 <a href="https://github.com/cubxxw" target="_blank"><img src="https://img.shields.io/badge/Github-xiongxinwei-inactive?style=social&logo=github"></a>
-<a href="http://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40xiongxinwei-blue?style=social&logo=Octopus%20Deploy"></a>
+<a href="https://nsddd.top" target="_blank"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%40xiongxinwei-blue?style=social&logo=Octopus%20Deploy"></a>
 </p>
-</hr>
+<hr />
 
 
 
@@ -233,4 +242,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-02-26 23:00:19
