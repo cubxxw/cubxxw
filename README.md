@@ -60,41 +60,43 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (today)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (today)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (today)
-- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (today)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 month ago)
+- [cubxxw/mindflow](https://github.com/cubxxw/mindflow) -  (3 months ago)
+- [cubxxw/glimmer](https://github.com/cubxxw/glimmer) -  (3 months ago)
+- [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) -  (3 months ago)
 
 #### 🌱 Check out my recent projects
 
-- [kubbot/openim-cla](https://github.com/kubbot/openim-cla) - 
-- [kubbot/auto-translate-readme](https://github.com/kubbot/auto-translate-readme) - 
-- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
+- [cubxxw/mindflow](https://github.com/cubxxw/mindflow) - 
+- [cubxxw/glimmer](https://github.com/cubxxw/glimmer) - 
+- [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) - 
+- [cubxxw/docs](https://github.com/cubxxw/docs) - 
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities
 
 #### ⭐ Check out my recent stars
 
-- [langgptai/LangGPT](https://github.com/langgptai/LangGPT) - LangGPT: Empowering everyone to become a prompt expert! 🚀  📌 结构化提示词（Structured Prompt）提出者 📌 元提示词（Meta-Prompt）发起者   📌 最流行的提示词落地范式 | Language of GPT  The pioneering framework for structured &amp; meta-prompt design 10,000&#43; ⭐ | Battle-tested by thousands of users worldwide  Created by 云中江树 (5 months ago)
-- [qodo-ai/qodo-cover](https://github.com/qodo-ai/qodo-cover) - Qodo-Cover: An AI-Powered Tool for Automated Test Generation and Code Coverage Enhancement! 💻🤖🧪🐞 (6 months ago)
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web &amp; product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free. (1 year ago)
-- [kubecub/standardizer](https://github.com/kubecub/standardizer) - An Github Actions Tools, Development of a Go-Based Conformity Checker for Project File and Directory Naming Standards (2 years ago)
-- [cubxxw/resume](https://github.com/cubxxw/resume) - resume (2 years ago)
+- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (today)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (3 weeks ago)
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 weeks ago)
+- [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (1 month ago)
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (1 month ago)
 
 #### 👯 Check out my recent followers
 
-- [korbosit](https://github.com/korbosit)
-- [24601](https://github.com/24601)
-- [HuiTaiLa](https://github.com/HuiTaiLa)
-- [vintagewang](https://github.com/vintagewang)
-- [Franklyn1987](https://github.com/Franklyn1987)
+- [XiaomingX](https://github.com/XiaomingX)
+- [adelburieva](https://github.com/adelburieva)
+- [lyx123v](https://github.com/lyx123v)
+- [faywong](https://github.com/faywong)
+- [CreepHL](https://github.com/CreepHL)
 
 #### 🔨 Check out my recent pull requests
 
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/106) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/104) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/103) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/100) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [Add Claude Code GitHub Workflow](https://github.com/telepace/nexus/pull/273) on [telepace/nexus](https://github.com/telepace/nexus) (3 months ago)
+- [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (5 months ago)
+- [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (5 months ago)
+- [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
+- [🐛 Fix JSONL parsing bug with comprehensive TDD implementation](https://github.com/telepace/aireader/pull/24) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
+- [docs: add comprehensive environment variable setup guide](https://github.com/telepace/aireader/pull/18) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -105,12 +107,12 @@
 
 
 
-- [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(2 months ago)</small>
-- [2025 July Thought Notes](https://nsddd.top/posts/2025-07-thought-notes/) <small>(3 months ago)</small>
-- [2025 June Thought Notes](https://nsddd.top/posts/2025-06-thought-notes/) <small>(4 months ago)</small>
-- [2025 May Thought Notes](https://nsddd.top/posts/2025-05-thought-notes/) <small>(5 months ago)</small>
-- [2025 April Thought Notes](https://nsddd.top/posts/2025-04-thought-notes/) <small>(6 months ago)</small>
-- [2025 March Thought Notes](https://nsddd.top/posts/2025-03-thought-notes/) <small>(7 months ago)</small>
+- [2025 November Thought Notes](https://nsddd.top/posts/2025-11-thought-notes/) <small>(2 months ago)</small>
+- [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(5 months ago)</small>
+- [2025 July Thought Notes](https://nsddd.top/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
+- [2025 June Thought Notes](https://nsddd.top/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
+- [2025 May Thought Notes](https://nsddd.top/posts/2025-05-thought-notes/) <small>(9 months ago)</small>
+- [2025 April Thought Notes](https://nsddd.top/posts/2025-04-thought-notes/) <small>(10 months ago)</small>
 
 </div>
 
@@ -119,12 +121,12 @@
 
 
 
-- [2025年10月思考笔记](https://nsddd.top/zh/posts/2025-10-thought-notes/) <small>(4 days ago)</small>
-- [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(1 month ago)</small>
-- [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(2 months ago)</small>
-- [2025年7月思考笔记](https://nsddd.top/zh/posts/2025-07-thought-notes/) <small>(3 months ago)</small>
-- [2025年6月思考笔记](https://nsddd.top/zh/posts/2025-06-thought-notes/) <small>(4 months ago)</small>
-- [2025年5月思考笔记](https://nsddd.top/zh/posts/2025-05-thought-notes/) <small>(5 months ago)</small>
+- [2025年11月思考笔记](https://nsddd.top/zh/posts/2025-11-thought-notes/) <small>(2 months ago)</small>
+- [2025年10月思考笔记](https://nsddd.top/zh/posts/2025-10-thought-notes/) <small>(3 months ago)</small>
+- [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(4 months ago)</small>
+- [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(5 months ago)</small>
+- [2025年7月思考笔记](https://nsddd.top/zh/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
+- [2025年6月思考笔记](https://nsddd.top/zh/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
 
 </div>
 
@@ -231,4 +233,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2025-11-04 09:53:43
