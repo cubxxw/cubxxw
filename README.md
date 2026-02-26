@@ -6,8 +6,12 @@
 <h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw GitHub stats" width="400" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw Top languages" width="305" />
+	<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
+		<img src="https://github-readme-stats-fast.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw GitHub stats" width="400" />
+	</a>
+	<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
+		<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw Top languages" width="305" />
+	</a>
 </p>
 
 <h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
@@ -242,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-02-26 23:17:58
