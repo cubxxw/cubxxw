@@ -16,7 +16,7 @@
 	</a>
 </p>
 
-<h3 align="center">🚀 We Are Hiring（我们正在招聘）!</h3>
+<h3 align="center">🚀 We Are Hiring! </h3>
 <p align="center">
   Our team is currently looking for talented individuals in the field of AI, including interns, engineers, and designers. If you are passionate about AI and want to work on cutting-edge projects, we would love to hear from you! <br/>
   📧 Feel free to send your resume to: <a href="mailto:3293172751nss@gmail.com">3293172751nss@gmail.com</a>
