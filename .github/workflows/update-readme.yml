@@ -45,13 +45,13 @@ jobs:
           branch: main
           commit_user_name: cubxxw
           commit_user_email: 3293172751nss@gmail.com
-          commit_author: kubbot 🤖 <3293172751nss@gmail.com>
+          commit_author: cubxxw 🤖 <3293172751nss@gmail.com>
           
       # 运行一系列 shell 命令，配置本地 Git 设置，从远程库拉取最新版本并推送到远程库。
       - name: Auto green
         run: |
-          git config --local user.email "3293172751ysy@gmail.com"
-          git config --local user.name "kubbot"
+          git config --local user.email "3293172751nss@gmail.com"
+          git config --local user.name "cubxxw"
           git remote set-url origin https://${{ secrets.BOT_GITHUB_TOKEN }}:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
           # 将 UTC 时间转换为上海时间
