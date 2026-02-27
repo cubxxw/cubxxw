@@ -68,10 +68,10 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 week ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 month ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 months ago)
 - [cubxxw/mindflow](https://github.com/cubxxw/mindflow) -  (3 months ago)
 - [cubxxw/glimmer](https://github.com/cubxxw/glimmer) -  (3 months ago)
-- [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) -  (3 months ago)
+- [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) -  (4 months ago)
 
 #### 🌱 Check out my recent projects
 
@@ -83,8 +83,8 @@
 
 #### ⭐ Check out my recent stars
 
-- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (today)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (3 weeks ago)
+- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (1 day ago)
+- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (4 weeks ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (4 weeks ago)
 - [ZeframLou/call-me](https://github.com/ZeframLou/call-me) - Minimal plugin that lets Claude Code call you on the phone. (1 month ago)
 - [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. (1 month ago)
@@ -115,7 +115,7 @@
 
 
 - [2025 November Thought Notes](https://nsddd.top/posts/2025-11-thought-notes/) <small>(2 months ago)</small>
-- [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(5 months ago)</small>
+- [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(6 months ago)</small>
 - [2025 July Thought Notes](https://nsddd.top/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
 - [2025 June Thought Notes](https://nsddd.top/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
 - [2025 May Thought Notes](https://nsddd.top/posts/2025-05-thought-notes/) <small>(9 months ago)</small>
@@ -130,8 +130,8 @@
 
 - [2025年11月思考笔记](https://nsddd.top/zh/posts/2025-11-thought-notes/) <small>(2 months ago)</small>
 - [2025年10月思考笔记](https://nsddd.top/zh/posts/2025-10-thought-notes/) <small>(3 months ago)</small>
-- [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(4 months ago)</small>
-- [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(5 months ago)</small>
+- [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(5 months ago)</small>
+- [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(6 months ago)</small>
 - [2025年7月思考笔记](https://nsddd.top/zh/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
 - [2025年6月思考笔记](https://nsddd.top/zh/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
 
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-02-26 23:28:04
