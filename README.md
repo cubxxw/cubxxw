@@ -67,8 +67,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (5 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (6 days ago)
 - [cubxxw/mindflow](https://github.com/cubxxw/mindflow) -  (3 months ago)
 - [cubxxw/glimmer](https://github.com/cubxxw/glimmer) -  (3 months ago)
 - [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) -  (4 months ago)
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-03-12 09:20:46
