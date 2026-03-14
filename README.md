@@ -67,8 +67,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (6 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 week ago)
 - [cubxxw/mindflow](https://github.com/cubxxw/mindflow) -  (3 months ago)
 - [cubxxw/glimmer](https://github.com/cubxxw/glimmer) -  (3 months ago)
 - [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) -  (4 months ago)
@@ -83,11 +83,11 @@
 
 #### ⭐ Check out my recent stars
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies (1 day ago)
 - [EvoMap/evolver](https://github.com/EvoMap/evolver) - The GEP-Powered Self-Evolution Engine for AI Agents. Genome Evolution Protocol. | evomap.ai (1 week ago)
-- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md (1 week ago)
-- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal. (1 week ago)
+- [tgrosinger/advanced-tables-obsidian](https://github.com/tgrosinger/advanced-tables-obsidian) - Improved table navigation, formatting, and manipulation in Obsidian.md (2 weeks ago)
+- [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal. (2 weeks ago)
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (2 weeks ago)
-- [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI &amp; web UI libraries, Slack bot, vLLM pods (1 month ago)
 
 #### 👯 Check out my recent followers
 
@@ -99,7 +99,7 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (5 months ago)
+- [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (6 months ago)
 - [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
 - [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
 - [🐛 Fix JSONL parsing bug with comprehensive TDD implementation](https://github.com/telepace/aireader/pull/24) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-03-13 09:24:17
