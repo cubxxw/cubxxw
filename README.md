@@ -67,27 +67,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (today)
-- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (today)
-- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (1 day ago)
+- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (1 day ago)
+- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (2 days ago)
 - [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 weeks ago)
-- [cubxxw/glimmer](https://github.com/cubxxw/glimmer) -  (4 months ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book
 - [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) - 
 - [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) - 
 - [cubxxw/mindflow](https://github.com/cubxxw/mindflow) - 
 - [cubxxw/glimmer](https://github.com/cubxxw/glimmer) - 
-- [cubxxw/tiptap-web](https://github.com/cubxxw/tiptap-web) - 
 
 #### ⭐ Check out my recent stars
 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (1 day ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (5 days ago)
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (6 days ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 day ago)
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (2 days ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (6 days ago)
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 week ago)
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
-- [snarktank/ralph](https://github.com/snarktank/ralph) - Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete.  (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -114,12 +114,12 @@
 
 
 
+- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/posts/2025-annual-review/) <small>(1 day ago)</small>
+- [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/posts/ai-and-self-identity/) <small>(3 weeks ago)</small>
+- [February 2026 Thought Notes | 2026 年 2 月思考笔记](https://nsddd.top/posts/2026-02-thought-notes/) <small>(3 weeks ago)</small>
+- [January 2026 Thought Notes | 2026 年 1 月思考笔记](https://nsddd.top/posts/2026-01-thought-notes/) <small>(1 month ago)</small>
+- [December 2025 Thought Notes | 2025 年 12 月思考笔记](https://nsddd.top/posts/2025-12-thought-notes/) <small>(2 months ago)</small>
 - [2025 November Thought Notes](https://nsddd.top/posts/2025-11-thought-notes/) <small>(3 months ago)</small>
-- [2025 August Thought Notes](https://nsddd.top/posts/2025-08-thought-notes/) <small>(6 months ago)</small>
-- [2025 July Thought Notes](https://nsddd.top/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
-- [2025 June Thought Notes](https://nsddd.top/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
-- [2025 May Thought Notes](https://nsddd.top/posts/2025-05-thought-notes/) <small>(9 months ago)</small>
-- [2025 April Thought Notes](https://nsddd.top/posts/2025-04-thought-notes/) <small>(10 months ago)</small>
 
 </div>
 
@@ -128,12 +128,12 @@
 
 
 
+- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/posts/2025-annual-review/) <small>(1 day ago)</small>
+- [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/posts/ai-and-self-identity/) <small>(3 weeks ago)</small>
+- [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/posts/2026-02-thought-notes/) <small>(3 weeks ago)</small>
+- [2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/posts/2026-01-thought-notes/) <small>(1 month ago)</small>
+- [2025 年 12 月思考笔记 | December 2025 Thought Notes](https://nsddd.top/zh/posts/2025-12-thought-notes/) <small>(2 months ago)</small>
 - [2025年11月思考笔记](https://nsddd.top/zh/posts/2025-11-thought-notes/) <small>(3 months ago)</small>
-- [2025年10月思考笔记](https://nsddd.top/zh/posts/2025-10-thought-notes/) <small>(4 months ago)</small>
-- [2025年9月思考笔记](https://nsddd.top/zh/posts/2025-09-thought-notes/) <small>(5 months ago)</small>
-- [2025年8月思考笔记](https://nsddd.top/zh/posts/2025-08-thought-notes/) <small>(6 months ago)</small>
-- [2025年7月思考笔记](https://nsddd.top/zh/posts/2025-07-thought-notes/) <small>(7 months ago)</small>
-- [2025年6月思考笔记](https://nsddd.top/zh/posts/2025-06-thought-notes/) <small>(8 months ago)</small>
 
 </div>
 
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-03-25 09:28:27
