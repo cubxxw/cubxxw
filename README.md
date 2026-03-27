@@ -67,27 +67,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (1 day ago)
+- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) -  (1 day ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
-- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (1 day ago)
-- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (2 days ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 weeks ago)
+- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (2 days ago)
+- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (2 days ago)
+- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (3 days ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) - 
 - [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book
 - [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) - 
 - [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) - 
 - [cubxxw/mindflow](https://github.com/cubxxw/mindflow) - 
-- [cubxxw/glimmer](https://github.com/cubxxw/glimmer) - 
 
 #### ⭐ Check out my recent stars
 
-- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (1 day ago)
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (2 days ago)
-- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (6 days ago)
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (1 day ago)
+- [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website &amp; Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to discover, learn, and execute tools seamlessly via a unified AGENT.md integration. (2 days ago)
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. (3 days ago)
+- [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI. (1 week ago)
-- [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -101,7 +101,7 @@
 
 - [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (6 months ago)
 - [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
-- [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
+- [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 - [🐛 Fix JSONL parsing bug with comprehensive TDD implementation](https://github.com/telepace/aireader/pull/24) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 - [docs: add comprehensive environment variable setup guide](https://github.com/telepace/aireader/pull/18) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 
@@ -114,7 +114,7 @@
 
 
 
-- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/posts/2025-annual-review/) <small>(1 day ago)</small>
+- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/posts/2025-annual-review/) <small>(2 days ago)</small>
 - [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/posts/ai-and-self-identity/) <small>(3 weeks ago)</small>
 - [February 2026 Thought Notes | 2026 年 2 月思考笔记](https://nsddd.top/posts/2026-02-thought-notes/) <small>(3 weeks ago)</small>
 - [January 2026 Thought Notes | 2026 年 1 月思考笔记](https://nsddd.top/posts/2026-01-thought-notes/) <small>(1 month ago)</small>
@@ -128,7 +128,7 @@
 
 
 
-- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/posts/2025-annual-review/) <small>(1 day ago)</small>
+- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/posts/2025-annual-review/) <small>(2 days ago)</small>
 - [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/posts/ai-and-self-identity/) <small>(3 weeks ago)</small>
 - [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/posts/2026-02-thought-notes/) <small>(3 weeks ago)</small>
 - [2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/posts/2026-01-thought-notes/) <small>(1 month ago)</small>
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-03-26 09:47:21
