@@ -67,11 +67,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
-- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) -  (3 days ago)
-- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (5 days ago)
-- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (5 days ago)
-- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (6 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 days ago)
+- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) -  (4 days ago)
+- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) -  (6 days ago)
+- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (6 days ago)
+- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) -  (1 week ago)
 
 #### 🌱 Check out my recent projects
 
@@ -83,11 +83,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 day ago)
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (2 days ago)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (2 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (3 days ago)
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (4 days ago)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (1 day ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (2 days ago)
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (3 days ago)
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (3 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-03-30 09:52:11
