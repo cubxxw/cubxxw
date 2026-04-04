@@ -68,8 +68,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
-- [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记 (2 days ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (3 days ago)
+- [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记 (3 days ago)
+- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (4 days ago)
 - [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) -  (1 week ago)
 - [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (1 week ago)
 
@@ -83,11 +83,11 @@
 
 #### ⭐ Check out my recent stars
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Better Harness Tools that make real things done. Built in Rust using oh-my-codex. (1 day ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (4 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (5 days ago)
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (6 days ago)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (6 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - [Notice] The repo temporarily locked while ownership transfer. in the meantime we maintain on here: https://github.com/ultraworkers/claw-code-parity. The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (2 days ago)
+- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (5 days ago)
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (6 days ago)
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (1 week ago)
+- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -100,7 +100,7 @@
 #### 🔨 Check out my recent pull requests
 
 - [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (6 months ago)
-- [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (6 months ago)
+- [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 - [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 - [🐛 Fix JSONL parsing bug with comprehensive TDD implementation](https://github.com/telepace/aireader/pull/24) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
 - [docs: add comprehensive environment variable setup guide](https://github.com/telepace/aireader/pull/18) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-03 09:47:25
