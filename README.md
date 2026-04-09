@@ -67,27 +67,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
-- [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记 (4 days ago)
-- [SoraEase/sora-prompt](https://github.com/SoraEase/sora-prompt) - Sora Prompt Collection, a repository dedicated to inspiring AI-driven video creation with Sora.  (5 days ago)
-- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) -  (1 week ago)
-- [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (1 day ago)
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 day ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (2 days ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 days ago)
 
 #### 🌱 Check out my recent projects
 
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case
 - [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记
 - [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) - 
 - [cubxxw/tibet-book](https://github.com/cubxxw/tibet-book) - tibet book
-- [cubxxw/angkor-wat-game](https://github.com/cubxxw/angkor-wat-game) - 
-- [cubxxw/vietnam-book](https://github.com/cubxxw/vietnam-book) - 
 
 #### ⭐ Check out my recent stars
 
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (3 days ago)
-- [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience (6 days ago)
-- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically (1 week ago)
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. (1 week ago)
-- [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks. (1 week ago)
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 day ago)
+- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶 (1 day ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 day ago)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (3 days ago)
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
 
 #### 👯 Check out my recent followers
 
@@ -99,11 +99,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: 企业级优化与扩展性增强](https://github.com/telepace/nexus/pull/284) on [telepace/nexus](https://github.com/telepace/nexus) (6 months ago)
-- [fix: resolve infinite loops and restore concept map functionality](https://github.com/telepace/aireader/pull/52) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
-- [Fix LLM output parsing and ResizeObserver error suppression](https://github.com/telepace/aireader/pull/47) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
-- [🐛 Fix JSONL parsing bug with comprehensive TDD implementation](https://github.com/telepace/aireader/pull/24) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
-- [docs: add comprehensive environment variable setup guide](https://github.com/telepace/aireader/pull/18) on [telepace/aireader](https://github.com/telepace/aireader) (7 months ago)
+- [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -114,12 +114,12 @@
 
 
 
-- [Ai Recommend 开源项目深度学习](https://nsddd.top/posts/ai-projects/ai-recommend/) <small>(11 months ago)</small>
-- [Notebooklm 开源项目深度学习](https://nsddd.top/posts/ai-projects/notebooklm/) <small>(11 months ago)</small>
-- [Tdd 开源项目深度学习](https://nsddd.top/posts/ai-projects/tdd/) <small>(11 months ago)</small>
-- [MarkItdown 开源项目深度学习](https://nsddd.top/posts/ai-projects/markitdown/) <small>(11 months ago)</small>
-- [Langgraph 开源项目深度学习](https://nsddd.top/posts/ai-projects/langgraph/) <small>(11 months ago)</small>
-- [Langchain 开源项目深度学习](https://nsddd.top/posts/ai-projects/langchain/) <small>(11 months ago)</small>
+- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>(1 week ago)</small>
+- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>(2 weeks ago)</small>
+- [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>(1 month ago)</small>
+- [February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/) <small>(1 month ago)</small>
+- [January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/) <small>(2 months ago)</small>
+- [December 2025 Thought Notes](https://nsddd.top/growth/posts/2025-12-thought-notes/) <small>(3 months ago)</small>
 
 </div>
 
@@ -128,12 +128,12 @@
 
 
 
-- [Ai Recommend 技术、实践和深度学习](https://nsddd.top/zh/posts/ai-projects/ai-recommend/) <small>(11 months ago)</small>
-- [Google NotebookLM 的 RAG 深度调研思考](https://nsddd.top/zh/posts/ai-projects/notebooklm/) <small>(11 months ago)</small>
-- [AI 时代初创企业的测试驱动开发（TDD）实践方案](https://nsddd.top/zh/posts/ai-projects/tdd/) <small>(11 months ago)</small>
-- [MarkItdown 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/markitdown/) <small>(11 months ago)</small>
-- [LangGraph 深度解析：设计、架构、原理与应用](https://nsddd.top/zh/posts/ai-projects/langgraph/) <small>(11 months ago)</small>
-- [Langchain 开源项目深度学习](https://nsddd.top/zh/posts/ai-projects/langchain/) <small>(11 months ago)</small>
+- [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>(1 week ago)</small>
+- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/) <small>(2 weeks ago)</small>
+- [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/growth/posts/ai-and-self-identity/) <small>(1 month ago)</small>
+- [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/) <small>(1 month ago)</small>
+- [2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-01-thought-notes/) <small>(2 months ago)</small>
+- [2025 年 12 月思考笔记 | December 2025 Thought Notes](https://nsddd.top/zh/growth/posts/2025-12-thought-notes/) <small>(3 months ago)</small>
 
 </div>
 
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-05 09:51:31
