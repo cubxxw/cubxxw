@@ -67,11 +67,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (1 day ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (1 day ago)
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 day ago)
-- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (2 days ago)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (2 days ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (2 days ago)
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (2 days ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (3 days ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -83,10 +83,10 @@
 
 #### ⭐ Check out my recent stars
 
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 day ago)
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶 (1 day ago)
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (1 day ago)
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (3 days ago)
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (2 days ago)
+- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶 (2 days ago)
+- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (2 days ago)
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (4 days ago)
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. (1 week ago)
 
 #### 👯 Check out my recent followers
@@ -99,11 +99,11 @@
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
-- [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
-- [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
-- [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
-- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 days ago)
+- [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 days ago)
+- [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 days ago)
+- [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 days ago)
+- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 days ago)
 
 ## 📜 Check Out My Recent Blog Posts
 
@@ -246,4 +246,3 @@
 </br>
  <figure><embed src="https://wakatime.com/share/@3293172751/d229e6d8-525a-4de8-80d2-04b78aa7d04a.svg"></embed></figure>
 </details>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-09 15:22:52
