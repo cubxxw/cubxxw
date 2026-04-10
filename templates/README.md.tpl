@@ -107,14 +107,28 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/openimsdk/open-im-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=openimsdk&repo=open-im-server&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/cubxxw/awesome-cs-cloudnative-blockchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubxxw&repo=awesome-cs-cloudnative-blockchain&theme=dracula&hide_border=true" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)**<br/>
+Open source instant messaging platform built for enterprises. High-performance, scalable IM SDK & server.<br/>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Stars](https://img.shields.io/github/stars/openimsdk/open-im-server?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/openimsdk/open-im-server?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+**[cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)**<br/>
+Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=blue)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenIM-Core_Contributor-blue?style=for-the-badge&logo=github" />
