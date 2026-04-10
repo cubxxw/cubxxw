@@ -113,14 +113,28 @@
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/openimsdk/open-im-server">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=openimsdk&repo=open-im-server&theme=dracula&hide_border=true" />
-  </a>
-  <a href="https://github.com/cubxxw/awesome-cs-cloudnative-blockchain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cubxxw&repo=awesome-cs-cloudnative-blockchain&theme=dracula&hide_border=true" />
-  </a>
-</p>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)**<br/>
+Open source instant messaging platform built for enterprises. High-performance, scalable IM SDK & server.<br/>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Stars](https://img.shields.io/github/stars/openimsdk/open-im-server?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/openimsdk/open-im-server?style=flat-square&color=blue)
+
+</td>
+<td width="50%" valign="top">
+
+**[cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)**<br/>
+Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![Stars](https://img.shields.io/github/stars/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=yellow)
+![Forks](https://img.shields.io/github/forks/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=blue)
+
+</td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://img.shields.io/badge/OpenIM-Core_Contributor-blue?style=for-the-badge&logo=github" />
@@ -154,12 +168,34 @@
 
 ## 📜 Recent Blog Posts
 
-- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>(1 week ago)</small>
-- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>(2 weeks ago)</small>
-- [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>(1 month ago)</small>
-- [February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/) <small>(1 month ago)</small>
-- [January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/) <small>(2 months ago)</small>
-- [December 2025 Thought Notes](https://nsddd.top/growth/posts/2025-12-thought-notes/) <small>(3 months ago)</small>
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌐 English**
+
+
+- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>_(1 week ago)_</small>
+- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>_(2 weeks ago)_</small>
+- [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
+- [February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
+- [January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/) <small>_(2 months ago)_</small>
+
+</td>
+<td width="50%" valign="top">
+
+**🌏 中文**
+
+
+- [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>_(1 week ago)_</small>
+- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/) <small>_(2 weeks ago)_</small>
+- [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
+- [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
+- [2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-01-thought-notes/) <small>_(2 months ago)_</small>
+
+</td>
+</tr>
+</table>
 
 ## 💬 Random Dev Quote
 
@@ -180,4 +216,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-10 15:11:24
