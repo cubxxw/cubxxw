@@ -138,9 +138,29 @@
 {{- end}}
 
 ## 📜 Recent Blog Posts
-{{range rss "https://nsddd.top/index.xml" 6}}
-- [{{.Title}}]({{.URL}}) <small>({{humanize .PublishedAt}})</small>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**🌐 English**
+
+{{range rss "https://nsddd.top/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) <small>_({{humanize .PublishedAt}})_</small>
 {{- end}}
+
+</td>
+<td width="50%" valign="top">
+
+**🌏 中文**
+
+{{range rss "https://nsddd.top/zh/index.xml" 5}}
+- [{{.Title}}]({{.URL}}) <small>_({{humanize .PublishedAt}})_</small>
+{{- end}}
+
+</td>
+</tr>
+</table>
 
 ## 💬 Random Dev Quote
 
