@@ -83,12 +83,6 @@
 
 <h2></h2>
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="100%"/>
-</p>
-
 ## 📈 Activity Graph
 
 <p align="center">
