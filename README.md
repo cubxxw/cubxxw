@@ -55,35 +55,35 @@
 </p>
 
 <p align="center">
-  <!-- Email -->
+  
   <a href="mailto:3293172751nss@gmail.com" target="_blank" title="Email">
     <img src="https://img.shields.io/badge/Email-3293172751nss%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- Blog -->
+  
   <a href="https://nsddd.top" target="_blank" title="Blog">
     <img src="https://img.shields.io/badge/Blog-nsddd.top-blue?style=for-the-badge&logo=hugo&logoColor=white" />
   </a>
-  <!-- Polarsteps -->
+  
   <a href="https://www.polarsteps.com/cubxxw" target="_blank" title="Follow my world travel journey">
     <img src="https://img.shields.io/badge/Travel-Polarsteps-0f5b9a?style=for-the-badge&logo=google-maps&logoColor=white" />
   </a>
-  <!-- Zhihu -->
+  
   <a href="https://www.zhihu.com/people/3293172751" target="_blank" title="Zhihu">
     <img src="https://img.shields.io/badge/Zhihu-%E7%9F%A5%E4%B9%8E-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" />
   </a>
-  <!-- Bilibili -->
+  
   <a href="https://space.bilibili.com/1233089591" target="_blank" title="Bilibili">
     <img src="https://img.shields.io/badge/Bilibili-%E5%BE%97%E5%BE%97-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
   </a>
-  <!-- YouTube -->
+  
   <a href="https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" title="YouTube">
     <img src="https://img.shields.io/badge/YouTube-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <!-- LinkedIn -->
+  
   <a href="https://www.linkedin.com/in/cubxxw" target="_blank" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-cubxxw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Twitter -->
+  
   <a href="https://twitter.com/xxw3293172751" target="_blank" title="Twitter">
     <img src="https://img.shields.io/badge/Twitter-%40xxw3293172751-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
@@ -207,6 +207,8 @@
 ### 🌐 English
 <div style="width: 48%;">
 
+
+
 - [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>(1 week ago)</small>
 - [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>(2 weeks ago)</small>
 - [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>(1 month ago)</small>
@@ -218,6 +220,8 @@
 
 ### 🌏 中文
 <div style="width: 48%;">
+
+
 
 - [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>(1 week ago)</small>
 - [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/) <small>(2 weeks ago)</small>
