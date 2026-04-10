@@ -55,12 +55,6 @@ jobs:
           plugin_activity_load: 300
           plugin_activity_visibility: all
           
-          # Plugin Configuration - Calendar & Time
-          plugin_calendar: yes
-          plugin_calendar_limit: 1
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          
           # Plugin Configuration - Languages
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
@@ -87,23 +81,11 @@ jobs:
           plugin_people_types: followers, following
           
           # Plugin Configuration - Code & Repositories
-          plugin_gists: yes
           plugin_lines: yes
           plugin_lines_history_limit: 1
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
-          plugin_repositories: yes
-          plugin_repositories_order: featured, pinned, starred, random
-          
-          # Plugin Configuration - Habits & Patterns
-          plugin_habits: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_from: 200
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
-          
+
           # Plugin Configuration - External Services
           plugin_leetcode: yes
           plugin_leetcode_limit_recent: 2
@@ -119,10 +101,6 @@ jobs:
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: 3293172751
           
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
-          plugin_tweets_user: xxw3293172751
-          
           # Plugin Configuration - Advanced Features
           plugin_introduction: yes
           plugin_introduction_title: yes
@@ -136,9 +114,6 @@ jobs:
           plugin_reactions_limit_discussions: 100
           plugin_reactions_limit_discussions_comments: 100
           plugin_reactions_limit_issues: 100
-          plugin_rss: yes
-          plugin_rss_limit: 4
-          plugin_rss_source: https://rss.lilydjwg.me/zhihuzhuanlan/c_1496496113348206594
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: chartist
