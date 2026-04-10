@@ -75,10 +75,6 @@ jobs:
           plugin_followup: yes
           plugin_followup_archived: yes
           plugin_followup_sections: repositories
-          plugin_people: yes
-          plugin_people_limit: 24
-          plugin_people_size: 28
-          plugin_people_types: followers, following
           
           # Plugin Configuration - Code & Repositories
           plugin_lines: yes
