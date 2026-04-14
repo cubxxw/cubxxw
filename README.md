@@ -91,15 +91,15 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) -  (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/posts/index.xml (3 days ago)
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (5 days ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (5 days ago)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (6 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 day ago)
+- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (1 day ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (6 days ago)
+- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (6 days ago)
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - 
+- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息
 - [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies
 - [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case
 - [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记
@@ -138,11 +138,11 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### ⭐ Check out my recent stars
 
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 days ago)
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (5 days ago)
-- [titanwings/colleague-skill](https://github.com/titanwings/colleague-skill) - 将冰冷的离别化为温暖的 Skill，欢迎加入数字生命1.0！Transforming cold farewells into warm skills? It&#39;s giving rebirth era. Welcome to Digital Life 1.0. 🫶 (5 days ago)
-- [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local (5 days ago)
-- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows (1 week ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (1 day ago)
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (1 day ago)
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (1 day ago)
+- [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server (1 day ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (4 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -154,11 +154,11 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### 🔨 Check out my recent pull requests
 
-- [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
-- [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
-- [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
-- [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
-- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
+- [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
 
 ## 📜 Recent Blog Posts
 
@@ -169,7 +169,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 **🌐 English**
 
 
-- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>_(1 week ago)_</small>
+- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>_(2 weeks ago)_</small>
 - [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>_(2 weeks ago)_</small>
 - [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
 - [February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
@@ -181,7 +181,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 **🌏 中文**
 
 
-- [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>_(1 week ago)_</small>
+- [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>_(2 weeks ago)_</small>
 - [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/) <small>_(2 weeks ago)_</small>
 - [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
 - [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
@@ -210,4 +210,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-13 10:01:22
