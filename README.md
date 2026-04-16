@@ -91,10 +91,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 day ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (2 days ago)
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (2 days ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (1 week ago)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (2 days ago)
+- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (3 days ago)
+- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (3 days ago)
 - [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 week ago)
 
 #### 🌱 Check out my recent projects
@@ -138,11 +138,11 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### ⭐ Check out my recent stars
 
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (2 days ago)
-- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (2 days ago)
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or videos into a queryable knowledge graph (2 days ago)
-- [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server (2 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect (5 days ago)
+- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (1 day ago)
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (1 day ago)
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (3 days ago)
+- [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours. (3 days ago)
+- [figma/mcp-server-guide](https://github.com/figma/mcp-server-guide) - A guide on how to use the Figma MCP server (3 days ago)
 
 #### 👯 Check out my recent followers
 
@@ -154,11 +154,11 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### 🔨 Check out my recent pull requests
 
+- [feat: DayPage MVP — 全功能 iOS 原生实现 (US-001 ~ US-018)](https://github.com/getyak/daypage/pull/16) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
 - [fix: redesign subscribe widget — Signal Tower (2.75 → 7.5/10)](https://github.com/cubxxw/blog/pull/161) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [feat: redesign share section for premium UX](https://github.com/cubxxw/blog/pull/159) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [Fix/qa issues v2](https://github.com/cubxxw/blog/pull/134) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [fix: QA issues batch 2 — EN projects descriptions, code copy, external link security, travel page](https://github.com/cubxxw/blog/pull/133) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
-- [fix: resolve QA issues — archives config, i18n sidebar labels, bilingual titles](https://github.com/cubxxw/blog/pull/132) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 
 ## 📜 Recent Blog Posts
 
@@ -210,4 +210,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-15 09:52:22
