@@ -21,7 +21,7 @@ jobs:
     
     steps:
       - name: 🔄 Mirror GitHub repos to Gitee
-        uses: Yikun/gitee-mirror-action@v0.01
+        uses: Yikun/hub-mirror-action@master
         with:
           src: github/cubxxw
           dst: gitee/xxw3293172751
