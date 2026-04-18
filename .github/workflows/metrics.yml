@@ -90,6 +90,7 @@ jobs:
           plugin_leetcode_user: smile_china
           
           plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
           plugin_wakatime_days: 180
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all

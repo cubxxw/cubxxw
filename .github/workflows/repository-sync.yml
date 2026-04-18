@@ -21,11 +21,12 @@ jobs:
     
     steps:
       - name: 🔄 Mirror GitHub repos to Gitee
-        uses: Yikun/gitee-mirror-action@v0.01
+        uses: Yikun/hub-mirror-action@master
         with:
-          private_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          github_org: cubxxw
-          gitee_org: xxw3293172751
+          src: github/cubxxw
+          dst: gitee/xxw3293172751
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
 
       - name: ✅ Sync Status
         run: |
