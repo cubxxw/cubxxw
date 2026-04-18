@@ -12,9 +12,9 @@ on:
     - cron: '0 0 * * *'  # Daily at 12:00 AM UTC
   # Manual trigger
   workflow_dispatch:
-  # Trigger on README template changes
+  # Trigger on template changes only (not README.md to avoid commit loops)
   push:
-    paths: ['README.md', 'templates/**']
+    paths: ['templates/**']
 
 jobs:
   update-wakatime:

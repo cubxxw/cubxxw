@@ -59,17 +59,18 @@ jobs:
           commit_author: "kubbot 🤖 <3293172751ysy@gmail.com>"
 
       - name: 🕐 Add Timestamp
+        if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main'
         run: |
           git config --local user.email "3293172751ysy@gmail.com"
           git config --local user.name "kubbot"
           git remote set-url origin https://${{ secrets.BOT_GITHUB_TOKEN }}@github.com/${{ github.repository }}
           git pull --rebase
-          
+
           # Convert UTC to Shanghai time
           local_time=$(TZ='Asia/Shanghai' date '+%Y-%m-%d %H:%M:%S %Z')
           echo "" >> README.md
           echo "🚀 Last updated by [@kubbot](https://github.com/kubbot) on $local_time" >> README.md
-          
+
           # Commit with signature
           git commit --allow-empty -a -s -m "🌟 You never lose, either you win or you learn! 💪"
           git push
