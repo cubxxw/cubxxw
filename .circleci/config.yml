@@ -1,0 +1,19 @@
+version: 2.1
+
+# This repo uses GitHub Actions for all CI/CD.
+# This minimal config exists only to satisfy the CircleCI integration
+# and prevent the "no configuration found" status check error.
+
+workflows:
+  noop:
+    jobs:
+      - noop
+
+jobs:
+  noop:
+    docker:
+      - image: cimg/base:stable
+    steps:
+      - run:
+          name: No-op
+          command: echo "CI handled by GitHub Actions"
