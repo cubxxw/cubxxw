@@ -16,13 +16,9 @@ on:
   # Trigger on content-related changes
   push:
     branches: [main, master]
-    paths: 
-      - 'templates/**'
-      - '.github/workflows/content-management.yml'
-  # Trigger on pull requests affecting content
-  pull_request:
     paths:
       - 'templates/**'
+      - '.github/workflows/content-management.yml'
 
 jobs:
   update-readme:
