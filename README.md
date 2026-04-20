@@ -26,10 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cubxxw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!</em> 💪</h2>
 <h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
 
@@ -91,19 +87,18 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (4 days ago)
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (5 days ago)
-- [cubxxw/diary](https://github.com/cubxxw/diary) - Some of flomo&#39;s thinking essays are recorded and appropriately optimized to add AI capabilities (5 days ago)
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (today)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (2 days ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (1 week ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (1 week ago)
+- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (1 week ago)
 
 #### 🌱 Check out my recent projects
 
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息
-- [cubxxw/cubxxw-skills](https://github.com/cubxxw/cubxxw-skills) - Summarize one&#39;s skills and abstract some methodologies
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case
-- [cubxxw/angkor-wat](https://github.com/cubxxw/angkor-wat) - 吴哥窟旅游日记
-- [cubxxw/skills-hub](https://github.com/cubxxw/skills-hub) - 
+- [kubbot/ai](https://github.com/kubbot/ai) - 
+- [kubbot/openim-cla](https://github.com/kubbot/openim-cla) - 
+- [kubbot/auto-translate-readme](https://github.com/kubbot/auto-translate-readme) - 
+- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
 
 ## 🚀 Featured Projects
 
@@ -138,54 +133,88 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### ⭐ Check out my recent stars
 
-- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
-- [siddharthvaddem/openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.  (1 day ago)
-- [cubxxw/claude-code-statusline](https://github.com/cubxxw/claude-code-statusline) - Make your Claude code statusline more stylish, concise but with crucial information ｜ 让你的 Claude code statusline 更加炫酷，精简但是重要的信息 (3 days ago)
-- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman (3 days ago)
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan&#39;s exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA (5 days ago)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 week ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (1 week ago)
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (2 weeks ago)
+- [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (1 month ago)
+- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (1 month ago)
 
 #### 👯 Check out my recent followers
 
-- [shanyinshuiyue](https://github.com/shanyinshuiyue)
-- [xiaohaozi0501](https://github.com/xiaohaozi0501)
-- [hoszie675](https://github.com/hoszie675)
-- [brunomadrigal80](https://github.com/brunomadrigal80)
-- [adelburieva](https://github.com/adelburieva)
+- [korbosit](https://github.com/korbosit)
+- [24601](https://github.com/24601)
+- [HuiTaiLa](https://github.com/HuiTaiLa)
+- [vintagewang](https://github.com/vintagewang)
+- [Franklyn1987](https://github.com/Franklyn1987)
 
 #### 🔨 Check out my recent pull requests
 
-- [feat: DayPage v3 Wave2 — US-001~009 体验优化全量交付](https://github.com/getyak/daypage/pull/71) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
-- [chore: tag-driven versioning &#43; /loop release guide](https://github.com/getyak/daypage/pull/65) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
-- [feat: DayPage v3 experience — US-016 through US-029 &#43; project automation](https://github.com/getyak/daypage/pull/63) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
-- [feat: [US-001~025] DayPage v2 全功能实现 — SettingsView / Graph Tab / 语音转写 / 搜索筛选等 25 个 Issue](https://github.com/getyak/daypage/pull/59) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
-- [chore(ralph): DayPage v2 roadmap — 24-issue PRD &#43; MVP archive](https://github.com/getyak/daypage/pull/58) on [getyak/daypage](https://github.com/getyak/daypage) (1 day ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 months ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/106) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/104) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/103) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
 
 ## 📜 Recent Blog Posts
 
+<p align="center">
+  <a href="https://nsddd.top/index.xml"><img src="https://img.shields.io/badge/RSS-English-orange?style=flat-square&logo=rss&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://nsddd.top/zh/index.xml"><img src="https://img.shields.io/badge/RSS-中文-red?style=flat-square&logo=rss&logoColor=white"/></a>
+</p>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<th width="50%" align="left">🌐 English</th>
+<th width="50%" align="left">🌏 中文</th>
+</tr>
+<tr>
+<td valign="top">
 
-**🌐 English**
+
+📌 **[March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/)**
+<sub>🕐 2 weeks ago</sub>
 
 
-- [March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/) <small>_(2 weeks ago)_</small>
-- [I&#39;m Wandering, But I&#39;m Not Lost — 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/) <small>_(3 weeks ago)_</small>
-- [AI Is Getting Smarter, But I&#39;m Losing Myself](https://nsddd.top/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
-- [February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
-- [January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/) <small>_(2 months ago)_</small>
+📌 **[Wandering &amp; Growing: 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/)**
+<sub>🕐 3 weeks ago</sub>
+
+
+📌 **[AI and Self-Identity: Who Am I in the AI Age](https://nsddd.top/growth/posts/ai-and-self-identity/)**
+<sub>🕐 1 month ago</sub>
+
+
+📌 **[February 2026 Thought Notes](https://nsddd.top/growth/posts/2026-02-thought-notes/)**
+<sub>🕐 1 month ago</sub>
+
+
+📌 **[January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/)**
+<sub>🕐 2 months ago</sub>
+
 
 </td>
-<td width="50%" valign="top">
-
-**🌏 中文**
+<td valign="top">
 
 
-- [2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/) <small>_(2 weeks ago)_</small>
-- [我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/) <small>_(3 weeks ago)_</small>
-- [AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/growth/posts/ai-and-self-identity/) <small>_(1 month ago)_</small>
-- [2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/) <small>_(1 month ago)_</small>
-- [2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-01-thought-notes/) <small>_(2 months ago)_</small>
+📌 **[2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
+<sub>🕐 2 weeks ago</sub>
+
+
+📌 **[我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/)**
+<sub>🕐 3 weeks ago</sub>
+
+
+📌 **[AI 越来越聪明，我却越来越不知道自己是谁](https://nsddd.top/zh/growth/posts/ai-and-self-identity/)**
+<sub>🕐 1 month ago</sub>
+
+
+📌 **[2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/)**
+<sub>🕐 1 month ago</sub>
+
+
+📌 **[2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-01-thought-notes/)**
+<sub>🕐 2 months ago</sub>
+
 
 </td>
 </tr>
@@ -210,4 +239,4 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
- 🚀 Shanghai time of last status update by the bot <a href='https://github.com/kubbot'>@kubbot</a>: 2026-04-18 09:48:06
+
