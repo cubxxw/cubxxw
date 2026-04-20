@@ -26,10 +26,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cubxxw&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
 <h2 align="center"><em>🌟 You never lose, either you win or you learn!</em> 💪</h2>
 <h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
 
