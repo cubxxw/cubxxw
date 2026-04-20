@@ -147,25 +147,33 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 ## 📜 Recent Blog Posts
 
+<p align="center">
+  <a href="https://nsddd.top/index.xml"><img src="https://img.shields.io/badge/RSS-English-orange?style=flat-square&logo=rss&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://nsddd.top/zh/index.xml"><img src="https://img.shields.io/badge/RSS-中文-red?style=flat-square&logo=rss&logoColor=white"/></a>
+</p>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-**🌐 English**
+<th width="50%" align="left">🌐 English</th>
+<th width="50%" align="left">🌏 中文</th>
+</tr>
+<tr>
+<td valign="top">
 
 {{range rss "https://nsddd.top/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) <small>_({{humanize .PublishedAt}})_</small>
-{{- end}}
+📌 **[{{.Title}}]({{.URL}})**
+<sub>🕐 {{humanize .PublishedAt}}</sub>
 
+{{ end}}
 </td>
-<td width="50%" valign="top">
-
-**🌏 中文**
+<td valign="top">
 
 {{range rss "https://nsddd.top/zh/index.xml" 5}}
-- [{{.Title}}]({{.URL}}) <small>_({{humanize .PublishedAt}})_</small>
-{{- end}}
+📌 **[{{.Title}}]({{.URL}})**
+<sub>🕐 {{humanize .PublishedAt}}</sub>
 
+{{ end}}
 </td>
 </tr>
 </table>
