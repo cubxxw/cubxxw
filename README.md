@@ -87,11 +87,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (6 days ago)
-- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (2 weeks ago)
-- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (2 weeks ago)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 week ago)
+- [SoraEase/sora-prompt-zh](https://github.com/SoraEase/sora-prompt-zh) - Sora 中文的提示词 | 短视频提示词（prompt）技巧 | 调教指南。各种场景使用指南。学习怎么让它听你的话。兼顾了 Sora 的多场景应用。 (3 weeks ago)
+- [SoraEase/Sora-Next-Web](https://github.com/SoraEase/Sora-Next-Web) - A cross-platform Sora UI (Web / PWA / Linux / Win / MacOS). (3 weeks ago)
 
 #### 🌱 Check out my recent projects
 
@@ -133,9 +133,9 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### ⭐ Check out my recent stars
 
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (2 weeks ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (2 weeks ago)
-- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (3 weeks ago)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (3 weeks ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (3 weeks ago)
+- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (4 weeks ago)
 - [anthropics/financial-services-plugins](https://github.com/anthropics/financial-services-plugins) -  (2 months ago)
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (2 months ago)
 
@@ -149,7 +149,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### 🔨 Check out my recent pull requests
 
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/106) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
@@ -173,7 +173,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 📌 **[Wandering &amp; Growing: 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/)**
@@ -197,7 +197,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 📌 **[我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/)**
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-04-27 18:11:13 CST
