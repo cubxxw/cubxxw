@@ -87,11 +87,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (1 day ago)
-- [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (4 days ago)
+- [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (5 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -149,7 +149,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### 🔨 Check out my recent pull requests
 
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (5 days ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
@@ -172,6 +172,10 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <td valign="top">
 
 
+📌 **[April 2026 Thought Notes](https://nsddd.top/growth/posts/2026-04-thought-notes/)**
+<sub>🕐 6 days ago</sub>
+
+
 📌 **[March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/)**
 <sub>🕐 1 month ago</sub>
 
@@ -188,15 +192,15 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <sub>🕐 2 months ago</sub>
 
 
-📌 **[January 2026 Thought Notes](https://nsddd.top/growth/posts/2026-01-thought-notes/)**
-<sub>🕐 3 months ago</sub>
-
-
 </td>
 <td valign="top">
 
 
-📌 **[2026 年 3 月思考笔记 | March 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
+📌 **[2026年4月思考笔记](https://nsddd.top/zh/growth/posts/2026-04-thought-notes/)**
+<sub>🕐 6 days ago</sub>
+
+
+📌 **[2026年3月思考笔记](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
 <sub>🕐 1 month ago</sub>
 
 
@@ -208,12 +212,8 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <sub>🕐 2 months ago</sub>
 
 
-📌 **[2026 年 2 月思考笔记 | February 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/)**
+📌 **[2026年2月思考笔记](https://nsddd.top/zh/growth/posts/2026-02-thought-notes/)**
 <sub>🕐 2 months ago</sub>
-
-
-📌 **[2026 年 1 月思考笔记 | January 2026 Thought Notes](https://nsddd.top/zh/growth/posts/2026-01-thought-notes/)**
-<sub>🕐 3 months ago</sub>
 
 
 </td>
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-05-05 17:59:11 CST
