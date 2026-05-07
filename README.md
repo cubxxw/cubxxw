@@ -87,11 +87,11 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (today)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (2 days ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 day ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (3 days ago)
 
 #### 🌱 Check out my recent projects
 
@@ -133,8 +133,8 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### ⭐ Check out my recent stars
 
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (4 weeks ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (4 weeks ago)
+- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (1 month ago)
+- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (1 month ago)
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (1 month ago)
 - [anthropics/financial-services](https://github.com/anthropics/financial-services) -  (2 months ago)
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (2 months ago)
@@ -149,8 +149,8 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 #### 🔨 Check out my recent pull requests
 
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/202) on [cubxxw/blog](https://github.com/cubxxw/blog) (today)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 days ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/202) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 day ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 week ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 weeks ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (6 months ago)
@@ -173,7 +173,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[April 2026 Thought Notes](https://nsddd.top/growth/posts/2026-04-thought-notes/)**
-<sub>🕐 6 days ago</sub>
+<sub>🕐 1 week ago</sub>
 
 
 📌 **[March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/)**
@@ -197,7 +197,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026年4月思考笔记](https://nsddd.top/zh/growth/posts/2026-04-thought-notes/)**
-<sub>🕐 6 days ago</sub>
+<sub>🕐 1 week ago</sub>
 
 
 📌 **[2026年3月思考笔记](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-05-06 18:13:11 CST
