@@ -88,7 +88,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (2 days ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (3 days ago)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (1 week ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 month ago)
@@ -151,7 +151,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/202) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (1 month ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (7 months ago)
 
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-06-19 14:56:30 CST
