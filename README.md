@@ -87,10 +87,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (today)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (3 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -153,7 +153,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
 - [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (7 months ago)
+- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (8 months ago)
 
 ## 📜 Recent Blog Posts
 
@@ -173,7 +173,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026 June Thought Notes: The Pushing-Away Comes Before the Reason for Pushing Away](https://nsddd.top/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[2026 May Thought Notes: On the Edge, I Recognize Myself Through Action](https://nsddd.top/growth/posts/2026-05-thought-notes/)**
@@ -197,7 +197,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026年6月思考笔记：推开的动作，先于推开的理由](https://nsddd.top/zh/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[2026年5月思考笔记：在边缘上，用行动认出自己](https://nsddd.top/zh/growth/posts/2026-05-thought-notes/)**
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-01 19:20:36 CST
