@@ -87,10 +87,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 环游世界旅游，创业做 AI 产品，一种比较新的方式和理念生活创业，欢迎订阅 RSS  https://nsddd.top/zh/index.xml (today)
-- [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (4 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (3 weeks ago)
 
 #### 🌱 Check out my recent projects
@@ -172,23 +172,23 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <td valign="top">
 
 
-📌 **[2026 June Thought Notes: The Pushing-Away Comes Before the Reason for Pushing Away](https://nsddd.top/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 6 days ago</sub>
+📌 **[2026 June Thought Notes: The Pushing-Away Comes Before the Reason for Pushing Away](https://cubxxw.com/growth/posts/2026-06-thought-notes/)**
+<sub>🕐 1 week ago</sub>
 
 
-📌 **[2026 May Thought Notes: On the Edge, I Recognize Myself Through Action](https://nsddd.top/growth/posts/2026-05-thought-notes/)**
+📌 **[2026 May Thought Notes: On the Edge, I Recognize Myself Through Action](https://cubxxw.com/growth/posts/2026-05-thought-notes/)**
 <sub>🕐 1 month ago</sub>
 
 
-📌 **[April 2026 Thought Notes](https://nsddd.top/growth/posts/2026-04-thought-notes/)**
+📌 **[April 2026 Thought Notes](https://cubxxw.com/growth/posts/2026-04-thought-notes/)**
 <sub>🕐 2 months ago</sub>
 
 
-📌 **[March 2026 Thought Notes](https://nsddd.top/growth/posts/2026-03-thought-notes/)**
+📌 **[March 2026 Thought Notes](https://cubxxw.com/growth/posts/2026-03-thought-notes/)**
 <sub>🕐 3 months ago</sub>
 
 
-📌 **[Wandering &amp; Growing: 2025-2026 Annual Review](https://nsddd.top/growth/posts/2025-annual-review/)**
+📌 **[Wandering &amp; Growing: 2025-2026 Annual Review](https://cubxxw.com/growth/posts/2025-annual-review/)**
 <sub>🕐 3 months ago</sub>
 
 
@@ -196,23 +196,23 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 <td valign="top">
 
 
-📌 **[2026年6月思考笔记：推开的动作，先于推开的理由](https://nsddd.top/zh/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 6 days ago</sub>
+📌 **[2026年6月思考笔记：推开的动作，先于推开的理由](https://cubxxw.com/zh/growth/posts/2026-06-thought-notes/)**
+<sub>🕐 1 week ago</sub>
 
 
-📌 **[2026年5月思考笔记：在边缘上，用行动认出自己](https://nsddd.top/zh/growth/posts/2026-05-thought-notes/)**
+📌 **[2026年5月思考笔记：在边缘上，用行动认出自己](https://cubxxw.com/zh/growth/posts/2026-05-thought-notes/)**
 <sub>🕐 1 month ago</sub>
 
 
-📌 **[2026年4月思考笔记](https://nsddd.top/zh/growth/posts/2026-04-thought-notes/)**
+📌 **[2026年4月思考笔记](https://cubxxw.com/zh/growth/posts/2026-04-thought-notes/)**
 <sub>🕐 2 months ago</sub>
 
 
-📌 **[2026年3月思考笔记](https://nsddd.top/zh/growth/posts/2026-03-thought-notes/)**
+📌 **[2026年3月思考笔记](https://cubxxw.com/zh/growth/posts/2026-03-thought-notes/)**
 <sub>🕐 3 months ago</sub>
 
 
-📌 **[我在游荡，但我没有迷路 — 2025-2026 年度总结](https://nsddd.top/zh/growth/posts/2025-annual-review/)**
+📌 **[我在游荡，但我没有迷路 — 2025-2026 年度总结](https://cubxxw.com/zh/growth/posts/2025-annual-review/)**
 <sub>🕐 3 months ago</sub>
 
 
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-06 21:10:54 CST
