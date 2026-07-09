@@ -88,8 +88,8 @@
 #### 👷 Check out what I'm currently working on
 
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (6 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (4 weeks ago)
 
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-09 14:00:32 CST
