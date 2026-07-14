@@ -87,9 +87,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 week ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
@@ -173,7 +173,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026 June Thought Notes: The Pushing-Away Comes Before the Reason for Pushing Away](https://cubxxw.com/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[2026 May Thought Notes: On the Edge, I Recognize Myself Through Action](https://cubxxw.com/growth/posts/2026-05-thought-notes/)**
@@ -197,7 +197,7 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 
 
 📌 **[2026年6月思考笔记：推开的动作，先于推开的理由](https://cubxxw.com/zh/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[2026年5月思考笔记：在边缘上，用行动认出自己](https://cubxxw.com/zh/growth/posts/2026-05-thought-notes/)**
@@ -240,5 +240,3 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
 
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-13 18:56:40 CST
