@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://cubxxw.com" title="Blog — cubxxw.com"><img src="https://img.shields.io/badge/Blog-cubxxw.com-2ea44f?style=flat-square&logo=rss&logoColor=white" alt="Blog: cubxxw.com"/></a>
-  <a href="https://twitter.com/xxw3293172751" title="X / Twitter"><img src="https://img.shields.io/badge/X-%40xxw3293172751-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter): @xxw3293172751"/></a>
+  <a href="https://x.com/cubxxw" title="X / Twitter"><img src="https://img.shields.io/badge/X-%40cubxxw-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter): @cubxxw"/></a>
   <a href="https://github.com/cubxxw?tab=followers" title="GitHub followers"><img src="https://img.shields.io/github/followers/cubxxw?style=flat-square&color=58A6FF&label=Followers" alt="GitHub followers"/></a>
   <img src="https://img.shields.io/github/last-commit/cubxxw/cubxxw?style=flat-square&color=58A6FF&label=Last+Active" alt="Last active"/>
 </p>
@@ -44,8 +44,8 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 day ago)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
 ## ✍️ Recent Writing
@@ -130,12 +130,10 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 ## 🤝 Connect
 
-[Blog](https://cubxxw.com) · [X / Twitter](https://twitter.com/xxw3293172751) · [LinkedIn](https://www.linkedin.com/in/cubxxw) · [知乎](https://www.zhihu.com/people/3293172751) · [Bilibili](https://space.bilibili.com/1233089591) · [YouTube](https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w) · [Polarsteps](https://www.polarsteps.com/cubxxw) · [Email](mailto:3293172751nss@gmail.com)
+[Blog](https://cubxxw.com) · [X / Twitter](https://x.com/cubxxw) · [LinkedIn](https://www.linkedin.com/in/cubxxw) · [知乎](https://www.zhihu.com/people/3293172751) · [Bilibili](https://space.bilibili.com/1233089591) · [YouTube](https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w) · [Polarsteps](https://www.polarsteps.com/cubxxw) · [Email](mailto:3293172751nss@gmail.com)
 
 **Telepace is hiring** — AI engineers, interns, and designers who want to build at the edge of Voice AI and agents. Say hi: [3293172751nss@gmail.com](mailto:3293172751nss@gmail.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-16 11:30:54 CST
