@@ -69,48 +69,48 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
-📌 **[2026 June Thought Notes: The Pushing-Away Comes Before the Reason for Pushing Away](https://cubxxw.com/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 2 weeks ago</sub>
+📌 **[The Red Ocean Is Full: Where the Blue Ocean for AI Agents Is in Late 2026](https://cubxxw.com/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[2026 May Thought Notes: On the Edge, I Recognize Myself Through Action](https://cubxxw.com/growth/posts/2026-05-thought-notes/)**
-<sub>🕐 1 month ago</sub>
+📌 **[How Do You Get to the Point Where You Trust an AI Agent Nobody Is Watching?](https://cubxxw.com/ai-agent/posts/trusting-unattended-ai-agent/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[April 2026 Thought Notes](https://cubxxw.com/growth/posts/2026-04-thought-notes/)**
-<sub>🕐 2 months ago</sub>
+📌 **[The Super Individual&#39;s Intelligence System: Building a Personal Pipeline From Information to Action With Agents and MCP](https://cubxxw.com/ai-agent/posts/super-individual-intelligence-system/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[March 2026 Thought Notes](https://cubxxw.com/growth/posts/2026-03-thought-notes/)**
-<sub>🕐 3 months ago</sub>
+📌 **[Open Models Got Roughly 90% Cheaper. How Big an Agent Fleet Can One Person Afford?](https://cubxxw.com/ai-agent/posts/open-model-cost-collapse-agent-fleet/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[Wandering &amp; Growing: 2025-2026 Annual Review](https://cubxxw.com/growth/posts/2025-annual-review/)**
-<sub>🕐 3 months ago</sub>
+📌 **[When the AI Agent Starts Prompting You, What Has Actually Changed](https://cubxxw.com/ai-agent/posts/proactive-agent-it-prompts-you/)**
+<sub>🕐 1 day ago</sub>
 
 
 </td>
 <td valign="top">
 
 
-📌 **[2026年6月思考笔记：推开的动作，先于推开的理由](https://cubxxw.com/zh/growth/posts/2026-06-thought-notes/)**
-<sub>🕐 2 weeks ago</sub>
+📌 **[2026 下半场，AI Agent 的红海已满，蓝海在哪](https://cubxxw.com/zh/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[2026年5月思考笔记：在边缘上，用行动认出自己](https://cubxxw.com/zh/growth/posts/2026-05-thought-notes/)**
-<sub>🕐 1 month ago</sub>
+📌 **[怎么才能放心把活交给一个没人盯着的 AI Agent](https://cubxxw.com/zh/ai-agent/posts/trusting-unattended-ai-agent/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[2026年4月思考笔记](https://cubxxw.com/zh/growth/posts/2026-04-thought-notes/)**
-<sub>🕐 2 months ago</sub>
+📌 **[超级个体的情报系统：用 Agent 和 MCP 搭一条从信息采集到行动的个人流水线](https://cubxxw.com/zh/ai-agent/posts/super-individual-intelligence-system/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[2026年3月思考笔记](https://cubxxw.com/zh/growth/posts/2026-03-thought-notes/)**
-<sub>🕐 3 months ago</sub>
+📌 **[开源模型便宜了近九成，一个人能养多大的 Agent 舰队](https://cubxxw.com/zh/ai-agent/posts/open-model-cost-collapse-agent-fleet/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[我在游荡，但我没有迷路 — 2025-2026 年度总结](https://cubxxw.com/zh/growth/posts/2025-annual-review/)**
-<sub>🕐 3 months ago</sub>
+📌 **[AI Agent 开始&#34;反过来提示你&#34;，这一步意味着什么](https://cubxxw.com/zh/ai-agent/posts/proactive-agent-it-prompts-you/)**
+<sub>🕐 1 day ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-16 11:40:07 CST
