@@ -23,7 +23,7 @@
 
 ## 🛠️ Building Now
 
-Everything below is built in public — the wins and the dead ends both get written up on [the blog](https://cubxxw.com).
+Everything below is built in public — the wins and the dead ends both get written up on [the blog](https://cubxxw.com/projects/).
 
 | Product | What it is |
 |---|---|
