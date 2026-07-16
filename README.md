@@ -1,166 +1,63 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Xinwei%20Xiong&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Cloud%20Native%20·%20AI%20Builder%20·%20World%20Traveler&descSize=20&descAlignY=60&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Xinwei%20Xiong&fontSize=64&fontColor=fff&animation=twinkling&fontAlignY=38&desc=AI%20Builder%20·%20Open%20Source%20·%20Digital%20Nomad&descSize=20&descAlignY=62&descAlign=50" width="100%" alt="Xinwei Xiong (cubxxw) — AI Builder, Open Source Contributor, Digital Nomad"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/cubxxw/cubxxw?style=flat-square&color=58A6FF&label=Last+Active" alt="last commit"/>
-  <img src="https://img.shields.io/github/commit-activity/m/cubxxw/cubxxw?style=flat-square&color=58A6FF&label=Commits/Month" alt="commit activity"/>
+  <a href="https://cubxxw.com" title="Blog — cubxxw.com"><img src="https://img.shields.io/badge/Blog-cubxxw.com-2ea44f?style=flat-square&logo=rss&logoColor=white" alt="Blog: cubxxw.com"/></a>
+  <a href="https://twitter.com/xxw3293172751" title="X / Twitter"><img src="https://img.shields.io/badge/X-%40xxw3293172751-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter): @xxw3293172751"/></a>
+  <a href="https://github.com/cubxxw?tab=followers" title="GitHub followers"><img src="https://img.shields.io/github/followers/cubxxw?style=flat-square&color=58A6FF&label=Followers" alt="GitHub followers"/></a>
+  <img src="https://img.shields.io/github/last-commit/cubxxw/cubxxw?style=flat-square&color=58A6FF&label=Last+Active" alt="Last active"/>
 </p>
 
-<p align="center">
-  Building AI products while traveling the world 🐻<br/>
-  <b>Core Contributor @ OpenIM</b> · CNCF Ecosystem · Kubernetes tooling<br/>
-  <br/>
-  📦 <code>144+ repos</code> &nbsp;·&nbsp;
-  ⭐ <code>1000+ stars across repos</code> &nbsp;·&nbsp;
-  👥 <code>600+ followers</code> &nbsp;·&nbsp;
-  ✍️ <a href="https://nsddd.top">nsddd.top</a>
-</p>
+**Xinwei Xiong** (熊鑫伟, aka **cubxxw**, b. 2001) is an AI product builder and open-source contributor from China, running a **one-person company** while traveling the world as a digital nomad. He is a core contributor to [OpenIM](https://github.com/openimsdk/open-im-server) and a contributor to [Sealos](https://github.com/labring/sealos), and writes about AI agents, engineering, and intentional living at [cubxxw.com](https://cubxxw.com).
 
-<p align="center">
-  <a href="https://github.com/cubxxw?tab=followers">
-    <img src="https://custom-icon-badges.demolab.com/github/followers/cubxxw?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-  </a>
-  <a href="https://github.com/cubxxw?tab=stars">
-    <img src="https://custom-icon-badges.demolab.com/github/stars/cubxxw?color=55960c&labelColor=488207&style=for-the-badge&logo=star"/>
-  </a>
-</p>
+> 🌟 *You never lose — either you win, or you learn.*
 
-<h2 align="center"><em>🌟 You never lose, either you win or you learn!</em> 💪</h2>
-<h3 align="center">🌍 Currently traveling around the world | <a href="https://www.polarsteps.com/cubxxw" target="_blank">Follow my journey</a> ✈️</h3>
+## 👋 About
 
-<p align="center">
-	<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
-		<img src="https://github-readme-stats-fast.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="cubxxw GitHub stats" width="400" />
-	</a>
-	<a href="https://github.com/Pranesh-2005/github-readme-stats-fast" target="_blank">
-		<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="cubxxw Top languages" width="305" />
-	</a>
-</p>
+- 🔭 Building AI products solo — Voice AI, AI agents, and tools for independent people (see below)
+- 🌍 12 months on the road: **9 countries, 35+ cities, 400+ km of trails** — including Tilicho Lake at 5,416 m ([live journey on Polarsteps](https://www.polarsteps.com/cubxxw))
+- 🧰 Go · Python · TypeScript · Kubernetes · Cloud Native · LLM & Agent frameworks
+- ✍️ Essays on AI agents, engineering, and personal growth — bilingual at [cubxxw.com](https://cubxxw.com)
+- 💡 Operating belief: **AI + Human = Superhuman**
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cubxxw&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="cubxxw's streak"/>
-</p>
+## 🛠️ Building Now
 
-<p align="center">
-  <a href="mailto:3293172751nss@gmail.com" target="_blank" title="Email">
-    <img src="https://img.shields.io/badge/Email-3293172751nss%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://nsddd.top" target="_blank" title="Blog">
-    <img src="https://img.shields.io/badge/Blog-nsddd.top-blue?style=for-the-badge&logo=hugo&logoColor=white" />
-  </a>
-  <a href="https://www.polarsteps.com/cubxxw" target="_blank" title="Follow my world travel journey">
-    <img src="https://img.shields.io/badge/Travel-Polarsteps-0f5b9a?style=for-the-badge&logo=google-maps&logoColor=white" />
-  </a>
-  <a href="https://www.zhihu.com/people/3293172751" target="_blank" title="Zhihu">
-    <img src="https://img.shields.io/badge/Zhihu-%E7%9F%A5%E4%B9%8E-0084ff?style=for-the-badge&logo=zhihu&logoColor=white" />
-  </a>
-  <a href="https://space.bilibili.com/1233089591" target="_blank" title="Bilibili">
-    <img src="https://img.shields.io/badge/Bilibili-Channel-ff69b4?style=for-the-badge&logo=bilibili&logoColor=white" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w" target="_blank" title="YouTube">
-    <img src="https://img.shields.io/badge/YouTube-Channel-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/cubxxw" target="_blank" title="LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-cubxxw-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/xxw3293172751" target="_blank" title="Twitter">
-    <img src="https://img.shields.io/badge/Twitter-%40xxw3293172751-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+Everything below is built in public — the wins and the dead ends both get written up on [the blog](https://cubxxw.com).
 
-<p align="center">
-  <strong>Check out my work below!</strong> Time I contributed this year: 🎉
-  <a href="https://wakatime.com/@c445b3c6-a2bc-43a2-a24a-0828a17244b4" title="项目的进展时长">
-    <img src="https://wakatime.com/badge/user/c445b3c6-a2bc-43a2-a24a-0828a17244b4.svg" alt="Wakatime badge">
-  </a>
-  🎉
-</p>
+| Product | What it is |
+|---|---|
+| **[Telepace](https://github.com/telepace)** | Customer-research infrastructure powered by Voice AI + Agents |
+| **[Apply Agent](https://github.com/getyak/apply-agent)** | An open, client-side AI job-search copilot — discover → tailor → apply → interview prep → track |
+| **[Solo Compass](https://github.com/getyak/solo-compass)** | A living map for solo travelers — map-first, experience-as-unit, AI-curated |
+| **[DayPage](https://github.com/getyak/daypage)** | A daily page for reflection — one day, one page |
 
-<h2></h2>
+New things ship here first. A ⭐ on anything above tells me what to build more of.
 
-## 📈 Activity Graph
+## 🌐 Open Source
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubxxw&theme=dracula&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
+- **[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)** — open-source instant messaging platform for enterprises (Go). *Core contributor.* ![Stars](https://img.shields.io/github/stars/openimsdk/open-im-server?style=flat-square&color=yellow)
+- **[labring/sealos](https://github.com/labring/sealos)** — cloud operating system for managing cloud-native applications. *Contributor.* ![Stars](https://img.shields.io/github/stars/labring/sealos?style=flat-square&color=yellow)
+- **[cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)** — CS, Cloud Native & Blockchain learning path and notes. ![Stars](https://img.shields.io/github/stars/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=yellow)
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Recent contributions
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
-- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - 🏄‍♂️ Personalized personal README README can be templated TO your own username. Automatic generation of personal information using multiple actions.    (1 day ago)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 week ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (today)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
-#### 🌱 Check out my recent projects
+## ✍️ Recent Writing
 
-- [kubbot/ai](https://github.com/kubbot/ai) - 
-- [kubbot/openim-cla](https://github.com/kubbot/openim-cla) - 
-- [kubbot/auto-translate-readme](https://github.com/kubbot/auto-translate-readme) - 
-- [kubbot/CloudBuildAI](https://github.com/kubbot/CloudBuildAI) - 🔮 A canonical Go project structure and layout for generating scaffolding projects.
+A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alongside deep-dives on [AI agents](https://cubxxw.com/ai-agent/) and [engineering](https://cubxxw.com/engineering/), plus [field notes from the road](https://cubxxw.com/travel/) — every essay in English and 中文.
 
-## 🚀 Featured Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[openimsdk/open-im-server](https://github.com/openimsdk/open-im-server)**<br/>
-Open source instant messaging platform built for enterprises. High-performance, scalable IM SDK & server.<br/>
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Stars](https://img.shields.io/github/stars/openimsdk/open-im-server?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/openimsdk/open-im-server?style=flat-square&color=blue)
-
-</td>
-<td width="50%" valign="top">
-
-**[cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain)**<br/>
-Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
-![Stars](https://img.shields.io/github/stars/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=yellow)
-![Forks](https://img.shields.io/github/forks/cubxxw/awesome-cs-cloudnative-blockchain?style=flat-square&color=blue)
-
-</td>
-</tr>
-</table>
+**Start here →** [Wandering & Growing: the 2025–2026 annual review](https://cubxxw.com/growth/posts/2025-annual-review/)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenIM-Core_Contributor-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/CNCF-Ecosystem_Member-0078D7?style=for-the-badge&logo=cloud" />
-  <img src="https://img.shields.io/badge/Kubernetes-SIG_Participant-326CE5?style=for-the-badge&logo=kubernetes" />
-</p>
-
-#### ⭐ Check out my recent stars
-
-- [awesome-sora/awesome-sora-zh](https://github.com/awesome-sora/awesome-sora-zh) - Sora 的中文指南🔥，Sora 中文调教指南，指令指南，应用开发指南，精选资源清单，Sora 开发者精选工具框架 🚀 (3 months ago)
-- [cubxxw/my-soul-wiki](https://github.com/cubxxw/my-soul-wiki) - raw to wiki test case (3 months ago)
-- [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format (3 months ago)
-- [anthropics/financial-services](https://github.com/anthropics/financial-services) -  (4 months ago)
-- [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md (4 months ago)
-
-#### 👯 Check out my recent followers
-
-- [korbosit](https://github.com/korbosit)
-- [24601](https://github.com/24601)
-- [HuiTaiLa](https://github.com/HuiTaiLa)
-- [vintagewang](https://github.com/vintagewang)
-- [Franklyn1987](https://github.com/Franklyn1987)
-
-#### 🔨 Check out my recent pull requests
-
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/202) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/198) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/193) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/182) on [cubxxw/blog](https://github.com/cubxxw/blog) (2 months ago)
-- [[Auto PR 🤖] Bump League Patch auto PR](https://github.com/cubxxw/blog/pull/111) on [cubxxw/blog](https://github.com/cubxxw/blog) (8 months ago)
-
-## 📜 Recent Blog Posts
-
-<p align="center">
-  <a href="https://nsddd.top/index.xml"><img src="https://img.shields.io/badge/RSS-English-orange?style=flat-square&logo=rss&logoColor=white"/></a>
+  <a href="https://cubxxw.com/index.xml"><img src="https://img.shields.io/badge/RSS-English-orange?style=flat-square&logo=rss&logoColor=white" alt="RSS feed (English)"/></a>
   &nbsp;
-  <a href="https://nsddd.top/zh/index.xml"><img src="https://img.shields.io/badge/RSS-中文-red?style=flat-square&logo=rss&logoColor=white"/></a>
+  <a href="https://cubxxw.com/zh/index.xml"><img src="https://img.shields.io/badge/RSS-中文-red?style=flat-square&logo=rss&logoColor=white" alt="RSS feed (中文)"/></a>
 </p>
 
 <table width="100%">
@@ -220,25 +117,23 @@ Awesome CS · Cloud Native · Blockchain learning resources and notes.<br/>
 </tr>
 </table>
 
-## 💬 Random Dev Quote
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote"/>
+	<img src="https://github-readme-stats-fast.vercel.app/api?username=cubxxw&theme=dracula&show_icons=true" alt="GitHub stats for cubxxw" width="400" />
+	<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=cubxxw&layout=compact&theme=dracula" alt="Top languages: Go, Python, TypeScript" width="305" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/last-commit/cubxxw/cubxxw?style=for-the-badge&label=Last%20Updated&color=58a6ff" alt="Last Updated"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cubxxw&theme=dracula&bg_color=1a1b27&color=58a6ff&line=58a6ff&point=f8f8f2&area=true&hide_border=true" width="100%" alt="Contribution activity graph for cubxxw"/>
 </p>
 
-<h3 align="center">🚀 We Are Hiring!</h3>
+## 🤝 Connect
+
+[Blog](https://cubxxw.com) · [X / Twitter](https://twitter.com/xxw3293172751) · [LinkedIn](https://www.linkedin.com/in/cubxxw) · [知乎](https://www.zhihu.com/people/3293172751) · [Bilibili](https://space.bilibili.com/1233089591) · [YouTube](https://www.youtube.com/channel/UCd3qbRbMwYlh5uKneo_2m_w) · [Polarsteps](https://www.polarsteps.com/cubxxw) · [Email](mailto:3293172751nss@gmail.com)
+
+**Telepace is hiring** — AI engineers, interns, and designers who want to build at the edge of Voice AI and agents. Say hi: [3293172751nss@gmail.com](mailto:3293172751nss@gmail.com)
+
 <p align="center">
-  Our team is currently looking for talented individuals in the field of AI, including interns, engineers, and designers. If you are passionate about AI and want to work on cutting-edge projects, we would love to hear from you! <br/>
-  📧 Feel free to send your resume to: <a href="mailto:3293172751nss@gmail.com">3293172751nss@gmail.com</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-</p>
-
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-15 12:41:14 CST
