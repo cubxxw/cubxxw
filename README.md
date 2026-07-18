@@ -42,10 +42,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (3 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
 ## ✍️ Recent Writing
@@ -69,48 +69,48 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[Field Notes: I Built My Knowledge Layer into an Arsenal](https://cubxxw.com/ai-agent/posts/info-to-creation-arsenal/)**
+<sub>🕐 1 day ago</sub>
+
+
+📌 **[One Person and a Crew of Agents Rebuilt a 120-Post Blog From the Ground Up](https://cubxxw.com/ai-agent/posts/ai-native-blog-rebuild/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[The Red Ocean Is Full: Where the Blue Ocean for AI Agents Is in Late 2026](https://cubxxw.com/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[How Do You Get to the Point Where You Trust an AI Agent Nobody Is Watching?](https://cubxxw.com/ai-agent/posts/trusting-unattended-ai-agent/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[The Super Individual&#39;s Intelligence System: Building a Personal Pipeline From Information to Action With Agents and MCP](https://cubxxw.com/ai-agent/posts/super-individual-intelligence-system/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[Open Models Got Roughly 90% Cheaper. How Big an Agent Fleet Can One Person Afford?](https://cubxxw.com/ai-agent/posts/open-model-cost-collapse-agent-fleet/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[When the AI Agent Starts Prompting You, What Has Actually Changed](https://cubxxw.com/ai-agent/posts/proactive-agent-it-prompts-you/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 </td>
 <td valign="top">
 
 
+📌 **[番外·实践：我把「知识层」建成了一座兵工厂](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-arsenal/)**
+<sub>🕐 1 day ago</sub>
+
+
+📌 **[一个人带一队 Agent，把 120 多篇文章的博客重新组装了一遍](https://cubxxw.com/zh/ai-agent/posts/ai-native-blog-rebuild/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[2026 下半场，AI Agent 的红海已满，蓝海在哪](https://cubxxw.com/zh/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[怎么才能放心把活交给一个没人盯着的 AI Agent](https://cubxxw.com/zh/ai-agent/posts/trusting-unattended-ai-agent/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[超级个体的情报系统：用 Agent 和 MCP 搭一条从信息采集到行动的个人流水线](https://cubxxw.com/zh/ai-agent/posts/super-individual-intelligence-system/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[开源模型便宜了近九成，一个人能养多大的 Agent 舰队](https://cubxxw.com/zh/ai-agent/posts/open-model-cost-collapse-agent-fleet/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[AI Agent 开始&#34;反过来提示你&#34;，这一步意味着什么](https://cubxxw.com/zh/ai-agent/posts/proactive-agent-it-prompts-you/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-17 17:53:06 CST
