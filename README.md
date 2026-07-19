@@ -42,10 +42,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (3 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (4 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
 ## ✍️ Recent Writing
@@ -70,23 +70,23 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[How Many of Your Mac Tools Are Fighting Each Other? I Designed a Dev-Machine Checkup Skill](https://cubxxw.com/ai-agent/posts/devbox-doctor-design/)**
-<sub>🕐 today</sub>
+<sub>🕐 1 day ago</sub>
 
 
 📌 **[How to Design a Skill Worth Having: I Dissected a Plugin That Dared to Delete My Files](https://cubxxw.com/ai-agent/posts/designing-valuable-agent-skills/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Field Notes: I Built My Knowledge Layer into an Arsenal](https://cubxxw.com/ai-agent/posts/info-to-creation-arsenal/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[One Person and a Crew of Agents Rebuilt a 120-Post Blog From the Ground Up](https://cubxxw.com/ai-agent/posts/ai-native-blog-rebuild/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[The Red Ocean Is Full: Where the Blue Ocean for AI Agents Is in Late 2026](https://cubxxw.com/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 </td>
@@ -94,23 +94,23 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[你的 Mac 上有几套工具在打架？我设计了一个开发机体检 Skill](https://cubxxw.com/zh/ai-agent/posts/devbox-doctor-design/)**
-<sub>🕐 today</sub>
+<sub>🕐 1 day ago</sub>
 
 
 📌 **[如何设计一套有价值的 Skill：我拆了一个敢删我文件的插件](https://cubxxw.com/zh/ai-agent/posts/designing-valuable-agent-skills/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[番外·实践：我把「知识层」建成了一座兵工厂](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-arsenal/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[一个人带一队 Agent，把 120 多篇文章的博客重新组装了一遍](https://cubxxw.com/zh/ai-agent/posts/ai-native-blog-rebuild/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[2026 下半场，AI Agent 的红海已满，蓝海在哪](https://cubxxw.com/zh/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-18 17:21:11 CST
