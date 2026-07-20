@@ -44,8 +44,8 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (4 days ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (5 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
 ## ✍️ Recent Writing
@@ -69,48 +69,48 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
-📌 **[How Many of Your Mac Tools Are Fighting Each Other? I Designed a Dev-Machine Checkup Skill](https://cubxxw.com/ai-agent/posts/devbox-doctor-design/)**
+📌 **[AI Can&#39;t Edit a Shot You Never Filmed: A Solo Creator&#39;s Video Pipeline for 2026](https://cubxxw.com/ai-agent/posts/solo-creator-video-pipeline/)**
 <sub>🕐 1 day ago</sub>
 
 
-📌 **[How to Design a Skill Worth Having: I Dissected a Plugin That Dared to Delete My Files](https://cubxxw.com/ai-agent/posts/designing-valuable-agent-skills/)**
+📌 **[How Many of Your Mac Tools Are Fighting Each Other? I Designed a Dev-Machine Checkup Skill](https://cubxxw.com/ai-agent/posts/devbox-doctor-design/)**
 <sub>🕐 2 days ago</sub>
+
+
+📌 **[How to Design a Skill Worth Having: I Dissected a Plugin That Dared to Delete My Files](https://cubxxw.com/ai-agent/posts/designing-valuable-agent-skills/)**
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[Field Notes: I Built My Knowledge Layer into an Arsenal](https://cubxxw.com/ai-agent/posts/info-to-creation-arsenal/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[One Person and a Crew of Agents Rebuilt a 120-Post Blog From the Ground Up](https://cubxxw.com/ai-agent/posts/ai-native-blog-rebuild/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[The Red Ocean Is Full: Where the Blue Ocean for AI Agents Is in Late 2026](https://cubxxw.com/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 4 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 </td>
 <td valign="top">
 
 
-📌 **[你的 Mac 上有几套工具在打架？我设计了一个开发机体检 Skill](https://cubxxw.com/zh/ai-agent/posts/devbox-doctor-design/)**
+📌 **[AI 剪不出你没拍的镜头](https://cubxxw.com/zh/ai-agent/posts/solo-creator-video-pipeline/)**
 <sub>🕐 1 day ago</sub>
 
 
-📌 **[如何设计一套有价值的 Skill：我拆了一个敢删我文件的插件](https://cubxxw.com/zh/ai-agent/posts/designing-valuable-agent-skills/)**
-<sub>🕐 2 days ago</sub>
+📌 **[当东西人人做得出来，「这是他做的」就成了信号](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-reputation/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[番外·实践：我把「知识层」建成了一座兵工厂](https://cubxxw.com/zh/ai-agent/posts/info-to-creation-arsenal/)**
-<sub>🕐 2 days ago</sub>
+📌 **[你的产品一夜就能被抄走，你的读者不能](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-distribution/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[一个人带一队 Agent，把 120 多篇文章的博客重新组装了一遍](https://cubxxw.com/zh/ai-agent/posts/ai-native-blog-rebuild/)**
-<sub>🕐 2 days ago</sub>
+📌 **[AI 提需求不要钱，这才是最危险的地方](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-judgment/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[2026 下半场，AI Agent 的红海已满，蓝海在哪](https://cubxxw.com/zh/ai-agent/posts/ai-agent-red-ocean-blue-ocean-2026/)**
-<sub>🕐 4 days ago</sub>
+📌 **[夜里跑十个 agent，早上收十个 PR，然后我卡住了](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-production/)**
+<sub>🕐 1 day ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-19 17:48:29 CST
