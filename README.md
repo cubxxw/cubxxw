@@ -44,7 +44,7 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (5 days ago)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - 独行罗盘 · A living map for solo travelers — Map-first, experience-as-unit, AI-curated. (1 month ago)
 
@@ -69,6 +69,10 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[You Think You&#39;re the Player — But &#34;Player&#34; Is Also a Role: Rereading the Samādhi of Play](https://cubxxw.com/growth/posts/2026-07-20-the-player-is-also-a-role/)**
+<sub>🕐 today</sub>
+
+
 📌 **[AI Can&#39;t Edit a Shot You Never Filmed: A Solo Creator&#39;s Video Pipeline for 2026](https://cubxxw.com/ai-agent/posts/solo-creator-video-pipeline/)**
 <sub>🕐 1 day ago</sub>
 
@@ -85,12 +89,12 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <sub>🕐 3 days ago</sub>
 
 
-📌 **[One Person and a Crew of Agents Rebuilt a 120-Post Blog From the Ground Up](https://cubxxw.com/ai-agent/posts/ai-native-blog-rebuild/)**
-<sub>🕐 3 days ago</sub>
-
-
 </td>
 <td valign="top">
+
+
+📌 **[你以为你是玩家，可「玩家」也是一个角色：重读游戏三昧](https://cubxxw.com/zh/growth/posts/2026-07-20-the-player-is-also-a-role/)**
+<sub>🕐 today</sub>
 
 
 📌 **[AI 剪不出你没拍的镜头](https://cubxxw.com/zh/ai-agent/posts/solo-creator-video-pipeline/)**
@@ -106,10 +110,6 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[AI 提需求不要钱，这才是最危险的地方](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-judgment/)**
-<sub>🕐 1 day ago</sub>
-
-
-📌 **[夜里跑十个 agent，早上收十个 PR，然后我卡住了](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-production/)**
 <sub>🕐 1 day ago</sub>
 
 
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-20 13:32:36 CST
