@@ -42,10 +42,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (1 day ago)
-- [getyak/daypage](https://github.com/getyak/daypage) -  (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (2 days ago)
+- [getyak/daypage](https://github.com/getyak/daypage) -  (2 days ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 week ago)
 
 ## ✍️ Recent Writing
@@ -69,48 +69,48 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[Taking Open Design Apart: Turning the Coding Agent You Already Have Into a Design Engine](https://cubxxw.com/ai-agent/posts/open-design/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[121 Tips from the Creator of Claude Code: I Compressed Them Into 10 Changes You Can Ship Tonight](https://cubxxw.com/ai-agent/posts/claude-code-boris-121-tips-playbook/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[Write Your Prompts as Loops: One Person&#39;s Loop Engineering Practice](https://cubxxw.com/ai-agent/posts/prompt-loop-engineering-practice/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[You Think You&#39;re the Player — But &#34;Player&#34; Is Also a Role: Rereading the Samādhi of Play](https://cubxxw.com/growth/posts/2026-07-20-the-player-is-also-a-role/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[AI Can&#39;t Edit a Shot You Never Filmed: A Solo Creator&#39;s Video Pipeline for 2026](https://cubxxw.com/ai-agent/posts/solo-creator-video-pipeline/)**
-<sub>🕐 3 days ago</sub>
-
-
-📌 **[When Anyone Can Build the Thing, &#34;He Built It&#34; Becomes the Signal](https://cubxxw.com/ai-agent/posts/super-individual-stack-reputation/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 </td>
 <td valign="top">
 
 
+📌 **[拆解 Open Design：让你已有的 coding agent 变成设计引擎](https://cubxxw.com/zh/ai-agent/posts/open-design/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[Claude Code 之父的 121 条用法：我把它拆成了 10 个今晚就能改的配置](https://cubxxw.com/zh/ai-agent/posts/claude-code-boris-121-tips-playbook/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[把提示词写成循环：一个人的 Loop 工程实践](https://cubxxw.com/zh/ai-agent/posts/prompt-loop-engineering-practice/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[你以为你是玩家，可「玩家」也是一个角色：重读游戏三昧](https://cubxxw.com/zh/growth/posts/2026-07-20-the-player-is-also-a-role/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[AI 剪不出你没拍的镜头](https://cubxxw.com/zh/ai-agent/posts/solo-creator-video-pipeline/)**
-<sub>🕐 3 days ago</sub>
-
-
-📌 **[当东西人人做得出来，「这是他做的」就成了信号](https://cubxxw.com/zh/ai-agent/posts/super-individual-stack-reputation/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-22 18:21:42 CST
