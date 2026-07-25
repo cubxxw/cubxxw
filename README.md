@@ -43,7 +43,7 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (4 days ago)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (4 days ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (1 week ago)
@@ -69,6 +69,10 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[Bear Quest — Play My Story](https://cubxxw.com/about/quest/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[Taking Open Design Apart: Turning the Coding Agent You Already Have Into a Design Engine](https://cubxxw.com/ai-agent/posts/open-design/)**
 <sub>🕐 3 days ago</sub>
 
@@ -85,12 +89,12 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <sub>🕐 5 days ago</sub>
 
 
-📌 **[AI Can&#39;t Edit a Shot You Never Filmed: A Solo Creator&#39;s Video Pipeline for 2026](https://cubxxw.com/ai-agent/posts/solo-creator-video-pipeline/)**
-<sub>🕐 6 days ago</sub>
-
-
 </td>
 <td valign="top">
+
+
+📌 **[小熊人生游戏 — Play My Story](https://cubxxw.com/zh/about/quest/)**
+<sub>🕐 1 day ago</sub>
 
 
 📌 **[拆解 Open Design：让你已有的 coding agent 变成设计引擎](https://cubxxw.com/zh/ai-agent/posts/open-design/)**
@@ -107,10 +111,6 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 📌 **[你以为你是玩家，可「玩家」也是一个角色：重读游戏三昧](https://cubxxw.com/zh/growth/posts/2026-07-20-the-player-is-also-a-role/)**
 <sub>🕐 5 days ago</sub>
-
-
-📌 **[AI 剪不出你没拍的镜头](https://cubxxw.com/zh/ai-agent/posts/solo-creator-video-pipeline/)**
-<sub>🕐 6 days ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-25 13:44:57 CST
