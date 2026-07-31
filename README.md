@@ -43,7 +43,7 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 - [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (1 week ago)
 - [getyak/daypage](https://github.com/getyak/daypage) -  (1 week ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (2 weeks ago)
@@ -69,48 +69,48 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
-📌 **[Every Path Has a Price](https://cubxxw.com/growth/posts/2026-07-26-every-path-has-a-price/)**
-<sub>🕐 4 days ago</sub>
+📌 **[The Scoreboard You Choose Will Eventually Choose You: How Incentives Reshape an Organization](https://cubxxw.com/growth/posts/2026-07-31-incentives-colonize-founders/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[After AI Solves a Problem, Where Does the Bottleneck Move?](https://cubxxw.com/growth/posts/2026-07-26-bottlenecks-after-ai/)**
-<sub>🕐 4 days ago</sub>
+📌 **[The Opposite of Freedom Isn’t Constraint—It’s the Defaults That Live Your Day for You](https://cubxxw.com/growth/posts/2026-07-31-freedom-and-defaults/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[The Fastest Numbers Are Often Furthest from the Outcome](https://cubxxw.com/growth/posts/2026-07-26-fast-feedback-slow-results/)**
-<sub>🕐 4 days ago</sub>
+📌 **[When Generation Becomes Infinite, Authentic Experiences Begin to Command Value](https://cubxxw.com/growth/posts/2026-07-31-reality-becomes-scarce-after-ai/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[Action Does Not Automatically Lead to Truth](https://cubxxw.com/growth/posts/2026-07-26-action-and-evidence/)**
-<sub>🕐 4 days ago</sub>
+📌 **[Risk Preference Isn&#39;t About Enjoying Danger: What Truly Enables Taking a Bet](https://cubxxw.com/growth/posts/2026-07-31-risk-is-not-danger/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[The Escape Routes of Smart People: Applying Ability to the Wrong Problem](https://cubxxw.com/growth/posts/2026-07-26-competence-trap/)**
-<sub>🕐 4 days ago</sub>
+📌 **[The Cost of Observation: Why the More You Understand, the Harder It Is to Enter Life](https://cubxxw.com/growth/posts/2026-07-31-the-observer-cannot-enter-life/)**
+<sub>🕐 1 day ago</sub>
 
 
 </td>
 <td valign="top">
 
 
-📌 **[每条路都要收费](https://cubxxw.com/zh/growth/posts/2026-07-26-every-path-has-a-price/)**
-<sub>🕐 4 days ago</sub>
+📌 **[你选择的计分板，最后会选择你：激励怎样改写一个组织](https://cubxxw.com/zh/growth/posts/2026-07-31-incentives-colonize-founders/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[AI 解决问题以后，问题会搬到哪里](https://cubxxw.com/zh/growth/posts/2026-07-26-bottlenecks-after-ai/)**
-<sub>🕐 4 days ago</sub>
+📌 **[自由的反面不是约束，是默认值替你活完一天](https://cubxxw.com/zh/growth/posts/2026-07-31-freedom-and-defaults/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[越快看到的数字，往往离结果越远](https://cubxxw.com/zh/growth/posts/2026-07-26-fast-feedback-slow-results/)**
-<sub>🕐 4 days ago</sub>
+📌 **[第二大脑保存的，是一个人的决策函数](https://cubxxw.com/zh/growth/posts/2026-07-31-second-brain-as-survival-strategy/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[行动不会自动带来真相](https://cubxxw.com/zh/growth/posts/2026-07-26-action-and-evidence/)**
-<sub>🕐 4 days ago</sub>
+📌 **[当生成变得无限，真实经历开始升值](https://cubxxw.com/zh/growth/posts/2026-07-31-reality-becomes-scarce-after-ai/)**
+<sub>🕐 1 day ago</sub>
 
 
-📌 **[聪明人的逃跑方式：把能力用在不该解决的问题上](https://cubxxw.com/zh/growth/posts/2026-07-26-competence-trap/)**
-<sub>🕐 4 days ago</sub>
+📌 **[风险偏好不是喜欢危险：真正让人敢下注的是什么](https://cubxxw.com/zh/growth/posts/2026-07-31-risk-is-not-danger/)**
+<sub>🕐 1 day ago</sub>
 
 
 </td>
@@ -137,5 +137,3 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt=""/>
 </p>
-
-🚀 Last updated by [@kubbot](https://github.com/kubbot) on 2026-07-30 19:08:38 CST
