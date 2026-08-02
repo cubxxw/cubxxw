@@ -16,7 +16,7 @@
 ## 👋 About
 
 - 🔭 Building AI products solo — Voice AI, AI agents, and tools for independent people (see below)
-- 🌍 12 months on the road: **9 countries, 35+ cities, 400+ km of trails** — including Tilicho Lake at 5,416 m ([live journey on Polarsteps](https://www.polarsteps.com/cubxxw))
+- 🌍 I love living around the world — observing it with curiosity, documenting my journey, and taking on long-distance treks ([follow along on Polarsteps](https://www.polarsteps.com/cubxxw))
 - 🧰 Go · Python · TypeScript · Kubernetes · Cloud Native · LLM & Agent frameworks
 - ✍️ Essays on AI agents, engineering, and personal growth — bilingual at [cubxxw.com](https://cubxxw.com)
 - 💡 Operating belief: **AI + Human = Superhuman**
