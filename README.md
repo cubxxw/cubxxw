@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker — auto-capture, search &amp; analyze your Claude sessions (2 weeks ago)
-- [getyak/daypage](https://github.com/getyak/daypage) -  (2 weeks ago)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - An open, client-side AI job-search copilot — discover jobs → tailor resume → apply → interview prep → track (2 weeks ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (2 weeks ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (3 weeks ago)
 
 ## ✍️ Recent Writing
 
@@ -69,47 +69,47 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
-📌 **[I Don&#39;t Have an Execution Problem. I Need a Battlefield That Can Say No](https://cubxxw.com/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
+📌 **[Claude Tag Deep Dive: From Shared Slack AI to an Organizational Agent Runtime](https://cubxxw.com/ai-agent/posts/claude-tag-organizational-agent-runtime/)**
 <sub>🕐 1 day ago</sub>
+
+
+📌 **[I Don&#39;t Have an Execution Problem. I Need a Battlefield That Can Say No](https://cubxxw.com/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Reading Hongyi in Quanzhou: Seeing Through, Then Taking Life Seriously](https://cubxxw.com/growth/posts/2026-08-03-hongyi-quanzhou-game-of-life/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Common Sense Is Not the Mechanism: Rebuilding Industries Around Demand, Constraints, and Scarcity](https://cubxxw.com/ai-agent/posts/common-sense-ai-industry-reconstruction/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[The Scoreboard You Choose Will Eventually Choose You: How Incentives Reshape an Organization](https://cubxxw.com/growth/posts/2026-07-31-incentives-colonize-founders/)**
-<sub>🕐 5 days ago</sub>
-
-
-📌 **[The Opposite of Freedom Isn’t Constraint—It’s the Defaults That Live Your Day for You](https://cubxxw.com/growth/posts/2026-07-31-freedom-and-defaults/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 </td>
 <td valign="top">
 
 
-📌 **[我不缺执行力，我缺一个有权否决我的战场](https://cubxxw.com/zh/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
+📌 **[Claude Tag 深度拆解：Slack 里的共享 AI，正在长成组织级 Agent 运行时](https://cubxxw.com/zh/ai-agent/posts/claude-tag-organizational-agent-runtime/)**
 <sub>🕐 1 day ago</sub>
+
+
+📌 **[我不缺执行力，我缺一个有权否决我的战场](https://cubxxw.com/zh/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[在泉州读弘一：看破之后，继续把人生当真](https://cubxxw.com/zh/growth/posts/2026-08-03-hongyi-quanzhou-game-of-life/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[我知道什么是 Agent，却说不出它的定义](https://cubxxw.com/zh/ai-agent/posts/2026-08-02-ai-era-conceptual-mobility/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[如果蒙田有一个 AI：我为什么把 DayPage 做成一场自我实验](https://cubxxw.com/zh/projects/daypage-ai-metacognition-experiment/)**
-<sub>🕐 2 days ago</sub>
-
-
-📌 **[常识不是本质：AI 时代如何从需求、约束与稀缺性重构行业](https://cubxxw.com/zh/ai-agent/posts/common-sense-ai-industry-reconstruction/)**
 <sub>🕐 3 days ago</sub>
 
 
