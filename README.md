@@ -42,10 +42,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (4 days ago)
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (5 days ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (5 days ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (5 days ago)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (6 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (6 days ago)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (1 week ago)
 
 ## ✍️ Recent Writing
@@ -86,7 +86,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[The Scoreboard You Choose Will Eventually Choose You: How Incentives Reshape an Organization](https://cubxxw.com/growth/posts/2026-07-31-incentives-colonize-founders/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 </td>
@@ -94,23 +94,23 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[不会让恐惧替我做决定](https://cubxxw.com/zh/growth/posts/2026-08-10-fear-does-not-decide-for-me/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[Agent 不是一种产品：十套系统如何重新分配控制权、状态、身份与副作用](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-synthesis/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[Conversation as Database：OpenHands 的无状态 Agent 与事件运行时](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-openhands/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[多 Agent 辩论真的增加了信息吗：TradingAgents 的组织图与相关性风险](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-tradingagents/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[Instructions as Code：OpenMontage 如何用工件契约编排视频生产](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-openmontage/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 </td>
