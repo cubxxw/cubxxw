@@ -42,7 +42,7 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (1 week ago)
 - [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (1 week ago)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 week ago)
@@ -70,7 +70,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[AI Made Me Smarter—and Slower to Meet Reality](https://cubxxw.com/growth/posts/2026-08-15-ai-made-me-smarter-later-to-reality/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Claude Tag Deep Dive: From Shared Slack AI to an Organizational Agent Runtime](https://cubxxw.com/ai-agent/posts/claude-tag-organizational-agent-runtime/)**
@@ -94,11 +94,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[AI 让我更聪明，也让我更晚碰到现实](https://cubxxw.com/zh/growth/posts/2026-08-15-ai-made-me-smarter-later-to-reality/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[不会让恐惧替我做决定](https://cubxxw.com/zh/growth/posts/2026-08-10-fear-does-not-decide-for-me/)**
-<sub>🕐 6 days ago</sub>
+<sub>🕐 1 week ago</sub>
 
 
 📌 **[Agent 不是一种产品：十套系统如何重新分配控制权、状态、身份与副作用](https://cubxxw.com/zh/ai-agent/posts/agent-system-design-synthesis/)**
