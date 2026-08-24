@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (1 day ago)
+- [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (1 day ago)
+- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (2 days ago)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (2 weeks ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (2 weeks ago)
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (2 weeks ago)
 
 ## ✍️ Recent Writing
 
@@ -78,11 +78,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[I Don&#39;t Have an Execution Problem. I Need a Battlefield That Can Say No](https://cubxxw.com/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
-<sub>🕐 2 weeks ago</sub>
+<sub>🕐 3 weeks ago</sub>
 
 
 📌 **[Reading Hongyi in Quanzhou: Seeing Through, Then Taking Life Seriously](https://cubxxw.com/growth/posts/2026-08-03-hongyi-quanzhou-game-of-life/)**
-<sub>🕐 2 weeks ago</sub>
+<sub>🕐 3 weeks ago</sub>
 
 
 📌 **[Common Sense Is Not the Mechanism: Rebuilding Industries Around Demand, Constraints, and Scarcity](https://cubxxw.com/ai-agent/posts/common-sense-ai-industry-reconstruction/)**
