@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (4 days ago)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (2 weeks ago)
+- [getyak/telepace-next](https://github.com/getyak/telepace-next) - Voice-native, agent-first user research infrastructure that turns interviews into structured, actionable product insight. (today)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (today)
+- [getyak/.github](https://github.com/getyak/.github) - Organization profile and community health files for Getyak. (today)
+- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (today)
 
 ## ✍️ Recent Writing
 
