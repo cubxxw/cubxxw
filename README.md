@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (1 day ago)
 - [getyak/telepace-next](https://github.com/getyak/telepace-next) - Voice-native, agent-first user research infrastructure that turns interviews into structured, actionable product insight. (1 day ago)
 - [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (1 day ago)
-- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (1 day ago)
 
 ## ✍️ Recent Writing
 
