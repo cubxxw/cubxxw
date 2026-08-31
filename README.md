@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (3 days ago)
-- [getyak/telepace-next](https://github.com/getyak/telepace-next) - Voice-native, agent-first user research infrastructure that turns interviews into structured, actionable product insight. (3 days ago)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (3 days ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (4 days ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (4 days ago)
 
 ## ✍️ Recent Writing
 
@@ -78,15 +78,15 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[I Don&#39;t Have an Execution Problem. I Need a Battlefield That Can Say No](https://cubxxw.com/growth/posts/2026-08-03-a-battlefield-that-can-say-no/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 📌 **[Reading Hongyi in Quanzhou: Seeing Through, Then Taking Life Seriously](https://cubxxw.com/growth/posts/2026-08-03-hongyi-quanzhou-game-of-life/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 📌 **[Common Sense Is Not the Mechanism: Rebuilding Industries Around Demand, Constraints, and Scarcity](https://cubxxw.com/ai-agent/posts/common-sense-ai-industry-reconstruction/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 </td>
