@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - A living map for solo travelers—map-first, experience-as-unit, and AI-curated. (today)
-- [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship intelligence for independent recruiters and boutique search teams—turn candidate conversations into reviewable next steps. (today)
-- [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (today)
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (1 day ago)
+- [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship workspace for clients, partners, collaborators, and candidates. Keep context, commitments, and next steps connected. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (1 day ago)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (2 days ago)
 
 ## ✍️ Recent Writing
 
@@ -70,7 +70,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[September 2026 Thought Notes: Architecture, Temples and First Principles](https://cubxxw.com/growth/posts/2026-09-thought-notes/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[August 2026 Thought Notes: Agent Harness, Product and Self-Knowledge](https://cubxxw.com/growth/posts/2026-08-thought-notes/)**
@@ -94,7 +94,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[2026年9月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-09-thought-notes/)**
-<sub>🕐 2 days ago</sub>
+<sub>🕐 3 days ago</sub>
 
 
 📌 **[2026年8月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-08-thought-notes/)**
