@@ -42,9 +42,9 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/solo-compass](https://github.com/getyak/solo-compass) - A living map for solo travelers—map-first, experience-as-unit, and AI-curated. (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship workspace for clients, partners, collaborators, and candidates. Keep context, commitments, and next steps connected. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 - [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (1 day ago)
 - [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (2 days ago)
 
