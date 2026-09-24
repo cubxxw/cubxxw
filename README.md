@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship workspace for clients, partners, collaborators, and candidates. Keep context, commitments, and next steps connected. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [kubbot/imstage](https://github.com/kubbot/imstage) - Create editable conversation scenes for WeChat and WhatsApp. Export crisp PNGs, work in English or 中文, and self-host the API &#43; MCP. (1 day ago)
 - [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
 
 ## ✍️ Recent Writing
 
@@ -93,6 +93,10 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[用 AI 把文章做成可操作的解释：从 Web Components 到 MCP Apps](https://cubxxw.com/zh/ai-agent/posts/writing-explorable-articles-with-ai/)**
+<sub>🕐 today</sub>
+
+
 📌 **[IMStage：可编辑的聊天场景](https://cubxxw.com/zh/projects/imstage/)**
 <sub>🕐 1 day ago</sub>
 
@@ -106,10 +110,6 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[AI 让我更聪明，也让我更晚碰到现实](https://cubxxw.com/zh/growth/posts/2026-08-15-ai-made-me-smarter-later-to-reality/)**
-<sub>🕐 1 month ago</sub>
-
-
-📌 **[不会让恐惧替我做决定](https://cubxxw.com/zh/growth/posts/2026-08-10-fear-does-not-decide-for-me/)**
 <sub>🕐 1 month ago</sub>
 
 
