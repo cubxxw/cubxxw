@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship workspace for clients, partners, collaborators, and candidates. Keep context, commitments, and next steps connected. (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [kubbot/imstage](https://github.com/kubbot/imstage) - Create editable conversation scenes for WeChat and WhatsApp. Export crisp PNGs, work in English or 中文, and self-host the API &#43; MCP. (1 day ago)
-- [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [kubbot/imstage](https://github.com/kubbot/imstage) - Create editable conversation scenes for WeChat and WhatsApp. Export crisp PNGs, work in English or 中文, and self-host the API &#43; MCP. (2 days ago)
+- [cubxxw/StripSearch](https://github.com/cubxxw/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (2 days ago)
 
 ## ✍️ Recent Writing
 
@@ -70,11 +70,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[IMStage: Editable Chat Scenes](https://cubxxw.com/projects/imstage/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[September 2026 Thought Notes: Architecture, Temples and First Principles](https://cubxxw.com/growth/posts/2026-09-thought-notes/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[August 2026 Thought Notes: Agent Harness, Product and Self-Knowledge](https://cubxxw.com/growth/posts/2026-08-thought-notes/)**
@@ -85,7 +85,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <sub>🕐 1 month ago</sub>
 
 
-📌 **[Claude Tag Deep Dive: From Shared Slack AI to an Organizational Agent Runtime](https://cubxxw.com/ai-agent/posts/claude-tag-organizational-agent-runtime/)**
+📌 **[OpenClaw&#39;s Long-Running Gateway: Continuity Does Not Mean One Shared Session](https://cubxxw.com/ai-agent/posts/agent-system-design-openclaw/)**
 <sub>🕐 1 month ago</sub>
 
 
@@ -94,15 +94,15 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[用 AI 把文章做成可操作的解释：从 Web Components 到 MCP Apps](https://cubxxw.com/zh/ai-agent/posts/writing-explorable-articles-with-ai/)**
-<sub>🕐 today</sub>
-
-
-📌 **[IMStage：可编辑的聊天场景](https://cubxxw.com/zh/projects/imstage/)**
 <sub>🕐 1 day ago</sub>
 
 
+📌 **[IMStage：可编辑的聊天场景](https://cubxxw.com/zh/projects/imstage/)**
+<sub>🕐 2 days ago</sub>
+
+
 📌 **[2026年9月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-09-thought-notes/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[2026年8月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-08-thought-notes/)**
