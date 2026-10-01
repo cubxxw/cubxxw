@@ -44,9 +44,9 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 - [getyak/StripSearch](https://github.com/getyak/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (today)
 - [getyak/talent-signal](https://github.com/getyak/talent-signal) - Evidence-first relationship workspace for clients, partners, collaborators, and candidates. Keep context, commitments, and next steps connected. (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 公开一个人如何把 AI 变成能力，把经历变成判断，把写作变成长期复利 Write some excellent articles about AI, Agents, technology, products, marketing, some life reflections, and personal growth. 写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
 - [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
-- [kubbot/imstage](https://github.com/kubbot/imstage) - Synthetic conversations for non-commercial testing, learning and evaluation. Generic chat rendering with visible fictional-content labels. (1 week ago)
+- [kubbot/imstage](https://github.com/kubbot/imstage) - Synthetic conversations for non-commercial testing, learning and evaluation. Generic chat rendering with visible fictional-content labels. (1 day ago)
 
 ## ✍️ Recent Writing
 
@@ -70,11 +70,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Why Opus 5.5 Makes Better Animations: What Real Projects Reveal](https://cubxxw.com/ai-agent/posts/opus-55-visual-capability/)**
-<sub>🕐 4 days ago</sub>
+<sub>🕐 5 days ago</sub>
 
 
 📌 **[Maintaining a UI on Your Own: A Design System with Figma, Figwright, and AI](https://cubxxw.com/engineering/posts/2026-09-26-figma-figwright-personal-design-system/)**
-<sub>🕐 4 days ago</sub>
+<sub>🕐 5 days ago</sub>
 
 
 📌 **[IMStage: Editable Chat Scenes](https://cubxxw.com/projects/imstage/)**
@@ -94,19 +94,19 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Opus 5.5 为什么更会做动画：从真实工程拆解视觉能力跃迁](https://cubxxw.com/zh/ai-agent/posts/opus-55-visual-capability/)**
-<sub>🕐 4 days ago</sub>
-
-
-📌 **[一个人如何维护自己的界面：用 Figma、Figwright 与 AI 搭建设计系统](https://cubxxw.com/zh/engineering/posts/2026-09-26-figma-figwright-personal-design-system/)**
-<sub>🕐 4 days ago</sub>
-
-
-📌 **[AI 从业者是如何利用 AI 学习英语的](https://cubxxw.com/zh/growth/posts/ai-english-learning/)**
 <sub>🕐 5 days ago</sub>
 
 
-📌 **[用 AI 把文章做成可操作的解释：从 Web Components 到 MCP Apps](https://cubxxw.com/zh/ai-agent/posts/writing-explorable-articles-with-ai/)**
+📌 **[一个人如何维护自己的界面：用 Figma、Figwright 与 AI 搭建设计系统](https://cubxxw.com/zh/engineering/posts/2026-09-26-figma-figwright-personal-design-system/)**
+<sub>🕐 5 days ago</sub>
+
+
+📌 **[AI 从业者是如何利用 AI 学习英语的](https://cubxxw.com/zh/growth/posts/ai-english-learning/)**
 <sub>🕐 6 days ago</sub>
+
+
+📌 **[用 AI 把文章做成可操作的解释：从 Web Components 到 MCP Apps](https://cubxxw.com/zh/ai-agent/posts/writing-explorable-articles-with-ai/)**
+<sub>🕐 1 week ago</sub>
 
 
 📌 **[IMStage：可编辑的聊天场景](https://cubxxw.com/zh/projects/imstage/)**
