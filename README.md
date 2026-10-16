@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [kubbot/imstage](https://github.com/kubbot/imstage) - Synthetic conversations for non-commercial testing, learning and evaluation. Generic chat rendering with visible fictional-content labels. (today)
-- [getyak/StripSearch](https://github.com/getyak/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (today)
-- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [kubbot/imstage](https://github.com/kubbot/imstage) - Synthetic conversations for non-commercial testing, learning and evaluation. Generic chat rendering with visible fictional-content labels. (1 day ago)
+- [getyak/StripSearch](https://github.com/getyak/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (1 day ago)
+- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (1 day ago)
+- [getyak/solo-compass](https://github.com/getyak/solo-compass) - A living map for solo travelers—map-first, experience-as-unit, and AI-curated. (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 
 ## ✍️ Recent Writing
 
@@ -78,11 +78,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Personal Agent Technical Research: How OpenClaw Connects One Run to Long-Lived Work](https://cubxxw.com/ai-agent/posts/personal-agent-harness-openclaw/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[Personal Agent Product Research: How Instinct Makes People Willing to Delegate Again](https://cubxxw.com/ai-agent/posts/personal-agent-product-delegation/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[September 2026 Thought Notes: AI and Agent Systems, Daily Notes, Engineering and Open Source](https://cubxxw.com/growth/posts/2026-09-thought-notes/)**
@@ -102,11 +102,11 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Personal Agent 技术研究：OpenClaw 怎样把一次运行接到长期事务上](https://cubxxw.com/zh/ai-agent/posts/personal-agent-harness-openclaw/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[Personal Agent 产品研究：Instinct 怎样让人愿意再次委托](https://cubxxw.com/zh/ai-agent/posts/personal-agent-product-delegation/)**
-<sub>🕐 1 week ago</sub>
+<sub>🕐 2 weeks ago</sub>
 
 
 📌 **[2026年9月思考笔记：AI 与 Agent 系统、日常与其他、工程与开源](https://cubxxw.com/zh/growth/posts/2026-09-thought-notes/)**
