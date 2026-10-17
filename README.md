@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
-- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
-- [getyak/solo-compass](https://github.com/getyak/solo-compass) - A living map for solo travelers—map-first, experience-as-unit, and AI-curated. (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (1 day ago)
+- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 🌍 中文数字游民旅居指南：当月推荐、各国城市生活与办公条件、真实费用个案和踩坑，附来源与结构化数据。Digital nomad guide with seasonal choices and sourced experiences. (today)
+- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
 
 ## ✍️ Recent Writing
 
