@@ -7,17 +7,21 @@
 name: 🔄 Repository Sync
 
 on:
-  push:
-    branches: [main, master]
   schedule:
     # Daily at 1 AM UTC (9 AM Beijing time)
     - cron: '0 1 * * *'
   workflow_dispatch:
 
+# Account-wide backups run independently of generated Profile commits.
+concurrency:
+  group: repository-sync
+  cancel-in-progress: false
+
 jobs:
   sync-to-gitee:
     name: 📤 Sync to Gitee
     runs-on: ubuntu-latest
+    timeout-minutes: 60
     
     steps:
       - name: 🔄 Mirror GitHub repos to Gitee
