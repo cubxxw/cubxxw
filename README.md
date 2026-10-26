@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (today)
 - [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/roamorrow](https://github.com/getyak/roamorrow) - Roamorrow — a personal companion for solo travel and life on the move. (1 day ago)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/roamorrow](https://github.com/getyak/roamorrow) - Roamorrow — a personal companion for solo travel and life on the move. (2 days ago)
 
 ## ✍️ Recent Writing
 
@@ -70,15 +70,15 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Tana Product Teardown: Following a Task from Notes into Meeting Work](https://cubxxw.com/ai-agent/posts/tana-from-notes-to-meeting-work/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[Doneas Product Teardown: Turning a Weekly Plan into Daily Commitments](https://cubxxw.com/ai-agent/posts/doneas-weekly-commitments/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[Ambi Product Teardown: From Remembering to Getting the Work Done](https://cubxxw.com/ai-agent/posts/ambi-memory-to-work/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[October 2026 Thought Notes: Daily Life, AI and Agent Systems, Engineering and Open Source](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
@@ -94,15 +94,15 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[Doneas 产品拆解：一周计划怎样变成每天的承诺](https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[Ambi 产品拆解：记住一件事之后，怎样把它做完](https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[2026年10月思考笔记：日常与其他、AI 与 Agent 系统、工程与开源](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
