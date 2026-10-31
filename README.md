@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
 - [cubxxw/awesome-cs-cloudnative-blockchain](https://github.com/cubxxw/awesome-cs-cloudnative-blockchain) - 📚 菜鸟成长手册🚀  CS系列 、云原生系列、区块链系列、web3系列🔥、Golang系列💡...... (today)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (today)
-- [kubbot/imstage](https://github.com/kubbot/imstage) - Synthetic conversations for non-commercial testing, learning and evaluation. Generic chat rendering with visible fictional-content labels. (today)
-- [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
+- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (today)
+- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
+- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (today)
+- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (today)
 
 ## ✍️ Recent Writing
 
@@ -86,7 +86,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Nango in Practice: Let Users Add Their Own MCP Servers in Chat](https://cubxxw.com/ai-agent/posts/nango-user-defined-mcp-integration/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 </td>
@@ -110,7 +110,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Nango 接入实战：让用户在聊天中添加自己的 MCP](https://cubxxw.com/zh/ai-agent/posts/nango-user-defined-mcp-integration/)**
-<sub>🕐 3 weeks ago</sub>
+<sub>🕐 4 weeks ago</sub>
 
 
 </td>
