@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [awesome-sora/awesome-sora](https://github.com/awesome-sora/awesome-sora) - 😎 Awesome list of interesting topics on Sora (today)
-- [openkf/website](https://github.com/openkf/website) - openkf docs https://openkf.netlify.app/  https://openkf.github.io/website/ (today)
-- [kubecub/CloudBuildAI](https://github.com/kubecub/CloudBuildAI) - Utilizes AI to automatically generate Dockerfiles and Kubernetes configuration files for any given GitHub repository, streamlining the deployment process. (today)
-- [cubxxw/awesome-cloud-native](https://github.com/cubxxw/awesome-cloud-native) - 各种 CS 的必备技能，Go 语言、云原生、kubernetes、docker以及开源社区的记录，学习笔记 (today)
-- [kubecub/automation](https://github.com/kubecub/automation) - kubecub Automation, cicd, and actions, Robotics @kubbot. (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
+- [getyak/roamorrow](https://github.com/getyak/roamorrow) - Roamorrow — a personal companion for solo travel and life on the move. (today)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
+- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
 
 ## ✍️ Recent Writing
 
@@ -69,6 +69,10 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[October 2026 Notes: Learning to Slow Down Amid Fast Feedback](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
+<sub>🕐 1 day ago</sub>
+
+
 📌 **[Tana Product Teardown: Following a Task from Notes into Meeting Work](https://cubxxw.com/ai-agent/posts/tana-from-notes-to-meeting-work/)**
 <sub>🕐 1 week ago</sub>
 
@@ -81,16 +85,16 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <sub>🕐 1 week ago</sub>
 
 
-📌 **[October 2026 Thought Notes: Daily Life, AI and Agent Systems, Engineering and Open Source](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 3 weeks ago</sub>
-
-
 📌 **[Nango in Practice: Let Users Add Their Own MCP Servers in Chat](https://cubxxw.com/ai-agent/posts/nango-user-defined-mcp-integration/)**
 <sub>🕐 4 weeks ago</sub>
 
 
 </td>
 <td valign="top">
+
+
+📌 **[2026年10月思考笔记：在快反馈里练习慢下来](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
+<sub>🕐 1 day ago</sub>
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
@@ -103,10 +107,6 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 📌 **[Ambi 产品拆解：记住一件事之后，怎样把它做完](https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/)**
 <sub>🕐 1 week ago</sub>
-
-
-📌 **[2026年10月思考笔记：日常与其他、AI 与 Agent 系统、工程与开源](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 3 weeks ago</sub>
 
 
 📌 **[Nango 接入实战：让用户在聊天中添加自己的 MCP](https://cubxxw.com/zh/ai-agent/posts/nango-user-defined-mcp-integration/)**
