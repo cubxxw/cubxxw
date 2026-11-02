@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
+- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (today)
+- [getyak/StripSearch](https://github.com/getyak/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (today)
+- [getyak/telepace-next](https://github.com/getyak/telepace-next) - Voice-native, agent-first user research infrastructure that turns interviews into structured, actionable product insight. (today)
 - [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/roamorrow](https://github.com/getyak/roamorrow) - Roamorrow — a personal companion for solo travel and life on the move. (today)
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
 
 ## ✍️ Recent Writing
 
@@ -70,7 +70,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[October 2026 Notes: Learning to Slow Down Amid Fast Feedback](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Tana Product Teardown: Following a Task from Notes into Meeting Work](https://cubxxw.com/ai-agent/posts/tana-from-notes-to-meeting-work/)**
@@ -86,7 +86,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Nango in Practice: Let Users Add Their Own MCP Servers in Chat](https://cubxxw.com/ai-agent/posts/nango-user-defined-mcp-integration/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 </td>
@@ -94,7 +94,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[2026年10月思考笔记：在快反馈里练习慢下来](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 1 day ago</sub>
+<sub>🕐 2 days ago</sub>
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
@@ -110,7 +110,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Nango 接入实战：让用户在聊天中添加自己的 MCP](https://cubxxw.com/zh/ai-agent/posts/nango-user-defined-mcp-integration/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 </td>
