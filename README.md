@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (2 days ago)
-- [getyak/FitCoach](https://github.com/getyak/FitCoach) - 私人教练的课间训练记录本 — 快速延续学员上一次训练。 (3 days ago)
-- [getyak/StripSearch](https://github.com/getyak/StripSearch) - Evidence-first person research agent and MCP: identity, actions, provenance, and evaluation. Design-stage. (3 days ago)
+- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 帮中文远程工作者选城市：可调权重排行、联动地图、消费参考 &amp; 数字游民 / 旅居 / 生活 (today)
+- [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - 顶级审美的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
 
 ## ✍️ Recent Writing
 
@@ -70,7 +70,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[October 2026 Notes: Learning to Slow Down Amid Fast Feedback](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[Tana Product Teardown: Following a Task from Notes into Meeting Work](https://cubxxw.com/ai-agent/posts/tana-from-notes-to-meeting-work/)**
@@ -94,7 +94,7 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[2026年10月思考笔记：在快反馈里练习慢下来](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
