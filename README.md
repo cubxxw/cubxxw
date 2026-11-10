@@ -43,10 +43,10 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 #### 👷 Recent contributions
 
 - [cubxxw/blog](https://github.com/cubxxw/blog) - cubxxw 的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (today)
 - [getyak/leafhour](https://github.com/getyak/leafhour) - Leafhour — your personal reading room, with AI by your side. Open source, private by default, and built for staying with a book. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (today)
+- [getyak/apply-agent](https://github.com/getyak/apply-agent) - A trustworthy, client-side AI job-search copilot for role discovery, tailored materials, interview prep, and application tracking. (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/capir](https://github.com/getyak/capir) - capri — a personal Agent for important people and unfinished work. Screenshot-first, source-linked, and human-reviewed. (1 day ago)
 
 ## ✍️ Recent Writing
 
