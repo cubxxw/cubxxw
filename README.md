@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [getyak/agentroom](https://github.com/getyak/agentroom) - Your agents, under one roof. A local-first Mac inbox with a personal guide to connect the assistants and tools already on your computer. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 这个月去哪里最合适？ 帮中文远程工作者选城市：可调权重排行、联动地图、消费参考 &amp; 数字游民 / 全球旅居 / 生活 (1 day ago)
-- [cubxxw/blog](https://github.com/cubxxw/blog) - cubxxw 的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (5 days ago)
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (1 week ago)
+- [getyak/roamorrow-open-source](https://github.com/getyak/roamorrow-open-source) - Roamorrow, a map-first travel companion. Open-source iOS, web, Go API, and Footprints MCP. (today)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/agentroom](https://github.com/getyak/agentroom) - Your agents, under one roof. A local-first Mac inbox with a personal guide to connect the assistants and tools already on your computer. (1 day ago)
+- [cubxxw/RemoteAI-Nomads](https://github.com/cubxxw/RemoteAI-Nomads) - 这个月去哪里最合适？ 帮中文远程工作者选城市：可调权重排行、联动地图、消费参考 &amp; 数字游民 / 全球旅居 / 生活 (2 days ago)
+- [cubxxw/blog](https://github.com/cubxxw/blog) - cubxxw 的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (6 days ago)
 
 ## ✍️ Recent Writing
 
@@ -70,19 +70,19 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[October 2026 Notes: Learning to Slow Down Amid Fast Feedback](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 2 weeks ago</sub>
+<sub>🕐 3 weeks ago</sub>
 
 
 📌 **[Tana Product Teardown: Following a Task from Notes into Meeting Work](https://cubxxw.com/ai-agent/posts/tana-from-notes-to-meeting-work/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Doneas Product Teardown: Turning a Weekly Plan into Daily Commitments](https://cubxxw.com/ai-agent/posts/doneas-weekly-commitments/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Ambi Product Teardown: From Remembering to Getting the Work Done](https://cubxxw.com/ai-agent/posts/ambi-memory-to-work/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Nango in Practice: Let Users Add Their Own MCP Servers in Chat](https://cubxxw.com/ai-agent/posts/nango-user-defined-mcp-integration/)**
@@ -94,19 +94,19 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[2026年10月思考笔记：在快反馈里练习慢下来](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
-<sub>🕐 2 weeks ago</sub>
+<sub>🕐 3 weeks ago</sub>
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Doneas 产品拆解：一周计划怎样变成每天的承诺](https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Ambi 产品拆解：记住一件事之后，怎样把它做完](https://cubxxw.com/zh/ai-agent/posts/ambi-memory-to-work/)**
-<sub>🕐 4 weeks ago</sub>
+<sub>🕐 1 month ago</sub>
 
 
 📌 **[Nango 接入实战：让用户在聊天中添加自己的 MCP](https://cubxxw.com/zh/ai-agent/posts/nango-user-defined-mcp-integration/)**
