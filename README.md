@@ -42,11 +42,11 @@ New things ship here first. A ⭐ on anything above tells me what to build more 
 
 #### 👷 Recent contributions
 
-- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (today)
-- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (today)
-- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (today)
 - [cubxxw/blog](https://github.com/cubxxw/blog) - cubxxw 的个人博客！！！写一些关于 AI、Agent、技术、产品、营销、一些生活思考，个人成长类的精文 (today)
-- [getyak/roamorrow-open-source](https://github.com/getyak/roamorrow-open-source) - Roamorrow, a map-first travel companion. Open-source iOS, web, Go API, and Footprints MCP. (5 days ago)
+- [getyak/daypage](https://github.com/getyak/daypage) - An AI-native journal that turns raw daily notes, voice, photos, and context into readable pages and a portable personal knowledge layer. (1 day ago)
+- [cubxxw/cubxxw](https://github.com/cubxxw/cubxxw) - Building AI products solo while traveling the world · Core contributor @openimsdk · Voice AI &amp; Agents · cubxxw.com (1 day ago)
+- [getyak/cct](https://github.com/getyak/cct) - Local-first Claude Code conversation tracker—automatically capture, search, and analyze coding sessions. (1 day ago)
+- [getyak/roamorrow-open-source](https://github.com/getyak/roamorrow-open-source) - Roamorrow, a map-first travel companion. Open-source iOS, web, Go API, and Footprints MCP. (6 days ago)
 
 ## ✍️ Recent Writing
 
@@ -69,12 +69,16 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <td valign="top">
 
 
+📌 **[Inside Muse: Memory, Goals, Scheduling, and Subagents](https://cubxxw.com/ai-agent/posts/muse-personal-agent-architecture/)**
+<sub>🕐 today</sub>
+
+
 📌 **[Agent Eval in Practice: Building an Evaluation Suite from One Unrequested Refund](https://cubxxw.com/ai-agent/posts/agent-eval-from-failures/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[AI Models Are Getting Smarter. What Comes Next?](https://cubxxw.com/ai-agent/posts/ai-models-what-comes-next/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[October 2026 Notes: Learning to Slow Down Amid Fast Feedback](https://cubxxw.com/growth/posts/2026-10-thought-notes/)**
@@ -85,20 +89,20 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 <sub>🕐 1 month ago</sub>
 
 
-📌 **[Doneas Product Teardown: Turning a Weekly Plan into Daily Commitments](https://cubxxw.com/ai-agent/posts/doneas-weekly-commitments/)**
-<sub>🕐 1 month ago</sub>
-
-
 </td>
 <td valign="top">
 
 
+📌 **[Muse Personal Agent 架构拆解：Memory、Goal、Subagent 与调度](https://cubxxw.com/zh/ai-agent/posts/muse-personal-agent-architecture/)**
+<sub>🕐 today</sub>
+
+
 📌 **[Agent 评测怎么做：从一次『没人要求』的退款说起](https://cubxxw.com/zh/ai-agent/posts/agent-eval-from-failures/)**
-<sub>🕐 3 days ago</sub>
+<sub>🕐 4 days ago</sub>
 
 
 📌 **[模型越来越聪明，然后呢？](https://cubxxw.com/zh/ai-agent/posts/ai-models-what-comes-next/)**
-<sub>🕐 5 days ago</sub>
+<sub>🕐 6 days ago</sub>
 
 
 📌 **[2026年10月思考笔记：在快反馈里练习慢下来](https://cubxxw.com/zh/growth/posts/2026-10-thought-notes/)**
@@ -106,10 +110,6 @@ A new set of [thought notes](https://cubxxw.com/growth/) lands every month, alon
 
 
 📌 **[Tana 产品拆解：一条任务怎样从笔记走到会议中的工作](https://cubxxw.com/zh/ai-agent/posts/tana-from-notes-to-meeting-work/)**
-<sub>🕐 1 month ago</sub>
-
-
-📌 **[Doneas 产品拆解：一周计划怎样变成每天的承诺](https://cubxxw.com/zh/ai-agent/posts/doneas-weekly-commitments/)**
 <sub>🕐 1 month ago</sub>
 
 
